@@ -1,5 +1,40 @@
 [
   {
+    "id": "biohaven-bhv7000-hold-2026-09",
+    "date": "2026-09-09",
+    "dateDisplay": "2026/09",
+    "level": "info",
+    "tag": "競品公司動態 · 非 SCA 資產",
+    "body": "<b>Biohaven 另一條主力管線遭 FDA 部分臨床暫停</b>：公司 <b>2026/09/09</b> 向美國 SEC 提交 8-K 揭露，FDA 於 <b>2026/09/04</b> 發函，對 <b>Kv7 鉀離子通道促效劑 BHV-7000（opakalim）</b>的局部癲癇試驗 BHV7000-302、-303 及開放標籤延伸 -201 施以<b>部分臨床暫停，範圍僅限「新病人收案」</b>；已隨機分派的<b>逾 600 名受試者繼續給藥</b>。原因是囓齒類試驗觀察到的<b>某一代謝物資訊不足、尚無法評估對人體的風險</b>，FDA 要求補充非臨床資料。公司稱 <b>BHV7000-303 已完成收案、topline 仍維持 2026 下半年</b>。BioSpace 報導公司股價於 09/10 盤前下跌逾 13%。",
+    "note": "→ <b>本則與 troriluzole／SCA 無直接關係</b>——8-K 全文<b>未提及 troriluzole 或 SCA</b>，本站<b>不推論</b>此事對 troriluzole 在 2025/11/04 CRL 之後的重新送件時程或資源配置有何影響。收錄理由是 Biohaven 為本站主要追蹤競品，公司層級的研發挫折屬背景訊號（BioSpace 同篇報導回顧：troriluzole 遭拒後公司研發預算削減 60%、BHV-7000 憂鬱症二期 2025/12 失敗）。⚠️ 「股價跌逾 13%」「研發預算削減 60%」為媒體報導數字，非 8-K 原文；BHV-7000 於 2026/08 下旬與 SK Biopharmaceuticals 簽授權，<b>各報導金額口徑不一，本站不引用</b>。",
+    "links": [
+      {
+        "label": "Biohaven 8-K ↗ SEC 2026/09/09",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000077/bhvn-20260904.htm"
+      },
+      {
+        "label": "媒體報導 ↗ BioSpace",
+        "url": "https://www.biospace.com/fda/biohaven-takes-another-hit-as-fda-pauses-enrollment-in-pivotal-trials-for-embattled-epilepsy-drug"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/09",
+      "tag": "Competitor company news · non-SCA asset",
+      "body": "<b>Another lead Biohaven programme has been placed on partial clinical hold by the FDA</b>: in an 8-K filed with the US SEC on <b>2026/09/09</b>, the company disclosed that the FDA issued a letter on <b>2026/09/04</b> placing its focal epilepsy trials of the <b>Kv7 potassium channel opener BHV-7000 (opakalim)</b> — BHV7000-302 and -303 and the open-label extension -201 — on a <b>partial clinical hold limited to new patient enrolment</b>; <b>more than 600 patients already randomised continue dosing</b>. The reason is that <b>information on a specific metabolite observed in rodent studies is insufficient to assess its risk to humans</b>, and additional nonclinical data were requested. The company says <b>BHV7000-303 is fully enrolled and topline data remain on track for the second half of 2026</b>. BioSpace reported the shares fell more than 13% in premarket trading on 09/10.",
+      "note": "→ <b>This has no direct bearing on troriluzole or SCA</b> — the 8-K <b>does not mention troriluzole or SCA</b>, and this site <b>draws no inference</b> about any effect on the timing or resourcing of a troriluzole resubmission after the CRL of 2025/11/04. It is recorded because Biohaven is a principal tracked competitor and company-level R&D setbacks are background signal (the same BioSpace report recalls a 60% R&D budget cut after the troriluzole rejection and the failure of BHV-7000's Phase 2 in depression in 2025/12). ⚠️ The 13% share fall and 60% budget cut are media-reported figures, not from the 8-K; BHV-7000 was licensed to SK Biopharmaceuticals in late August 2026, and <b>because reported deal values differ between outlets, none is cited here</b>.",
+      "links": [
+        {
+          "label": "Biohaven 8-K ↗ SEC 2026/09/09",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000077/bhvn-20260904.htm"
+        },
+        {
+          "label": "Media report ↗ BioSpace",
+          "url": "https://www.biospace.com/fda/biohaven-takes-another-hit-as-fda-pauses-enrollment-in-pivotal-trials-for-embattled-epilepsy-drug"
+        }
+      ]
+    }
+  },
+  {
     "id": "intrabio-at-pdufa-2026-09",
     "date": "2026-08-24",
     "dateDisplay": "2026/09 行動日",

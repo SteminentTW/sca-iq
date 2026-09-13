@@ -1,5 +1,24 @@
 [
   {
+    "id": "pubmed:42730671",
+    "date": "2026-09-12",
+    "dateDisplay": "2026/09/12",
+    "title": "Digital Balance Biomarkers and Interpretable Evaluation of Disease Severity in Spinocerebellar Ataxia Type 3",
+    "journal": "Annals of the New York Academy of Sciences 1563(1):e70398 · Zhang Y、Xiao Y（共同第一作者，福州大學機械工程及自動化學院）… Gan SR、Chen XY（通訊，福建醫科大學附屬第一醫院復健醫學科／神經內科）· doi:10.1111/nyas.70398 · 2026/09/12 收錄於 PubMed",
+    "tag": "SCA3 · 數位生物標記 · 穿戴式足底壓力鞋墊 · 靜態平衡（壓力中心 COP）· 機器學習嚴重度分級",
+    "note": "→ <b>SCA3 客觀量測工具的新一筆驗證</b>：作者以<b>先前已驗證過的穿戴式足底壓力鞋墊系統</b>，讓 <b>74 名 SCA3 病人與 45 名健康對照</b>進行睜眼（EO）與閉眼（EC）站立任務，分析<b>壓力中心（COP）變數</b>。結果：<b>閉眼任務所得變數在 AUC、準確度、敏感度、特異度上均優於睜眼</b>；多項 COP 變數（如閉眼左側擺動速度標準差）與臨床量表<b>相關係數 r&gt;0.4</b>；以 XGBoost 模型分級疾病嚴重度<b>準確度 87%</b>，並以 SHAP 分析呈現關鍵變數。→ <b>為什麼放進雷達</b>：SCA3 是本社 Stemchymal® 的核心適應症之一，而 SARA 等評分量表<b>受評分者主觀與評分者間變異影響</b>——本文正是針對這一點提出<b>可在診間外反覆量測的客觀數位終點候選</b>，與本站知識庫「臨床評估量表」的方向一致。→ <b>與本社的距離</b>：<b>本文不含任何療法或介入資料</b>，屬量測方法學，不構成競品。⚠️ <b>限制</b>：<b>橫斷面、單中心（福州）</b>，摘要<b>未報告縱貫反應度（能否偵測病程變化）或 MCID</b>——而這才是能否當試驗終點的關鍵；摘要亦未載明「臨床量表」具體為 SARA 或其他量表、分級切點如何定義，<b>本站不代為補寫</b>；87% 準確度為模型內部驗證，<b>未見外部世代驗證</b>。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42730671/",
+    "urlLabel": "論文 ↗ PubMed 42730671",
+    "en": {
+      "tag": "SCA3 · digital biomarkers · wearable plantar-pressure insoles · static balance (centre of pressure, COP) · machine-learning severity grading",
+      "journal": "Annals of the New York Academy of Sciences 1563(1):e70398 · Zhang Y, Xiao Y (co-first authors; College of Mechanical Engineering and Automation, Fuzhou University) … Gan SR, Chen XY (corresponding; Departments of Rehabilitation Medicine and Neurology, First Affiliated Hospital of Fujian Medical University) · doi:10.1111/nyas.70398 · indexed in PubMed 2026/09/12",
+      "note": "→ <b>Another validation of an objective measurement tool for SCA3</b>: using a <b>wearable plantar-pressure insole system validated in the group's earlier work</b>, <b>74 SCA3 patients and 45 healthy controls</b> performed standing tasks with eyes open (EO) and eyes closed (EC), and <b>centre-of-pressure (COP) variables</b> were analysed. Results: <b>variables from the EC task outperformed EO on AUC, accuracy, sensitivity and specificity</b>; several COP variables (such as the SD of eyes-closed left-side sway velocity) <b>correlated with clinical scores at r&gt;0.4</b>; and an XGBoost model <b>graded disease severity with 87% accuracy</b>, with SHAP analysis identifying the key variables. → <b>Why it is on the radar</b>: SCA3 is a core indication for Steminent's Stemchymal®, and rating scales such as SARA <b>are subject to rater subjectivity and inter-rater variability</b> — this paper targets exactly that problem with <b>a candidate objective digital endpoint that can be measured repeatedly outside the clinic</b>, in line with the clinical assessment scales section of this site's knowledge base. → <b>Distance from Steminent</b>: <b>the paper contains no therapy or intervention data</b>; it is measurement methodology, not a competitor. ⚠️ <b>Limitations</b>: <b>cross-sectional and single-centre (Fuzhou)</b>; the abstract <b>reports no longitudinal responsiveness (ability to detect change over time) or MCID</b>, which is what would decide its usefulness as a trial endpoint; the abstract also does not specify whether the 'clinical scores' were SARA or another scale, nor how severity cut-offs were defined, and <b>none of that is filled in here</b>; the 87% accuracy is internal model validation <b>with no external cohort validation reported</b>.",
+      "urlLabel": "Paper ↗ PubMed 42730671"
+    }
+  },
+  {
     "id": "pubmed:42722890",
     "date": "2026-09-11",
     "dateDisplay": "2026/09/11",

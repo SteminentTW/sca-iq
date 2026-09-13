@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-13",
+    "dateDisplay": "2026/09/13",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則科學文獻、1 則競品公司動態；無新試驗、無試驗狀態異動。</b><b>①SCA3 穿戴式足底壓力數位平衡生物標記（Annals of the New York Academy of Sciences 1563(1):e70398，2026/09/12 收錄）</b>：福州大學與福建醫大附一（通訊 Gan SR、Chen XY，doi:10.1111/nyas.70398）以 <b>74 名 SCA3 病人、45 名健康對照</b>進行睜眼／閉眼站立，<b>閉眼任務之壓力中心變數鑑別力較佳</b>、與臨床量表相關 <b>r&gt;0.4</b>，XGBoost 分級嚴重度<b>準確度 87%</b>。⚠️ <b>橫斷面、單中心、未報告縱貫反應度與 MCID、無外部驗證</b>，尚不足以作為試驗終點。<b>②Biohaven BHV-7000（opakalim）局部癲癇試驗遭 FDA 部分臨床暫停</b>：依公司 <b>2026/09/09 SEC 8-K</b>，FDA 於 09/04 以囓齒類代謝物資訊不足為由暫停<b>新病人收案</b>，已隨機的逾 600 人續行給藥、RISE-3（-303）topline 維持 2026 下半年。⚠️ <b>8-K 未提及 troriluzole 或 SCA，本站不推論其對 troriluzole 重新送件的影響</b>。<b>本日判斷紀錄</b>：CT.gov 五組適應症查詢窗內<b>無新的療法型試驗、亦無追蹤中資產狀態異動</b>——最近更新仍為 09/08 IntraBio NCT07221292（已記錄）；SBMA 組仍被前列腺癌試驗灌入、CACNA1A 組夾帶無關試驗，均逐筆確認後排除。PubMed 窗內另兩筆<b>不予收錄</b>：兒童期發病動作障礙新興療法綜論（Movement Disorders，PubMed 42723627）為 2022–2025 文獻之敘述性回顧、無新數據，Friedreich's 僅概括提及、不涉 SCA；雄性素受體 CAG 重複與前列腺癌代謝（PNAS，PubMed 42715072）為腫瘤研究、非 SBMA。<b>待觀察</b>：IntraBio levacetylleucine 之 A-T sNDA PDUFA 行動日 <b>2026/09/19</b>（已見本週情報摘要）。公司新聞面其餘窗內<b>無一手公開里程碑</b>：troriluzole 仍停在 2025-11-04 CRL；Steminent／REPROCELL 仍為日本上市許可申請審查中；Arrowhead／Sarepta、Vico、安基、PTC、Larimar、Lexeo、Solid、Kissei 窗內均無新公告。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper and one competitor company update added; no new trials and no trial status changes.</b> <b>(1) Wearable plantar-pressure digital balance biomarkers in SCA3 (Annals of the New York Academy of Sciences 1563(1):e70398, indexed 2026/09/12)</b>: Fuzhou University and the First Affiliated Hospital of Fujian Medical University (corresponding authors Gan SR and Chen XY, doi:10.1111/nyas.70398) tested <b>74 SCA3 patients and 45 healthy controls</b> standing with eyes open and closed; <b>centre-of-pressure variables from the eyes-closed task discriminated better</b>, correlated with clinical scores at <b>r&gt;0.4</b>, and an XGBoost model graded severity with <b>87% accuracy</b>. ⚠️ <b>Cross-sectional, single-centre, with no longitudinal responsiveness or MCID reported and no external validation</b> — not yet sufficient as a trial endpoint. <b>(2) FDA partial clinical hold on Biohaven's BHV-7000 (opakalim) focal epilepsy trials</b>: per the company's <b>SEC 8-K of 2026/09/09</b>, the FDA on 09/04 paused <b>new patient enrolment</b> over insufficient information on a metabolite seen in rodents; the more than 600 patients already randomised continue dosing, and RISE-3 (-303) topline remains guided for 2H 2026. ⚠️ <b>The 8-K does not mention troriluzole or SCA, and no inference is drawn about a troriluzole resubmission</b>. <b>Decisions logged today</b>: across the five CT.gov indication queries there were <b>no new therapeutic trials and no status changes among tracked assets</b> — the most recent update remains IntraBio's NCT07221292 of 09/08 (already recorded); the SBMA query remains flooded with prostate cancer trials and the CACNA1A query carries unrelated studies, each checked and excluded. Two further PubMed hits were <b>not recorded</b>: a review of emerging therapies for childhood-onset movement disorders (Movement Disorders, PubMed 42723627) is a narrative review of 2022–2025 literature with no new data, mentioning Friedreich's only in passing and not SCA; a study of androgen receptor CAG repeats and prostate cancer metabolism (PNAS, PubMed 42715072) is oncology research, not SBMA. <b>On watch</b>: the PDUFA action date for IntraBio's levacetylleucine sNDA in A-T is <b>2026/09/19</b> (see this week's intelligence summary). <b>No other first-party public milestone occurred in the window</b>: troriluzole remains at the CRL of 2025-11-04; Steminent/REPROCELL remain under review for Japanese marketing authorisation; and Arrowhead/Sarepta, Vico, AnnJi, PTC, Larimar, Lexeo, Solid and Kissei issued nothing new.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-12",
     "dateDisplay": "2026/09/12",
     "tag": "每日掃描",
