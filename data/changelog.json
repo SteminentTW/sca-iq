@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-14",
+    "dateDisplay": "2026/09/14",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則科學文獻；無新試驗、無試驗狀態異動、無公司里程碑。</b><b>Friedreich's ataxia 心肌病變的連續心臟超音波長期世代（American Heart Journal Plus 70:100869，2026/09/14 收錄）</b>：費城兒童醫院 Lynch DR、Lin KY 等（doi:10.1016/j.ahjo.2026.100869，全文開放）回溯 <b>591 名受試者、3,516 份超音波報告、平均追蹤 11 年</b>：FA 心臟初期輕度肥厚、後期收縮功能下降；<b>心室中膈厚度與 GAA1 中度相關，GAA1 及早期管壁增厚、射出分率偏高可預測心律不整、射出分率 &lt;50% 與死亡</b>。與 <b>Lexeo LX2006</b>（主要指標為心臟 MRI 左心室質量指數）的終點解讀直接相關。⚠️ <b>回溯性、多站點無中央判讀、部分量測信度偏低</b>；FA 非本社適應症。<b>本日判斷紀錄</b>：CT.gov 五組適應症查詢窗內<b>無新的療法型試驗、亦無追蹤中資產狀態異動</b>（最近更新仍為 09/08 IntraBio NCT07221292）。<b>每週點名查核</b>（21 項資產藥名查詢）<b>無新的缺漏</b>——窗內更新者皆已在檔；未收錄者為其他適應症（troriluzole 之 OCD／腫瘤、vatiquinone 之粒線體疾病、IB1001 之 NPC 等）或<b>仲恩 Stemchymal® 急性肝衰竭一期 NCT03629015（登錄狀態為撤回、實收 0 人、撤回理由「公司策略考量」、非神經適應症）</b>，依 §1b 不收。PubMed 窗內另一筆 SMA 綜論（PubMed 42732261）為脊髓性肌肉萎縮症、非 SBMA，不予收錄。<b>待觀察</b>：IntraBio levacetylleucine 之 A-T sNDA PDUFA 行動日 <b>2026/09/19</b>。公司新聞面窗內<b>無一手公開里程碑</b>：troriluzole 仍停在 2025-11-04 CRL；Steminent／REPROCELL 仍為日本上市許可申請審查中；Vico、Arrowhead／Sarepta、安基、PTC、Larimar、Lexeo、Solid、Kissei 窗內均無新公告。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added; no new trials, no trial status changes and no company milestones.</b> <b>A long-term serial echocardiography cohort of cardiomyopathy in Friedreich's ataxia (American Heart Journal Plus 70:100869, indexed 2026/09/14)</b>: Lynch DR, Lin KY and colleagues at the Children's Hospital of Philadelphia (doi:10.1016/j.ahjo.2026.100869, open access) reviewed <b>591 subjects, 3,516 echocardiogram reports and a mean of 11 years of follow-up</b>: FA hearts start with mild hypertrophy and lose systolic function later; <b>septal wall thickness correlates moderately with GAA1, and GAA1, early wall thickening and a hyperdynamic ejection fraction predict arrhythmias, ejection fraction below 50% and death</b>. This bears directly on interpreting the endpoint of <b>Lexeo's LX2006</b> (left ventricular mass index on cardiac MRI). ⚠️ <b>Retrospective, multi-site without central reading, with some measurements of limited reliability</b>; FA is not a Steminent indication. <b>Decisions logged today</b>: across the five CT.gov indication queries there were <b>no new therapeutic trials and no status changes among tracked assets</b> (the latest update remains IntraBio's NCT07221292 of 09/08). <b>The weekly roll-call</b> (drug-name queries for 21 assets) <b>found no new gaps</b> — every record updated in the window is already on file; those not recorded are in other indications (troriluzole in OCD and oncology, vatiquinone in mitochondrial disease, IB1001 in NPC and others) or are <b>Steminent's Phase 1 of Stemchymal® in acute liver failure, NCT03629015 (registered as withdrawn with zero enrolled, citing corporate strategic considerations, in a non-neurological indication)</b>, excluded under §1b. One further PubMed hit, a review of spinal muscular atrophy (PubMed 42732261), concerns SMA rather than SBMA and was not recorded. <b>On watch</b>: the PDUFA action date for IntraBio's levacetylleucine sNDA in A-T is <b>2026/09/19</b>. <b>No first-party public milestone on the company news side</b>: troriluzole remains at the CRL of 2025-11-04; Steminent/REPROCELL remain under review for Japanese marketing authorisation; and Vico, Arrowhead/Sarepta, AnnJi, PTC, Larimar, Lexeo, Solid and Kissei issued nothing in the window.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-13",
     "dateDisplay": "2026/09/13",
     "tag": "每日掃描",

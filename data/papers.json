@@ -1,5 +1,24 @@
 [
   {
+    "id": "pubmed:42733758",
+    "date": "2026-09-14",
+    "dateDisplay": "2026/09/14",
+    "title": "Serial assessment of echocardiographic measures in Friedreich ataxia",
+    "journal": "American Heart Journal Plus 70:100869（2026 年 10 月號）· Lynch DR、Keita M、Gunther K、Park C、Schadt K、Mercer-Rosa L、Lin KY（美國費城兒童醫院神經科與心臟科、賓州大學 Perelman 醫學院）· doi:10.1016/j.ahjo.2026.100869 · 2026/08/29 線上、2026/09/14 收錄於 PubMed · <b>全文開放（PMC13571518）</b>",
+    "tag": "Friedreich's ataxia · 心肌病變 · 連續心臟超音波 · GAA1 重複長度 · 長期預後預測 · 回溯性大型世代",
+    "note": "→ <b>Friedreich's ataxia 心肌病變的長期病程圖像</b>：心肌病變是 FA 最常見的死因。費城兒童醫院（CHOP）團隊回溯其大型追蹤世代的心臟超音波紀錄——全文載 <b>591 名受試者、556 人共 3,516 份超音波報告、平均追蹤 11.0 ± 8.0 年</b>。→ <b>結果（摘要）</b>：FA 心臟<b>初期為輕度肥厚、收縮功能正常</b>，病程後段（最長至 30 年）<b>收縮功能下降</b>；<b>最大肥厚指標（尤其心室中膈厚度 IVSTd）與基因嚴重度 GAA1 中度相關</b>；<b>GAA1 可預測後期心臟表現（心律不整、射出分率降至 &lt;50%）</b>；<b>早期中膈與後壁增厚、以及射出分率偏高（hyperdynamic）可預測後續不良結局</b>，包括心律不整、射出分率下降與死亡。→ <b>為什麼放進雷達</b>：本站鄰近共濟失調圈層中，<b>Lexeo 的 LX2006 是專攻 FA 心肌病變的 AAV 基因療法</b>，其註冊型 Ph2 SUNRISE-FA 2（NCT07721025）主要指標為<b>心臟 MRI 左心室質量指數</b>——本文提供的<b>自然病程軌跡與「哪些早期指標預示不良結局」</b>，正是解讀此類心臟終點與設計外部對照時的背景資料。→ <b>與本社的距離</b>：<b>本文不含任何療法資料</b>；FA 非本社 polyQ SCA 適應症。⚠️ <b>限制</b>：<b>回溯性病歷資料、多站點來源且無中央判讀</b>，作者自陳<b>部分管壁厚度量測的組內相關係數有時低於 0.7</b>、舒張功能參數不完整；世代以單一轉診中心為核心，外推需保留。研究經費來自 <b>Friedreich's Ataxia Research Alliance（FARA）</b>，作者聲明無利益衝突。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42733758/",
+    "urlLabel": "論文 ↗ PubMed 42733758",
+    "en": {
+      "tag": "Friedreich's ataxia · cardiomyopathy · serial echocardiography · GAA1 repeat length · long-term outcome prediction · large retrospective cohort",
+      "journal": "American Heart Journal Plus 70:100869 (October 2026 issue) · Lynch DR, Keita M, Gunther K, Park C, Schadt K, Mercer-Rosa L, Lin KY (Divisions of Neurology and Cardiology, Children's Hospital of Philadelphia; Perelman School of Medicine, University of Pennsylvania, USA) · doi:10.1016/j.ahjo.2026.100869 · online 2026/08/29, indexed in PubMed 2026/09/14 · <b>open access (PMC13571518)</b>",
+      "note": "→ <b>A long-run picture of cardiomyopathy in Friedreich's ataxia</b>: cardiomyopathy is the most common cause of death in FA. The Children's Hospital of Philadelphia (CHOP) group reviewed echocardiography records from its large follow-up cohort — the full text reports <b>591 subjects, 3,516 echocardiogram reports from 556 individuals, and mean follow-up of 11.0 ± 8.0 years</b>. → <b>Results (per the abstract)</b>: FA hearts <b>initially show mild hypertrophy with normal systolic function</b>, with <b>systolic function declining</b> later in the disease course (up to 30 years on); <b>markers of maximal hypertrophy, particularly septal wall thickness (IVSTd), correlate moderately with genetic severity (GAA1)</b>; <b>GAA1 predicts later cardiac manifestations (arrhythmias, ejection fraction falling below 50%)</b>; and <b>early septal and posterior wall thickening and a hyperdynamic ejection fraction predict later adverse outcomes</b>, including arrhythmias, reduced ejection fraction and death. → <b>Why it is on the radar</b>: within this site's adjacent-ataxia ring, <b>Lexeo's LX2006 is an AAV gene therapy aimed specifically at FA cardiomyopathy</b>, and its registrational Phase 2 SUNRISE-FA 2 (NCT07721025) uses <b>left ventricular mass index on cardiac MRI</b> as its primary endpoint — the <b>natural-history trajectory and the early markers that foreshadow adverse outcomes</b> described here are exactly the background needed to interpret such cardiac endpoints and to design external comparators. → <b>Distance from Steminent</b>: <b>the paper contains no therapy data</b>, and FA is not among Steminent's polyQ SCA indications. ⚠️ <b>Limitations</b>: <b>retrospective record data drawn from multiple sites without central reading</b>; the authors note that <b>intraclass correlation for some wall thickness measurements was at times below 0.7</b> and that diastolic parameters were incomplete; the cohort centres on a single referral centre, so generalisation warrants caution. Funding came from the <b>Friedreich's Ataxia Research Alliance (FARA)</b>, and the authors declare no competing interests.",
+      "urlLabel": "Paper ↗ PubMed 42733758"
+    }
+  },
+  {
     "id": "pubmed:42730671",
     "date": "2026-09-12",
     "dateDisplay": "2026/09/12",
