@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09/15",
+    "tag": "每日掃描",
+    "level": "hot",
+    "body": "<b>新增 1 則科學文獻（同步列入試驗結果讀出與本週情報摘要）、1 筆臨床試驗。</b><b>①丁苯酞（NBP）治療 SCA3 的 12 個月隨機安慰劑對照試驗（Movement Disorders，2026/09/15 線上，PubMed 42742595）</b>：中南大學湘雅醫院（通訊 Jiang H）mITT <b>116 人</b>，<b>SARA 組間差 −0.86（P=0.02）、SCAFI 差 0.16（P=0.03）雙主要指標達標</b>，無嚴重不良事件。與本社同一適應症、同一主要量表。⚠️ <b>效果量小、單一國家研究者發起、mITT</b>；摘要未載盲法、站點數與登錄號（CT.gov 以藥名查無登錄），留白不臆測。<b>本日判斷：暫不列入「競品全景」</b>——無企業主辦方、無登錄號、距監管申請遠，先以文獻／讀出／情報摘要追蹤，若後續出現企業授權或確認性試驗登錄再建檔。<b>②A-T 兒童 sirolimus 先導試驗 NCT07820579</b>（墨西哥國立兒科研究所，單組開放標籤，實收 6 人，登錄首日即為已完成、尚無結果），依既有 A-T 療法試驗收錄慣例補入試驗雷達。<b>其餘判斷紀錄</b>：CT.gov 五組查詢窗內另一筆新更新 NCT02741440（NEI SCA7 自然史）為觀察性研究、不收；SBMA 組仍為前列腺癌試驗、逐筆排除。PubMed 窗內 ZFHX3 GGC 重複擴增於 ALS（PubMed 42736322）為 ALS 研究、粒線體疾病骨髓細胞置換小鼠研究（PubMed 42736305）為臨床前非追蹤圈層，均不收。公司新聞面窗內<b>無一手公開里程碑</b>：troriluzole 仍停在 2025-11-04 CRL；Steminent／REPROCELL 日本承認申請審查中；Vico、Arrowhead／Sarepta、安基、PTC、Larimar、Lexeo 窗內無新公告。<b>待觀察</b>：IntraBio levacetylleucine A-T sNDA PDUFA 行動日 <b>2026/09/19</b>。版面維護：本週情報摘要移除 2026/07 的 Kissei 舊則以維持篇幅。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added (also recorded as a trial readout and in this week's intelligence summary), plus one clinical trial.</b> <b>(1) A 12-month randomised placebo-controlled trial of DL-3-n-butylphthalide (NBP) in SCA3 (Movement Disorders, online 2026/09/15, PubMed 42742595)</b>: Xiangya Hospital, Central South University (corresponding author Jiang H), mITT <b>n=116</b>, with <b>both primary endpoints met — SARA difference −0.86 (P=0.02) and SCAFI difference 0.16 (P=0.03)</b> — and no serious adverse events. Same indication and same primary scale as Steminent. ⚠️ <b>Small effect size, single-country and investigator-initiated, mITT analysis</b>; the abstract does not give the blinding, number of sites or registration number (no registration found on CT.gov by drug name), and these are left blank. <b>Decision today: not added to the competitive landscape for now</b> — there is no corporate sponsor or registration number and any filing is distant, so it is tracked through the literature, readout and summary entries, with a landscape entry to follow if a corporate licence or confirmatory trial registration appears. <b>(2) A paediatric sirolimus pilot in A-T, NCT07820579</b> (Instituto Nacional de Pediatría, Mexico; single-arm open-label, 6 enrolled; first posted already completed, no results yet), added to the Trial Radar in line with existing practice for A-T therapy trials. <b>Other decisions logged</b>: the other new update across the five CT.gov queries, NCT02741440 (NEI SCA7 natural history), is observational and not recorded; the SBMA query again returned prostate cancer trials, each excluded. In PubMed, ZFHX3 GGC repeat expansions in ALS (PubMed 42736322) is ALS research and a myeloid cell replacement study in a mouse model of mitochondrial disease (PubMed 42736305) is preclinical outside the tracked rings; neither was recorded. <b>No first-party public milestone on the company news side</b>: troriluzole remains at the CRL of 2025-11-04; Steminent/REPROCELL remain under Japanese review; Vico, Arrowhead/Sarepta, AnnJi, PTC, Larimar and Lexeo issued nothing in the window. <b>On watch</b>: the PDUFA action date for IntraBio's levacetylleucine sNDA in A-T is <b>2026/09/19</b>. Housekeeping: the July 2026 Kissei item was removed from this week's intelligence summary to keep it concise.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-14",
     "dateDisplay": "2026/09/14",
     "tag": "每日掃描",

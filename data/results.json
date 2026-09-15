@@ -1,5 +1,33 @@
 [
   {
+    "id": "xiangya-nbp-sca3-rct-2026-09",
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09",
+    "competitor": "中南大學湘雅醫院（研究者發起）",
+    "drug": "DL-3-n-丁苯酞（NBP）",
+    "trial": "隨機安慰劑對照試驗 · 12 個月（摘要未載登錄號與期別）",
+    "sourceType": "論文",
+    "level": "hot",
+    "readout": "<b>雙主要指標達統計顯著</b>（Movement Disorders，2026/09/15 線上）：SCA3 病人 1:1 隨機分派至口服 NBP 200 mg 每日三次或安慰劑、治療 12 個月，mITT <b>n=116（56／60）</b>。<b>SARA 12 個月變化估計邊際平均差 −0.86（95% CI −1.56 至 −0.16；P=0.02）</b>；<b>SCAFI 差 0.16（95% CI 0.01–0.31；P=0.03）</b>。不良事件 23.2% vs 15%（P=0.26）；藥物相關不良事件 21.4% vs 10.0%（P=0.09）；<b>兩組皆無嚴重不良事件</b>。作者結論為「初步臨床效益證據」。⚠️ 摘要未載盲法、站點數、隨機總人數、脫落數與試驗登錄號，<b>本站留白不臆測</b>。",
+    "implication": "→ <b>SCA3 出現一個以 SARA 為主要指標、一年內達標的口服小分子</b>，是本社核心適應症上的新對照點。威脅程度目前有限：<b>效果量小（SARA 差不到 1 分）</b>、單一國家研究者發起、分析族群為 mITT，距監管申請仍遠；但它證明<b>一年期、百人級的 SCA3 試驗可以用 SARA 偵測到組間差異</b>，日後監管機關與醫師在評估本社 SARA 數據時，可能以此為參照。",
+    "links": [
+      { "label": "論文 ↗ PubMed 42742595", "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/" },
+      { "label": "期刊 DOI ↗ 10.1002/mds.70499", "url": "https://doi.org/10.1002/mds.70499" }
+    ],
+    "en": {
+      "competitor": "Xiangya Hospital, Central South University (investigator-initiated)",
+      "drug": "DL-3-n-butylphthalide (NBP)",
+      "trial": "Randomised placebo-controlled trial · 12 months (registration number and phase not stated in the abstract)",
+      "sourceType": "Paper",
+      "readout": "<b>Both primary endpoints reached statistical significance</b> (Movement Disorders, online 2026/09/15): SCA3 patients were randomised 1:1 to oral NBP 200 mg three times daily or placebo for 12 months, mITT <b>n=116 (56/60)</b>. <b>Estimated marginal mean difference in 12-month SARA change −0.86 (95% CI −1.56 to −0.16; P=0.02)</b>; <b>SCAFI difference 0.16 (95% CI 0.01–0.31; P=0.03)</b>. Adverse events 23.2% vs 15% (P=0.26); drug-related adverse events 21.4% vs 10.0% (P=0.09); <b>no serious adverse events in either group</b>. The authors conclude 'preliminary evidence of clinical benefit'. ⚠️ The abstract does not state the blinding, number of sites, total randomised, dropouts or trial registration number, and <b>these are left blank rather than guessed</b>.",
+      "implication": "→ <b>An oral small molecule has met a SARA primary endpoint in SCA3 within one year</b>, creating a new reference point in Steminent's core indication. The threat is limited for now: <b>the effect size is small (under one SARA point)</b>, the study is single-country and investigator-initiated with an mITT analysis, and any regulatory filing is distant. But it shows that <b>a one-year SCA3 trial of around a hundred patients can detect a between-group difference on SARA</b>, which regulators and physicians may use as a reference when weighing Steminent's SARA data.",
+      "links": [
+        { "label": "Paper ↗ PubMed 42742595", "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/" },
+        { "label": "Journal DOI ↗ 10.1002/mds.70499", "url": "https://doi.org/10.1002/mds.70499" }
+      ]
+    }
+  },
+  {
     "id": "intrabio-ib1001-303-at-2026-05",
     "date": "2026-05-19",
     "dateDisplay": "2026/05",

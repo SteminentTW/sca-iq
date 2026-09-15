@@ -1,5 +1,32 @@
 [
   {
+    "id": "xiangya-nbp-sca3-2026-09",
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09",
+    "level": "hot",
+    "tag": "SCA3 試驗讀出 · 追蹤名單外新路線",
+    "body": "<b>SCA3 出現一個主要指標達標的口服小分子隨機對照試驗</b>：中南大學湘雅醫院團隊於 <b>Movement Disorders（2026/09/15 線上）</b>發表 <b>DL-3-n-丁苯酞（NBP）</b>治療 SCA3 的 12 個月隨機安慰劑對照試驗。mITT <b>116 人</b>，<b>SARA 12 個月變化組間差 −0.86（95% CI −1.56 至 −0.16；P=0.02）</b>、<b>SCAFI 差 0.16（P=0.03）</b>，雙主要指標皆有利於 NBP；兩組<b>無嚴重不良事件</b>，藥物相關不良事件 NBP 組數字上較多（21.4% vs 10.0%，P=0.09）。",
+    "note": "→ 與本社<b>同一核心適應症（SCA3）、同一主要量表（SARA）</b>。⚠️ <b>效果量小</b>（一年差不到 1 SARA 分）、<b>單一國家研究者發起、分析族群為 mITT</b>；摘要未載盲法、站點數與試驗登錄號，ClinicalTrials.gov 以藥名查無登錄，<b>本站不代為補寫</b>。作者自稱為「初步」證據，距任何監管申請仍遠。",
+    "links": [
+      {
+        "label": "論文 ↗ PubMed 42742595",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/09",
+      "tag": "SCA3 trial readout · new route outside the tracked list",
+      "body": "<b>A randomised controlled trial of an oral small molecule has met its primary endpoints in SCA3</b>: a Xiangya Hospital (Central South University) group published in <b>Movement Disorders (online 2026/09/15)</b> a 12-month randomised placebo-controlled trial of <b>DL-3-n-butylphthalide (NBP)</b> in SCA3. In an mITT population of <b>116</b>, the <b>between-group difference in 12-month SARA change was −0.86 (95% CI −1.56 to −0.16; P=0.02)</b> and <b>in SCAFI 0.16 (P=0.03)</b>, both primary endpoints favouring NBP; there were <b>no serious adverse events in either group</b>, and drug-related adverse events were numerically more frequent on NBP (21.4% vs 10.0%, P=0.09).",
+      "note": "→ <b>Same core indication (SCA3) and same primary scale (SARA)</b> as Steminent. ⚠️ <b>The effect size is small</b> (under one SARA point over a year), and the study is <b>single-country, investigator-initiated and analysed in an mITT population</b>; the abstract does not state the blinding, number of sites or registration number, a drug-name search of ClinicalTrials.gov finds no registration, and <b>nothing is filled in here</b>. The authors call the evidence 'preliminary', and any regulatory filing remains distant.",
+      "links": [
+        {
+          "label": "Paper ↗ PubMed 42742595",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/"
+        }
+      ]
+    }
+  },
+  {
     "id": "biohaven-bhv7000-hold-2026-09",
     "date": "2026-09-09",
     "dateDisplay": "2026/09",
@@ -143,49 +170,6 @@
         {
           "label": "Press release ↗ 2026/08/19",
           "url": "https://www.biospace.com/press-releases/intrabios-pivotal-phase-iii-trial-in-cacna1a-related-disorders-is-enrolling-and-is-expected-to-be-over-enrolled-and-complete-recruitment-in-october"
-        }
-      ]
-    }
-  },
-  {
-    "id": "kissei-rovatirelin-ph3-2026-07",
-    "date": "2026-07-30",
-    "dateDisplay": "2026/07",
-    "level": "hot",
-    "tag": "日本監管",
-    "body": "掃描發現 <b>Kissei 橘生製藥（TSE: 4547）</b>的 rovatirelin（KPS-0373）在日本藥證 2023/07 撤回後重啟的<b>第三次 Ph3 確認試驗已登錄（NCT07040137）</b>：多中心隨機雙盲安慰劑對照、口服每日一次 24 週、n=142、<b>主要指標＝SARA 總分自基線變化</b>，2025/07 起於日本收案，主要完成估 2027/03。",
-    "note": "→ 與本社日本承認申請面對<b>同一監管機關（PMDA）、同一主要量表（SARA）、重疊的 SCD 市場範疇</b>。PMDA 當年以「以現有臨床資料難以核准」要求 Kissei 補做第三個 Ph3，是日本對 SCD 療效證據門檻最直接的公開案例；其 2027/03 的讀出時點值得納入本社日本策略時程一併考量。",
-    "links": [
-      {
-        "label": "追加 Ph3 公告 ↗ 2025/03",
-        "url": "https://www.kissei.co.jp/e_contents/news/2025/20250314-5015.html"
-      },
-      {
-        "label": "試驗 ↗ NCT07040137",
-        "url": "https://clinicaltrials.gov/study/NCT07040137"
-      },
-      {
-        "label": "藥證撤回公告 ↗ 2023/07",
-        "url": "https://www.kissei.co.jp/e_contents/news/2023/20230719-4670.html"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/07",
-      "tag": "Japan regulatory",
-      "body": "The sweep found that <b>Kissei Pharmaceutical (TSE: 4547)</b> has registered the <b>third Ph3 confirmatory study of rovatirelin (KPS-0373)</b> that it restarted after withdrawing its Japanese application in 2023/07 (NCT07040137): multicentre, randomised, double-blind and placebo-controlled, dosed orally once daily for 24 weeks, n=142, with <b>change from baseline in total SARA as the primary endpoint</b>; recruiting in Japan since 2025/07, primary completion estimated 2027/03.",
-      "note": "→ It faces the <b>same regulator (PMDA), the same primary scale (SARA) and an overlapping SCD market scope</b> as Steminent's Japanese application. The PMDA's position that approval would be difficult on the existing clinical data — and the resulting demand for a third Ph3 — is the most direct public case study of Japan's evidence bar in SCD, and the 2027/03 readout is worth folding into Steminent's Japanese strategic timeline.",
-      "links": [
-        {
-          "label": "Additional Ph3 announcement ↗ 2025/03",
-          "url": "https://www.kissei.co.jp/e_contents/news/2025/20250314-5015.html"
-        },
-        {
-          "label": "Trial ↗ NCT07040137",
-          "url": "https://clinicaltrials.gov/study/NCT07040137"
-        },
-        {
-          "label": "Application withdrawal ↗ 2023/07",
-          "url": "https://www.kissei.co.jp/e_contents/news/2023/20230719-4670.html"
         }
       ]
     }

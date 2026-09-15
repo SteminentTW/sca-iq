@@ -1,5 +1,24 @@
 [
   {
+    "id": "pubmed:42742595",
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09/15",
+    "title": "Efficacy and Safety of DL-3-n-Butylphthalide in Spinocerebellar Ataxia Type 3",
+    "journal": "Movement Disorders（線上優先刊登，2026/09/15）· Shen X、Peng H、Xie Y … Tang B、Chen Z、Jiang H（通訊，中南大學湘雅醫院神經內科；另有澳洲 Macquarie 大學 Burrell JR 參與）· doi:10.1002/mds.70499 · 2026/09/15 收錄於 PubMed",
+    "tag": "SCA3 · 丁苯酞（NBP）· 隨機安慰劑對照試驗 · 12 個月 · SARA／SCAFI 主要指標 · 藥物再利用",
+    "note": "→ <b>SCA3 領域少見的「主要指標達標」隨機對照試驗</b>：湘雅醫院團隊將 <b>DL-3-n-丁苯酞（NBP）</b>以 <b>200 mg 每日三次口服</b>、與安慰劑 1:1 隨機分派，治療 <b>12 個月</b>。摘要表示此前<b>未有任何人體試驗評估 NBP 用於 SCA3</b>。→ <b>結果（摘要）</b>：mITT 族群 <b>116 人（NBP 56／安慰劑 60）</b>；<b>雙主要指標皆達統計顯著</b>——<b>SARA 12 個月變化之估計邊際平均差 −0.86（95% CI −1.56 至 −0.16；P=0.02）</b>、<b>SCAFI 差 0.16（95% CI 0.01–0.31；P=0.03）</b>，方向均有利於 NBP。安全性：不良事件率 <b>23.2% vs 15%（P=0.26）</b>，<b>藥物相關不良事件 21.4% vs 10.0%（P=0.09）數字上較多</b>，兩組<b>皆無嚴重不良事件</b>。作者結論措辭為「<b>初步臨床效益證據</b>」。→ <b>為什麼放進雷達</b>：SCA3 是本社 Stemchymal® 的核心適應症；本試驗以<b>與本社相同的 SARA 為主要指標</b>、在一年窗口內偵測到組間差異，且 NBP 為<b>口服小分子</b>，是本站追蹤名單外的<b>新治療路線</b>。⚠️ <b>限制</b>：<b>效果量小</b>（SARA 一年差不到 1 分，低於文獻常引用的 SARA 臨床意義變化門檻，本站不代為判定是否具臨床意義）；<b>分析族群為 mITT、非完整 ITT</b>，摘要未載隨機總人數與脫落數；摘要<b>未載明盲法、站點數、試驗登錄號</b>（ClinicalTrials.gov 以藥名查無登錄），Wiley 全文頁面本站無法存取，<b>以上一律留白不臆測</b>；<b>單一國家（中國）、研究者發起</b>，外推至其他族群與監管審查仍需確認性試驗。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/",
+    "urlLabel": "論文 ↗ PubMed 42742595",
+    "en": {
+      "tag": "SCA3 · DL-3-n-butylphthalide (NBP) · randomised placebo-controlled trial · 12 months · SARA/SCAFI primary endpoints · drug repurposing",
+      "journal": "Movement Disorders (online ahead of print, 2026/09/15) · Shen X, Peng H, Xie Y … Tang B, Chen Z, Jiang H (corresponding; Department of Neurology, Xiangya Hospital, Central South University, with Burrell JR of Macquarie University, Australia) · doi:10.1002/mds.70499 · indexed in PubMed 2026/09/15",
+      "note": "→ <b>A rare randomised controlled trial in SCA3 whose primary endpoints were met</b>: the Xiangya Hospital group randomised patients 1:1 to <b>oral DL-3-n-butylphthalide (NBP) 200 mg three times daily</b> or placebo for <b>12 months</b>. The abstract states that <b>no human trial had previously evaluated NBP in SCA3</b>. → <b>Results (per the abstract)</b>: the mITT population comprised <b>116 patients (56 NBP, 60 placebo)</b>; <b>both primary endpoints reached statistical significance</b> — <b>estimated marginal mean difference in 12-month SARA change −0.86 (95% CI −1.56 to −0.16; P=0.02)</b> and <b>in SCAFI 0.16 (95% CI 0.01–0.31; P=0.03)</b>, both favouring NBP. Safety: adverse event rates <b>23.2% vs 15% (P=0.26)</b>, with <b>drug-related adverse events numerically more frequent on NBP, 21.4% vs 10.0% (P=0.09)</b>, and <b>no serious adverse events in either group</b>. The authors describe the result as <b>'preliminary evidence of clinical benefit'</b>. → <b>Why it is on the radar</b>: SCA3 is a core indication for Steminent's Stemchymal®; this trial used <b>the same SARA primary endpoint as Steminent</b> and detected a between-group difference within one year, and NBP is an <b>oral small molecule</b> representing a <b>new therapeutic route outside this site's tracked list</b>. ⚠️ <b>Limitations</b>: <b>the effect size is small</b> (under one SARA point over a year, below commonly cited thresholds for meaningful SARA change; this site does not judge clinical meaningfulness); <b>the analysis population is mITT rather than full ITT</b>, and the abstract gives neither the total randomised nor dropouts; the abstract <b>does not state the blinding, number of sites or trial registration number</b> (a drug-name search of ClinicalTrials.gov finds no registration), and the Wiley full text could not be accessed, so <b>all of these are left blank rather than guessed</b>; it is <b>a single-country (China), investigator-initiated study</b>, and generalisation to other populations or regulatory review would require confirmatory trials.",
+      "urlLabel": "Paper ↗ PubMed 42742595"
+    }
+  },
+  {
     "id": "pubmed:42733758",
     "date": "2026-09-14",
     "dateDisplay": "2026/09/14",

@@ -523,6 +523,22 @@
     }
   },
   {
+    "nct": "NCT07820579",
+    "drug": "Sirolimus（Rapamune®，雷帕黴素）",
+    "mechanism": "mTOR 抑制劑（口服小分子，既有免疫抑制劑再利用）",
+    "phase": "Ph2（先導）",
+    "status": "主動掃描補收（<b>登錄於 2026/09/15 首次上線，即已為「已完成」</b>）。適應症為<b>共濟失調微血管擴張症（A-T）</b>兒童病人，單組開放標籤，<b>實收 6 人</b>；口服 sirolimus 1 mg/m²/日分兩次、治療 6 個月，<b>主要指標為不良反應與實驗室安全性</b>（另評估免疫、皮膚、神經表現）。2024/07/11 起於墨西哥市國立兒科研究所單一站點執行，主要完成 2026/05/13、研究完成 2026/08/20。⚠️ <b>登錄上尚無結果</b>；n=6 無對照，僅屬安全性先導。",
+    "sponsor": "Sara Elva Espinosa Padilla／Instituto Nacional de Pediatría（墨西哥）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07820579",
+    "en": {
+      "mechanism": "mTOR inhibitor (oral small molecule, repurposed immunosuppressant)",
+      "phase": "Ph2 (pilot)",
+      "status": "Added by the proactive sweep (<b>first posted on 2026/09/15, already marked completed</b>). Indication is <b>ataxia-telangiectasia (A-T)</b> in paediatric patients; single-arm, open-label, <b>6 enrolled (actual)</b>; oral sirolimus 1 mg/m²/day in two divided doses for 6 months, with <b>adverse effects and laboratory safety as the primary outcome</b> (immunological, dermatological and neurological effects also assessed). Ran from 2024/07/11 at a single site, the Instituto Nacional de Pediatría in Mexico City; primary completion 2026/05/13, study completion 2026/08/20. ⚠️ <b>No results posted yet</b>; with n=6 and no control this is a safety pilot only.",
+      "sponsor": "Sara Elva Espinosa Padilla / Instituto Nacional de Pediatría (Mexico)"
+    }
+  },
+  {
     "nct": "NCT07215416",
     "drug": "Atipeksen（ATM 剪接調控 ASO）",
     "mechanism": "反義寡核苷酸（PS-2'MOE 剪接切換型）<br>針對 ATM 基因 c.7865C>T 突變、恢復正常剪接",
