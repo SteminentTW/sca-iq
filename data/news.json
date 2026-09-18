@@ -1,5 +1,32 @@
 [
   {
+    "id": "annji-aj201-ph3-ind-2026-09",
+    "date": "2026-09-03",
+    "dateDisplay": "2026/09",
+    "level": "info",
+    "tag": "鄰域圈層進度 · 補收缺漏",
+    "body": "<b>安基生技 AJ201（SBMA）正式向 FDA 送件 Ph3 樞紐試驗 IND</b>：公告日 <b>2026/09/03</b>，內容為已完成三期試驗計畫並向美國 FDA 提出<b>甘迺迪氏症（SBMA）第三期臨床試驗申請</b>，全球規劃收案約 <b>200 人</b>，實際執行時程配合未來國際授權夥伴策略調整；依 IND 審查機制，若 FDA 於<b>標準 30 天審查期間</b>未要求補充資料，最快 <b>2026 Q4</b> 可啟動美國三期。公司稱 AJ201 為<b>全球唯一已知朝三期推進的 SBMA 候選新藥</b>。",
+    "note": "→ <b>本則為補收此前遺漏</b>：此為台灣財經媒體 2026/09/03 公告，此前每日掃描窗期（reldate 導向的近期新聞搜尋）皆未撈到，本次主動補查後收錄。AJ201 屬<b>鄰域 polyQ 圈層（SBMA）</b>而非直接 SCA 競品，但其孤兒藥資格另含 SCA，是最可能從鄰近適應症切入 SCA 的在地公司，此進度可視為監管路徑的參考先例。⚠️ <b>僅見台灣財經媒體（工商時報／經濟日報／鉅亨網）轉載安基公告，未查得公司官網或英文一手新聞稿佐證</b>；「全球唯一」為公司自述；與被授權方 Avenue Therapeutics 之間仍有 2025/03 起的解盲時程仲裁爭議未見後續公開進展，本站不臆測其現況。",
+    "links": [
+      {
+        "label": "安基公告 ↗ 工商時報 2026/09/03",
+        "url": "https://www.ctee.com.tw/news/20260903701673-430504"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/09",
+      "tag": "Adjacent-ring progress · back-filled gap",
+      "body": "<b>AnnJi Biotech has formally filed an IND with the FDA for a Phase 3 pivotal trial of AJ201 in SBMA</b>: per a disclosure dated <b>2026/09/03</b>, the company completed its Phase 3 protocol and submitted a <b>Phase 3 clinical trial application for Kennedy's disease (SBMA)</b> to the FDA, planning to enrol around <b>200 patients</b> globally, with actual execution to be adjusted alongside future international licensing strategy; under standard IND review, if the FDA requests no additional information within its <b>30-day window</b>, the US Phase 3 could start as early as <b>Q4 2026</b>. The company states AJ201 is <b>the only SBMA candidate globally known to be advancing toward Phase 3</b>.",
+      "note": "→ <b>This entry back-fills a previously missed item</b>: the disclosure is dated 2026/09/03 and was not caught by prior daily scans (recency-windowed news searches); it was surfaced and recorded on a deliberate re-check. AJ201 sits in the <b>adjacent polyQ ring (SBMA)</b> rather than being a direct SCA competitor, but its orphan designation also covers SCA, making it the local company most likely to enter SCA from an adjacent indication, so this milestone serves as a regulatory-pathway reference point. ⚠️ <b>Reported only by Taiwanese financial media (Commercial Times / Economic Daily News / Anue) relaying AnnJi's own disclosure; no corroborating company website statement or English-language press release was found</b>; \"globally only\" is the company's own characterisation; the 2025/03 arbitration dispute with licensee Avenue Therapeutics over the unblinding schedule has no reported public resolution, and this site does not speculate on its current status.",
+      "links": [
+        {
+          "label": "AnnJi disclosure ↗ Commercial Times 2026/09/03",
+          "url": "https://www.ctee.com.tw/news/20260903701673-430504"
+        }
+      ]
+    }
+  },
+  {
     "id": "xiangya-nbp-sca3-2026-09",
     "date": "2026-09-15",
     "dateDisplay": "2026/09",
@@ -205,33 +232,6 @@
         {
           "label": "Business licence ↗",
           "url": "https://udn.com/news/story/7241/9579117"
-        }
-      ]
-    }
-  },
-  {
-    "id": "steminent-us-ph2-details",
-    "date": "2026-06-20",
-    "dateDisplay": "近期",
-    "level": "win",
-    "tag": "美國進度",
-    "body": "美國二期試驗細節公布：<b>UCLA＋USF 兩站點、預計 2026/09 首例收案</b>，收案 20 人（SCA3），共同主持人 <b>Susan Perlman、Theresa Zesiewicz</b> 醫師；採真實世界數據並<b>事先與 FDA 協議統計分析計畫（SAP）</b>——為 Troriluzole 教訓後的設計調整。",
-    "note": "",
-    "links": [
-      {
-        "label": "來源 ↗ GeneOnline",
-        "url": "https://geneonline.news/steminent-is-expanding-globally-in-cerebellar-atrophy-treatment-with-phase-ii-us-trials-007/"
-      }
-    ],
-    "en": {
-      "dateDisplay": "Recent",
-      "tag": "US progress",
-      "body": "Details of the US Phase 2 released: <b>two sites, UCLA and USF, with first patient expected 2026/09</b>, enrolling 20 patients (SCA3), co-led by <b>Drs Susan Perlman and Theresa Zesiewicz</b>; it uses real-world data with a <b>statistical analysis plan (SAP) agreed with FDA in advance</b> — a design change learned from the troriluzole experience.",
-      "note": "",
-      "links": [
-        {
-          "label": "Source ↗ GeneOnline",
-          "url": "https://geneonline.news/steminent-is-expanding-globally-in-cerebellar-atrophy-treatment-with-phase-ii-us-trials-007/"
         }
       ]
     }

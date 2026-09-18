@@ -629,13 +629,17 @@
     "asset": "AJ201（rosolutamide）",
     "mechanism": "小分子<br>降解突變雄性素受體<br>活化 Nrf1/Nrf2",
     "indication": "SBMA（甘迺迪症）<br><b>孤兒藥資格另含 HD、SCA</b>",
-    "phase": "Ph1b/2a 完成→規劃 Ph3",
-    "status": "<b style=\"color:#ffce7a\">台灣本土 polyQ 玩家</b>。Ph1b/2a（25 人、12 週、隨機安慰劑對照）耐受良好並見身體活動改善；已獲 FDA 快速通道，2026 KDA 年會公布全球多中心 Ph3 初步設計。已授權 Avenue Therapeutics 於美國開發與商業化。<b>FDA 孤兒藥資格涵蓋 SBMA、亨丁頓舞蹈症與 SCA</b>，惟目前臨床僅在 SBMA。",
+    "phase": "Ph1b/2a 完成→已送件 FDA Ph3 樞紐試驗 IND",
+    "status": "<b style=\"color:#ffce7a\">台灣本土 polyQ 玩家</b>。Ph1b/2a（25 人、12 週、隨機安慰劑對照）耐受良好並見身體活動改善；已獲 FDA 快速通道。<b>2026/09/03 公告已正式向美國 FDA 提出全球 Ph3 樞紐試驗 IND 申請</b>，規劃收案約 200 人，實際執行時程配合未來國際授權夥伴策略調整；依 IND 審查機制，若 FDA 於標準 30 天審查期間未要求補充資料，最快 2026 Q4 可啟動美國臨床三期。已授權 Avenue Therapeutics 於美國開發與商業化。<b>FDA 孤兒藥資格涵蓋 SBMA、亨丁頓舞蹈症與 SCA</b>，惟目前臨床僅在 SBMA。⚠️ 本筆 IND 送件僅見台灣財經媒體報導（工商時報／經濟日報／鉅亨網轉載安基公告），未查得公司官網或 PR Newswire 等一手英文新聞稿佐證。",
     "threatLabel": "低(鄰域·台灣)",
     "links": [
       {
         "label": "2026 KDA 年會 Ph3 設計 ↗",
         "url": "https://www.prnewswire.com/news-releases/empowering-the-sbma-community-annji-highlights-patient--family-forum-and-shares-aj201-scientific-advancement-at-the-2026-kda-conference-302704676.html"
+      },
+      {
+        "label": "AJ201 Ph3 IND 送件 FDA ↗",
+        "url": "https://www.ctee.com.tw/news/20260903701673-430504"
       },
       {
         "label": "Avenue 授權 ↗",
@@ -647,13 +651,17 @@
       "asset": "AJ201 (rosolutamide)",
       "mechanism": "Small molecule<br>degrades mutant androgen receptor<br>activates Nrf1/Nrf2",
       "indication": "SBMA (Kennedy's disease)<br><b>orphan designation also covers HD and SCA</b>",
-      "phase": "Ph1b/2a done → Ph3 planned",
-      "status": "<b style=\"color:#ffce7a\">A Taiwan-based polyQ player.</b> The Ph1b/2a (25 patients, 12 weeks, randomised placebo-controlled) was well tolerated with signs of improved physical activity; FDA Fast Track granted, and a preliminary global multicentre Ph3 design was presented at the 2026 KDA conference. US development and commercialisation are licensed to Avenue Therapeutics. <b>FDA orphan designation covers SBMA, Huntington's disease and SCA</b>, though clinical work to date is in SBMA only.",
+      "phase": "Ph1b/2a done → Ph3 pivotal IND filed with FDA",
+      "status": "<b style=\"color:#ffce7a\">A Taiwan-based polyQ player.</b> The Ph1b/2a (25 patients, 12 weeks, randomised placebo-controlled) was well tolerated with signs of improved physical activity; FDA Fast Track granted. <b>A 2026/09/03 disclosure states an IND application for a global pivotal Phase 3 was formally submitted to the FDA</b>, planning to enrol around 200 patients globally, with actual execution to be adjusted alongside future international licensing strategy; under standard IND review, if the FDA requests no additional information within its 30-day window, the US Phase 3 could start as early as Q4 2026. US development and commercialisation are licensed to Avenue Therapeutics. <b>FDA orphan designation covers SBMA, Huntington's disease and SCA</b>, though clinical work to date is in SBMA only. ⚠️ This IND filing is reported only by Taiwanese financial media (Commercial Times / Economic Daily News / Anue, relaying AnnJi's own disclosure); no corroborating primary English-language press release (company site, PR Newswire) was found.",
       "threatLabel": "Low (adjacent, Taiwan)",
       "links": [
         {
           "label": "2026 KDA conference Ph3 design ↗",
           "url": "https://www.prnewswire.com/news-releases/empowering-the-sbma-community-annji-highlights-patient--family-forum-and-shares-aj201-scientific-advancement-at-the-2026-kda-conference-302704676.html"
+        },
+        {
+          "label": "AJ201 Ph3 IND filed with FDA ↗",
+          "url": "https://www.ctee.com.tw/news/20260903701673-430504"
         },
         {
           "label": "Avenue licence ↗",

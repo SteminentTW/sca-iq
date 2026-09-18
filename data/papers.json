@@ -1,5 +1,24 @@
 [
   {
+    "id": "pubmed:42755372",
+    "date": "2026-09-18",
+    "dateDisplay": "2026/09/18",
+    "title": "PolyQ-expanded ataxin-3 is associated with mitochondrial alterations in Machado-Joseph disease",
+    "journal": "Disease Models & Mechanisms 19(9):dmm052757（2026/09/18 電子先行）· Simó I、Robinson KJ、Kam JY、Wang Y、Kuriakose A、Paric E、Cheng F、Potapenko A、An Y、Watchon M、Lee A、Laird AS · Macquarie University Motor Neuron Disease Research Centre（澳洲）· doi:10.1242/dmm.052757",
+    "tag": "SCA3／MJD · 粒線體功能失調 · 多模型 · 機轉",
+    "note": "→ <b>跨斑馬魚、小鼠與神經元培養三種模型的粒線體機轉研究</b>：澳洲 Macquarie 大學團隊在<b>轉基因斑馬魚、CMVMJD135 小鼠與神經元培養</b>中檢視 Machado-Joseph 病（SCA3）的粒線體變化。<b>腦組織分析顯示粒線體結構異常與氧化磷酸化相關蛋白量改變是各模型的共同特徵</b>；神經元培養確認粒線體形態改變；斑馬魚模型顯示<b>電子傳遞鏈蛋白量改變、對 rotenone 暴露的易感性增加</b>；<b>複合體 II 相關的失調在各實驗中一致出現</b>，作者提出可能為治療標的。→ <b>為什麼放進雷達</b>：SCA3 是本社 Stemchymal® 的核心適應症之一；粒線體氧化磷酸化異常屬 polyQ SCA 常見的下游機轉假說，本篇以多模型交叉驗證加強其證據基礎，惟<b>與 Stemchymal 的 MSC 免疫調節機轉無直接重疊，本站不推論療效關聯</b>。⚠️ <b>全為細胞與動物模型、無人體資料</b>；未提出任何候選藥物或臨床時程；複合體 II 標的目前<b>無已知對應臨床候選藥</b>。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42755372/",
+    "urlLabel": "論文 ↗ PubMed 42755372",
+    "en": {
+      "tag": "SCA3/MJD · mitochondrial dysfunction · multi-model · mechanism",
+      "journal": "Disease Models & Mechanisms 19(9):dmm052757 (Epub 2026/09/18) · Simó I, Robinson KJ, Kam JY, Wang Y, Kuriakose A, Paric E, Cheng F, Potapenko A, An Y, Watchon M, Lee A, Laird AS · Motor Neuron Disease Research Centre, Macquarie University, Australia · doi:10.1242/dmm.052757",
+      "note": "→ <b>A mitochondrial mechanism study spanning three models — zebrafish, mice and neuronal culture</b>: a Macquarie University group examined mitochondrial changes in Machado-Joseph disease (SCA3) using <b>transgenic zebrafish, CMVMJD135 mice and neuronal cultures</b>. <b>Brain tissue analysis found mitochondrial structural abnormalities and altered abundance of oxidative-phosphorylation-associated proteins as a shared feature across models</b>; neuronal cultures confirmed altered mitochondrial morphology; the zebrafish model showed <b>altered electron transport chain protein levels and increased vulnerability to rotenone exposure</b>; and <b>complex II-linked dysregulation appeared consistently across experiments</b>, which the authors propose as a possible therapeutic target. → <b>Why it is on the radar</b>: SCA3 is one of Stemchymal®'s core indications; mitochondrial oxidative-phosphorylation dysfunction is a commonly hypothesised downstream mechanism in polyQ SCA, and this paper strengthens that evidence base across multiple models, though <b>it has no direct overlap with Stemchymal's MSC immunomodulatory mechanism, and this site draws no inference about efficacy relevance</b>. ⚠️ <b>Entirely cell and animal model work, with no human data</b>; no candidate drug or clinical timeline is proposed; the complex II target currently has <b>no known clinical candidate</b>.",
+      "urlLabel": "Paper ↗ PubMed 42755372"
+    }
+  },
+  {
     "id": "pubmed:42742595",
     "date": "2026-09-15",
     "dateDisplay": "2026/09/15",

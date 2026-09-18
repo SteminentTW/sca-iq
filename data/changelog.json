@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-18",
+    "dateDisplay": "2026/09/18",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則科學文獻＋補收 1 筆競品里程碑（含競品全景／公司卡更新）；無新試驗、無試驗狀態異動。</b><b>①文獻</b>：<b>SCA3／Machado-Joseph 病粒線體功能失調的多模型研究</b>（Disease Models &amp; Mechanisms，2026/09/18 電子先行，澳洲 Macquarie 大學 Simó I 等，doi:10.1242/dmm.052757）——跨<b>斑馬魚、CMVMJD135 小鼠與神經元培養</b>三種模型，發現<b>粒線體結構異常與氧化磷酸化蛋白量改變</b>為共同特徵，<b>複合體 II 相關失調</b>一致出現，作者提出潛在治療標的。⚠️ 全為細胞與動物模型、無人體資料、無候選藥物。<b>②主動補查發現此前遺漏的競品里程碑</b>：<b>安基生技 AJ201（SBMA）於 2026/09/03 公告已正式向美國 FDA 提出 Ph3 樞紐試驗 IND 申請</b>（規劃收案約 200 人，若標準 30 天審查無需補件，最快 2026 Q4 啟動），此前 15 天的每日掃描（近期新聞搜尋）均未撈到此則台灣財經媒體公告，本次主動重新查證後補收——已同步更新 <b>competitors.json（安基筆）</b>、<b>companies.json（安基公司卡）</b>與 <b>news.json</b>。⚠️ 僅見台灣財經媒體轉載安基公告，未查得公司官網或英文一手新聞稿佐證。<b>本日其餘掃描結果</b>：CT.gov 五組適應症查詢窗內<b>無平台未收錄的新療法試驗、亦無追蹤中資產狀態異動</b>（最近更新仍為 09/08 IntraBio NCT07221292，已記錄）；SBMA 組仍被前列腺癌試驗灌入，逐筆排除。PubMed 窗內另兩筆<b>不予收錄</b>：ZFHX3 GGC 擴增於 ALS（PubMed 42736322，09/15 已排除）；BMJ 病例報告一名 A-T 兒童併眼眶淋巴瘤呈現前隔膜蜂窩組織炎（PubMed 42754351）為腫瘤併發症個案、非療法內容，排除。公司新聞面其餘窗內<b>無新的一手公開里程碑</b>：troriluzole 仍停在 2025-11-04 CRL；Steminent／REPROCELL 仍為日本上市許可申請審查中；Vico、Arrowhead／Sarepta、PTC、Larimar、Lexeo 窗內無新公告。<b>待觀察</b>：IntraBio levacetylleucine A-T sNDA PDUFA 行動日 <b>2026/09/19</b>（明日）。",
+    "link": {
+      "label": "詳見 競品全景 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added and one previously missed competitor milestone back-filled (with updates to the competitive landscape and company card); no new trials and no trial status changes.</b> <b>① Paper</b>: <b>a multi-model study of mitochondrial dysfunction in SCA3/Machado-Joseph disease</b> (Disease Models &amp; Mechanisms, Epub 2026/09/18; Simó I et al., Macquarie University, Australia; doi:10.1242/dmm.052757) — across <b>transgenic zebrafish, CMVMJD135 mice and neuronal culture</b>, the group found <b>mitochondrial structural abnormalities and altered oxidative-phosphorylation protein abundance</b> as a shared feature, with <b>complex II-linked dysregulation</b> appearing consistently, which the authors propose as a possible therapeutic target. ⚠️ Entirely cell and animal model work, with no human data and no candidate drug. <b>② A previously missed competitor milestone was found on a deliberate re-check</b>: <b>AnnJi Biotech disclosed on 2026/09/03 that it had formally filed an IND with the FDA for a Phase 3 pivotal trial of AJ201 in SBMA</b> (planning to enrol around 200 patients; if the FDA's standard 30-day review requests nothing further, the US Phase 3 could start as early as Q4 2026). None of the past 15 days of daily scans (recency-windowed news searches) had surfaced this Taiwanese financial-media disclosure; it was found and recorded on a deliberate re-check today, with updates made to <b>competitors.json (the AnnJi entry)</b>, <b>companies.json (the AnnJi company card)</b> and <b>news.json</b>. ⚠️ Reported only by Taiwanese financial media relaying AnnJi's own disclosure; no corroborating company website statement or English-language press release was found. <b>The rest of today's scan</b>: the five ClinicalTrials.gov indication queries surfaced <b>no therapeutic trial not already on the platform and no status change among tracked assets</b> (the most recent update remains IntraBio's NCT07221292 of 09/08, already recorded); the SBMA query remains flooded with prostate cancer trials, each excluded. Two further PubMed hits were <b>not recorded</b>: ZFHX3 GGC repeat expansions in ALS (PubMed 42736322, already excluded on 09/15); a BMJ case report of orbital lymphoma presenting as preseptal cellulitis in a child with A-T (PubMed 42754351), a tumour-complication case with no therapeutic content, excluded. On the company news side there was <b>no other new first-party public milestone in the window</b>: troriluzole remains at the CRL of 2025-11-04; Steminent/REPROCELL remain under review for Japanese marketing authorisation; and Vico, Arrowhead/Sarepta, PTC, Larimar and Lexeo issued nothing new. <b>On watch</b>: the PDUFA action date for IntraBio's levacetylleucine sNDA in A-T is <b>2026/09/19</b> (tomorrow).",
+      "linkLabel": "See Competitive Landscape ↗"
+    }
+  },
+  {
     "date": "2026-09-15",
     "dateDisplay": "2026/09/15",
     "tag": "每日掃描",

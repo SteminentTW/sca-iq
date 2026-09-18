@@ -461,7 +461,7 @@
     "country": "台灣 Taiwan",
     "ticker": "未上市 Private",
     "mechanism": "小分子（降解突變雄性素受體、活化 Nrf1/Nrf2）",
-    "pipeline": "AJ201（rosolutamide）｜SBMA：Ph1b/2a 完成、規劃全球 Ph3；FDA 孤兒藥資格另含 HD 與 SCA",
+    "pipeline": "AJ201（rosolutamide）｜SBMA：Ph1b/2a 完成，2026/09/03 公告已向 FDA 送件 Ph3 樞紐試驗 IND（規劃收案約 200 人）；FDA 孤兒藥資格另含 HD 與 SCA",
     "insight": "台灣本土的 polyQ 玩家。臨床目前僅在 SBMA（甘迺迪症），但孤兒藥資格已涵蓋 SCA，是最可能從鄰近適應症切入 SCA 的在地公司。美國權利已授權 Avenue Therapeutics。⚠️ 但美國權利處於爭議中：Avenue 於 2025-03 向國際仲裁法院聲請緊急禁制令，要求禁止安基進一步分析 AJ201 的 1b/2a 檢體，安基則主張對方一再拖延解盲時程、未盡合理商業努力。",
     "threat": "low",
     "url": "https://www.ajpharm.com/",
@@ -478,6 +478,10 @@
       {
         "date": "2026",
         "text": "KDA 年會公布全球多中心 Ph3 初步設計；獲 FDA 快速通道"
+      },
+      {
+        "date": "2026/09",
+        "text": "公告已向美國 FDA 提出 SBMA 全球 Ph3 樞紐試驗 IND 申請（規劃收案約 200 人）；若標準 30 天審查無需補件，最快 2026 Q4 啟動美國三期。僅見台灣財經媒體轉載安基公告，未見一手英文新聞稿"
       }
     ],
     "en": {
@@ -486,7 +490,7 @@
       "country": "Taiwan",
       "ticker": "Private",
       "mechanism": "Small molecule (degrades mutant androgen receptor; activates Nrf1/Nrf2)",
-      "pipeline": "AJ201 (rosolutamide) | SBMA: Ph1b/2a complete, global Ph3 planned; FDA orphan designation also covers HD and SCA",
+      "pipeline": "AJ201 (rosolutamide) | SBMA: Ph1b/2a complete; a 2026/09/03 disclosure states an IND for a global pivotal Phase 3 was filed with the FDA (~200 patients planned); FDA orphan designation also covers HD and SCA",
       "insight": "A Taiwan-based polyQ player. Clinical work is in SBMA (Kennedy's disease) only, but its orphan designation already covers SCA, making it the local company most likely to enter SCA from an adjacent indication. US rights are licensed to Avenue Therapeutics. Note that the US rights are in dispute: in March 2025 Avenue sought an emergency injunction from the International Court of Arbitration to bar AnnJi from further analysis of the AJ201 Ph1b/2a samples, while AnnJi contends the licensee repeatedly delayed the unblinding schedule and failed to make reasonable commercial efforts.",
       "updates": [
         {
@@ -496,6 +500,10 @@
         {
           "date": "2026",
           "text": "Presented a preliminary global Ph3 design at the KDA conference; received FDA Fast Track"
+        },
+        {
+          "date": "2026/09",
+          "text": "Disclosed that an IND for a global pivotal Phase 3 in SBMA was filed with the FDA (~200 patients planned); if the standard 30-day review requests nothing further, the US Phase 3 could start as early as Q4 2026. Reported only by Taiwanese financial media relaying AnnJi's own disclosure; no primary English-language release found"
         }
       ]
     },
