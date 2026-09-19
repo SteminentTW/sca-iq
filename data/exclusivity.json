@@ -132,6 +132,22 @@
     }
   },
   {
+    "id": "intrabio-at-us",
+    "competitor": "IntraBio",
+    "asset": "Levacetylleucine（AQNEURSA®）",
+    "region": "美國 FDA",
+    "type": "孤兒藥資格 · 市場獨占（A-T 適應症）",
+    "status": "2026/09/19 核准同日啟動 7 年市場獨占（估計至 2033/09）",
+    "note": "→ AQNEURSA 於 A-T（毛細血管擴張性共濟失調）適應症持有 FDA 孤兒藥資格，2026/09/19 核准即為該適應症之首次上市核准，依法同步啟動 7 年孤兒藥市場獨占（估計至 2033/09，未計任何延長）。獨占範圍限 A-T 這一適應症，不涵蓋 CACNA1A／SCA6（該適應症仍審查中、尚未核准，獨占尚未啟動）。與本社無直接重疊（本社未鎖定 A-T），但顯示該分子在共濟失調圈層的法規節奏已領先。",
+    "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder",
+    "en": {
+      "region": "US FDA",
+      "type": "Orphan designation · market exclusivity (A-T indication)",
+      "status": "7-year market exclusivity began on the 2026/09/19 approval date (estimated to 2033/09)",
+      "note": "→ AQNEURSA holds FDA orphan drug designation for A-T (ataxia-telangiectasia); the 2026/09/19 approval is the first marketing approval for that indication, which under US law starts the 7-year orphan exclusivity clock (estimated to 2033/09, before any extension). The exclusivity covers only the A-T indication — it does not extend to CACNA1A/SCA6, which remains under review and unapproved, so exclusivity there has not started. No direct overlap with Steminent (we do not target A-T), but it shows this molecule's regulatory pace in the ataxia field is now ahead of ours."
+    }
+  },
+  {
     "id": "biogen-excl",
     "competitor": "Biogen / Ionis",
     "asset": "BIIB132 (ION260)",
