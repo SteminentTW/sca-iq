@@ -1,5 +1,51 @@
 [
   {
+    "id": "intrabio-at-approval-2026-09",
+    "date": "2026-09-19",
+    "dateDisplay": "2026/09",
+    "competitor": "IntraBio",
+    "drug": "Levacetylleucine（IB1001／AQNEURSA®）",
+    "trial": "NCT06673056（IB1001-303）· Ph3 樞紐",
+    "sourceType": "登錄",
+    "level": "hot",
+    "readout": "<b>2026/09/19（PDUFA 行動日當天）FDA 核准 AQNEURSA® 用於治療 A-T（毛細血管擴張性共濟失調，體重≥15公斤之成人與兒童）的共濟失調症狀</b>，為<b>全球第一個 A-T 核准療法</b>。核准依據為樞紐三期 IB1001-303（4 歲以上基因確診 A-T、n=60、12 週隨機雙盲安慰劑對照交叉，<b>主要指標 SARA</b>），FDA 公告與公司均稱達主要指標與全部關鍵次要指標。⚠️ <b>FDA 核准公告未附具體數值、p 值或效果量</b>；EMA 端的變更申請（2026/06 遞交）仍在審查中，尚未核准。",
+    "implication": "→ 這是<b>共濟失調圈層第一個以 SARA 為註冊主要指標獲 FDA 核准的案子</b>，替「SARA 可作為註冊終點」建立監管先例，對本社以 SARA 為主要指標的 SCA 開發路徑是有利的外部背書；但同一分子的 IB1001-304 明列 SCA6、與本社日本申請適應症正面重疊，此次 A-T 率先核准使其在共濟失調領域的醫師熟悉度與給付路徑已領先本社。",
+    "links": [
+      {
+        "label": "FDA 核准公告 ↗ 2026/09/19",
+        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder"
+      },
+      {
+        "label": "報導 ↗ NeurologyLive",
+        "url": "https://www.neurologylive.com/view/fda-approves-aqneursa-ataxia-telangiectasia"
+      },
+      {
+        "label": "樞紐試驗登錄 ↗ NCT06673056",
+        "url": "https://clinicaltrials.gov/study/NCT06673056"
+      }
+    ],
+    "en": {
+      "trial": "NCT06673056 (IB1001-303) · pivotal Ph3",
+      "sourceType": "Registry",
+      "readout": "<b>On 2026/09/19 (its PDUFA action date), the FDA approved AQNEURSA® to treat ataxia symptoms in A-T (ataxia-telangiectasia, adults and children ≥15 kg)</b>, the <b>first approved therapy for A-T anywhere</b>. The approval rests on the pivotal Phase 3 IB1001-303 (genetically confirmed A-T patients aged 4+, n=60, 12-week randomised double-blind placebo-controlled crossover, <b>primary endpoint SARA</b>); both the FDA announcement and the company state it met the primary endpoint and all key secondary endpoints. ⚠️ <b>The FDA announcement includes no specific figures, p-values or effect sizes</b>; the EMA variation application (filed 2026/06) remains under review and has not been approved.",
+      "implication": "→ This is <b>the first programme in the ataxia ring to be approved by the FDA with SARA as its registrational primary endpoint</b>, establishing the precedent that SARA can serve as a registrational endpoint — external validation that favours our own SARA-based SCA development path. At the same time, the same company's IB1001-304 explicitly lists SCA6 and overlaps the indication in our Japan filing directly, and having secured the A-T approval first, it now leads us in physician familiarity and reimbursement pathway across the ataxia field.",
+      "links": [
+        {
+          "label": "FDA approval announcement ↗ 2026/09/19",
+          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder"
+        },
+        {
+          "label": "Coverage ↗ NeurologyLive",
+          "url": "https://www.neurologylive.com/view/fda-approves-aqneursa-ataxia-telangiectasia"
+        },
+        {
+          "label": "Pivotal trial registration ↗ NCT06673056",
+          "url": "https://clinicaltrials.gov/study/NCT06673056"
+        }
+      ]
+    }
+  },
+  {
     "id": "xiangya-nbp-sca3-rct-2026-09",
     "date": "2026-09-15",
     "dateDisplay": "2026/09",

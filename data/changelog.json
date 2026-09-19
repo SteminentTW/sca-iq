@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-19",
+    "dateDisplay": "2026/09/19",
+    "tag": "每日掃描",
+    "level": "hot",
+    "body": "<b>⚠️ 網路存取異常：今日 ClinicalTrials.gov 與 PubMed／NCBI（eutils、pubmed.ncbi.nlm.nih.gov）在雲端執行環境的網路層被組織層級 egress 政策整段擋下（HTTP 403，非單一查詢逾時），本日<b>無法執行 CT.gov 五組適應症查詢、主動廣掃、已知資產藥名點名查核，也無法用 PubMed E-utilities 查文獻</b>；改以 WebSearch 作為唯一替代管道逐一查核追蹤中資產（Stemchymal、Troriluzole、VO659、ARO-ATXN2、BIIB132/ION260、AJ201）近況，其餘皆與平台既有記錄一致、無新事實，<b>本日未新增任何科學文獻</b>（非無新文獻，而是掃描管道當日不可用）。</b><b>新增 1 筆試驗結果讀出</b>：<b>IntraBio 的 levacetylleucine（AQNEURSA®）於 2026/09/19（PDUFA 行動日當天）獲 FDA 核准</b>，用於治療 A-T（毛細血管擴張性共濟失調）的共濟失調症狀——<b>全球第一個 A-T 核准療法</b>，也是共濟失調圈層第一個以 SARA 為註冊主要指標獲准的案子；已同步更新 <b>competitors.json（IntraBio 筆）</b>、<b>companies.json（公司卡）</b>、<b>results.json</b>與<b>news.json</b>（取代先前的 PDUFA 待觀察條目）。⚠️ FDA 公告未附具體數值或 p 值。<b>本日判斷</b>：因掃描管道受限，今日結果不能代表「確定無其他新進展」，僅代表在可用管道（WebSearch）下未查得其他近 7 天內的可驗證新事實；此限制若持續，將於後續每日條目持續註明。",
+    "link": {
+      "label": "詳見 競品全景 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>⚠️ Network access disruption: today ClinicalTrials.gov and PubMed/NCBI (eutils, pubmed.ncbi.nlm.nih.gov) were both blocked outright at the network layer of the cloud execution environment by an organisation-level egress policy (HTTP 403, not an isolated timeout). As a result, today's run <b>could not execute the five CT.gov indication queries, the broad new-competitor scan, or the known-asset drug-name roll call, and could not query PubMed via E-utilities</b>; WebSearch was used as the sole fallback to check the status of tracked assets (Stemchymal, Troriluzole, VO659, ARO-ATXN2, BIIB132/ION260, AJ201) one by one. Everything found was consistent with what is already recorded, with no new facts, and <b>no paper was added today</b> (not because there was none, but because the literature-scanning channel was unavailable).</b> <b>One trial-result readout was added</b>: <b>IntraBio's levacetylleucine (AQNEURSA®) was approved by the FDA on 2026/09/19 (its PDUFA action date)</b> to treat ataxia symptoms in A-T (ataxia-telangiectasia) — the <b>first approved therapy for A-T anywhere</b>, and the first filing in the ataxia ring to be approved with SARA as its registrational primary endpoint; updates were made to <b>competitors.json (the IntraBio entry)</b>, <b>companies.json (its company card)</b>, <b>results.json</b> and <b>news.json</b> (replacing the earlier PDUFA watch item). ⚠️ The FDA announcement includes no specific figures or p-values. <b>Note on today's scan</b>: given the restricted access, today's result cannot be read as \"confirmed no other new developments\" — only that no other verifiable fact from the past 7 days was found through the one channel (WebSearch) that was available; if this restriction persists, it will continue to be flagged in subsequent daily entries.",
+      "linkLabel": "See Competitive Landscape ↗"
+    }
+  },
+  {
     "date": "2026-09-18",
     "dateDisplay": "2026/09/18",
     "tag": "每日掃描",
