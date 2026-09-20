@@ -684,5 +684,22 @@
       "status": "<b>Added by the weekly roll-call check</b> (<b>not previously registered on this platform</b> — its last registry update was 2022-10-13, so a date-sorted disease-condition sweep can never reach it in the top 40; only a drug-name query retrieves it). The <b>FRAMES</b> trial: double-blind, placebo-controlled, <b>39 patients actually enrolled</b> across Belgium, France, Germany and Spain, running 2019/03/26 to 2020/09/14, status <b>completed</b>. <b>Primary endpoint = change from baseline at week 48 in C2–C3 cervical spinal-cord cross-sectional area on MRI</b>. <b>No results are posted on CT.gov</b>; the company's December 2020 announcement and the 2022 Neurology publication both report the <b>primary endpoint (spinal-cord area) as not significant / inconclusive</b>. What the company claims sits in the secondary endpoints — <b>reduced decline in upper-limb ataxia</b> plus changes in frataxin-pathway and bioenergetic markers — with weight gain and oedema the main safety findings and no cardiac risk signal detected. ⚠️ <b>n=39 is proof-of-concept scale and the primary endpoint failed</b>; the positive secondary readings are <b>company claims and post-hoc analysis</b>, not proof of efficacy. Development of this asset now centres on X-linked adrenoleukodystrophy (NCT05819866, Ph3), and no follow-on pivotal trial in Friedreich's ataxia is registered",
       "sponsor": "Minoryx Therapeutics (Spain)"
     }
+  },
+  {
+    "nct": "NCT05485987",
+    "drug": "Vatiquinone（PTC743，口服）",
+    "mechanism": "口服小分子<br>15-脂氧合酶（15-LOX）抑制劑<br>抗氧化／粒線體氧化壓力調節",
+    "phase": "Ph2",
+    "status": "<b>網路恢復後以 CT.gov API 補做之正式版已知資產點名查核發現</b>（<b>此前未在本平台登錄</b>——本試驗最後更新停在 2025-08-22、以疾病條件排序的日掃排不進前 40 名，只有用藥名查詢才撈得到）。<b>兒童 PK／安全性試驗</b>，主辦為 PTC Therapeutics，<b>實收僅 5 人</b>，收案對象為 <b>7 歲以下 Friedreich's Ataxia 病童</b>，2022/10/12 起始、主要完成日 2024/08/29，狀態<b>已完成</b>。<b>主要目的為評估 vatiquinone 於低齡病童的藥物動力學與安全性</b>，非療效驗證。⚠️ <b>樣本數僅 5 人，屬 PK 橋接性質，不構成療效證據</b>；<b>CT.gov 上未見結果張貼</b>，也未查得對應公司公告或論文；本筆與同公司另兩筆試驗（NCT05515536 長期安全性、NCT07681713 PROVE-FA 療效）互為補充，顯示 PTC 在向低齡族群擴充 vatiquinone 給藥人群的規劃",
+    "sponsor": "PTC Therapeutics（美國）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT05485987",
+    "en": {
+      "drug": "Vatiquinone (PTC743, oral)",
+      "mechanism": "Oral small molecule<br>15-lipoxygenase (15-LOX) inhibitor<br>antioxidant / mitochondrial oxidative-stress modulation",
+      "phase": "Ph2",
+      "status": "<b>Found by the formal known-asset roll call re-run via the CT.gov API once network access recovered</b> (<b>not previously registered on this platform</b> — its last registry update was 2025-08-22, so a date-sorted disease-condition sweep can never reach it in the top 40; only a drug-name query retrieves it). A <b>pediatric PK/safety study</b> sponsored by PTC Therapeutics, with only <b>5 patients actually enrolled</b>, in <b>Friedreich's ataxia patients under age 7</b>; started 2022/10/12 with primary completion 2024/08/29, status <b>completed</b>. <b>Its purpose was to assess vatiquinone's pharmacokinetics and safety in this younger age group</b>, not to demonstrate efficacy. ⚠️ <b>n=5 is a PK-bridging study and does not constitute efficacy evidence</b>; <b>no results are posted on CT.gov</b>, and no corresponding company announcement or publication could be found. This entry complements the company's other two trials (NCT05515536, long-term safety; NCT07681713, the PROVE-FA efficacy study), together indicating PTC's plan to extend vatiquinone dosing down to a younger patient population",
+      "sponsor": "PTC Therapeutics (USA)"
+    }
   }
 ]

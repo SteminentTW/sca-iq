@@ -134,5 +134,30 @@
       "status": "Development discontinued (2023)",
       "note": "→ BIIB132 was abandoned in 2023; the SCA3 ASO IP (disclosed as held by Ionis) is now a defensive or potentially re-licensable asset. Note that Roche also holds ATXN3 ASO patents (TW202113082A, priority 2019) — the ATXN3 ASO space has more than one player."
     }
+  },
+  {
+    "id": "us10905670",
+    "competitor": "IntraBio",
+    "asset": "Levacetylleucine（AQNEURSA®）",
+    "number": "US 10,905,670 B2",
+    "title": "Acetyl-leucine or a pharmaceutically acceptable salt thereof for improved mobility and cognitive function（N-乙醯白胺酸改善運動與認知功能之組成／用途）",
+    "ptype": "組成／用途專利",
+    "assignee": "Intrabio Ltd.",
+    "filed": "2017-04-19（優先權 2016-04-19）",
+    "status": "已核准（2021-02-02）",
+    "expiry": "約 2037-04-19（估計，申請日＋20 年，未計任何專利期延長／調整）",
+    "note": "→ 逾期未補之月度維護：AQNEURSA® 於 A-T 適應症 2026/09/19 甫獲 FDA 核准（見 results.json／exclusivity.json），本筆為其核心組成／用途專利，逐頁核對 Google Patents 頁面確認權利人為 Intrabio Ltd.；公司另持有多件同家族專利（如涵蓋 EP／CN／JP／KR／AU／CA 等國家階段），本次僅核對此件美國核准案，其餘未逐一查證，不臆測。",
+    "url": "https://patents.google.com/patent/US10905670B2/en",
+    "en": {
+      "competitor": "IntraBio",
+      "asset": "Levacetylleucine (AQNEURSA®)",
+      "title": "Acetyl-leucine or a pharmaceutically acceptable salt thereof for improved mobility and cognitive function",
+      "ptype": "Composition / use patent",
+      "assignee": "Intrabio Ltd.",
+      "filed": "2017-04-19 (priority 2016-04-19)",
+      "status": "Granted (2021-02-02)",
+      "expiry": "~2037-04-19 (estimate, filing date + 20 years, excluding any term extension/adjustment)",
+      "note": "→ Overdue monthly maintenance item: AQNEURSA® was just approved by the FDA for the A-T indication on 2026/09/19 (see results.json/exclusivity.json). This is its core composition/use patent; the assignee (Intrabio Ltd.) was confirmed by checking the Google Patents page directly. The company holds other family members (national-phase filings covering the EP/CN/JP/KR/AU/CA etc.) that were not individually verified this round — not guessed at."
+    }
   }
 ]
