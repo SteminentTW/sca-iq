@@ -9,8 +9,8 @@
 ## 平台架構
 
 兩個獨立 GitHub repo，你（routine）會拿到兩者的 clone：
-- **SCA-IQ**：`richlovegod/sca-iq`，公開網址 https://richlovegod.github.io/sca-iq/
-- **MSA-IQ**：`richlovegod/msa-iq`，公開網址 https://richlovegod.github.io/msa-iq/
+- **SCA-IQ**：`SteminentTW/sca-iq`，公開網址 https://steminenttw.github.io/sca-iq/
+- **MSA-IQ**：`SteminentTW/msa-iq`，公開網址 https://steminenttw.github.io/msa-iq/
 
 每個 repo 內：`index.html`＝呈現層（**不要改**），`data/*.json`＝資料層（**你每天只改這裡**）。網頁自動讀取 `data/` 動態渲染（排序、去重、搜尋）。**你的工作＝往對應 JSON 加/改一筆＋更新 meta.json，然後 commit+push。完全不用碰 HTML。**
 
@@ -176,9 +176,9 @@ git status -sb
 🔴 **推完一定要驗「公開網址真的變了」**（`git status -sb` ahead 0 不等於網站已更新，只證明commit送到GitHub，不證明Pages已發佈）：
 
 ```bash
-curl -s "https://richlovegod.github.io/sca-iq/data/meta.json?cb=1"
+curl -s "https://steminenttw.github.io/sca-iq/data/meta.json?cb=1"
 ```
-（MSA-IQ驗 `https://richlovegod.github.io/msa-iq/data/meta.json?cb=1`；`?cb=` 隨便換數字繞快取）
+（MSA-IQ驗 `https://steminenttw.github.io/msa-iq/data/meta.json?cb=1`；`?cb=` 隨便換數字繞快取）
 
 看到 `lastScan` 是今天才算真的發布完成。沒馬上變是正常的，等1-2分鐘再打一次；超過10分鐘還是舊日期，就在 `changelog.json` 記一筆「當日更新延後上線」。**不要用 `gh api .../pages/builds` 判斷成敗——那個API不可靠，唯一可信的是直接curl公開網址看檔案內容。**
 
