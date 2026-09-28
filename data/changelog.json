@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-28",
+    "dateDisplay": "2026/09/28",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>⚠️ 例行掃描中斷 8 天後恢復（上次真正發布為 2026-09-20）。</b>依手冊 §0 規則，補跑上限 3 天、缺口更長只掃最近 3 天：本次以 PubMed reldate 拉長至 10 天（涵蓋 2026-09-18 起）、CT.gov 五組適應症查詢＋主動發現廣掃＋§1b-2 已知資產（19 項藥名）點名查核皆改用 <code>sort=LastUpdatePostDate:desc</code> 全量比對既有 43 筆試驗鍵值（非僅近期），公司新聞面則以 WebSearch 查核 Stemchymal／Troriluzole／VO659／ARO-ATXN2／Levacetylleucine／Nomlabofusp／DT-216P2／Larimar BLA 等近期動態。<b>2026-09-21～09-25 這 5 天未逐日回補（缺口未回補）</b>：新聞類掃描僅能查得目前搜尋引擎索引之最新結果，無法保證捕捉到該窗內、現已被更新內容覆蓋的獨立事件；若該窗內另有未被本次查核覆蓋之公司公告，暫無法排除。<b>本次新增 3 篇文獻</b>（PubMed 42768770 SCA48/STUB1 遺傳修飾因子世代研究、42776440 SCA2 神經保護轉譯綜述、42799858 SCA36/XDP 機轉綜述——皆為機轉／綜述性質，無候選藥物或臨床時程）。<b>核對確認、非新增</b>：IntraBio levacetylleucine 於 A-T 適應症之 FDA 核准（2026/09/19）與 REPROCELL Stemchymal 日本 PMDA 申請（2026/06/24）<b>均已於平台既有記錄中</b>（competitors.json／results.json／news.json／companies.json），未重複建檔。CT.gov 五組適應症＋亞型／基因標的廣掃與 19 項已知資產藥名點名查核<b>均未發現平台未收錄之新試驗或新競品</b>（含逐筆排除 SBMA 查詢中混入之前列腺癌試驗）。events.json（ICAR 2026 等）、patents.json、exclusivity.json 本次查核後<b>維持不動</b>：未查得任何新的、可查證的、近期未收錄事實。weekNewCount 隨新的一週重新計數為 3。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>⚠️ Routine scanning resumed after an 8-day gap (the last genuine publish was 2026-09-20).</b> Per manual §0, backfill is capped at 3 days — beyond that, only the most recent 3 days are scanned. This run widened the PubMed reldate to 10 days (covering from 2026-09-18) and re-ran the five CT.gov indication queries plus the broad discovery scan and the §1b-2 known-asset roll call (19 drug names) sorted by <code>LastUpdatePostDate:desc</code>, checked in full against the existing 43 trial keys (not just recent ones); company news was checked via WebSearch for Stemchymal, Troriluzole, VO659, ARO-ATXN2, Levacetylleucine, Nomlabofusp, DT-216P2 and Larimar's BLA progress, among others. <b>The 5 days from 2026-09-21 to 09-25 were not individually backfilled (gap not fully closed)</b>: news-type scanning can only surface what current search-engine indices return today, so a standalone event from within that window that has since been superseded by newer coverage cannot be ruled out as missed. <b>3 papers were added this run</b> (PubMed 42768770, a SCA48/STUB1 genetic-modifier cohort study; 42776440, a SCA2 neuroprotection translational review; 42799858, a SCA36/XDP mechanistic review — all mechanistic/review pieces with no candidate drug or clinical timeline). <b>Confirmed already on record, not newly added</b>: IntraBio's FDA approval of levacetylleucine for A-T (2026/09/19) and REPROCELL's PMDA filing for Stemchymal in Japan (2026/06/24) were both <b>already present</b> in the platform's records (competitors.json, results.json, news.json, companies.json); no duplicate entries were made. The five-indication CT.gov queries, the subtype/gene-target broad scan and the 19-drug-name known-asset roll call <b>found no trial or competitor not already on the platform</b> (including excluding the prostate-cancer trials that the SBMA query mixes in). events.json (ICAR 2026, etc.), patents.json and exclusivity.json were checked and <b>left unchanged</b>: no new, verifiable, not-yet-recorded fact was found. weekNewCount resets to 3 for the new week.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-20",
     "dateDisplay": "2026/09/20",
     "tag": "每日掃描",

@@ -1,5 +1,62 @@
 [
   {
+    "id": "pubmed:42799858",
+    "date": "2026-09-26",
+    "dateDisplay": "2026/09/26",
+    "title": "Insights into X-linked Dystonia-Parkinsonism and Spinocerebellar Ataxia type 36 Through the Lens of Amyotrophic Lateral Sclerosis/Frontotemporal Dementia",
+    "journal": "Molecular Neurobiology 63(1):926（2026/09/26）· Patel M、Das S、Kumari AP、Kumar A · Indian Institute of Technology Indore（印度）· doi:10.1007/s12035-026-06209-9",
+    "tag": "SCA36 · 機轉綜述 · 跨疾病比較（ALS/FTD、XDP）",
+    "note": "→ <b>綜述型論文</b>：將 SCA36、X 染色體連鎖肌張力不全-帕金森氏症（XDP）與 C9orf72-ALS/FTD 三種「六核苷酸重複擴增」疾病並列比較，指出三者雖共享重複序列致病架構，但分子機轉差異大——<b>SCA36 完全不具 TDP-43 病理</b>（此為 C9orf72-ALS/FTD 的病理標記），其致病機轉相對 ALS/FTD 仍<b>缺乏直接實驗證據</b>，作者僅提出「可能」與粒線體功能失調、RNA 毒性等機轉重疊之假說。→ <b>為什麼放進雷達</b>：純屬機轉綜述、無新實驗數據，亦未提出任何候選藥物或臨床時程；與本社 Stemchymal® 或現有追蹤資產均無直接關聯，僅供 SCA36 亞型機轉知識背景參考。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799858/",
+    "urlLabel": "論文 ↗ PubMed 42799858",
+    "en": {
+      "tag": "SCA36 · mechanistic review · cross-disease comparison (ALS/FTD, XDP)",
+      "journal": "Molecular Neurobiology 63(1):926 (2026/09/26) · Patel M, Das S, Kumari AP, Kumar A · Indian Institute of Technology Indore, India · doi:10.1007/s12035-026-06209-9",
+      "note": "→ <b>A review article</b> comparing three 'hexanucleotide repeat disorders' — SCA36, X-linked dystonia-parkinsonism (XDP) and C9orf72-ALS/FTD — that share a repeat-expansion architecture but differ molecularly: <b>SCA36 entirely lacks TDP-43 pathology</b> (the hallmark of C9orf72-ALS/FTD), and its pathogenic mechanism remains <b>comparatively uncharacterised, with limited direct experimental evidence</b>; the authors only propose that overlap with mechanisms such as mitochondrial dysfunction and RNA toxicity is 'possible'. → <b>Why it is on the radar</b>: a pure mechanistic review with no new experimental data and no candidate drug or clinical timeline proposed; it has no direct bearing on Stemchymal® or any tracked asset and is included only as background on SCA36 subtype mechanisms.",
+      "urlLabel": "Paper ↗ PubMed 42799858"
+    }
+  },
+  {
+    "id": "pubmed:42776440",
+    "date": "2026-09-23",
+    "dateDisplay": "2026/09/23",
+    "title": "Neuroprotection Across Cerebellar and Nigrostriatal Degeneration: Translational Insights from Parkinson's Disease to Spinocerebellar Ataxia Type 2",
+    "journal": "Cerebellum 25(5):144（2026/09/23）· Fonseca-Fonseca LA、Fuentes NP、Outeiro TF 等 · CIDEM（古巴）與哥廷根大學等 · doi:10.1007/s12311-026-02086-z",
+    "tag": "SCA2 · 神經保護 · 轉譯綜述（借鏡帕金森氏症）",
+    "note": "→ <b>綜述型論文</b>：主張 SCA2 與帕金森氏症雖分屬小腦與黑質紋狀體退化，但在<b>粒線體功能失調、氧化壓力、蛋白恆定異常、鈣調控異常與神經發炎</b>等分子層次有共通機轉，建議以「多標的、系統性」策略開發神經保護療法、及早期生物標記導向試驗設計。<b>作者揭露利益衝突</b>：兩位作者為<b>JM-20（一項專利化合物）</b>共同發明人／共同創辦人，該化合物<b>目前僅有臨床前資料、尚無人體試驗</b>，作者聲明本文不構成對其療效之背書。→ <b>為什麼放進雷達</b>：純屬觀點性綜述，未提出新實驗數據；與本社 Stemchymal® 之 MSC 機轉無直接重疊，僅供 SCA2 神經保護策略之背景參考，JM-20 因仍處臨床前階段暫不列入競品雷達。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776440/",
+    "urlLabel": "論文 ↗ PubMed 42776440",
+    "en": {
+      "tag": "SCA2 · neuroprotection · translational review (drawing on Parkinson's disease)",
+      "journal": "Cerebellum 25(5):144 (2026/09/23) · Fonseca-Fonseca LA, Fuentes NP, Outeiro TF, et al. · CIDEM (Cuba) and University of Göttingen · doi:10.1007/s12311-026-02086-z",
+      "note": "→ <b>A review article</b> arguing that although SCA2 and Parkinson's disease affect the cerebellar and nigrostriatal circuits respectively, they share molecular mechanisms including <b>mitochondrial dysfunction, oxidative stress, impaired proteostasis, calcium dysregulation and neuroinflammation</b>, and proposing a 'multi-target, systems-based' strategy for neuroprotective therapy development with biomarker-driven trial design. <b>The authors disclose a conflict of interest</b>: two are co-inventors/co-founders behind <b>JM-20</b>, a patented compound that currently has <b>only preclinical data and no human trials</b>; they state the review is not an endorsement of its efficacy. → <b>Why it is on the radar</b>: a purely opinion-based review with no new experimental data; it has no direct overlap with Stemchymal's MSC mechanism and serves only as background on SCA2 neuroprotection strategy — JM-20 is not added to the competitor radar while it remains preclinical.",
+      "urlLabel": "Paper ↗ PubMed 42776440"
+    }
+  },
+  {
+    "id": "pubmed:42768770",
+    "date": "2026-09-21",
+    "dateDisplay": "2026/09/21",
+    "title": "ATXN8OS Intermediate Expansion Acts as a Genetic Modifier in Spinocerebellar Ataxia Type 48 (SCA48/STUB1)",
+    "journal": "Movement Disorders（線上優先刊登，2026/09/21）· Mouraux C、Méreaux JL、Davoine CS 等 · Durr A、Coarelli G（通訊）· Paris Brain Institute-ICM（法國）· doi:10.1002/mds.70534",
+    "tag": "SCA48／STUB1 · 遺傳修飾因子 · 世代研究",
+    "note": "→ <b>法國 SPATAX/BIOMOV 世代研究</b>：篩檢 67 名單套 STUB1 帶因者（SCA48）與 12 名雙套帶因者（SCAR16），發現 <b>7 人（10.5%）帶有 ATXN8OS 中度擴增（84–177 個 CTA/CTG 重複）</b>，此群體發病年齡顯著較早（<b>中位數 28 歲 vs. 47 歲，P<0.001</b>），但臨床表現相似；健康對照與其他顯性共濟失調個案中也各有少數帶有此擴增但無明顯表現型效應。結論：<b>ATXN8OS 中度擴增是 SCA48 的遺傳修飾因子（但非其他共濟失調的修飾因子）</b>，約三分之一 SCA48 個案帶有其他神經退化基因的中度擴增等位基因，可能透過加重多聚麩醯胺負荷、飽和 STUB1 的 E3 泛素連接酶活性而致病。→ <b>為什麼放進雷達</b>：屬遺傳學世代研究、非治療性介入，亦未提出候選藥物；對 SCA48（本站 ring 分類外的罕見亞型）之發病年齡變異提供機轉解釋，供知識庫參考，與本社現有資產無直接關聯。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42768770/",
+    "urlLabel": "論文 ↗ PubMed 42768770",
+    "en": {
+      "tag": "SCA48/STUB1 · genetic modifier · cohort study",
+      "journal": "Movement Disorders (online ahead of print, 2026/09/21) · Mouraux C, Méreaux JL, Davoine CS, et al.; Durr A, Coarelli G (corresponding) · Paris Brain Institute-ICM, France · doi:10.1002/mds.70534",
+      "note": "→ <b>A French SPATAX/BIOMOV cohort study</b> screening 67 monoallelic STUB1 carriers (SCA48) and 12 biallelic carriers (SCAR16), finding <b>7 (10.5%) with an intermediate ATXN8OS expansion (84–177 CTA/CTG repeats)</b>, a group with significantly earlier onset (<b>median age 28 vs. 47 years, P<0.001</b>) but similar clinical presentation; small numbers of healthy controls and other dominant-ataxia cases also carried the expansion without clear phenotypic effect. Conclusion: <b>the ATXN8OS intermediate expansion is a genetic modifier specific to SCA48 (not other ataxias)</b>, and about a third of SCA48 cases carry intermediate expansions in other neurodegeneration genes, possibly acting by increasing polyglutamine burden and saturating STUB1's E3 ubiquitin ligase activity. → <b>Why it is on the radar</b>: a genetics cohort study, not a therapeutic intervention, and it proposes no candidate drug; it offers a mechanistic explanation for onset-age variability in SCA48 (a rare subtype outside this site's ring classification) for knowledge-base reference, with no direct bearing on Steminent's existing assets.",
+      "urlLabel": "Paper ↗ PubMed 42768770"
+    }
+  },
+  {
     "id": "pubmed:42755372",
     "date": "2026-09-18",
     "dateDisplay": "2026/09/18",
