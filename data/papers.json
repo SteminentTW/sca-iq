@@ -1,5 +1,43 @@
 [
   {
+    "id": "pubmed:42806408",
+    "date": "2026-09-29",
+    "dateDisplay": "2026/09/29",
+    "title": "Large-scale genetic profiling of hereditary ataxias in China: implications for a stepwise molecular diagnostic strategy",
+    "journal": "Translational Neurodegeneration 15(1):50（2026/09/29）· Yu JY、Sun YM、Dong Y、Wu JJ、Zhu CH 等 · 浙江大學醫學院附屬第二醫院／復旦大學華山醫院（中國）· doi:10.1186/s40035-026-00584-y · PMC13621623（全文開放）",
+    "tag": "遺傳性共濟失調 · 中國大型世代 · 基因型分布 · 分子診斷策略",
+    "note": "→ <b>中國最新、規模最大的遺傳性共濟失調基因型分布研究之一</b>：長三角兩醫學中心 2008–2024 年回溯建立的 HARMONY 世代，共 <b>2,096 名先證者</b>，分子診斷率達 <b>84.9%</b>（明確診斷 81.8%＋極可能 3.1%）。→ <b>結果（摘要）</b>：基因型分布由少數重複擴增亞型主導——<b>SCA3 佔 59.6%（1,249 例）</b>、SCA2 佔 7.2%（150 例）、SCA1 佔 6.6%（139 例）、SCA6 佔 2.4%（51 例）、疑似 SCA36 佔 1.7%（36 例）、SCA12 佔 1.7%（35 例），其餘為長尾罕見基因型；作者據此提出以長三角地區盛行率為基礎的<b>分級分子診斷演算法</b>。本世代<b>未發現任何 FXN（Friedreich's ataxia）基因擴增陽性個案</b>。→ <b>為什麼放進雷達</b>：本社 Stemchymal® 核心適應症 SCA3／SCA6 在此中國大型世代中分別佔近六成與逾 2%，直接佐證<b>中國患者族群以 SCA3 為壓倒性多數</b>的既有認識，可作為未來市場規模估算與分子診斷路徑設計的參考基準；本文亦再度確認 Friedreich's ataxia 在東亞族群<b>極為罕見</b>，與本社適應症無重疊。⚠️ <b>世代僅來自長三角兩中心、回溯性收案</b>，作者明言診斷演算法以此區域盛行率為基礎，外推至中國其他地區或其他人群需保留；本文<b>不含任何療法或臨床試驗資料</b>。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806408/",
+    "urlLabel": "論文 ↗ PubMed 42806408",
+    "en": {
+      "tag": "Hereditary ataxia · large China cohort · genotype distribution · molecular diagnostic strategy",
+      "journal": "Translational Neurodegeneration 15(1):50 (2026/09/29) · Yu JY, Sun YM, Dong Y, Wu JJ, Zhu CH, et al. · Second Affiliated Hospital, Zhejiang University School of Medicine / Huashan Hospital, Fudan University (China) · doi:10.1186/s40035-026-00584-y · PMC13621623 (open access)",
+      "note": "→ <b>One of the largest recent genotype-distribution studies of hereditary ataxia in China</b>: the HARMONY cohort, retrospectively assembled from two Yangtze River Delta medical centres (2008–2024), comprises <b>2,096 probands</b> with an <b>84.9% molecular diagnostic yield</b> (81.8% definitive plus 3.1% probable). → <b>Results (per the abstract)</b>: the genotype landscape is dominated by a handful of repeat-expansion subtypes — <b>SCA3 accounts for 59.6% (1,249 cases)</b>, SCA2 7.2% (150), SCA1 6.6% (139), SCA6 2.4% (51), putative SCA36 1.7% (36) and SCA12 1.7% (35), with a long tail of rarer genotypes; the authors propose a <b>stepwise molecular diagnostic algorithm</b> based on this region's prevalence pattern. <b>No FXN (Friedreich's ataxia) expansion-positive cases were found</b> in this cohort. → <b>Why it is on the radar</b>: Steminent's core Stemchymal® indications, SCA3 and SCA6, account for close to six in ten and over 2% of this large Chinese cohort respectively, directly corroborating the established view that <b>SCA3 is the overwhelming majority subtype among Chinese patients</b>, and offering a reference point for future market-sizing and molecular-diagnostic pathway design; the paper also reconfirms that Friedreich's ataxia is <b>extremely rare in East Asian populations</b>, with no overlap with Steminent's indications. ⚠️ <b>The cohort is drawn only from two Yangtze River Delta centres and is retrospective</b>; the authors state the diagnostic algorithm is based on this region's prevalence, so extrapolation to other parts of China or other populations warrants caution; the paper <b>contains no therapy or clinical trial data</b>.",
+      "urlLabel": "Paper ↗ PubMed 42806408"
+    }
+  },
+  {
+    "id": "pubmed:42802091",
+    "date": "2026-09-27",
+    "dateDisplay": "2026/09/27",
+    "title": "Multimodal Magnetic Resonance Imaging and Machine Learning Uncovers Distinct Progression Patterns in Friedreich Ataxia",
+    "journal": "Movement Disorders（線上優先刊登，2026/09/27）· Saha S、Georgiou-Karistianis N、Teo V、Corben LA、Szmulewicz DJ、Strike LT、França MC Jr、Rezende TJR、Harding IH · Monash University／Turner Institute for Brain and Mental Health（澳洲）· doi:10.1002/mds.70551",
+    "tag": "Friedreich's ataxia · 多模態 MRI · 機器學習 · 疾病進程異質性 · 試驗設計",
+    "note": "→ <b>以縱貫多模態 MRI 與非監督式機器學習拆解 FA 病程異質性</b>：Monash 大學團隊分析 <b>54 名 FA 病人與 57 名對照</b>的縱貫結構與擴散 MRI，對小腦、腦幹、脊髓的巨觀（體積）與微觀（擴散）退化速率以高斯混合模型分群。→ <b>結果（摘要）</b>：辨識出 <b>4 個統計分群，其中 3 個具生物合理性</b>——分別以<b>微觀結構退化為主</b>、<b>巨觀萎縮為主</b>、<b>幾無可測退化</b>為特徵；前兩型分群以 FA 病人為主、後者以對照為主。<b>GAA1 重複長度是唯一與分群穩定相關的變項</b>（重複數越長者越落入微觀結構退化為主分群）；<b>病程長度與臨床進展速率則未能區分各分群</b>。作者提出此資料驅動架構可用於未來臨床試驗的受試者分層。→ <b>為什麼放進雷達</b>：本站鄰近共濟失調圈層中，<b>Larimar nomlabofusp 三期（NCT07778836）與 Lexeo LX2006（NCT07721025，心肌病變）</b>均以 FA 病人為對象；本文提出的<b>影像進程異質性與其分層方法</b>，是解讀此類試驗終點變異度、設計外部對照與受試者分層時的方法學背景。→ <b>與本社的距離</b>：<b>不含任何療法資料</b>；FA 非本社 polyQ SCA 適應症，方法學（分群方式）與本社所用 SARA 臨床量表亦無直接對應。⚠️ <b>樣本數中等（n=54）、單一橫向縱貫世代、分群穩健性以拔靴法／次抽樣驗證但仍屬回溯性探索性分析</b>，未經前瞻試驗驗證分群之臨床效度。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42802091/",
+    "urlLabel": "論文 ↗ PubMed 42802091",
+    "en": {
+      "tag": "Friedreich's ataxia · multimodal MRI · machine learning · progression heterogeneity · trial design",
+      "journal": "Movement Disorders (online ahead of print, 2026/09/27) · Saha S, Georgiou-Karistianis N, Teo V, Corben LA, Szmulewicz DJ, Strike LT, França MC Jr, Rezende TJR, Harding IH · Turner Institute for Brain and Mental Health, Monash University (Australia) · doi:10.1002/mds.70551",
+      "note": "→ <b>Longitudinal multimodal MRI plus unsupervised machine learning to dissect progression heterogeneity in FA</b>: a Monash University group analysed longitudinal structural and diffusion MRI from <b>54 FA patients and 57 controls</b>, clustering annualised macrostructural (volumetric) and microstructural (diffusion) degeneration rates across cerebellum, brainstem and spinal cord using Gaussian mixture models. → <b>Results (per the abstract)</b>: <b>four statistical clusters were identified, three biologically plausible</b> — characterised respectively by <b>predominant microstructural degeneration</b>, <b>predominant macrostructural atrophy</b>, and <b>minimal measurable progression</b>; the first two patterns were enriched for FA patients and the latter for controls. <b>GAA1 repeat length was the only variable consistently associated with cluster membership</b> (longer expansions tracking with the microstructure-dominant pattern), while <b>disease duration and clinical progression rate did not distinguish the clusters</b>. The authors propose this data-driven framework for future trial participant stratification. → <b>Why it is on the radar</b>: within this site's adjacent-ataxia ring, both <b>Larimar's Phase 3 of nomlabofusp (NCT07778836) and Lexeo's LX2006 (NCT07721025, cardiomyopathy)</b> enrol FA patients; the <b>imaging-progression heterogeneity and stratification approach</b> described here is methodological background for interpreting endpoint variability and designing external comparators or stratification in such trials. → <b>Distance from Steminent</b>: <b>the paper contains no therapy data</b>; FA is not among Steminent's polyQ SCA indications, and the clustering methodology has no direct correspondence to the SARA clinical scale Steminent uses. ⚠️ <b>Moderate sample size (n=54), a single longitudinal cohort, and cluster robustness checked only by bootstrap/subsampling</b> — this remains a retrospective, exploratory analysis whose clinical validity has not been confirmed in a prospective trial.",
+      "urlLabel": "Paper ↗ PubMed 42802091"
+    }
+  },
+  {
     "id": "pubmed:42755372",
     "date": "2026-09-18",
     "dateDisplay": "2026/09/18",

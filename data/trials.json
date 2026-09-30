@@ -1,5 +1,21 @@
 [
   {
+    "nct": "NCT07380165",
+    "drug": "Levacetylleucine（IB1001／AQNEURSA®，口服顆粒）",
+    "mechanism": "小分子<br>口服胺基酸衍生物",
+    "phase": "擴大取得（EAP）",
+    "status": "<b>主動掃描新發現</b>（此前未在本平台登錄）。<b>2026/09/28 登錄上線</b>，狀態為<b>核准供上市使用（APPROVED_FOR_MARKETING）</b>——即擴大取得計畫。IntraBio 提供 levacetylleucine 給<b>基因確診、體重≥15 公斤、無法參加臨床試驗且無滿意替代療法之毛細血管擴張性共濟失調（A-T）病人</b>。⚠️ <b>本計畫非療效試驗、不產生療效數據</b>，是同分子 2026/09/19 於 A-T 適應症獲 FDA 核准後的用藥可近性延伸；登錄未載起始日或收案人數。",
+    "sponsor": "IntraBio Inc",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07380165",
+    "en": {
+      "mechanism": "Small molecule<br>oral amino-acid derivative",
+      "phase": "Expanded access",
+      "status": "<b>Newly found by the proactive sweep</b> (not previously registered on this platform). <b>Posted 2026/09/28</b> with a status of <b>approved for marketing</b> — i.e. an expanded access program. IntraBio is providing levacetylleucine to <b>genetically confirmed patients with ataxia-telangiectasia (A-T), weighing ≥15 kg, who are ineligible for clinical trials and have no satisfactory alternative therapy</b>. ⚠️ <b>This program is not an efficacy trial and generates no efficacy data</b>; it extends drug access following the same molecule's FDA approval in A-T on 2026/09/19. The registration lists no start date or enrolment count.",
+      "sponsor": "IntraBio Inc"
+    }
+  },
+  {
     "nct": "NCT02255435",
     "drug": "Omaveloxolone（RTA 408／BIIB141／SKYCLARYS®，口服）",
     "mechanism": "口服小分子<br>Nrf2 活化劑（抑制 Keap1）<br>對抗氧化壓力與粒線體功能失調",
