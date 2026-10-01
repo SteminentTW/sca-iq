@@ -1,5 +1,21 @@
 [
   {
+    "nct": "NCT07380165",
+    "drug": "Levacetylleucine（IB1001／AQNEURSA®，擴大使用計畫）",
+    "mechanism": "口服胺基酸衍生物<br>推測調節溶酶體／粒線體功能異常",
+    "phase": "EAP（擴大使用計畫，Expanded Access）",
+    "status": "<b>登錄狀態 Approved for Marketing</b>（登錄起始日 2026/02/02）。本筆為 <b>IB1001-303 樞紐試驗（NCT06673056）之外、另一獨立登錄的擴大使用計畫</b>，供<b>已基因確診 A-T、無法參加標準臨床試驗、且無令人滿意替代療法</b>之病人由醫師評估利弊後取得藥物。⚠️ 登錄起始日（2026/02）早於 FDA 正式核准日（2026/09/18，見 results.json），顯示核准前即已透過擴大使用提供藥物；核准後登錄狀態轉為 Approved for Marketing，與本站已記錄之 A-T 核准（results.json：intrabio-at-approval-2026-09）為同一藥品不同登錄用途，非新療效讀出。",
+    "sponsor": "IntraBio Inc",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07380165",
+    "en": {
+      "mechanism": "Oral amino acid derivative<br>presumed modulator of lysosomal/mitochondrial dysfunction",
+      "phase": "EAP (Expanded Access)",
+      "status": "<b>Registry status: Approved for Marketing</b> (registered start date 2026/02/02). This is a <b>separate registration from the pivotal IB1001-303 trial (NCT06673056)</b>, an expanded access program for genetically confirmed A-T patients who cannot join standard trials and have no satisfactory alternative therapy, accessed at physician discretion. ⚠️ The registered start date (Feb 2026) predates the FDA's formal approval date (2026/09/18, see results.json), indicating the drug was already being supplied via expanded access ahead of approval; post-approval the registry status moved to Approved for Marketing. This is the same drug as the already-recorded A-T approval (results.json: intrabio-at-approval-2026-09) under a different registration purpose, not a new efficacy readout.",
+      "sponsor": "IntraBio Inc"
+    }
+  },
+  {
     "nct": "NCT02255435",
     "drug": "Omaveloxolone（RTA 408／BIIB141／SKYCLARYS®，口服）",
     "mechanism": "口服小分子<br>Nrf2 活化劑（抑制 Keap1）<br>對抗氧化壓力與粒線體功能失調",
