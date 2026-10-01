@@ -33,7 +33,7 @@
 | 檔案 | 內容 | 新增方式 | 唯一鍵 |
 |---|---|---|---|
 | `competitors.json` | 競品全景表 | 新增/更新競品；`id` 對應 `companies.json`；每筆必須有 `ring`（`sca`/`polyq`/`ataxia`） | `id` |
-| `benchmarks.json` | 細胞治療標竿（`group`：`cell`/`neuro`，`region`：`jp`/`kr`/`us`/`eu`） | 有新核准/BLA/PDUFA 等法規里程碑時更新。**只寫客觀事實，不寫「對本社的意義」** | `id` |
+| `benchmarks.json` | 細胞治療標竿（`group`：`cell`/`neuro`，`region`：`jp`/`kr`/`us`/`eu`） | 有新核准/BLA/PDUFA 等法規里程碑時更新。**只寫客觀事實，不寫「對本公司的意義」** | `id` |
 | `partnership.json` | 合作機會（`layer`：`rival`/`therapeutic`/`platform`/`channel`/`academic`） | 需 `market`、`priority`(1-3)、`status`、`fit`/`whyNotRival`/`forms[]`/`priorityWhy`+`en{}`；須在 `companies.json` 補對應一筆 | `id` |
 | `papers.json` | 文獻雷達 | 加一筆；能辨識所屬公司時填 `company`（見 companies.json id） | `id`（`pubmed:數字` 或 `pmc:PMCxxxx`） |
 | `trials.json` | 臨床試驗雷達 | 加一筆或更新既有筆 status | `nct` |
@@ -51,7 +51,7 @@
 
 ### 1. 掃描來源
 
-**追蹤資產起點**（清單會隨主動發現持續成長）：仲恩 Stemchymal®（本社）、Biohaven Troriluzole、Vico VO659、Arrowhead/Sarepta ARO-ATXN2（siRNA SCA2）、Biogen/Ionis BIIB132/ION260（ATXN3 ASO，2023放棄；注意 BIIB105 是 ATXN2/ALS 案非SCA）、UniQure等AAV基因療法、學名藥Riluzole。
+**追蹤資產起點**（清單會隨主動發現持續成長）：仲恩 Stemchymal®（本公司）、Biohaven Troriluzole、Vico VO659、Arrowhead/Sarepta ARO-ATXN2（siRNA SCA2）、Biogen/Ionis BIIB132/ION260（ATXN3 ASO，2023放棄；注意 BIIB105 是 ATXN2/ALS 案非SCA）、UniQure等AAV基因療法、學名藥Riluzole。
 
 **ClinicalTrials.gov：查五組適應症，不能只查 SCA**（`query.cond=` 各查一次）：
 1. `spinocerebellar+ataxia`
@@ -101,7 +101,7 @@ https://clinicaltrials.gov/api/v2/studies?query.term=<藥名>&pageSize=10&fields
 
 公司頁鐵則：不管新增競品或標竿，都要同時在 `companies.json` 補一筆，否則公司名點不開。`match` 別名只放公司名/藥名/代號，不要放疾病名稱（放SCA3會把整個亞型論文都掛到這家公司）。
 
-`benchmarks.json` 鐵則：只記客觀事實，不寫「對本社的意義」「潛在夥伴」——公開站上這樣寫等於揭露仲恩BD意圖。查不到就寫「公開資訊有限」，不臆測。
+`benchmarks.json` 鐵則：只記客觀事實，不寫「對本公司的意義」「潛在夥伴」——公開站上這樣寫等於揭露仲恩BD意圖。查不到就寫「公開資訊有限」，不臆測。
 
 ### 2. 判斷「是否真正新」
 
@@ -113,19 +113,19 @@ https://clinicaltrials.gov/api/v2/studies?query.term=<藥名>&pageSize=10&fields
 ```json
 { "id":"pubmed:12345678","date":"2026-07-15","dateDisplay":"2026/07/15","title":"論文英文標題","journal":"期刊 · 作者等","tag":"分類標籤","note":"→一句話關聯（可空）","company":"（可選）companies.json id","highlight":false,"url":"https://pubmed.ncbi.nlm.nih.gov/12345678/","urlLabel":"論文 ↗ PubMed 12345678","en":{"tag":"…","journal":"…","note":"…","urlLabel":"…"} }
 ```
-`highlight:true`＝對本社有利/最相關（綠色）。加入前確認 `id` 不在檔案裡。
+`highlight:true`＝對本公司有利/最相關（綠色）。加入前確認 `id` 不在檔案裡。
 
 **trials.json**：新試驗加一筆；既有試驗狀態變了改那筆 `status`：
 ```json
 { "nct":"NCT12345678","drug":"藥名","mechanism":"機制","phase":"Ph2","status":"最新狀態","sponsor":"主導公司","us":false,"url":"https://clinicaltrials.gov/study/NCT12345678","en":{"mechanism":"…","phase":"…","status":"…","sponsor":"…"} }
 ```
-`us:true` 只給本社仲恩的試驗。
+`us:true` 只給本公司仲恩的試驗。
 
 **results.json**（療效/安全數據/CRL/核准/期中讀出——跟trials.json的「試驗狀態」不同）：
 ```json
-{ "id":"短id","date":"2026-07-20","dateDisplay":"2026/07","competitor":"公司","drug":"藥物","trial":"NCT+期別","sourceType":"登錄|論文|研討會摘要|新聞稿","level":"win|hot|info","readout":"實際結果與關鍵數字（只寫查得到的）","implication":"→對本社的意涵一句話","links":[{"label":"來源","url":"…"}],"en":{...} }
+{ "id":"短id","date":"2026-07-20","dateDisplay":"2026/07","competitor":"公司","drug":"藥物","trial":"NCT+期別","sourceType":"登錄|論文|研討會摘要|新聞稿","level":"win|hot|info","readout":"實際結果與關鍵數字（只寫查得到的）","implication":"→對本公司的意涵一句話","links":[{"label":"來源","url":"…"}],"en":{...} }
 ```
-`level`：`win`=競品受挫對本社有利、`hot`=競品正面結果=威脅、`info`=中性。**療效數字/p值只寫查得到的來源數字，不杜撰；公司宣稱要標明「公司宣稱」；尚未正式讀出就寫明。**
+`level`：`win`=競品受挫對本公司有利、`hot`=競品正面結果=威脅、`info`=中性。**療效數字/p值只寫查得到的來源數字，不杜撰；公司宣稱要標明「公司宣稱」；尚未正式讀出就寫明。**
 
 **news.json**（加最前面，維持約6筆）：
 ```json
@@ -186,7 +186,7 @@ curl -s "https://steminenttw.github.io/sca-iq/data/meta.json?cb=1"
 
 架構與SCA-IQ完全相同：`index.html`呈現層＋`data/*.json`資料層，全站中英雙語，同樣鐵則：每筆新增都要中英雙寫、附可查證來源。
 
-**定位（重要）**：MSA-IQ是**中立的疾病領域情報站**——仲恩只是「追蹤中的細胞治療業者之一」，**不要**寫「對本社的策略意涵」這類內部語氣。
+**定位（重要）**：MSA-IQ是**中立的疾病領域情報站**——仲恩只是「追蹤中的細胞治療業者之一」，**不要**寫「對本公司的策略意涵」這類內部語氣。
 
 **資料檔**（`data/`，都是 `msa-` 前綴）：
 
