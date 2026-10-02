@@ -2882,5 +2882,56 @@
       "insight": "An off-list player picked up by the 2026/08/18 sweep — its Phase 3 asset had never been captured on this platform at all. <b>There is no overlap with our own indication or market</b> (A-T is a recessive ataxia caused by ATM deficiency, not a polyQ disease), so it poses no direct competitive threat. It is worth tracking for two reasons: A-T sits in the adjacent ataxia ring the platform already covers, and NEAT's failure to reach significance on an RmICARS primary endpoint within a six-month window (difference −1.30, upper confidence bound only just crossing zero) offers an external reference point on <b>endpoint sensitivity and follow-up duration</b>, RmICARS being a clinician-rated scale like SARA. A-T is nonetheless a rapidly progressing childhood disease, and its scale behaviour does not extrapolate directly to adult late-onset SCA."
     },
     "cat": "sca"
+  },
+  {
+    "id": "astellas-asp2016",
+    "name": "Astellas Gene Therapies",
+    "nameEn": "Astellas Gene Therapies",
+    "short": "Astellas Gene Tx",
+    "country": "美國 USA",
+    "ticker": "東證: 4503（母公司 Astellas Pharma）",
+    "mechanism": "AAV 基因療法",
+    "pipeline": "ASP2016｜Friedreich's Ataxia 心肌病變：Ph1b 已撤回、未收案",
+    "insight": "原評估 AAV 基因療法 ASP2016 治療 FA 心肌病變之早期試驗（NCT06483802），2025 年內以企業決策撤回、實收 0 人，未揭露具體理由。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT06483802",
+    "match": [
+      "Astellas Gene Therapies",
+      "ASP2016",
+      "Audentes"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA",
+      "mechanism": "AAV gene therapy",
+      "pipeline": "ASP2016 | Friedreich's ataxia cardiomyopathy: Ph1b withdrawn, never enrolled",
+      "insight": "Had planned an early-stage AAV gene-therapy trial (NCT06483802) of ASP2016 for FA cardiomyopathy; withdrawn in 2025 as a corporate decision with 0 participants enrolled, with no stated rationale."
+    },
+    "cat": "sca"
+  },
+  {
+    "id": "stealth-elamipretide",
+    "name": "Stealth BioTherapeutics",
+    "nameEn": "Stealth BioTherapeutics",
+    "short": "Stealth Bio",
+    "country": "美國 USA",
+    "ticker": "NASDAQ: MITO",
+    "mechanism": "線粒體靶向肽（心磷脂穩定劑）",
+    "pipeline": "Elamipretide｜Friedreich's Ataxia 視力減退：Ph1/2 研究者發起試驗已完成",
+    "insight": "CHOP 發起之 n=20 小型試驗顯示視力終點無一致劑量-反應關係；公司主力管線為 Barth 症候群等原發性粒線體疾病，FA 領域目前無自主推動之後續臨床計畫。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT05168774",
+    "match": [
+      "Stealth BioTherapeutics",
+      "Elamipretide"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA",
+      "mechanism": "Mitochondria-targeted peptide (cardiolipin stabiliser)",
+      "pipeline": "Elamipretide | Friedreich's ataxia vision loss: Ph1/2 investigator-initiated study completed",
+      "insight": "A CHOP-initiated n=20 pilot study found no consistent dose-response relationship on vision endpoints. The company's core pipeline targets primary mitochondrial diseases such as Barth syndrome; it has no company-driven follow-on clinical programme in FA."
+    },
+    "cat": "sca"
   }
 ]

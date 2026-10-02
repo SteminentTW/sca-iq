@@ -701,5 +701,37 @@
       "status": "<b>Found by the formal known-asset roll call re-run via the CT.gov API once network access recovered</b> (<b>not previously registered on this platform</b> — its last registry update was 2025-08-22, so a date-sorted disease-condition sweep can never reach it in the top 40; only a drug-name query retrieves it). A <b>paediatric PK/safety study</b> sponsored by PTC Therapeutics, with only <b>5 patients actually enrolled</b>, in <b>Friedreich's ataxia patients under age 7</b>; started 2022/10/12 with primary completion 2024/08/29, status <b>completed</b>. <b>Its purpose was to assess vatiquinone's pharmacokinetics and safety in this younger age group</b>, not to demonstrate efficacy. ⚠️ <b>n=5 is a PK-bridging study and does not constitute efficacy evidence</b>; <b>no results are posted on CT.gov</b>, and no corresponding company announcement or publication could be found. This entry complements the company's other two trials (NCT05515536, long-term safety; NCT07681713, the PROVE-FA efficacy study), together indicating PTC's plan to extend vatiquinone dosing down to a younger patient population",
       "sponsor": "PTC Therapeutics (USA)"
     }
+  },
+  {
+    "nct": "NCT06483802",
+    "drug": "ASP2016",
+    "mechanism": "AAV 基因療法<br>遞送功能性 frataxin 基因，鎖定心肌",
+    "phase": "Ph1b（已撤回，未收案）",
+    "status": "<b>已撤回（WITHDRAWN），實收 0 人</b>。主辦方 Astellas Gene Therapies 原規劃之開放標籤劑量遞增試驗，評估 ASP2016（合併口服 prednisolone 作免疫抑制前置）於 18–40 歲 Friedreich's Ataxia 相關心肌病變成人之安全性、耐受性與初步療效。登錄起始日 2024/11/08，<b>CT.gov 登錄之撤回原因為「企業決策撤回本試驗」（corporate decision to withdraw the trial），未說明具體科學或安全性理由</b>；<b>未給藥便終止，無任何人體數據產出</b>。本筆為本次主動發現新競品時查得、此前未收錄之案例——顯示 FA 心肌病變領域除 Lexeo（LX2006）外，<b>另一家藥廠的 AAV 基因療法已先行放棄、未進入人體給藥</b>。",
+    "sponsor": "Astellas Gene Therapies",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT06483802",
+    "en": {
+      "mechanism": "AAV gene therapy<br>delivers a functional frataxin gene, targeting cardiac tissue",
+      "phase": "Ph1b (withdrawn, never enrolled)",
+      "status": "<b>Withdrawn, with 0 participants actually enrolled.</b> Sponsor Astellas Gene Therapies had planned an open-label, dose-escalation study of ASP2016 (with oral prednisolone as immunosuppressive pre-treatment) for safety, tolerability and preliminary efficacy in adults aged 18-40 with Friedreich's ataxia cardiomyopathy. Registered start date 2024/11/08; <b>CT.gov lists the withdrawal reason as a \"corporate decision to withdraw the trial\", with no stated scientific or safety rationale</b>; <b>the programme ended before any dosing occurred, with no human data generated</b>. This entry was found during this run's active-discovery scan and was not previously on the platform — it shows that, alongside Lexeo (LX2006), <b>another drugmaker's AAV gene-therapy approach for FA cardiomyopathy was abandoned before reaching human dosing</b>.",
+      "sponsor": "Astellas Gene Therapies"
+    }
+  },
+  {
+    "nct": "NCT05168774",
+    "drug": "Elamipretide",
+    "mechanism": "線粒體靶向肽<br>穩定心磷脂、改善線粒體膜功能",
+    "phase": "Ph1/2（研究者發起，已完成）",
+    "status": "<b>已完成</b>，實收 20 人。費城兒童醫院（CHOP）發起之小型先驅試驗（與 FARA、Stealth BioTherapeutics 共同支持），評估皮下注射 elamipretide 治療 Friedreich's Ataxia（FA）相關視力減退之安全性、耐受性與活性，分低劑量、高劑量兩組。<b>登錄結果</b>：主要指標高對比視力字母數變化中位數，低劑量組 +5.5、高劑量組 0；次要指標低對比視力字母數兩組變化中位數皆為 0——<b>未見明確劑量-反應關係，視力終點未顯示一致效益</b>。另有視網膜神經纖維層厚度（OCT）、視覺相關生活品質、心臟應變與纖維化等次要指標，惟公開登錄未附具體數值。⚠️ 樣本量小（n=20）、無安慰劑對照，不足以判定療效；本筆為本次主動發現查得、此前未收錄之案例，Stealth BioTherapeutics 於 FA 領域目前僅此一筆小型研究者發起試驗，未見公司自主推動之後續 FA 臨床計畫。",
+    "sponsor": "Children's Hospital of Philadelphia（產業合作：Stealth BioTherapeutics）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT05168774",
+    "en": {
+      "mechanism": "Mitochondria-targeted peptide<br>stabilises cardiolipin, improves mitochondrial membrane function",
+      "phase": "Ph1/2 (investigator-initiated, completed)",
+      "status": "<b>Completed</b>, with 20 participants actually enrolled. A small pilot study initiated by Children's Hospital of Philadelphia (CHOP), co-supported by FARA and Stealth BioTherapeutics, evaluating subcutaneous elamipretide for safety, tolerability and activity against vision loss in Friedreich's ataxia (FA), in low-dose and high-dose arms. <b>Posted results</b>: the primary endpoint, median change in high-contrast visual-acuity letters, was +5.5 in the low-dose arm versus 0 in the high-dose arm; the secondary low-contrast visual-acuity letter change had a median of 0 in both arms — <b>no clear dose-response relationship, and no consistent benefit on the vision endpoints</b>. Other secondary endpoints (retinal nerve fibre layer thickness by OCT, vision-related quality of life, cardiac strain and fibrosis) were listed with no figures posted. ⚠️ Small sample (n=20) with no placebo arm, insufficient to establish efficacy. This entry was found during this run's active-discovery scan and was not previously on the platform; Stealth BioTherapeutics currently has only this one small investigator-initiated study in the FA space, with no company-driven follow-on FA clinical programme on record.",
+      "sponsor": "Children's Hospital of Philadelphia (industry partner: Stealth BioTherapeutics)"
+    }
   }
 ]

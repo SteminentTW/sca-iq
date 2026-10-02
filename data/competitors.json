@@ -1099,5 +1099,69 @@
         }
       ]
     }
+  },
+  {
+    "id": "astellas-asp2016",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Astellas Gene Therapies",
+    "asset": "ASP2016",
+    "mechanism": "AAV 基因療法<br>遞送功能性 frataxin 基因，鎖定心肌",
+    "indication": "Friedreich's Ataxia<br>相關心肌病變",
+    "phase": "Ph1b（已撤回，未收案）",
+    "status": "原規劃評估 ASP2016 於 FA 相關心肌病變成人安全性與初步療效之開放標籤劑量遞增試驗（NCT06483802），<b>2025 年內以「企業決策」撤回、實收 0 人</b>，未進入人體給藥，CT.gov 未說明具體理由。Astellas Gene Therapies（原 Audentes Therapeutics）為 AAV 基因治療大型開發商；本案為 FA 心肌病變領域<b>除 Lexeo LX2006 外另一 AAV 路徑之早期放棄案例</b>。",
+    "threatLabel": "低(FA,已撤回)",
+    "links": [
+      {
+        "label": "試驗登錄 ↗ NCT06483802",
+        "url": "https://clinicaltrials.gov/study/NCT06483802"
+      }
+    ],
+    "en": {
+      "asset": "ASP2016",
+      "mechanism": "AAV gene therapy<br>delivers a functional frataxin gene, targeting cardiac tissue",
+      "indication": "Friedreich's ataxia<br>cardiomyopathy",
+      "phase": "Ph1b (withdrawn, never enrolled)",
+      "status": "Astellas Gene Therapies had planned an open-label dose-escalation study (NCT06483802) of ASP2016 for safety and preliminary efficacy in adults with FA cardiomyopathy, but <b>withdrew it in 2025 as a \"corporate decision\" with 0 participants enrolled</b>, never reaching human dosing; CT.gov states no specific rationale. Astellas Gene Therapies (formerly Audentes Therapeutics) is a major AAV gene-therapy developer; this is <b>a second AAV approach to FA cardiomyopathy, alongside Lexeo's LX2006, abandoned at an early stage</b>.",
+      "threatLabel": "Low (FA, withdrawn)",
+      "links": [
+        {
+          "label": "Trial registry ↗ NCT06483802",
+          "url": "https://clinicaltrials.gov/study/NCT06483802"
+        }
+      ]
+    }
+  },
+  {
+    "id": "stealth-elamipretide",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Stealth BioTherapeutics",
+    "asset": "Elamipretide",
+    "mechanism": "線粒體靶向肽<br>穩定心磷脂、改善線粒體膜功能",
+    "indication": "Friedreich's Ataxia<br>（視力減退／心臟表現）",
+    "phase": "Ph1/2（研究者發起，已完成）",
+    "status": "費城兒童醫院發起之 n=20 先驅試驗（NCT05168774）評估皮下注射 elamipretide 治療 FA 視力減退之安全性與活性，<b>已完成，登錄結果顯示高/低劑量組視力終點無一致劑量-反應關係</b>，次要心臟指標未附具體數值。Stealth BioTherapeutics 為線粒體靶向藥物開發商（elamipretide 另於 Barth 症候群等粒線體疾病開發中），於 FA 領域目前僅此一筆小型研究者發起試驗，<b>未見公司自主推動之後續 FA 臨床計畫公開紀錄</b>。",
+    "threatLabel": "低(FA,早期)",
+    "links": [
+      {
+        "label": "試驗登錄 ↗ NCT05168774",
+        "url": "https://clinicaltrials.gov/study/NCT05168774"
+      }
+    ],
+    "en": {
+      "asset": "Elamipretide",
+      "mechanism": "Mitochondria-targeted peptide<br>stabilises cardiolipin, improves mitochondrial membrane function",
+      "indication": "Friedreich's ataxia<br>(vision loss / cardiac findings)",
+      "phase": "Ph1/2 (investigator-initiated, completed)",
+      "status": "A CHOP-initiated n=20 pilot study (NCT05168774) evaluated subcutaneous elamipretide for safety and activity against FA-related vision loss. <b>Now completed, with posted results showing no consistent dose-response relationship between the high- and low-dose arms on the vision endpoints</b>; secondary cardiac endpoints were posted with no figures. Stealth BioTherapeutics is a mitochondria-targeted drug developer (elamipretide is also in development for mitochondrial diseases such as Barth syndrome); in the FA space it currently has only this one small investigator-initiated study, with <b>no company-driven follow-on FA clinical programme on record</b>.",
+      "threatLabel": "Low (FA, early)",
+      "links": [
+        {
+          "label": "Trial registry ↗ NCT05168774",
+          "url": "https://clinicaltrials.gov/study/NCT05168774"
+        }
+      ]
+    }
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-02",
+    "dateDisplay": "2026/10/02",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>⚠️ 發布管道變更</b>：本次雲端執行環境之 git 設定將 push 限定在指定的功能分支 <code>claude/eloquent-galileo-idjk34</code>（非直接 push main），故本次更新已 commit＋push 至該分支，<b>尚待併入 main 後才會反映到公開網址 steminenttw.github.io/sca-iq/</b>；本次無法依手冊 §5 以 curl 驗證公開網址，待分支併入 main 後請留意下次掃描之驗證結果。<b>主動發現新增 2 個此前未收錄之競品（各含 1 筆試驗）；CT.gov 五組適應症查詢、PubMed 近 7 天、既定資產新聞查核均無新增。</b>①<b>Astellas Gene Therapies 的 ASP2016</b>（AAV 基因療法，遞送 frataxin 基因鎖定心肌）——原規劃之 FA 心肌病變 Ph1b 試驗 NCT06483802<b>已於 2025 年以企業決策撤回、實收 0 人</b>，未進入人體給藥，CT.gov 未附具體理由；已新增至 competitors.json、companies.json、trials.json，顯示 FA 心肌病變領域除 Lexeo LX2006 外，另一 AAV 路徑已先行放棄。②<b>Stealth BioTherapeutics 的 Elamipretide</b>（線粒體靶向肽）——費城兒童醫院發起之 n=20 先驅試驗 NCT05168774 評估其對 FA 視力減退之安全性與活性，<b>已完成，登錄結果顯示視力終點無一致劑量-反應關係</b>；已同步建檔，公開資料未見公司自主推動之後續 FA 臨床計畫。<b>其餘掃描結果</b>：CT.gov 五組適應症查詢（spinocerebellar ataxia／Friedreich ataxia／SBMA／polyglutamine／episodic ataxia OR CACNA1A，各 40 筆、依更新日排序）共 116 筆命中、93 筆非平台已收錄鍵值，逐筆核對後絕大多數為前列腺癌（SBMA同義詞擴展誤帶）、純自然史／觀察性登錄、復健或穿顱刺激等非療法試驗，依手冊排除；僅上述 2 筆通過「療法試驗＋可查證＋此前未收錄」三項標準。PubMed 近 7 天視窗命中 1 篇（PubMed 42799858），<b>已於 09/28 收錄，非新增</b>。WebSearch 查核 Stemchymal／Troriluzole／VO659／ARO-ATXN2／AJ201／Nomlabofusp 近況，<b>皆與平台既有記錄一致，無新事實</b>。events.json／patents.json／exclusivity.json 本次未達查核週期，未更新。weekNewCount 由 3 增至 <b>5</b>。",
+    "link": {
+      "label": "詳見 競品全景 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>⚠️ Publish channel note</b>: this run's git configuration restricts pushes to the designated feature branch <code>claude/eloquent-galileo-idjk34</code> rather than main directly, so today's update was committed and pushed to that branch and <b>will not appear on the public site (steminenttw.github.io/sca-iq/) until it is merged into main</b>; the manual's §5 curl check of the public URL could not be meaningfully run this time — watch the next scan's verification once the branch is merged.<b>Active discovery added 2 previously untracked competitors (each with 1 trial); the five CT.gov indication queries, the 7-day PubMed window and news checks on established assets all turned up nothing new.</b> (1) <b>Astellas Gene Therapies' ASP2016</b> (an AAV gene therapy delivering a frataxin gene, targeting cardiac tissue) — its planned Ph1b trial for FA cardiomyopathy, NCT06483802, <b>was withdrawn in 2025 as a corporate decision with 0 participants enrolled</b>, never reaching human dosing, with no rationale stated on CT.gov; added to competitors.json, companies.json and trials.json, showing that alongside Lexeo's LX2006, another AAV approach to FA cardiomyopathy was abandoned early. (2) <b>Stealth BioTherapeutics' Elamipretide</b> (a mitochondria-targeted peptide) — a CHOP-initiated n=20 pilot study, NCT05168774, evaluating its safety and activity against FA-related vision loss, is <b>now completed, with posted results showing no consistent dose-response relationship on the vision endpoints</b>; recorded accordingly, with no company-driven follow-on FA clinical programme found in public sources. <b>The rest of today's scan</b>: the five CT.gov indication queries (spinocerebellar ataxia / Friedreich ataxia / SBMA / polyglutamine / episodic ataxia OR CACNA1A, 40 each, sorted by update date) returned 116 unique hits, 93 not already on the platform by key; checking each one, the large majority were prostate-cancer trials (from the SBMA synonym expansion), pure natural-history/observational registries, or non-therapeutic studies (rehab, transcranial stimulation), excluded per the manual — only the 2 items above passed all three tests (a therapy trial, verifiable, not already recorded). The 7-day PubMed window returned 1 hit (PubMed 42799858), <b>already recorded on 09/28, not new</b>. WebSearch checks on Stemchymal, Troriluzole, VO659, ARO-ATXN2, AJ201 and Nomlabofusp <b>all matched existing records, with nothing new</b>. events.json, patents.json and exclusivity.json were not due for review this run and were left unchanged. weekNewCount rises from 3 to <b>5</b>.",
+      "linkLabel": "See Competitive Landscape ↗"
+    }
+  },
+  {
     "date": "2026-10-01",
     "dateDisplay": "2026/10/01",
     "tag": "每日掃描",
