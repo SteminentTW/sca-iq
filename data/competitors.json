@@ -187,7 +187,7 @@
       "mechanism": "siRNA (RNAi)<br>ATXN2",
       "indication": "SCA2",
       "phase": "Ph1",
-      "status": "Intrathecal siRNA lowering ataxin-2. Phase 1 <b>NCT06672445</b> fully enrolled at 39 patients, enrolment closed mid-2026; primary completion estimated 2026/12. <b style=\"color:#ffce7a\">Sites include Taipei Veterans General Hospital</b> — the main reason Steminent steers clear of SCA2 in Taiwan. <b style=\"color:#ff8a7a\">Under the global licence and collaboration with Sarepta (2024/11), ARO-ATXN1 (SCA1) and ARO-ATXN3 (SCA3) are preclinical with both expected to be CTA-ready in 2026</b> — if they advance on schedule, the siRNA route extends from SCA2 into SCA1 and SCA3, directly overlapping Steminent.",
+      "status": "Intrathecal siRNA lowering ataxin-2. Phase 1 <b>NCT06672445</b> fully enrolled at 39 patients, enrolment closed mid-2026; primary completion estimated 2026/12. <b style=\"color:#ffce7a\">Sites include Taipei Veterans General Hospital</b> — the main reason Steminent avoids SCA2 in Taiwan. <b style=\"color:#ff8a7a\">Under the global licence and collaboration with Sarepta (2024/11), ARO-ATXN1 (SCA1) and ARO-ATXN3 (SCA3) are preclinical with both expected to be CTA-ready in 2026</b> — if they advance on schedule, the siRNA route extends from SCA2 into SCA1 and SCA3, directly overlapping Steminent.",
       "threatLabel": "Mid↑ (extending to SCA1/3)",
       "links": [
         {
@@ -210,7 +210,7 @@
     "mechanism": "小分子<br>麩胺酸調節",
     "indication": "pan-SCA",
     "phase": "NDA 受挫",
-    "status": "<b style=\"color:#ff8a7a\">FDA CRL (2025/11)</b>；R&D 砍 60%、爭取與 FDA 再協商 (2026/02)",
+    "status": "<b style=\"color:#ff8a7a\">FDA CRL (2025/11)</b>；R&D 削減 60%、爭取與 FDA 再協商 (2026/02)",
     "threatLabel": "中↓",
     "links": [
       {
@@ -425,7 +425,7 @@
     "mechanism": "ASO (ATXN3)<br>非選擇性",
     "indication": "SCA3",
     "phase": "已放棄",
-    "status": "2023/04 Biogen 主動放棄（41 週猴子鞘內毒理＋人體 PD 不足）；一期僅收 8 人即終止。<b>標的對、載具送不到深部小腦</b>。〔另 BIIB105/ATXN2 為 ALS 案、2024 終止，非 SCA〕",
+    "status": "2023/04 Biogen 主動放棄（41 週猴子鞘內毒理＋人體 PD 不足）；一期僅收 8 人即終止。<b>標的正確、載具未能送達深部小腦</b>。〔另 BIIB105/ATXN2 為 ALS 案、2024 終止，非 SCA〕",
     "threatLabel": "低(退場)",
     "links": [
       {
@@ -504,7 +504,7 @@
     "mechanism": "小分子<br>5-HT1A 受體促效劑",
     "indication": "SCA3（另帕金森）",
     "phase": "SCA 臨床前／PD Ph2",
-    "status": "SCA 適應症已取得<b>歐盟（EU/3/24/2951，2024/09/25）與美國（DRU-2025-10752）孤兒藥資格</b>；SCA3 目前僅有動物模型數據（改善運動協調與平衡、延緩惡化）。臨床端主戰場為帕金森的左旋多巴引發異動症 Ph2a。<b>SCA 尚未進入人體試驗。</b>",
+    "status": "SCA 適應症已取得<b>歐盟（EU/3/24/2951，2024/09/25）與美國（DRU-2025-10752）孤兒藥資格</b>；SCA3 目前僅有動物模型數據（改善運動協調與平衡、延緩惡化）。臨床重心為帕金森的左旋多巴引發異動症 Ph2a。<b>SCA 尚未進入人體試驗。</b>",
     "threatLabel": "低(臨床前)",
     "links": [
       {
@@ -566,7 +566,7 @@
     "mechanism": "自噬誘導<br>清除蛋白聚集",
     "indication": "SCA（SCA3 為主）",
     "phase": "註冊型 Ph2/3（已暫停）",
-    "status": "FDA 接受 IND 並給予 SCA 快速通道，SCA3 另有美歐孤兒藥資格；2022/11 於 SCA3 註冊型 Ph2/3（規劃收案至 245 人）投第一例。<b style=\"color:#ffce7a\">2023/04 公司宣布因商業考量暫停該試驗收案、資源轉向 ALS</b>，公開來源未見重啟消息。",
+    "status": "FDA 接受 IND 並給予 SCA 快速通道，SCA3 另有美歐孤兒藥資格；2022/11 於 SCA3 註冊型 Ph2/3（規劃收案至 245 人）完成首例給藥。<b style=\"color:#ffce7a\">2023/04 公司宣布因商業考量暫停該試驗收案、資源轉向 ALS</b>，公開來源未見重啟消息。",
     "threatLabel": "低(已暫停)",
     "links": [
       {
@@ -638,7 +638,7 @@
     "mechanism": "小分子<br>降解突變雄性素受體<br>活化 Nrf1/Nrf2",
     "indication": "SBMA（甘迺迪症）<br><b>孤兒藥資格另含 HD、SCA</b>",
     "phase": "Ph1b/2a 完成→已送件 FDA Ph3 樞紐試驗 IND",
-    "status": "<b style=\"color:#ffce7a\">台灣本土 polyQ 玩家</b>。Ph1b/2a（25 人、12 週、隨機安慰劑對照）耐受良好並見身體活動改善；已獲 FDA 快速通道。<b>2026/09/03 公告已正式向美國 FDA 提出全球 Ph3 樞紐試驗 IND 申請</b>，規劃收案約 200 人，實際執行時程配合未來國際授權夥伴策略調整；依 IND 審查機制，若 FDA 於標準 30 天審查期間未要求補充資料，最快 2026 Q4 可啟動美國臨床三期。已授權 Avenue Therapeutics 於美國開發與商業化。<b>FDA 孤兒藥資格涵蓋 SBMA、亨丁頓舞蹈症與 SCA</b>，惟目前臨床僅在 SBMA。⚠️ 本筆 IND 送件僅見台灣財經媒體報導（工商時報／經濟日報／鉅亨網轉載安基公告），未查得公司官網或 PR Newswire 等一手英文新聞稿佐證。",
+    "status": "<b style=\"color:#ffce7a\">台灣本土 polyQ 業者</b>。Ph1b/2a（25 人、12 週、隨機安慰劑對照）耐受良好並見身體活動改善；已獲 FDA 快速通道。<b>2026/09/03 公告已正式向美國 FDA 提出全球 Ph3 樞紐試驗 IND 申請</b>，規劃收案約 200 人，實際執行時程配合未來國際授權夥伴策略調整；依 IND 審查機制，若 FDA 於標準 30 天審查期間未要求補充資料，最快 2026 Q4 可啟動美國臨床三期。已授權 Avenue Therapeutics 於美國開發與商業化。<b>FDA 孤兒藥資格涵蓋 SBMA、亨丁頓舞蹈症與 SCA</b>，惟目前臨床僅在 SBMA。⚠️ 本筆 IND 送件僅見台灣財經媒體報導（工商時報／經濟日報／鉅亨網轉載安基公告），未查得公司官網或 PR Newswire 等一手英文新聞稿佐證。",
     "threatLabel": "低(鄰域·台灣)",
     "links": [
       {
@@ -889,7 +889,7 @@
     "mechanism": "口服小分子<br>Nrf2 活化劑（抑制 Keap1）<br>對抗粒線體功能失調與氧化壓力",
     "indication": "Friedreich's Ataxia",
     "phase": "已核准（≥16 歲）＋兒童 Ph3",
-    "status": "<b style=\"color:#8ee6a8\">共濟失調領域目前唯一獲准上市的藥物</b>：<b>2023/02 獲 FDA 核准</b>、<b>2024/02/12 獲歐盟執委會核准</b>，適應症為 <b>16 歲以上</b>之 Friedreich's Ataxia。原由 <b>Reata Pharmaceuticals</b> 開發，後由 Biogen 收購。<b style=\"color:#ffce7a\">現正以 Ph3「NCT06953583」向 2–15 歲兒童族群延伸標籤</b>：2025/06/09 起始、n≈255、33 站橫跨美歐亞澳共 16 國，Part 1 隨機期約 1 年＋Part 2 開放標籤約 2 年，主要完成日 2027/11/16。<b>為什麼收錄</b>：這是<b>「共濟失調適應症走完 FDA／EMA 全程並取得核准」的唯一先例</b>，其審查路徑、終點（mFARS）與標籤條件，是本領域<b>法規可行性的實證基準線</b>——與 Biohaven troriluzole（2025/11 CRL）、PTC vatiquinone（2025/08 CRL）兩個受挫案例形成直接對照。⚠️ 適應症為 FA、<b>非 SCA，不與本公司直接競爭</b>；兒童 Ph3 <b>尚無任何療效或安全性結果公開讀出</b>。",
+    "status": "<b style=\"color:#8ee6a8\">共濟失調領域目前唯一獲准上市的藥物</b>：<b>2023/02 獲 FDA 核准</b>、<b>2024/02/12 獲歐盟執委會核准</b>，適應症為 <b>16 歲以上</b>之 Friedreich's Ataxia。原由 <b>Reata Pharmaceuticals</b> 開發，後由 Biogen 收購。<b style=\"color:#ffce7a\">現正以 Ph3「NCT06953583」向 2–15 歲兒童族群延伸標籤</b>：2025/06/09 起始、n≈255、33 站橫跨美歐亞澳共 16 國，Part 1 隨機期約 1 年＋Part 2 開放標籤約 2 年，主要完成日 2027/11/16。<b>收錄原因</b>：這是<b>「共濟失調適應症走完 FDA／EMA 全程並取得核准」的唯一先例</b>，其審查路徑、終點（mFARS）與標籤條件，是本領域<b>法規可行性的實證基準線</b>——與 Biohaven troriluzole（2025/11 CRL）、PTC vatiquinone（2025/08 CRL）兩個受挫案例形成直接對照。⚠️ 適應症為 FA、<b>非 SCA，不與本公司直接競爭</b>；兒童 Ph3 <b>尚無任何療效或安全性結果公開讀出</b>。",
     "threatLabel": "低(FA·已核准)",
     "links": [
       {
@@ -930,7 +930,7 @@
     "mechanism": "小分子<br>15-LO 抑制、氧化壓力",
     "indication": "Friedreich's Ataxia",
     "phase": "NDA 受挫→新 Ph3",
-    "status": "2025/02 FDA 受理 NDA 並給予優先審查（PDUFA 2025/08/19），<b style=\"color:#ff8a7a\">2025/08/19 收到完全回覆信（CRL），理由為未證明實質療效證據</b>。試驗曾在部分次量表見顯著效果、但主要終點未達。<b style=\"color:#ffce7a\">2026/07 登錄新 Ph3「PROVE-FA」（NCT07681713）</b>：n≈120、24 個月、主要指標 mFARS，估 2026/08 起始——惟<b>設計為單臂開放標籤、無安慰劑對照</b>。<b>與 Biohaven 同屬「共濟失調小分子在 FDA 卡關」的案例</b>，是終點選擇與證據等級的重要參照。",
+    "status": "2025/02 FDA 受理 NDA 並給予優先審查（PDUFA 2025/08/19），<b style=\"color:#ff8a7a\">2025/08/19 收到完全回覆信（CRL），理由為未證明實質療效證據</b>。試驗曾在部分次量表見顯著效果、但主要終點未達。<b style=\"color:#ffce7a\">2026/07 登錄新 Ph3「PROVE-FA」（NCT07681713）</b>：n≈120、24 個月、主要指標 mFARS，估 2026/08 起始——惟<b>設計為單臂開放標籤、無安慰劑對照</b>。<b>與 Biohaven 同屬「共濟失調小分子在 FDA 受挫」的案例</b>，是終點選擇與證據等級的重要參照。",
     "threatLabel": "低(FA·受挫)",
     "links": [
       {
@@ -970,7 +970,7 @@
     "mechanism": "AAVhu68 基因療法<br>密碼子最佳化 FXN cDNA<br><b>雙途徑遞送</b>：雙側齒狀核＋靜脈",
     "indication": "Friedreich's Ataxia",
     "phase": "Ph1b 收案中",
-    "status": "首次人體、開放標籤劑量探索試驗 <b>NCT07180355</b>：2025/10/22 啟動、n≈10（可行走與不可行走兩世代）、追蹤約 5 年，主要指標為 12 個月治療相關不良事件；站點 UCLA、俄亥俄州立大學、費城兒童醫院。<b style=\"color:#ffce7a\">值得留意的是遞送策略——直接注輸小腦齒狀核＋靜脈的雙途徑</b>，正是為解決 Biogen BIIB132 當年「標的對、載具送不到深部小腦」的同一難題；若安全性成立，將是 polyQ／SCA 基因療法遞送路線的重要參照。目前僅 FA 適應症，未見延伸至 SCA。",
+    "status": "首次人體、開放標籤劑量探索試驗 <b>NCT07180355</b>：2025/10/22 啟動、n≈10（可行走與不可行走兩世代）、追蹤約 5 年，主要指標為 12 個月治療相關不良事件；站點 UCLA、俄亥俄州立大學、費城兒童醫院。<b style=\"color:#ffce7a\">值得留意的是遞送策略——直接注輸小腦齒狀核＋靜脈的雙途徑</b>，正是為解決 Biogen BIIB132 當年「標的正確、載具未能送達深部小腦」的同一難題；若安全性成立，將是 polyQ／SCA 基因療法遞送路線的重要參照。目前僅 FA 適應症，未見延伸至 SCA。",
     "threatLabel": "低(FA)",
     "links": [
       {
@@ -988,7 +988,7 @@
       "mechanism": "AAVhu68 gene therapy<br>codon-optimised FXN cDNA<br><b>dual-route delivery</b>: bilateral dentate nucleus plus IV",
       "indication": "Friedreich's ataxia",
       "phase": "Ph1b recruiting",
-      "status": "First-in-human, open-label, dose-finding trial <b>NCT07180355</b>: started 2025/10/22, n≈10 across ambulatory and non-ambulatory cohorts, ~5 years of follow-up, with TEAEs at month 12 as the primary endpoint; sites are UCLA, Ohio State University and Children's Hospital of Philadelphia. <b style=\"color:#ffce7a\">The notable feature is the delivery strategy — direct infusion into the cerebellar dentate nucleus combined with an IV dose</b>, aimed at exactly the problem that sank Biogen's BIIB132 (right target, but the vehicle could not reach the deep cerebellum). If the safety profile holds, it becomes an important reference for gene-therapy delivery in polyQ and SCA. The programme is currently in FA only, with no announced extension to SCA.",
+      "status": "First-in-human, open-label, dose-finding trial <b>NCT07180355</b>: started 2025/10/22, n≈10 across ambulatory and non-ambulatory cohorts, ~5 years of follow-up, with TEAEs at month 12 as the primary endpoint; sites are UCLA, Ohio State University and Children's Hospital of Philadelphia. <b style=\"color:#ffce7a\">The notable feature is the delivery strategy — direct infusion into the cerebellar dentate nucleus combined with an IV dose</b>, aimed at the same problem encountered by Biogen's BIIB132 (right target, but the vehicle could not reach the deep cerebellum). If the safety profile holds, it becomes an important reference for gene-therapy delivery in polyQ and SCA. The programme is currently in FA only, with no announced extension to SCA.",
       "threatLabel": "Low (FA)",
       "links": [
         {

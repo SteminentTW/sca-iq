@@ -9,7 +9,7 @@
     "sourceType": "登錄",
     "level": "hot",
     "readout": "<b>2026/09/19（PDUFA 行動日當天）FDA 核准 AQNEURSA® 用於治療 A-T（毛細血管擴張性共濟失調，體重≥15公斤之成人與兒童）的共濟失調症狀</b>，為<b>全球第一個 A-T 核准療法</b>。核准依據為樞紐三期 IB1001-303（4 歲以上基因確診 A-T、n=60、12 週隨機雙盲安慰劑對照交叉，<b>主要指標 SARA</b>），FDA 公告與公司均稱達主要指標與全部關鍵次要指標。⚠️ <b>FDA 核准公告未附具體數值、p 值或效果量</b>；EMA 端的變更申請（2026/06 遞交）仍在審查中，尚未核准。",
-    "implication": "→ 這是<b>共濟失調圈層第一個以 SARA 為註冊主要指標獲 FDA 核准的案子</b>，替「SARA 可作為註冊終點」建立監管先例，對本公司以 SARA 為主要指標的 SCA 開發路徑是有利的外部背書；但同一分子的 IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊，此次 A-T 率先核准使其在共濟失調領域的醫師熟悉度與給付路徑已領先本公司。",
+    "implication": "→ 這是<b>共濟失調圈層第一個以 SARA 為註冊主要指標獲 FDA 核准的案例</b>，替「SARA 可作為註冊終點」建立監管先例，對本公司以 SARA 為主要指標的 SCA 開發路徑是有利的外部背書；但同一分子的 IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊，此次 A-T 率先核准使其在共濟失調領域的醫師熟悉度與給付路徑已領先本公司。",
     "links": [
       {
         "label": "FDA 核准公告 ↗ 2026/09/19",
@@ -83,7 +83,7 @@
     "sourceType": "新聞稿",
     "level": "hot",
     "readout": "<b>公司宣稱樞紐三期達主要指標與全部關鍵次要指標，皆具「高度統計顯著」</b>，並據以獲 FDA 受理 sNDA 併給予<b>優先審查</b>，<b>PDUFA 行動日 2026/09/19</b>；2026/06 另向 EMA 遞交變更申請。試驗為 4 歲以上基因確診 A-T、n=60、12 週隨機雙盲安慰劑對照交叉，<b>主要指標即 SARA</b>，次要指標含 SCAFI、ICARS。⚠️ <b>公司迄今未公開任何數值、p 值或效果量</b>，「高度統計顯著」屬公司自述、無同儕審閱資料佐證；核准與否仍待 FDA 決定。",
-    "implication": "→ 這是<b>共濟失調圈層第一個以 SARA 為註冊主要指標、走到 PDUFA 的案子</b>——若 9/19 獲准，將替「SARA 可作為註冊終點」建立監管先例，對本公司以 SARA 為主要指標的 SCA 開發路徑是有利的外部背書；但同一家公司的 IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊，同一分子若在 A-T 先取得核准，其在共濟失調領域的醫師熟悉度與給付路徑將領先。",
+    "implication": "→ 這是<b>共濟失調圈層第一個以 SARA 為註冊主要指標、走到 PDUFA 的案例</b>——若 9/19 獲准，將替「SARA 可作為註冊終點」建立監管先例，對本公司以 SARA 為主要指標的 SCA 開發路徑是有利的外部背書；但同一家公司的 IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊，同一分子若在 A-T 先取得核准，其在共濟失調領域的醫師熟悉度與給付路徑將領先。",
     "links": [
       { "label": "FDA 受理 sNDA 併優先審查（2026/05/19 新聞稿）↗", "url": "https://www.biospace.com/press-releases/fda-accepts-snda-and-grants-priority-review-to-aqneursa-for-ataxia-telangiectasia" },
       { "label": "IB1001-303 試驗登錄 ↗", "url": "https://clinicaltrials.gov/study/NCT06673056" },
@@ -157,7 +157,7 @@
     "sourceType": "登錄",
     "level": "info",
     "readout": "CT.gov 於 2026/03/03 公告結果：<b>主要終點（肌肉 MRI 瘦肌肉體積）未見藥物優勢</b>——大腿 LMV 自基線變化（末次訪視）安慰劑 −0.1363 vs NIDO-361 −0.1511；全身 LMV −0.3120 vs −0.4147（皆為登錄公告之組平均，登錄未附 p 值或統計檢定）。次要指標方向不一致：2 分鐘步行距離第 360 天安慰劑 −1.8 m vs NIDO-361 +3.3 m；m-SBMAFRS 變化 +1.2 vs +0.1。公司隨後結束營運（產業媒體報導 2026 年初全面關閉）。",
-    "implication": "→ 鄰近 polyQ 圈層又一次以「影像／肌肉體積」為主要終點的中期試驗未達預期並直接導致公司退場，顯示生物標記型主要終點在 12 個月內偵測 polyQ 病程變化的難度——反襯本公司以 SARA 等臨床功能量表為主要終點的取捨。",
+    "implication": "→ 鄰近 polyQ 圈層又一次以「影像／肌肉體積」為主要終點的中期試驗未達預期且公司隨後退場，顯示生物標記型主要終點在 12 個月內偵測 polyQ 病程變化的難度——反襯本公司以 SARA 等臨床功能量表為主要終點的取捨。",
     "links": [
       {
         "label": "CT.gov 結果公告",
@@ -172,7 +172,7 @@
       "trial": "NCT06411912 Ph2 (randomised, double-blind, placebo-controlled; n=54; 12 months)",
       "sourceType": "Registry",
       "readout": "Results posted to CT.gov on 2026/03/03 showed <b>no drug advantage on the primary muscle-MRI lean muscle volume endpoint</b>: change from baseline in thigh LMV at the last visit was −0.1363 on placebo vs −0.1511 on NIDO-361, and total LMV −0.3120 vs −0.4147 (group means as posted; the registry gives no p-values or statistical tests). Secondary measures were directionally mixed: the 2-minute walk test at Day 360 was −1.8 m on placebo vs +3.3 m on NIDO-361, and m-SBMAFRS change was +1.2 vs +0.1. The company subsequently wound down (trade press reported a full closure in early 2026).",
-      "implication": "→ Another mid-stage trial in the adjacent polyQ ring built on an imaging/muscle-volume primary endpoint missed and led directly to the company's exit, underlining how hard it is for a biomarker primary endpoint to detect polyQ progression within 12 months — which puts Steminent's choice of clinical functional scales such as SARA in context.",
+      "implication": "→ Another mid-stage trial in the adjacent polyQ ring built on an imaging/muscle-volume primary endpoint missed and was followed by the company's exit, underlining how hard it is for a biomarker primary endpoint to detect polyQ progression within 12 months — which puts Steminent's choice of clinical functional scales such as SARA in context.",
       "links": [
         {
           "label": "CT.gov posted results",
@@ -194,7 +194,7 @@
     "trial": "NDA（Study 206 + 3 年真實世界證據）",
     "sourceType": "新聞稿",
     "level": "win",
-    "readout": "2025/11/04 FDA 發出 Complete Response Letter（拒批）。NDA 主打 3 年真實世界研究，公司宣稱使 SCA 進展減緩 50–70%、跌倒降逾 50%；FDA 拒批理由為真實世界/外部對照的偏差、設計缺陷、缺乏預先設定與未測量干擾因子。公司稱將爭取 FDA 會議、同時削減約 60% 研發支出。（RWE 數字為公司框架、非同儕審查）",
+    "readout": "2025/11/04 FDA 發出 Complete Response Letter（拒批）。NDA 主要依據 3 年真實世界研究，公司宣稱使 SCA 進展減緩 50–70%、跌倒降逾 50%；FDA 拒批理由為真實世界/外部對照的偏差、設計缺陷、缺乏預先設定與未測量干擾因子。公司稱將爭取 FDA 會議、同時削減約 60% 研發支出。（RWE 數字為公司框架、非同儕審查）",
     "implication": "→ 最領先口服對手取證重大受挫、時程再延，且其療效證據等級（真實世界對照）不被 FDA 接受——反襯仲恩以隨機雙盲安慰劑對照數據申請的方法學優勢。",
     "links": [
       {
@@ -309,7 +309,7 @@
     "sourceType": "新聞稿",
     "level": "win",
     "readout": "2023/04 Biogen 宣布停止 SCA3 的 BIIB132 Ph1（MERA），屬研發優先化重整。官方稱綜合評估非臨床安全數據、臨床藥效動力學（PD）與未來開發前景後作出，未公開具體療效/生物標記數字，亦未點明主因是安全或無效（勿臆測）。",
-    "implication": "→ 資源雄厚的大廠 ASO 對手（SCA3）退出臨床，直接減少 SCA3 賽道競爭者，對含 SCA3 的 Stemchymal 屬正面。",
+    "implication": "→ 資源雄厚的大廠 ASO 對手（SCA3）退出臨床，直接減少 SCA3 領域競爭者，對含 SCA3 的 Stemchymal 屬正面。",
     "links": [
       {
         "label": "Ataxia UK — Biogen 停止 SCA3 試驗",

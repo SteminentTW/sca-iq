@@ -252,7 +252,7 @@
     "scope": "SCA1/2/3/6/7 等",
     "group": "CRC-SCA（17 站學術聯盟，National Ataxia Foundation 支持；Ashizawa 等）",
     "n": "累計逾 1,000",
-    "findings": "自 2009 年起追蹤常見 SCA 亞型自然病程、以 SARA 為主要 COA；2024 起納入 RFC1/FGF14（CANVAS、SCA27B）等晚發型。此類美國＋歐洲自然史世代已實際被拿來當單臂試驗的『外部對照』：Biohaven troriluzole 即以 35 站美歐自然史世代、用傾向分數配對（PSM，配對基線 f-SARA、年齡、性別、發病年齡、基因型、重複長度）建立未治療對照組。",
+    "findings": "自 2009 年起追蹤常見 SCA 亞型自然病程、以 SARA 為主要 COA；2024 起納入 RFC1/FGF14（CANVAS、SCA27B）等晚發型。此類美國＋歐洲自然史世代已實際被用作單臂試驗的『外部對照』：Biohaven troriluzole 即以 35 站美歐自然史世代、用傾向分數配對（PSM，配對基線 f-SARA、年齡、性別、發病年齡、基因型、重複長度）建立未治療對照組。",
     "significance": "→ 對仲恩關鍵：美國二期若不設安慰劑對照，可用 NAF 支持的自然史庫（SARA 縱貫資料）作外部/歷史對照，是單臂細胞治療試驗療效解讀的對照基礎。引用時須注意各世代進展速率差異（見跨世代條目）。",
     "region": "美國",
     "year": 2025,
@@ -260,8 +260,8 @@
     "highlight": true,
     "en": {
       "group": "CRC-SCA (17-site academic consortium, supported by the National Ataxia Foundation; Ashizawa et al.)",
-      "findings": "Since 2009 has tracked the natural course of common SCA subtypes with SARA as primary COA; from 2024 added late-onset RFC1/FGF14 (CANVAS, SCA27B). Such US+European natural-history cohorts have actually been used as an 'external control' for single-arm trials: Biohaven's troriluzole built an untreated comparator from 35-site US/European natural-history cohorts using propensity-score matching (matched on baseline f-SARA, age, sex, onset age, genotype, repeat length).",
-      "significance": "→ Key for Steminent: if the US Phase 2 runs without a placebo arm, the NAF-supported natural-history dataset (longitudinal SARA) can serve as an external/historical control — the comparator basis for interpreting a single-arm cell-therapy trial. When citing, mind cohort-to-cohort differences in progression rate (see the cross-cohort entry).",
+      "findings": "Since 2009 it has tracked the natural course of common SCA subtypes with SARA as primary COA; from 2024 it has added late-onset RFC1/FGF14 (CANVAS, SCA27B). Such US+European natural-history cohorts have actually been used as an 'external control' for single-arm trials: Biohaven's troriluzole built an untreated comparator from 35-site US/European natural-history cohorts using propensity-score matching (matched on baseline f-SARA, age, sex, onset age, genotype, repeat length).",
+      "significance": "→ Key for Steminent: if the US Phase 2 runs without a placebo arm, the NAF-supported natural-history dataset (longitudinal SARA) can serve as an external/historical control — the comparator basis for interpreting a single-arm cell-therapy trial. When citing, take account of cohort-to-cohort differences in progression rate (see the cross-cohort entry).",
       "taiwan": "",
       "sources": [
         {
@@ -316,7 +316,7 @@
     ],
     "nameEn": "Japan SCA6 three-year cohort",
     "en": {
-      "group": "Yasui et al. (Japan multicenter)",
+      "group": "Yasui et al. (Japan multicentre)",
       "findings": "SARA worsens 1.33±1.40 points/yr (over 3 yr); higher than European EUROSCA SCA6 (0.80), suggesting population/method differences.",
       "significance": "→ Independent Asian evidence of SCA6 progression rate.",
       "taiwan": "",
@@ -415,7 +415,7 @@
     "group": "Lin、Soong Bing-Wen 等（台北榮總/陽明）",
     "n": "199",
     "findings": "SARA 年進展：SCA17 3.26（最快）、SCA3 1.60、SCA2 1.52、SCA1 1.23、SCA6 0.99 分/年；華人與高加索速率相近。",
-    "significance": "→ 唯一台灣本土 SARA 年進展數據，證明台灣患者可直接對比歐美世代、支持參與國際多中心試驗。",
+    "significance": "→ 唯一台灣本土 SARA 年進展數據，顯示台灣患者可直接對比歐美世代、支持參與國際多中心試驗。",
     "region": "台灣",
     "year": 2019,
     "taiwan": "唯一台灣本土進展速率。註：此世代 SCA3（1.60）明顯快於美國 CRC-SCA（0.68），凸顯世代/收案差異。",
@@ -430,8 +430,8 @@
     "en": {
       "group": "Lin, Soong Bing-Wen et al. (Taipei VGH / Yang-Ming)",
       "findings": "SARA annual progression: SCA17 3.26 (fastest), SCA3 1.60, SCA2 1.52, SCA1 1.23, SCA6 0.99 points/yr; Chinese and Caucasian rates are similar.",
-      "significance": "→ The only native-Taiwan SARA progression data, showing Taiwanese patients can be compared directly with European/US cohorts, supporting participation in international multicenter trials.",
-      "taiwan": "The only native-Taiwan progression rates. Note: this cohort's SCA3 (1.60) is markedly faster than US CRC-SCA (0.68), highlighting cohort/enrollment differences.",
+      "significance": "→ The only native-Taiwan SARA progression data, showing Taiwanese patients can be compared directly with European/US cohorts, supporting participation in international multicentre trials.",
+      "taiwan": "The only native-Taiwan progression rates. Note: this cohort's SCA3 (1.60) is markedly faster than US CRC-SCA (0.68), highlighting cohort/enrolment differences.",
       "region": "Taiwan"
     }
   },

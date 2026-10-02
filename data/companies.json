@@ -8,7 +8,7 @@
     "ticker": "TPEx 7729",
     "mechanism": "異體脂肪 MSC（旁分泌神經保護、誘導自噬清除突變 ataxin-3）",
     "pipeline": "Stemchymal®｜SCA1/2/3/6（pan-polyQ）：日本承認審查中（SCA3/6，優先審查）、台灣附款許可並行、美國 Ph2（UCLA+USF，2026，單臂＋自然史對照）",
-    "insight": "本公司。手握台日 Ph2 隨機雙盲安慰劑對照正面數據 ＋ 日本優先審查 ＋ 最接近取證，是全賽道唯一有 Ph2 對照證據的資產。",
+    "insight": "本公司。具備台日 Ph2 隨機雙盲安慰劑對照正面數據 ＋ 日本優先審查 ＋ 最接近取證，是全賽道唯一有 Ph2 對照證據的資產。",
     "threat": "self",
     "url": "https://www.steminent.com/",
     "match": [
@@ -46,7 +46,7 @@
     "ticker": "NYSE: BHVN",
     "mechanism": "小分子（麩胺酸調節，利魯唑前驅藥）",
     "pipeline": "Troriluzole（BHV-4157）｜pan-SCA：Ph3 全體終點未達、SCA3 次族群近顯著；NDA 遭 FDA CRL",
-    "insight": "最領先的口服對手但取證受挫：2025/11 FDA CRL、研發砍 60%。其真實世界外部對照證據不被 FDA 接受，反襯本公司隨機對照的方法學優勢。",
+    "insight": "最領先的口服對手但取證受挫：2025/11 FDA CRL、研發支出削減 60%。其真實世界外部對照證據不被 FDA 接受，反襯本公司隨機對照的方法學優勢。",
     "threat": "mid",
     "url": "https://www.biohaven.com/",
     "match": [
@@ -85,7 +85,7 @@
     "ticker": "未上市 Private",
     "mechanism": "小分子 Levacetylleucine（N-acetyl-L-leucine，口服）",
     "pipeline": "IB1001｜<b>A-T（毛細血管擴張性共濟失調）：2026/09/19 獲 FDA 核准，全球第一個 A-T 核准療法</b>｜CACNA1A 相關疾病（含 SCA6、EA2、FHM1）：Ph3 IB1001-304，2026/08/17 起始、收案中｜同成分 Aqneursa 已於 Niemann-Pick C 上市",
-    "insight": "以已上市成分（Aqneursa／levacetylleucine）向多個共濟失調適應症平行延伸，兩個樞紐試驗<b>主要指標都是 SARA</b>、n≈60、12 週交叉設計——開發成本與時程風險低於全新分子。<b>A-T 案已於 2026/09/19 PDUFA 行動日獲 FDA 核准</b>：這是共濟失調領域第一個以 SARA 為註冊主要指標走完 FDA 審查並獲准的案子，等於替「SARA 可作註冊終點」建立監管先例，<b>對本公司同樣以 SARA 為主要指標的開發路徑屬有利背書</b>；但反面是，該分子已在 A-T 先行核准，其在共濟失調醫師社群的熟悉度、安全性資料庫與給付路徑都已領先本公司，而 <b>IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊</b>。惟其屬症狀改善型口服小分子、非疾病修飾細胞療法，定位仍可區隔。",
+    "insight": "以已上市成分（Aqneursa／levacetylleucine）向多個共濟失調適應症平行延伸，兩個樞紐試驗<b>主要指標都是 SARA</b>、n≈60、12 週交叉設計——開發成本與時程風險低於全新分子。<b>A-T 案已於 2026/09/19 PDUFA 行動日獲 FDA 核准</b>：這是共濟失調領域第一個以 SARA 為註冊主要指標走完 FDA 審查並獲准的申請案，等於替「SARA 可作註冊終點」建立監管先例，<b>對本公司同樣以 SARA 為主要指標的開發路徑屬有利背書</b>；但反面是，該分子已在 A-T 先行核准，其在共濟失調醫師社群的熟悉度、安全性資料庫與給付路徑都已領先本公司，而 <b>IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊</b>。惟其屬症狀改善型口服小分子、非疾病修飾細胞療法，定位仍可區隔。",
     "threat": "mid",
     "url": "https://intrabio.com/clinical-trials/",
     "match": [
@@ -98,7 +98,7 @@
     "updates": [
       {
         "date": "2026/05",
-        "text": "CACNA1A（含 SCA6）Ph3 樞紐試驗獲美/英/歐/瑞監管放行"
+        "text": "CACNA1A（含 SCA6）Ph3 樞紐試驗獲美/英/歐/瑞監管許可"
       },
       {
         "date": "2026/06",
@@ -239,7 +239,7 @@
     "ticker": "NASDAQ: BIIB / IONS",
     "mechanism": "反義寡核苷酸 ASO（標的 ATXN3，非選擇性）",
     "pipeline": "BIIB132（ION260）｜SCA3：Ph1（MERA）2023/04 主動放棄",
-    "insight": "資源雄厚大廠退出 SCA3 賽道——標的對、載具送不到深部小腦。對含 SCA3 的 Stemchymal 屬正面。注意 Roche 亦持有 ATXN3 ASO 專利，ATXN3 空間不只一家。",
+    "insight": "資源雄厚大廠退出 SCA3 賽道——標的正確、載具無法遞送至深部小腦。對含 SCA3 的 Stemchymal 屬正面。注意 Roche 亦持有 ATXN3 ASO 專利，ATXN3 空間不只一家。",
     "threat": "low",
     "url": "https://www.biogen.com/",
     "match": [
@@ -470,7 +470,7 @@
     "ticker": "未上市 Private",
     "mechanism": "小分子（降解突變雄性素受體、活化 Nrf1/Nrf2）",
     "pipeline": "AJ201（rosolutamide）｜SBMA：Ph1b/2a 完成，2026/09/03 公告已向 FDA 送件 Ph3 樞紐試驗 IND（規劃收案約 200 人）；FDA 孤兒藥資格另含 HD 與 SCA",
-    "insight": "台灣本土的 polyQ 玩家。臨床目前僅在 SBMA（甘迺迪症），但孤兒藥資格已涵蓋 SCA，是最可能從鄰近適應症切入 SCA 的在地公司。美國權利已授權 Avenue Therapeutics。⚠️ 但美國權利處於爭議中：Avenue 於 2025-03 向國際仲裁法院聲請緊急禁制令，要求禁止安基進一步分析 AJ201 的 1b/2a 檢體，安基則主張對方一再拖延解盲時程、未盡合理商業努力。",
+    "insight": "台灣本土的 polyQ 業者。臨床目前僅在 SBMA（甘迺迪症），但孤兒藥資格已涵蓋 SCA，是最可能從鄰近適應症切入 SCA 的在地公司。美國權利已授權 Avenue Therapeutics。⚠️ 但美國權利處於爭議中：Avenue 於 2025-03 向國際仲裁法院聲請緊急禁制令，要求禁止安基進一步分析 AJ201 的 1b/2a 檢體，安基則主張對方一再拖延解盲時程、未盡合理商業努力。",
     "threat": "low",
     "url": "https://www.ajpharm.com/",
     "match": [
@@ -481,7 +481,7 @@
     "updates": [
       {
         "date": "2025/03",
-        "text": "與被授權方 Avenue Therapeutics 就 AJ201（授權金上限 2.5 億美元）之解盲時程爆發爭議，Avenue 向國際仲裁法院聲請緊急禁制令"
+        "text": "與被授權方 Avenue Therapeutics 就 AJ201（授權金上限 2.5 億美元）之解盲時程發生爭議，Avenue 向國際仲裁法院聲請緊急禁制令"
       },
       {
         "date": "2026",
@@ -526,7 +526,7 @@
     "ticker": "未上市 Private",
     "mechanism": "小分子，5-HT1A 受體促效劑",
     "pipeline": "NLX-112（befiradol）｜SCA3（另帕金森）：SCA 臨床前／PD Ph2",
-    "insight": "SCA 適應症已有美歐孤兒藥資格，但 SCA3 僅有動物數據、尚未進入人體；臨床主戰場是帕金森的左旋多巴引發異動症。",
+    "insight": "SCA 適應症已有美歐孤兒藥資格，但 SCA3 僅有動物數據、尚未進入人體；臨床重心是帕金森的左旋多巴引發異動症。",
     "threat": "low",
     "url": "https://www.neurologylive.com/view/european-commission-grants-nlx-112-orphan-medicinal-product-designation-spinocerebellar-ataxia",
     "match": [
@@ -619,7 +619,7 @@
       "country": "USA",
       "mechanism": "Small molecule, targets the GAA repeat to raise frataxin",
       "pipeline": "DT-216P2 (GeneTAC™) | Friedreich's ataxia: Ph1/2 (RESTORE-FA)",
-      "insight": "GeneTAC small molecules target nucleotide repeat expansions. Four-week IV data from RESTORE-FA in 2026/05 showed dose-dependent frataxin increases and clinical improvement, with a registrational path to be updated in Q4 2026. The concept is adjacent to polyQ, so watch for extension into SCA."
+      "insight": "GeneTAC small molecules target nucleotide repeat expansions. Four-week IV data from RESTORE-FA in 2026/05 showed dose-dependent frataxin increases and clinical improvement, with a registrational path to be updated in Q4 2026. The concept is adjacent to polyQ, so any extension into SCA is worth monitoring."
     },
     "cat": "sca"
   },
@@ -764,7 +764,7 @@
     "ticker": "NASDAQ: PTCT",
     "mechanism": "小分子，15-LO 抑制、氧化壓力",
     "pipeline": "Vatiquinone｜Friedreich's Ataxia：NDA 受挫；新 Ph3 PROVE-FA（NCT07681713）2026/07 登錄",
-    "insight": "Vatiquinone 的 FA 新藥申請於 2025/08 收到 CRL（未證明實質療效證據）。與 Biohaven 並列「共濟失調小分子在 FDA 卡關」的案例。2026/07 登錄新 Ph3「PROVE-FA」（n≈120、24 個月、主要指標 mFARS，估 2026/08 起始），惟設計為單臂開放標籤、無安慰劑對照。",
+    "insight": "Vatiquinone 的 FA 新藥申請於 2025/08 收到 CRL（未證明實質療效證據）。與 Biohaven 並列「共濟失調小分子在 FDA 審查受阻」的案例。2026/07 登錄新 Ph3「PROVE-FA」（n≈120、24 個月、主要指標 mFARS，估 2026/08 起始），惟設計為單臂開放標籤、無安慰劑對照。",
     "threat": "low",
     "url": "https://ir.ptcbio.com/news-releases/news-release-details/ptc-therapeutics-announces-fda-acceptance-and-priority-review-0",
     "match": [
@@ -789,7 +789,7 @@
     "ticker": "NASDAQ: SLDB",
     "mechanism": "AAVhu68 基因療法，密碼子最佳化 FXN cDNA；雙側齒狀核直接注輸＋靜脈雙途徑遞送",
     "pipeline": "SGT-212｜Friedreich's Ataxia：Ph1b 首次人體試驗收案中（NCT07180355）",
-    "insight": "2026/07/29 主動掃描發現的清單外玩家。其 SGT-212 採「小腦齒狀核直接注輸＋靜脈」雙途徑遞送，正面處理 Biogen BIIB132 當年折戟的深部小腦遞送難題；目前僅 FA 適應症，未見延伸 SCA，但遞送路線值得長期追蹤。",
+    "insight": "2026/07/29 主動掃描發現的清單外業者。其 SGT-212 採「小腦齒狀核直接注輸＋靜脈」雙途徑遞送，正面處理 Biogen BIIB132 當年受挫的深部小腦遞送難題；目前僅 FA 適應症，未見延伸 SCA，但遞送路線值得長期追蹤。",
     "threat": "low",
     "url": "https://www.solidbio.com/",
     "match": [
@@ -1317,7 +1317,7 @@
     "ticker": "NASDAQ: CAPR",
     "mechanism": "異體心臟球衍生細胞",
     "pipeline": "Deramiocel（CAP-1002）",
-    "insight": "裘馨氏肌失養症心肌病變。<b>2025 年先收到完全回覆信（FDA 要求補療效資料），其後 FDA 撤回該 CRL 並恢復 BLA 審查，新 PDUFA 目標日 2026/08/22</b>，並已排定細胞、組織與基因治療諮詢委員會會議；重新遞交納入 Ph3 HOPE-3 結果。是罕病細胞治療走 RMAT／加速審查的活教材。",
+    "insight": "裘馨氏肌失養症心肌病變。<b>2025 年先收到完全回覆信（FDA 要求補療效資料），其後 FDA 撤回該 CRL 並恢復 BLA 審查，新 PDUFA 目標日 2026/08/22</b>，並已排定細胞、組織與基因治療諮詢委員會會議；重新遞交納入 Ph3 HOPE-3 結果。是罕病細胞治療走 RMAT／加速審查的現行案例。",
     "threat": "bench",
     "url": "https://www.capricor.com/investors/news-events/press-releases/detail/338/capricor-therapeutics-announces-establishment-of-new-pdufa",
     "match": [
@@ -1342,7 +1342,7 @@
     "ticker": "Bayer 子公司",
     "mechanism": "多能幹細胞衍生神經元",
     "pipeline": "Bemdaneprocel",
-    "insight": "帕金森病神經元replacement。<b>已在 exPDite-2 註冊型 Ph3 完成首例給藥（NCT06944522）——為異體多能幹細胞衍生療法在帕金森病的首個 Ph3 樞紐試驗</b>；收案至多 102 人、美國 7 個站點，主要終點為 78 週的每日「ON 時間（無困擾異動症）」，數據預計 2027。36 個月追蹤持續見正面效果。",
+    "insight": "帕金森病神經元替代療法。<b>已在 exPDite-2 註冊型 Ph3 完成首例給藥（NCT06944522）——為異體多能幹細胞衍生療法在帕金森病的首個 Ph3 樞紐試驗</b>；收案至多 102 人、美國 7 個站點，主要終點為 78 週的每日「ON 時間（無困擾異動症）」，數據預計 2027。36 個月追蹤持續見正面效果。",
     "threat": "bench",
     "url": "https://www.bluerocktx.com/first-parkinsons-disease-patient-treated-in-bluerocks-pivotal-phase-iii-trial-of-investigational-cell-therapy-bemdaneprocel/",
     "match": [
@@ -1393,7 +1393,7 @@
     "ticker": "未上市 Private（2026 初結束營運）",
     "mechanism": "口服小分子選擇性雄性素受體調節劑（SARM），結合 AR 的 BF3 位點",
     "pipeline": "NIDO-361｜SBMA（甘迺迪症）：Ph2（n=54）完成，主要終點肌肉 MRI 瘦肌肉體積未達；美國與歐盟孤兒藥資格",
-    "insight": "polyQ 鄰近圈層的口服小分子玩家。2020 年由 5AM Ventures 孵化、2023 年亮相時累計募資 1.09 億美元。全球 Ph2 以全身肌肉 MRI 瘦肌肉體積為主要終點，2026/03 登錄公告顯示未見藥物優勢，公司於 2026 年初結束營運；其與 NIH／名古屋／UCL 合作的肌肉 MRI 生物標記方法學已發表於 Neurology（2026/07）。",
+    "insight": "polyQ 鄰近圈層的口服小分子業者。2020 年由 5AM Ventures 孵化、2023 年亮相時累計募資 1.09 億美元。全球 Ph2 以全身肌肉 MRI 瘦肌肉體積為主要終點，2026/03 登錄公告顯示未見藥物優勢，公司於 2026 年初結束營運；其與 NIH／名古屋／UCL 合作的肌肉 MRI 生物標記方法學已發表於 Neurology（2026/07）。",
     "threat": "low",
     "url": "https://clinicaltrials.gov/study/NCT06411912",
     "match": [
@@ -1431,7 +1431,7 @@
     "ticker": "未上市 Private",
     "mechanism": "基因細胞製劑 CDMO（GCTP 準拠）；自有雲端整合製造管理系統 CytoFactory4.0",
     "pipeline": "受託製造服務｜神戶醫療產業都市（KBIC）主廠；已量產商業化 CAR-T、製造過 MSC 臨床試驗品",
-    "insight": "仲恩的日本 CDMO。2026-01-14 雙方簽 LOI，將在日本製造 Stemchymal，並朝技轉與商業供貨正式合約推進。日本藥事法把「製造販売業」（上市許可）與「製造業」（實體 GMP 廠）分成兩張執照，REPROCELL 持前者、不含製造，故製造缺口由仲恩自行補上——Cyto-Facto 補的是仲恩自己的洞，不是 REPROCELL 的洞。",
+    "insight": "仲恩的日本 CDMO。2026-01-14 雙方簽 LOI，將在日本製造 Stemchymal，並朝技轉與商業供貨正式合約推進。日本藥事法把「製造販売業」（上市許可）與「製造業」（實體 GMP 廠）分成兩張執照，REPROCELL 持前者、不含製造，故製造缺口由仲恩自行補上——Cyto-Facto 補的是仲恩自身的缺口，而非 REPROCELL 的缺口。",
     "threat": "partner",
     "url": "https://www.cytofacto.com/en/",
     "match": [
@@ -1467,8 +1467,8 @@
     "short": "Terumo BCT",
     "country": "美國／日本 US/Japan",
     "ticker": "TSE: 4543（Terumo 子公司）",
-    "mechanism": "細胞製程設備與自動化；Quantum Flex 細胞擴增平台（多尺寸反應器，可跑自體／異體／病毒載體／外泌體）",
-    "pipeline": "製程平台｜Quantum Flex 於 2022 上市，為少數可從製程開發一路做到商業化製造的系統",
+    "mechanism": "細胞製程設備與自動化；Quantum Flex 細胞擴增平台（多尺寸反應器，可支援自體／異體／病毒載體／外泌體）",
+    "pipeline": "製程平台｜Quantum Flex 於 2022 上市，為少數可涵蓋從製程開發到商業化製造的系統",
     "insight": "仲恩的製程自動化夥伴。2026-05 雙方合作推進 MSC 後期臨床製造，里程碑達成後仲恩計畫擴大使用 Quantum Flex 以支撐更廣的臨床轉譯與商業化。異體 MSC 的成本結構取決於單批產出規模，設備選型等於提前決定了 COGs 天花板。",
     "threat": "partner",
     "url": "https://www.terumobct.com/",
@@ -1515,7 +1515,7 @@
     "ticker": "未上市 Private（REPROCELL 投資標的）",
     "mechanism": "細胞治療 CDMO 兼臨床階段生技公司；持有 EMA 授權可製造臨床級 MSC 的主細胞庫與工作細胞庫",
     "pipeline": "受託製造服務｜畢爾包／Larrabetzu 800 m² GMP 廠，為歐、美、日客戶製造人用試驗藥",
-    "insight": "REPROCELL 的歐洲 CDMO 夥伴兼投資標的。已取得 EMA Regulation (EU) 2017/1569 臨床級細胞製造授權與西班牙 AEMPS 的 GMP 認證，且授權範圍明確涵蓋 MSC 的 MCB／WCB。對仲恩而言，這是進入歐洲最短的 GMP 路徑——不必從零找廠，而是沿既有的日本授權夥伴關係往歐洲延伸。",
+    "insight": "REPROCELL 的歐洲 CDMO 夥伴兼投資標的。已取得 EMA Regulation (EU) 2017/1569 臨床級細胞製造授權與西班牙 AEMPS 的 GMP 認證，且授權範圍明確涵蓋 MSC 的 MCB／WCB。對仲恩而言，這是進入歐洲最短的 GMP 路徑——無需從零尋找製造廠，而是沿既有的日本授權夥伴關係往歐洲延伸。",
     "threat": "partner",
     "url": "https://www.histocell.com/",
     "match": [
@@ -1552,7 +1552,7 @@
     "ticker": "TPEx 6704（興櫃）",
     "mechanism": "自體脂肪間質幹細胞（與 Stemchymal 同組織來源、異體 vs 自體之別）",
     "pipeline": "思益優 GXNPC1｜慢性缺血性中風：Ph2 完成、2026 向 TFDA 提三期申請；另有四項幹細胞臨床試驗、兩項已達三期",
-    "insight": "台灣機轉最接近仲恩的同業——同樣取自脂肪組織的 MSC，差別在自體 vs 異體、適應症在中風而非 SCA。Ph1/2 影像顯示治療六個月後腦損傷區域縮小約 30%。2026 預計取得細胞藥廠 PIC/S GMP 認證、年產能逾千劑（自體與異體皆可），是少數在台灣同時具臨床與產能的本土玩家。",
+    "insight": "台灣機轉最接近仲恩的同業——同樣取自脂肪組織的 MSC，差別在自體 vs 異體、適應症在中風而非 SCA。Ph1/2 影像顯示治療六個月後腦損傷區域縮小約 30%。2026 預計取得細胞藥廠 PIC/S GMP 認證、年產能逾千劑（自體與異體皆可），是少數在台灣同時具臨床與產能的本土業者。",
     "threat": "low",
     "url": "https://www.gwoxi.com/",
     "match": [
@@ -1591,8 +1591,8 @@
     "country": "台灣 Taiwan",
     "ticker": "TWSE 4178",
     "mechanism": "臍帶血幹細胞；持有全球規模最大的公捐臍帶血庫之一",
-    "pipeline": "REGENECYTE｜已獲美國 FDA 藥證（BLA），用於造血與免疫系統疾病；長新冠 Ph2 已解盲並取得 FDA RMAT、已申請三期樞紐試驗；急性中風主打發病後 6–9 天治療窗",
-    "insight": "**台灣唯一取得美國 FDA 細胞治療新藥藥證（BLA）的公司**。對仲恩而言，它的價值不在適應症重疊（幾乎沒有），而在它已經走完一次台灣公司拿到 FDA BLA 的完整路徑——法規、CMC、查廠的實戰經驗，正是仲恩美國線最缺的一塊。2026-04 下旬掛牌上市。",
+    "pipeline": "REGENECYTE｜已獲美國 FDA 藥證（BLA），用於造血與免疫系統疾病；長新冠 Ph2 已解盲並取得 FDA RMAT、已申請三期樞紐試驗；急性中風針對發病後 6–9 天治療窗",
+    "insight": "**台灣唯一取得美國 FDA 細胞治療新藥藥證（BLA）的公司**。對仲恩而言，它的價值不在適應症重疊（幾乎沒有），而在它已經走完一次台灣公司取得 FDA BLA 的完整路徑——法規、CMC、查廠的實戰經驗，正是仲恩美國線最欠缺的一環。2026-04 下旬掛牌上市。",
     "threat": "low",
     "url": "https://www.stemcyte.com/",
     "match": [
@@ -1632,7 +1632,7 @@
     "ticker": "TPEx 6891（興櫃）",
     "mechanism": "細胞治療 CDMO；PIC/S GMP 規格智慧細胞廠",
     "pipeline": "受託製造服務｜竹北生醫園區智慧細胞廠，總樓地板約 6,100 坪、24 間細胞操作室，2026 投產",
-    "insight": "號稱亞洲最大的 PIC/S GMP 智慧細胞廠。仲恩目前的製造佈局是台灣自製＋日本 Cyto-Facto，但《再生醫療法》2026 元旦上路後台灣進入放量期，本土產能會變成議價籌碼——多一個在地 CDMO 選項，等於在跟日本廠談條件時多一張牌。",
+    "insight": "號稱亞洲最大的 PIC/S GMP 智慧細胞廠。仲恩目前的製造佈局是台灣自製＋日本 Cyto-Facto，但《再生醫療法》2026 元旦施行後台灣進入放量期，本土產能會變成議價籌碼——多一個在地 CDMO 選項，可強化仲恩與日本廠洽談條件時的議價地位。",
     "threat": "partner",
     "url": "https://www.leica-regen.com/",
     "match": [
@@ -1652,7 +1652,7 @@
       "ticker": "TPEx Emerging 6891",
       "mechanism": "Cell therapy CDMO; PIC/S GMP-grade smart cell manufacturing",
       "pipeline": "Contract manufacturing | A smart cell plant at Zhubei Biomedical Park with roughly 20,000 m² of floor area and 24 cell processing suites, entering production in 2026",
-      "insight": "Billed as Asia's largest PIC/S GMP smart cell plant. Steminent's manufacturing footprint today is in-house Taiwanese production plus Cyto-Facto in Japan, but Taiwan enters a volume phase now that the Regenerative Medicine Act took effect on 1 January 2026, and domestic capacity becomes negotiating leverage — a second local CDMO option is another card to hold when setting terms with the Japanese plant.",
+      "insight": "Billed as Asia's largest PIC/S GMP smart cell plant. Steminent's manufacturing footprint today is in-house Taiwanese production plus Cyto-Facto in Japan, but Taiwan enters a volume phase now that the Regenerative Medicine Act took effect on 1 January 2026, and domestic capacity becomes negotiating leverage — a second local CDMO option strengthens Steminent's bargaining position when setting terms with the Japanese plant.",
       "updates": [
         {
           "date": "2026",
@@ -1699,7 +1699,7 @@
     "ticker": "TPEx 6712",
     "mechanism": "細胞治療（免疫細胞與幹細胞）",
     "pipeline": "多項細胞治療產品｜被法人點名為《再生醫療法》首波暫時性藥證的主要角逐者之一",
-    "insight": "台灣再生醫療法上路後的搶證前段班。與仲恩的關係主要不在適應症競爭，而在**法規賽道競爭**——首批拿到暫時性藥證的公司會定義審查標準與定價錨點，對後續申請者的影響比臨床數據更直接。",
+    "insight": "台灣再生醫療法施行後的取證領先群。與仲恩的關係主要不在適應症競爭，而在**法規賽道競爭**——首批取得暫時性藥證的公司會定義審查標準與定價錨點，對後續申請者的影響比臨床數據更直接。",
     "threat": "low",
     "url": "https://www.eversupreme.com.tw/",
     "match": [
@@ -1738,7 +1738,7 @@
     "ticker": "TWSE 6794",
     "mechanism": "間質幹細胞與細胞分泌物（secretome）平台",
     "pipeline": "慢性腎臟病細胞新藥（2026-02 臨床研究獲國際期刊發表）；細胞分泌物功效檢測平台（2026-04 取得台灣發明專利）",
-    "insight": "台灣少數同時做細胞本體與分泌物的業者。分泌物路線與 Stemchymal 的旁分泌機轉論述同源——若未來仲恩要往無細胞（cell-free）的次世代產品走，這條技術線是在地最接近的參照與潛在技術夥伴。",
+    "insight": "台灣少數同時開發細胞本體與分泌物的業者。分泌物路線與 Stemchymal 的旁分泌機轉論述同源——若未來仲恩要往無細胞（cell-free）的次世代產品走，這條技術線是在地最接近的參照與潛在技術夥伴。",
     "threat": "low",
     "url": "https://www.unicocell.com/",
     "match": [
@@ -1785,7 +1785,7 @@
     "ticker": "未上市 Private（CCRM 於 2022 成立）",
     "mechanism": "細胞與基因治療 CDMO；AI 賦能製造；CCRM 為公私合營的再生醫學商業化中心",
     "pipeline": "受託製造服務｜安大略 Hamilton 廠 120,000 平方英尺，2024–2026 分三階段開放、完成後共 57 間無塵室，總投資逾 5.8 億元、250 個技術職缺；加拿大最大 CGT CDMO",
-    "insight": "**這條線最值得看的不是產能，是誰在用它——Medipost（南韓）是該廠首個商業期客戶兼合作方。** 換句話說，仲恩在韓國原本想談的對象，已經先一步用加拿大產能解決了北美製造與落地問題。這既是可複製的模板，也可能是繞道進入北美的捷徑。CCRM 另於 2026-06 與 Avectas 評估自動化平台、2026-07 與 STEMCELL Technologies 合作供應配對的 GMP／RUO iPSC 品系。",
+    "insight": "**此處值得注意的不是產能，而是誰在使用該廠——Medipost（南韓）是該廠首個商業期客戶兼合作方。** 換言之，仲恩原擬在韓國洽談的對象，已先行運用加拿大產能解決北美製造與落地問題。這既是可複製的模板，也可能是進入北美的替代路徑。CCRM 另於 2026-06 與 Avectas 評估自動化平台、2026-07 與 STEMCELL Technologies 合作供應配對的 GMP／RUO iPSC 品系。",
     "threat": "partner",
     "url": "https://omniabio.com/",
     "match": [
@@ -1812,7 +1812,7 @@
       "ticker": "Private (founded by CCRM in 2022)",
       "mechanism": "Cell and gene therapy CDMO with AI-enabled manufacturing; CCRM is a public-private regenerative medicine commercialisation centre",
       "pipeline": "Contract manufacturing | A 120,000 sq ft plant in Hamilton, Ontario opening in three phases across 2024–2026 for a total of 57 cleanrooms, on investment above C$580M and creating 250 skilled jobs; Canada's largest dedicated CGT CDMO",
-      "insight": "The striking fact here is not the capacity but who is using it — Medipost of South Korea is both a partner and the site's first commercial-stage client. The Korean company Steminent had been circling has already solved its North American manufacturing and landing problem using Canadian capacity. That makes this both a replicable template and a possible side door into North America. CCRM separately agreed in June 2026 to evaluate Avectas' automation platform, and in July 2026 to supply matched GMP and RUO iPSC lines with STEMCELL Technologies.",
+      "insight": "The notable point here is not the capacity but who is using it — Medipost of South Korea is both a partner and the site's first commercial-stage client. The Korean company Steminent had been looking to engage has already solved its North American manufacturing and landing problem using Canadian capacity. That makes this both a replicable template and a possible alternative route into North America. CCRM separately agreed in June 2026 to evaluate Avectas' automation platform, and in July 2026 to supply matched GMP and RUO iPSC lines with STEMCELL Technologies.",
       "updates": [
         {
           "date": "2026/07",
@@ -1865,7 +1865,7 @@
     "ticker": "未上市 Private",
     "mechanism": "細胞與基因治療 CDMO；自動化封閉式細胞製造製程",
     "pipeline": "受託製造服務｜1989 年起投入 CGT、CDMO 資歷 25 年；已產出 700+ 批臨床細胞治療與 400+ 批臨床慢病毒載體；北美、歐洲、亞太皆設廠",
-    "insight": "德國唯一具規模的細胞治療 CDMO，且與平台上既有的 CHA Biotech（南韓）已有 BaEV 慢病毒載體平台合作。自動化封閉式製程是它與 Lonza 的路線差異——前者壓縮人力與污染風險，後者壓規模與單位成本，兩條路對應不同的產品階段。",
+    "insight": "德國唯一具規模的細胞治療 CDMO，且與平台上既有的 CHA Biotech（南韓）已有 BaEV 慢病毒載體平台合作。自動化封閉式製程是它與 Lonza 的路線差異——前者壓縮人力與污染風險，後者則以規模與單位成本競爭，兩條路對應不同的產品階段。",
     "threat": "partner",
     "url": "https://www.miltenyibioindustry.com/",
     "match": [
@@ -1902,7 +1902,7 @@
     "ticker": "未上市 Private",
     "mechanism": "iPSC 細胞治療專屬製造平台",
     "pipeline": "受託製造服務｜總部 Mont-Saint-Guibert，設有全球首座 EMA 認證且符合 FDA 與 PMDA 規範的專建 iPSC 細胞治療 GMP 廠",
-    "insight": "比利時剩下的細胞治療產能主力（Catalent Gosselies 正在收攤，見該筆）。對仲恩的相關性目前是間接的——Stemchymal 是原代脂肪 MSC 不是 iPSC 衍生，但若日後要走 iPSC 來源 MSC（如 Cynata 的 Cymerus 路線）以解決捐贈者變異，這裡是歐洲最成熟的落點。",
+    "insight": "比利時剩下的細胞治療產能主力（Catalent Gosselies 正結束營運，見該筆）。對仲恩的相關性目前是間接的——Stemchymal 是原代脂肪 MSC 不是 iPSC 衍生，但若日後要走 iPSC 來源 MSC（如 Cynata 的 Cymerus 路線）以解決捐贈者變異，這裡是歐洲最成熟的落點。",
     "threat": "partner",
     "url": "https://www.cellistic.com/",
     "match": [
@@ -1927,8 +1927,8 @@
     "country": "比利時 Belgium",
     "ticker": "Novo Holdings 持有（2024 年底完成收購）",
     "mechanism": "曾為商業級細胞治療與質體 DNA 製造；「歐洲細胞治療卓越中心」",
-    "pipeline": "⚠️ 收攤中｜2022 完工的 60,000 平方英尺商業級細胞治療廠一度是全球最大之一；2026 因產量下滑決定收掉 Gosselies 營運，影響約 150 人",
-    "insight": "列在這裡不是因為它是夥伴候選，而是因為它是**歐洲細胞治療產能正在退出的警訊**。全球最大的細胞治療廠之一因產量不足而關閉，說明歐洲 CGT 的產能過剩與需求落差是真的——這對仲恩的意義是雙面的：歐洲找代工的議價空間變好，但也要小心把供應綁在一個可能撤守的廠區。設備與人才短期內會流入市場。",
+    "pipeline": "⚠️ 結束營運中｜2022 完工的 60,000 平方英尺商業級細胞治療廠一度是全球最大之一；2026 因產量下滑決定關閉 Gosselies 營運，影響約 150 人",
+    "insight": "列在這裡不是因為它是夥伴候選，而是因為它是**歐洲細胞治療產能正在退出的警訊**。全球最大的細胞治療廠之一因產量不足而關閉，說明歐洲 CGT 的產能過剩與需求落差確實存在——這對仲恩的意義是雙面的：歐洲找代工的議價空間變好，但亦須留意將供應綁定於可能撤守的廠區。設備與人才短期內會流入市場。",
     "threat": "low",
     "url": "https://www.catalent.com/our-locations/europe/gosselies-belgium/",
     "match": [
@@ -1938,7 +1938,7 @@
     "updates": [
       {
         "date": "2026",
-        "text": "宣布收掉 Gosselies 細胞治療與質體營運，約 150 人受影響"
+        "text": "宣布結束 Gosselies 細胞治療與質體營運，約 150 人受影響"
       },
       {
         "date": "2024",
@@ -2056,7 +2056,7 @@
     "country": "英國 UK",
     "ticker": "慈善機構 Charity",
     "mechanism": "血液幹細胞與臍帶組織捐贈登錄與供應",
-    "pipeline": "起始material供應｜2026-05-05 與 INmune Bio 簽訂修訂後的材料移轉暨授權合約，長期供應臍帶組織供 CORDStrom 平台使用，涵蓋英、歐、美",
+    "pipeline": "起始材料供應｜2026-05-05 與 INmune Bio 簽訂修訂後的材料移轉暨授權合約，長期供應臍帶組織供 CORDStrom 平台使用，涵蓋英、歐、美",
     "insight": "異體細胞治療的最上游——捐贈者來源。它在 INmune Bio 案裡的角色說明了一件事：**異體產品的長期供貨風險不在工廠，在捐贈者材料的取得權**。仲恩用的是脂肪組織來源，供應鏈結構不同，但「先鎖定長期材料來源再談產能」的順序是可借鏡的。",
     "threat": "partner",
     "url": "https://www.anthonynolan.org/",
@@ -2094,7 +2094,7 @@
     "ticker": "NASDAQ: INMB",
     "mechanism": "CORDStrom｜臍帶來源異體 MSC，經檢驗、篩選、混合（pooled）建立標準化「MSC Bank」",
     "pipeline": "CORDStrom｜RDEB（隱性失養性水疱性表皮鬆解症）預計 2026 仲夏於英國送 MAA，隨後送 EMA 與 FDA；另拓展 CORDStrom-TRAIL（腫瘤）、骨關節炎與紅斑性狼瘡",
-    "insight": "**目前最值得盯的異體 MSC 法規先例。** 它與仲恩面對的是同一組難題（捐贈者變異、製造一致性），解法是把多位捐贈者的細胞混合成標準化細胞庫。若 RDEB 的 MAA 在英國過關，將是歐洲第一個以 pooled MSC 取證的案例，直接影響 EMA 對異體 MSC 的可比性與效價要求——仲恩之後進歐洲，審查官心裡的標準會是它訂的。2026-07-20 已宣布完成支持全球註冊送件的商業化製造里程碑。",
+    "insight": "**目前最值得關注的異體 MSC 法規先例。** 它與仲恩面對的是同一組難題（捐贈者變異、製造一致性），解法是把多位捐贈者的細胞混合成標準化細胞庫。若 RDEB 的 MAA 在英國獲核准，將是歐洲第一個以 pooled MSC 取證的案例，直接影響 EMA 對異體 MSC 的可比性與效價要求——預期仲恩日後進入歐洲時，審查端將以其所訂標準為參照。2026-07-20 已宣布完成支持全球註冊送件的商業化製造里程碑。",
     "threat": "low",
     "url": "https://www.inmunebio.com/",
     "match": [
@@ -2117,7 +2117,7 @@
       "ticker": "NASDAQ: INMB",
       "mechanism": "CORDStrom — allogeneic cord-derived MSCs that are tested, screened and pooled into standardised MSC banks",
       "pipeline": "CORDStrom | An MAA for recessive dystrophic epidermolysis bullosa was targeted for the UK in mid-summer 2026, with EMA and FDA submissions to follow; the platform is also being extended to CORDStrom-TRAIL in oncology, osteoarthritis and lupus",
-      "insight": "The allogeneic MSC regulatory precedent most worth watching. It faces the same problems as Steminent — donor variability and manufacturing consistency — and answers them by pooling cells from multiple donors into standardised banks. If the RDEB MAA clears in the UK it becomes Europe's first approval of a pooled MSC product, which will shape how the EMA frames comparability and potency requirements for allogeneic MSCs. When Steminent later enters Europe, the standard in the reviewer's mind will be the one this sets. The company announced on 20 July 2026 that it had completed the commercial manufacturing milestone supporting its planned global filings.",
+      "insight": "The allogeneic MSC regulatory precedent most worth watching. It faces the same problems as Steminent — donor variability and manufacturing consistency — and answers them by pooling cells from multiple donors into standardised banks. If the RDEB MAA clears in the UK it becomes Europe's first approval of a pooled MSC product, which will shape how the EMA frames comparability and potency requirements for allogeneic MSCs. When Steminent later enters Europe, reviewers are likely to take the standard this sets as their reference point. The company announced on 20 July 2026 that it had completed the commercial manufacturing milestone supporting its planned global filings.",
       "updates": [
         {
           "date": "2026/07",
@@ -2140,7 +2140,7 @@
     "ticker": "TSXV: NRX / OTCQB: NRXBF",
     "mechanism": "MSC 衍生外泌體載 PTEN siRNA（ExoPTEN），非細胞（cell-free）給藥",
     "pipeline": "ExoPTEN｜急性脊髓損傷：2026 預計啟動首次人體 Ph1/2a（C5–T10、ASIA A/B、傷後 3–7 天內收案）；另探索視神經損傷、創傷性腦損傷與顏面神經。已獲 FDA 與 EMA 孤兒藥資格",
-    "insight": "無細胞路線的代表。它把 MSC 的治療訊號抽出來裝進外泌體，繞開活細胞的低溫物流、存活率與免疫排斥問題——這正是 Stemchymal 這類活細胞產品的結構性成本來源。適應症完全不重疊（脊髓損傷 vs SCA），所以是純技術面的互補而非競爭；對仲恩來說是「次世代該不該走無細胞」這題的活體實驗。",
+    "insight": "無細胞路線的代表。它將 MSC 的治療訊號萃取並裝載於外泌體，繞開活細胞的低溫物流、存活率與免疫排斥問題——這正是 Stemchymal 這類活細胞產品的結構性成本來源。適應症完全不重疊（脊髓損傷 vs SCA），所以是純技術面的互補而非競爭；對仲恩來說可作為評估次世代是否採無細胞路線的現行案例。",
     "threat": "low",
     "url": "https://nurexone.com/",
     "match": [
@@ -2215,8 +2215,8 @@
     "country": "美國 USA",
     "ticker": "NASDAQ: DNLI",
     "mechanism": "TransportVehicle（TV）血腦障壁穿透平台；DNL422（OTV:SNCA）直接靶向 α-synuclein 以減少毒性聚集",
-    "pipeline": "DNL422｜仍在 IND-enabling 階段、主打帕金森病；列於 2025–2027 IND-enabling 名單，最快 2026 進臨床",
-    "insight": "與 MSA 的關聯是機轉相鄰而非直接競爭：MSA 與帕金森同屬 α-synuclein 病變，但 MSA 的病灶在寡突膠細胞、帕金森在神經元，靶細胞不同，藥物未必能直接跨過去。真正值得注意的是 TV 平台——如果血腦障壁遞送被解決，整個「打得到標的但送不進去」的失敗類別（BIIB132、VO659 都死在這）會被重新洗牌。",
+    "pipeline": "DNL422｜仍在 IND-enabling 階段、針對帕金森病；列於 2025–2027 IND-enabling 名單，最快 2026 進臨床",
+    "insight": "與 MSA 的關聯是機轉相鄰而非直接競爭：MSA 與帕金森同屬 α-synuclein 病變，但 MSA 的病灶在寡突膠細胞、帕金森在神經元，靶細胞不同，藥物未必能直接適用於另一疾病。真正值得注意的是 TV 平台——如果血腦障壁遞送被解決，整個「標的正確但遞送受阻」的失敗類別（BIIB132、VO659 皆受挫於此）會被重新調整。",
     "threat": "low",
     "url": "https://www.denalitherapeutics.com/",
     "match": [
@@ -2235,7 +2235,7 @@
       "ticker": "NASDAQ: DNLI",
       "mechanism": "The TransportVehicle (TV) blood-brain-barrier platform; DNL422 (OTV:SNCA) targets alpha-synuclein directly to reduce toxic aggregates",
       "pipeline": "DNL422 | Still IND-enabling and aimed at Parkinson's disease; listed among the 2025–2027 IND-enabling programmes and could enter trials as early as 2026",
-      "insight": "Its link to MSA is mechanistic adjacency rather than direct competition: MSA and Parkinson's are both synucleinopathies, but MSA pathology sits in oligodendrocytes and Parkinson's in neurons, so a drug does not necessarily carry across. The part that matters is the TV platform — if blood-brain-barrier delivery is genuinely solved, the whole failure category of drugs that engage their target but cannot reach it (where both BIIB132 and VO659 died) gets reshuffled.",
+      "insight": "Its link to MSA is mechanistic adjacency rather than direct competition: MSA and Parkinson's are both synucleinopathies, but MSA pathology sits in oligodendrocytes and Parkinson's in neurons, so a drug does not necessarily carry across. The part that matters is the TV platform — if blood-brain-barrier delivery is genuinely solved, the whole failure category of drugs that engage their target but cannot reach it (where both BIIB132 and VO659 were set back) gets changed.",
       "updates": [
         {
           "date": "2026",
@@ -2254,7 +2254,7 @@
     "ticker": "基金會持股 Foundation-owned",
     "mechanism": "大型製藥集團；於 SCA3 領域以資助世代研究與 AI 資料分析切入，尚無公開的 SCA 在研藥物",
     "pipeline": "無公開 SCA 在研資產｜2022-03-18 與 DZNE 統籌的 ESMI（歐洲 SCA3／馬查多－約瑟夫病聯盟）簽三年合作：Servier 支付世代成員年度回診費用並以 AI 與計算方法協助分析，換取逾 450 名 SCA3 帶因者、跨五國的標準化世代資料",
-    "insight": "⚠️ **這是 2022 年的舊約、三年期程推算應已屆滿，現況未公開，不可當成 2026 新動態解讀。** 但它的意義沒有過期：一家大藥廠已經用最便宜的方式（資助自然史世代）在 SCA3 卡了位，拿到的是定義試驗終點所需的基準資料。ESMI 成員含 UCL、Radboud UMC、Coimbra 大學與四所德國大學醫院——這同時也是歐洲 SCA3 臨床網絡的名單。",
+    "insight": "⚠️ **這是 2022 年的舊約、三年期程推算應已屆滿，現況未公開，不可當成 2026 新動態解讀。** 但它的意義沒有過期：一家大藥廠已以成本最低的方式（資助自然史世代）在 SCA3 卡了位，取得的是定義試驗終點所需的基準資料。ESMI 成員含 UCL、Radboud UMC、Coimbra 大學與四所德國大學醫院——這同時也是歐洲 SCA3 臨床網絡的名單。",
     "threat": "low",
     "url": "https://www.dzne.de/en/news/press-releases/press/european-partnership-between-academia-and-pharma-to-study-sca3-ataxia/",
     "match": [
@@ -2291,7 +2291,7 @@
     "ticker": "未上市 Private",
     "mechanism": "虛擬（遠距）神經退化疾病照護網絡；動作障礙專科神經科醫師、遺傳諮詢、縱貫式照護",
     "pipeline": "全國性 ataxia 照護方案｜2026-07-16 啟動，可與病人既有醫療團隊共同照護；與 Biogen 合作支持疾病衛教與意識推廣",
-    "insight": "**直接對應仲恩美國線最尷尬的缺口——目前無合作對象、病人只能自行接洽。** 這類虛擬照護網絡解的是罕病最貴的一段成本：找到分散在全美各地、且確診正確的病人。值得注意的是 Biogen 已經先一步接上——這是一家剛放棄自家 SCA3 ASO 的公司，卻仍在維持與 ataxia 病人社群的接觸點，這件事本身就是訊號。",
+    "insight": "**直接對應仲恩美國線最顯著的缺口——目前無合作對象、病人只能自行接洽。** 這類虛擬照護網絡解的是罕病最貴的一段成本：找到分散在全美各地、且確診正確的病人。值得注意的是 Biogen 已經先一步接上——這是一家剛放棄自家 SCA3 ASO 的公司，卻仍在維持與 ataxia 病人社群的接觸點，這件事本身就是訊號。",
     "threat": "partner",
     "url": "https://www.synapticure.com/with/ataxia",
     "match": [
@@ -2309,7 +2309,7 @@
       "ticker": "Private",
       "mechanism": "A virtual care network for neurodegenerative disease offering movement-disorder-trained neurologists, genetic counselling and longitudinal care",
       "pipeline": "Nationwide ataxia care programme | Launched 16 July 2026, able to co-manage patients alongside their existing care team; partnered with Biogen on disease education and awareness",
-      "insight": "This speaks directly to the most awkward gap on Steminent's US track — no partner in place, with patients reaching out on their own. A virtual care network addresses the most expensive problem in rare disease: finding correctly diagnosed patients scattered across a continent. Note that Biogen got there first — a company that had abandoned its own SCA3 ASO yet is still maintaining a touchpoint with the ataxia patient community, which is itself a signal.",
+      "insight": "This speaks directly to the most notable gap on Steminent's US track — no partner in place, with patients reaching out on their own. A virtual care network addresses the most expensive problem in rare disease: finding correctly diagnosed patients scattered across a continent. Note that Biogen got there first — a company that had abandoned its own SCA3 ASO yet is still maintaining a touchpoint with the ataxia patient community, which is itself a signal.",
       "updates": [
         {
           "date": "2026/07",
@@ -2355,7 +2355,7 @@
     "ticker": "未上市 Private",
     "mechanism": "神經誘導間質幹細胞（neuroinduced MSC）＋外泌體併用；鞘內與鼻內兩種給藥途徑",
     "pipeline": "神經誘導 MSC ＋ 外泌體｜脊髓小腦失調症（全亞型）：NCT07467733，Ph1/2、預估收案 90 人、2026-06 起、主要完成 2028-06，站點在華沙",
-    "insight": "**細胞治療賽道上第三個進入 SCA 的玩家，也是最容易被漏掉的一個**（登錄名稱用的是 spinocerebellar palsy）。三點值得注意：一、預估收案 90 人，比仲恩美國 Ph2（n≈20）大得多；二、同時給細胞與外泌體，等於把「活細胞 vs 無細胞」兩條路押在同一個試驗裡；三、採鞘內＋鼻內給藥，直接挑戰中樞遞送這個 SCA 領域反覆致命的環節（BIIB132、VO659 都死在送不到）。若它先讀出，會同時衝擊仲恩的靜脈給藥論述與細胞治療賽道的先行者地位。",
+    "insight": "**細胞治療賽道上第三個進入 SCA 的業者，也是最容易被漏掉的一個**（登錄名稱用的是 spinocerebellar palsy）。三點值得注意：一、預估收案 90 人，比仲恩美國 Ph2（n≈20）大得多；二、同時給細胞與外泌體，實質上將「活細胞 vs 無細胞」兩條路線納入同一個試驗；三、採鞘內＋鼻內給藥，直接挑戰中樞遞送這個 SCA 領域反覆受阻的環節（BIIB132、VO659 皆受挫於遞送不足）。若它先讀出，會同時衝擊仲恩的靜脈給藥論述與細胞治療賽道的先行者地位。",
     "threat": "mid",
     "url": "https://clinicaltrials.gov/study/NCT07467733",
     "match": [
@@ -2373,7 +2373,7 @@
       "ticker": "Private",
       "mechanism": "Neuroinduced mesenchymal stem cells combined with exosomes, delivered both intrathecally and intranasally",
       "pipeline": "Neuroinduced MSC + exosomes | Spinocerebellar ataxia (all subtypes): NCT07467733, Ph1/2, estimated enrolment of 90, starting June 2026 with primary completion in June 2028, at a site in Warsaw",
-      "insight": "The third player to enter SCA within the cell therapy lane, and the easiest to miss — the registry lists the condition as spinocerebellar palsy. Three things stand out. Its estimated enrolment of 90 is far larger than Steminent's US Ph2 at roughly 20. It administers cells and exosomes together, effectively betting on the live-cell and cell-free routes within a single trial. And it uses intrathecal plus intranasal delivery, taking direct aim at CNS delivery — the step that has repeatedly proved fatal in this field, killing both BIIB132 and VO659. An early readout would pressure both Steminent's intravenous delivery rationale and its first-mover position in the lane.",
+      "insight": "The third player to enter SCA within the cell therapy lane, and the easiest to miss — the registry lists the condition as spinocerebellar palsy. Three things stand out. Its estimated enrolment of 90 is far larger than Steminent's US Ph2 at roughly 20. It administers cells and exosomes together, effectively combining the live-cell and cell-free routes within a single trial. And it uses intrathecal plus intranasal delivery, taking direct aim at CNS delivery — the step that has repeatedly held programmes back in this field, setting back both BIIB132 and VO659. An early readout would pressure both Steminent's intravenous delivery rationale and its first-mover position in the lane.",
       "updates": [
         {
           "date": "2026/06",
@@ -2448,7 +2448,7 @@
     "ticker": "研究機構 Research consortium",
     "mechanism": "波昂（DZNE/波昂大學）統籌的泛歐 SCA 自然史世代：EUROSCA（症狀期）＋RISCA（發病前）；Klockgether／Jacobi／Durr",
     "pipeline": "世代研究｜EUROSCA 17 中心／10 國、基線 526 人，建立各亞型 SARA 年進展速率的歐洲基準；RISCA 14 中心／7 國、追蹤發病前帶因者",
-    "insight": "全球被引用最多的 SCA 自然史基準。與同樞紐的 ESMI 互補——ESMI 是 SCA3 臨床樞紐，EUROSCA/RISCA 提供泛亞型進展基準與發病前世代。引用它等於借用整個歐洲學界的可信度。",
+    "insight": "全球被引用最多的 SCA 自然史基準。與同樞紐的 ESMI 互補——ESMI 是 SCA3 臨床樞紐，EUROSCA/RISCA 提供泛亞型進展基準與發病前世代。引用它可借助歐洲學界的公信力。",
     "threat": "partner",
     "url": "https://www.dzne.de/",
     "match": [
@@ -2464,7 +2464,7 @@
       "ticker": "Research consortium",
       "mechanism": "Bonn-coordinated (DZNE/University of Bonn) pan-European SCA natural-history cohorts: EUROSCA (symptomatic) and RISCA (pre-symptomatic); Klockgether/Jacobi/Durr",
       "pipeline": "Cohort research | EUROSCA spans 17 centres in 10 countries with 526 at baseline, establishing Europe's per-subtype annual SARA progression benchmark; RISCA spans 14 centres in 7 countries following pre-symptomatic carriers",
-      "insight": "The world's most-cited SCA natural-history benchmark. Complementary to the same-hub ESMI — ESMI is the SCA3 clinical hub, while EUROSCA/RISCA provide the pan-subtype progression baseline and the pre-symptomatic cohort. Citing it borrows the credibility of the entire European academic community."
+      "insight": "The world's most-cited SCA natural-history benchmark. Complementary to the same-hub ESMI — ESMI is the SCA3 clinical hub, while EUROSCA/RISCA provide the pan-subtype progression baseline and the pre-symptomatic cohort. Citing it draws on the credibility of the European academic community."
     }
   },
   {
@@ -2502,7 +2502,7 @@
     "ticker": "學術研究 Academic study",
     "mechanism": "Li 等（中國）以華人族群驗證血清神經絲輕鏈（NfL）作為 SCA3 血液生物標記",
     "pipeline": "世代研究｜116 名 SCA3 ＋ 91 名對照，驗證血清 NfL 追蹤病程與療效",
-    "insight": "生物標記方法學參照，非市場對象。中國非本公司目標市場，收錄理由是它補足學術層的『生物標記工具』面——若未來試驗想用血液 NfL 追療效，這是華人族群已驗證的參照。定位為觀察。",
+    "insight": "生物標記方法學參照，非市場對象。中國非本公司目標市場，收錄理由是它補足學術層的『生物標記工具』面——若未來試驗擬採血液 NfL 追蹤療效，這是華人族群已驗證的參照。定位為觀察。",
     "threat": "partner",
     "url": "https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-019-0338-0",
     "match": [
@@ -2528,7 +2528,7 @@
     "ticker": "未上市 Private",
     "mechanism": "細胞治療 CDMO；CellReady® 異體間質幹細胞平台。可處理 15 種細胞型別（T 細胞、NK、Treg、MSC、iPS、永生化細胞株）",
     "pipeline": "受託開發與製造＋自有平台｜土魯斯（4 bis avenue Hubert Curien）；A-MUSE Ph1/2 與土魯斯大學醫院（CHU Toulouse）合作，以 CellReady 異體 MSC 治療全身性硬化症，2026-01 啟動",
-    "insight": "法國唯一同時具備異體 MSC 製造能力與自有臨床程式的業者，且製造品質體系對齊 ICH Q2(R1)、歐洲藥典與 EMA／MHRA。對仲恩的意義是「歐洲第二選項」——Histocell 是沿 REPROCELL 關係往西的最短路徑，Cell-Easy 則是不依賴既有關係、可獨立評估的替代方案，且它自己就在跑異體 MSC 的臨床試驗，對製程與法規的理解不是紙上談兵。",
+    "insight": "法國唯一同時具備異體 MSC 製造能力與自有臨床程式的業者，且製造品質體系對齊 ICH Q2(R1)、歐洲藥典與 EMA／MHRA。對仲恩的意義是「歐洲第二選項」——Histocell 是沿 REPROCELL 關係往西的最短路徑，Cell-Easy 則是不依賴既有關係、可獨立評估的替代方案，且其自身亦正執行異體 MSC 臨床試驗，對製程與法規的理解並非僅止於理論。",
     "threat": "partner",
     "url": "https://www.cell-easy.com/",
     "match": [
@@ -2543,7 +2543,7 @@
       },
       {
         "date": "2026/04",
-        "text": "啟動 iPSC 衍生 β 細胞program，獲 Bpifrance 1,200 萬歐元支持"
+        "text": "啟動 iPSC 衍生 β 細胞計畫，獲 Bpifrance 1,200 萬歐元支持"
       },
       {
         "date": "2026/01",
@@ -2582,7 +2582,7 @@
     "ticker": "SEQENS 集團 Part of SEQENS",
     "mechanism": "細胞與基因治療 CDMO；自體與異體皆可的端對端製造平台",
     "pipeline": "受託製造服務｜巴黎近郊 10,000 m² 廠區，其中 2,200 m² 為 GMP 分級製造空間；六條獨立產線、每條八間無塵室，年產能達數百批次，涵蓋 Ph1 至商業規模；承接 CellProthera 的 Ph3 GMP 製造",
-    "insight": "法國規模最大的 CGT 受託製造廠之一，且已有承接他家 Ph3 商業級製造的實績。與 Cell-Easy 的差異在定位：Cell-Easy 兼具自有臨床程式、規模較小但懂 MSC；CELLforCURE 純受託但廠區規模與後期臨床經驗較完整。若仲恩歐洲走到後期臨床或商業供貨，這裡的產能層級才接得住。",
+    "insight": "法國規模最大的 CGT 受託製造廠之一，且已有承接他家 Ph3 商業級製造的實績。與 Cell-Easy 的差異在定位：Cell-Easy 兼具自有臨床程式、規模較小但具 MSC 專業；CELLforCURE 純受託但廠區規模與後期臨床經驗較完整。若仲恩歐洲走到後期臨床或商業供貨，此處的產能層級才足以承接。",
     "threat": "partner",
     "url": "https://cellandgene.seqens.com/",
     "match": [
@@ -2621,7 +2621,7 @@
     "ticker": "未上市 Private",
     "mechanism": "自體再生細胞治療，適應症為缺血性疾病",
     "pipeline": "ProtheraCytes®｜心肌梗塞後心臟修復；已選定 CELLforCURE by SEQENS 進行 Ph3 GMP 製造，技轉後自 2026 起產出臨床批次",
-    "insight": "法國本土的再生細胞治療開發者。適應症（缺血性心臟疾病）與 SCA 無交集，但它示範了一件對仲恩直接有用的事：**一家中型細胞治療公司如何在歐洲把製造外包給 CDMO 並推進到 Ph3**。仲恩在歐洲面對的正是同一道題——自建產能不現實，靠誰、以什麼合約形態接手，它已經走過一遍。",
+    "insight": "法國本土的再生細胞治療開發者。適應症（缺血性心臟疾病）與 SCA 無交集，但它示範了一件對仲恩直接有用的事：**一家中型細胞治療公司如何在歐洲把製造外包給 CDMO 並推進到 Ph3**。仲恩在歐洲面對的正是同一課題——自建產能不現實，由誰、以何種合約形態承接，其已走過一遍。",
     "threat": "low",
     "url": "https://www.cellprothera.com/en/",
     "match": [
@@ -2658,7 +2658,7 @@
     "ticker": "未上市 Private",
     "mechanism": "精準基因療法平台：以單一載體同時、選擇性地把治療基因送進腦內的神經元與星形膠質細胞",
     "pipeline": "AVR-001｜SOD1 突變型 ALS，準備進入 IND-enabling，已於囓齒類與非人靈長類模型驗證；AVR-002｜針對神經免疫機轉，設計涵蓋家族性與偶發性 ALS 全體病人",
-    "insight": "2020 年成立、洛桑聯邦理工學院（EPFL）Brain Mind Institute 與 Bertarelli 基金會基因療法平台的衍生公司，總部巴塞爾。與仲恩的交集不在適應症而在**細胞層級的遞送**：它主張同時打神經元與星形膠質細胞才有協同效益，這個「不能只顧神經元」的論點，正好呼應 MSC 旁分泌作用於整個神經膠質環境的機轉敘事。若其非人靈長類遞送數據成立，對「中樞遞送做不到」這個 SCA 領域的共同天花板是重要參考。",
+    "insight": "2020 年成立、洛桑聯邦理工學院（EPFL）Brain Mind Institute 與 Bertarelli 基金會基因療法平台的衍生公司，總部巴塞爾。與仲恩的交集不在適應症而在**細胞層級的遞送**：它主張同時靶向神經元與星形膠質細胞才有協同效益，這個「不能只顧神經元」的論點，正好呼應 MSC 旁分泌作用於整個神經膠質環境的機轉敘事。若其非人靈長類遞送數據成立，對「中樞遞送做不到」這個 SCA 領域的共同天花板是重要參考。",
     "threat": "low",
     "url": "https://www.avriontx.com/about/",
     "match": [
@@ -2697,7 +2697,7 @@
     "ticker": "未上市 Private",
     "mechanism": "細胞與基因治療 CDMO；自體與異體流程皆可",
     "pipeline": "受託製造服務｜墨爾本維多利亞綜合癌症中心，與 Peter MacCallum 癌症中心同址；13 間專建無塵室（10 間支援早中期臨床、3 間大規模高通量支援後期與商業化），商業套房年產能達 2,000 劑",
-    "insight": "**這一家的關鍵不是產能而是查廠紀錄**：已通過 TGA、FDA、EMA 與 PMDA 多次查核，並持有日本 MHLW 認證。仲恩的日本申請正在 PMDA 手上，而日本核准後需要能供貨的 GMP 廠——一座同時被 PMDA 查過、又位在亞太時區的商業級廠房，在整份名單裡是獨一無二的組合。產品範圍涵蓋 CAR-T、TCR、NK 與再生醫療產品。",
+    "insight": "**其關鍵不在產能而在查廠紀錄**：已通過 TGA、FDA、EMA 與 PMDA 多次查核，並持有日本 MHLW 認證。仲恩的日本申請目前由 PMDA 審查中，而日本核准後需要能供貨的 GMP 廠——一座同時被 PMDA 查過、又位在亞太時區的商業級廠房，在整份名單裡是獨一無二的組合。產品範圍涵蓋 CAR-T、TCR、NK 與再生醫療產品。",
     "threat": "partner",
     "url": "https://celltherapies.com/",
     "match": [
@@ -2771,7 +2771,7 @@
     "ticker": "國家級聯盟 National consortium",
     "mechanism": "瑞典先進治療醫療產品（ATMP）的國家協調機制；成員含七所醫學大學、七所大學醫院與七家生技／製藥／醫材業者",
     "pipeline": "國家協調與 GMP 基礎設施｜Skåne 大學醫院 ATMP Center 於 2025 年初啟用，以多能幹細胞依 GMP 製造先進治療產品；隆德大學設有 pre-GMP 設施；規劃於 2026 下半年完成完整聯盟編組與財務安排",
-    "insight": "瑞典把分散的學術與醫院產能整合成單一入口，這對外來者的意義是**不必逐一敲門**。歷史上瑞典的 CGT GMP 基礎設施自 1990 年代末即運作，2014 年更做出歐洲第一批進入臨床試驗的 CAR-T，底子不淺。對仲恩而言，這是進入北歐臨床與製造網絡的統一窗口，適合在歐洲策略成形後再接觸。",
+    "insight": "瑞典把分散的學術與醫院產能整合成單一入口，這對外來者的意義是**無須逐一接洽**。歷史上瑞典的 CGT GMP 基礎設施自 1990 年代末即運作，2014 年更製造出歐洲第一批進入臨床試驗的 CAR-T，基礎深厚。對仲恩而言，這是進入北歐臨床與製造網絡的統一窗口，適合在歐洲策略成形後再接觸。",
     "threat": "partner",
     "url": "https://atmpsweden.se/",
     "match": [
@@ -2795,7 +2795,7 @@
       "ticker": "National consortium",
       "mechanism": "Sweden's national coordination function for advanced therapy medicinal products, with members drawn from seven medical universities, seven university hospitals and seven biotech, pharmaceutical and medtech companies",
       "pipeline": "National coordination and GMP infrastructure | The ATMP Center at Skåne University Hospital opened in early 2025, manufacturing advanced therapies from pluripotent stem cells under GMP; Lund University operates a pre-GMP facility; full consortium formation with financing and operations is planned for the second half of 2026",
-      "insight": "Sweden has consolidated scattered academic and hospital capacity into a single point of entry, which for an outsider means not having to knock on doors one at a time. Swedish CGT GMP infrastructure has been running since the late 1990s and produced the first CAR-T cells to enter a clinical trial anywhere in Europe in 2014, so the foundations are deep. For Steminent this is a unified gateway into Nordic clinical and manufacturing networks, best approached once the European strategy has taken shape.",
+      "insight": "Sweden has consolidated scattered academic and hospital capacity into a single point of entry, which for an outsider means not having to approach each institution one at a time. Swedish CGT GMP infrastructure has been running since the late 1990s and produced the first CAR-T cells to enter a clinical trial anywhere in Europe in 2014, so the foundations are deep. For Steminent this is a unified gateway into Nordic clinical and manufacturing networks, best approached once the European strategy has taken shape.",
       "updates": [
         {
           "date": "2026/H2",
@@ -2817,8 +2817,8 @@
     "country": "比利時 Belgium",
     "ticker": "Euronext: BIOS",
     "mechanism": "ALLOB：骨髓間質幹細胞體外培養分化而成的異體成骨細胞產品",
-    "pipeline": "⚠️ ALLOB 已擱置｜脛骨骨折 Ph2b 未達療效終點，早期給藥未能顯著加速癒合，2023-06 宣布暫停開發。公司重心已轉向來自 Medsenic 的口服三氧化二砷，備戰慢性移植物抗宿主病 Ph3",
-    "insight": "2022-10 由 Bone Therapeutics 與法國 Medsenic 反向合併而成，位於 Mont-Saint-Guibert 的 Louvain-la-Neuve 科學園區。**列在這裡是作為警訊而非機會**：這是又一個異體 MSC 衍生產品在 Ph2b 折戟、且公司隨即轉向非細胞資產的案例。值得注意的是失敗發生在療效而非安全性——ALLOB 注射的安全性紀錄良好、無相關嚴重不良事件。這正是異體 MSC 的典型困境：安全過得去，療效證不出來。",
+    "pipeline": "⚠️ ALLOB 已擱置｜脛骨骨折 Ph2b 未達療效終點，早期給藥未能顯著加速癒合，2023-06 宣布暫停開發。公司重心已轉向來自 Medsenic 的口服三氧化二砷，籌備慢性移植物抗宿主病 Ph3",
+    "insight": "2022-10 由 Bone Therapeutics 與法國 Medsenic 反向合併而成，位於 Mont-Saint-Guibert 的 Louvain-la-Neuve 科學園區。**列在這裡是作為警訊而非機會**：這是又一個異體 MSC 衍生產品在 Ph2b 失利、且公司隨即轉向非細胞資產的案例。值得注意的是失敗發生在療效而非安全性——ALLOB 注射的安全性紀錄良好、無相關嚴重不良事件。這正是異體 MSC 的典型困境：安全性可接受，療效則未能證實。",
     "threat": "low",
     "url": "https://www.biosenic.com/our-science",
     "match": [
@@ -2865,7 +2865,7 @@
     "ticker": "NASDAQ: QNCX",
     "mechanism": "自體紅血球包覆藥物遞送平台（AIDE）：將地塞米松磷酸鈉包入病人自身紅血球，作為緩釋載體長時間低劑量釋放類固醇",
     "pipeline": "eDSP（EryDex）｜共濟失調微血管擴張症（A-T）：Ph3 NEAT（NCT06193200）已完成，2026/08 發表全文，主要終點未達顯著（p=0.085）",
-    "insight": "2026/08/18 主動掃描發現的清單外玩家——其三期資產此前完全未被本平台收錄。<b>與本公司無適應症或市場重疊</b>（A-T 為 ATM 缺陷所致之隱性共濟失調，非 polyQ 疾病），不構成直接競爭威脅。追蹤價值在兩點：一是 A-T 屬本平台既已追蹤的鄰近共濟失調圈層；二是 NEAT 以 RmICARS 為主要終點在六個月窗口內未達顯著（差值 −1.30、CI 上緣僅略越零界），與 SARA 同屬臨床醫師評分量表，可作為<b>終點敏感度與追蹤期設計</b>的外部參照。惟 A-T 為兒童期快速進展疾病，量表行為不能直接外推至成人晚發 SCA。",
+    "insight": "2026/08/18 主動掃描發現的清單外業者——其三期資產此前完全未被本平台收錄。<b>與本公司無適應症或市場重疊</b>（A-T 為 ATM 缺陷所致之隱性共濟失調，非 polyQ 疾病），不構成直接競爭威脅。追蹤價值在兩點：一是 A-T 屬本平台既已追蹤的鄰近共濟失調圈層；二是 NEAT 以 RmICARS 為主要終點在六個月窗口內未達顯著（差值 −1.30、CI 上緣僅略越零界），與 SARA 同屬臨床醫師評分量表，可作為<b>終點敏感度與追蹤期設計</b>的外部參照。惟 A-T 為兒童期快速進展疾病，量表行為不能直接外推至成人晚發 SCA。",
     "threat": "low",
     "url": "https://www.quincetx.com/",
     "match": [
