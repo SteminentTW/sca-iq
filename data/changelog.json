@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-03",
+    "dateDisplay": "2026/10/03",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>補回 2026-10-02 缺跑的一天（上次真正發布為 2026-10-01，缺口 2 天，在 §0 補跑上限 3 天內，全數回補）。</b>CT.gov 五組適應症查詢窗口拉長為 LastUpdatePostDate 2026-09-29～10-03；PubMed 維持預設 reldate=7（已涵蓋缺口）。本次亦補做<b>逾期的 §1b-2 已知資產點名查核</b>（上次執行為 2026-08-24，隔逾 5 週）：19 項資產藥名逐一查核，SLX-100、CRD-002、NLX-112（befiradol）<b>目前皆無登錄之 SCA 相關試驗</b>（非平台漏收，為資產本身尚未進入該適應症臨床階段），其餘 16 項均已在 trials.json 有對應記錄。<b>試驗狀態異動（非新試驗）</b>：Biogen omaveloxolone 兒童延伸試驗 NCT06953583 登錄狀態於 2026-10-02 由「收案中」改為「已停止收案（ACTIVE_NOT_RECRUITING）」，CT.gov 未附原因，已更新 trials.json 並標註不代表收案達標或結果讀出。主動發現廣掃另查得 3 筆 Biogen omaveloxolone 上市後觀察性研究（孕期/哺乳登錄 NCT06628687、長期安全性登錄 NCT06623890、法國單中心吞嚥障礙世代 NCT07013292）——<b>均為觀察性／登錄研究、非介入性療法試驗，依手冊排除準則不建檔</b>。PubMed 近 7 天命中 6 篇，3 篇已於 10/1 收錄、2 篇（42310491 SCA1 運動/剪接小鼠研究、41672538 SCA3 類ALS病例報告）因實際電子刊出日早於窗口，10/1 已判定不收錄、本次核對結論一致；另 1 篇（42825921，運動障礙症創始者突變範疇性文獻綜述）屬廣泛機轉綜述、與平台追蹤資產無直接關聯，<b>不收錄</b>。公司新聞 WebSearch 查核 Stemchymal／REPROCELL 日本申請、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2：<b>窗內均無新事實</b>，現況與平台既有記錄一致。events.json／patents.json／exclusivity.json 本次未查得新事實，維持不動。weekNewCount 延續本週既有計數，不變。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>Backfilled the one missed day, 2026-10-02 (last genuine publish was 2026-10-01; a 2-day gap, within the §0 cap of 3 days, fully closed).</b> The five CT.gov indication queries used a widened LastUpdatePostDate window of 2026-09-29 to 10-03; PubMed kept the default reldate of 7 days, which already covered the gap. This run also caught up the <b>overdue §1b-2 known-asset roll call</b> (last run 2026-08-24, over 5 weeks prior): all 19 tracked drug names were checked individually; SLX-100, CRD-002 and NLX-112 (befiradol) <b>currently have no registered SCA-related trial</b> (not a platform gap — these assets simply have not yet reached clinical stage in this indication), and the other 16 all already have matching records in trials.json. <b>A trial status change (not a new trial)</b>: Biogen's paediatric omaveloxolone extension study NCT06953583 moved from Recruiting to Active, not recruiting on the registry on 2026-10-02; CT.gov gives no reason, and trials.json has been updated with a note that this does not imply enrolment targets were met or any results have read out. The broad discovery scan also turned up 3 Biogen post-marketing observational studies for omaveloxolone (a pregnancy/lactation registry, NCT06628687; a long-term safety registry, NCT06623890; and a single-site French dysphagia cohort, NCT07013292) — <b>all observational/registry studies, not interventional therapy trials, and excluded under the manual's exclusion rule</b>. PubMed returned 6 hits in the past 7 days: 3 were already recorded on 10/1; 2 (42310491, an SCA1 exercise/splicing mouse study, and 41672538, an SCA3 ALS-like case report) were excluded on 10/1 because their actual epub dates fall outside the window, and today's review reached the same conclusion; 1 more (42825921, a scoping review of founder mutations across movement disorders) is a broad mechanistic review with no direct bearing on any tracked asset and was <b>not added</b>. WebSearch checks on company news for Stemchymal/REPROCELL's Japan filing, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 found <b>no new facts within the window</b>; current status matches what the platform already has on record. events.json, patents.json and exclusivity.json were checked and found nothing new, so they remain unchanged. weekNewCount carries over unchanged from earlier this week.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-01",
     "dateDisplay": "2026/10/01",
     "tag": "每日掃描",
