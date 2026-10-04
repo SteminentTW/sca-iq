@@ -1099,5 +1099,37 @@
         }
       ]
     }
+  },
+  {
+    "id": "astellas-gene",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Astellas Gene Therapies",
+    "asset": "ASP2016",
+    "mechanism": "AAV基因療法<br>遞送FXN基因",
+    "indication": "Friedreich's Ataxia<br>相關心肌病變",
+    "phase": "Ph1b 已撤回",
+    "status": "<b>Ph1b試驗（NCT06483802）於2025/11以企業決策撤回</b>，自2024/11登錄起始後<b>實際收案0人</b>，CT.gov未附具體撤回原因，查無對應公司公告。為共濟失調基因治療領域又一受挫案例，惟因未實際收案、無安全性數據，無法判斷是技術／商業或策略性放棄。",
+    "threatLabel": "低(撤回)",
+    "links": [
+      {
+        "label": "試驗登錄 ↗ NCT06483802",
+        "url": "https://clinicaltrials.gov/study/NCT06483802"
+      }
+    ],
+    "en": {
+      "asset": "ASP2016",
+      "mechanism": "AAV gene therapy<br>delivers the FXN gene",
+      "indication": "Friedreich's ataxia<br>cardiomyopathy",
+      "phase": "Ph1b withdrawn",
+      "status": "<b>The Ph1b trial (NCT06483802) was withdrawn in 2025/11 by corporate decision</b>; after registering in 2024/11, <b>0 patients were ever enrolled</b>. CT.gov gives no specific reason for the withdrawal, and no corresponding company statement could be found. Another setback in the ataxia gene-therapy field, though with no patients enrolled and no safety data, whether this reflects a technical, commercial or strategic decision cannot be determined.",
+      "threatLabel": "Low (withdrawn)",
+      "links": [
+        {
+          "label": "Trial registry ↗ NCT06483802",
+          "url": "https://clinicaltrials.gov/study/NCT06483802"
+        }
+      ]
+    }
   }
 ]

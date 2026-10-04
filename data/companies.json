@@ -2882,5 +2882,56 @@
       "insight": "An off-list player picked up by the 2026/08/18 sweep — its Phase 3 asset had never been captured on this platform at all. <b>There is no overlap with our own indication or market</b> (A-T is a recessive ataxia caused by ATM deficiency, not a polyQ disease), so it poses no direct competitive threat. It is worth tracking for two reasons: A-T sits in the adjacent ataxia ring the platform already covers, and NEAT's failure to reach significance on an RmICARS primary endpoint within a six-month window (difference −1.30, upper confidence bound only just crossing zero) offers an external reference point on <b>endpoint sensitivity and follow-up duration</b>, RmICARS being a clinician-rated scale like SARA. A-T is nonetheless a rapidly progressing childhood disease, and its scale behaviour does not extrapolate directly to adult late-onset SCA."
     },
     "cat": "sca"
+  },
+  {
+    "id": "astellas-gene",
+    "name": "Astellas Gene Therapies",
+    "nameEn": "Astellas Gene Therapies",
+    "short": "Astellas",
+    "country": "美國 USA（母公司日本 Astellas Pharma）",
+    "ticker": "TSE: 4503（母公司）",
+    "mechanism": "AAV基因療法，遞送FXN基因",
+    "pipeline": "ASP2016｜Friedreich's Ataxia相關心肌病變：Ph1b試驗已撤回（2025/11企業決策，實收0人）",
+    "insight": "2024/11啟動之FRDA心肌病變基因治療Ph1b試驗（NCT06483802）於2025/11以企業決策撤回，實際未收案任何病人，CT.gov未附具體原因，亦未查得對應公司公告說明。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT06483802",
+    "match": [
+      "Astellas Gene Therapies",
+      "ASP2016"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA (parent: Astellas Pharma, Japan)",
+      "mechanism": "AAV gene therapy delivering the FXN gene",
+      "pipeline": "ASP2016 | Friedreich's ataxia cardiomyopathy: Ph1b trial withdrawn (corporate decision, 2025/11, 0 patients enrolled)",
+      "insight": "A Ph1b gene-therapy trial for FA cardiomyopathy (NCT06483802), opened 2024/11, was withdrawn in 2025/11 by corporate decision with no patients ever enrolled; CT.gov gives no specific reason, and no corresponding company statement could be found."
+    },
+    "cat": "sca"
+  },
+  {
+    "id": "stealth-elamipretide",
+    "name": "Stealth BioTherapeutics（elamipretide）",
+    "nameEn": "Stealth BioTherapeutics (elamipretide)",
+    "short": "Stealth",
+    "country": "美國 USA",
+    "ticker": "NASDAQ: MITO",
+    "mechanism": "線粒體靶向肽，穩定心磷脂",
+    "pipeline": "Elamipretide｜Friedreich's Ataxia：小型研究者發起試驗（IIS）已完成，無對照組",
+    "insight": "費城兒童醫院主導、藥物由Stealth提供之小型開放標籤試驗（NCT05168774，n=20）已完成，CT.gov公告各劑量組描述性數據，但無安慰劑對照、不足以判斷療效；查無Stealth本身主導之FA樞紐試驗計畫。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT05168774",
+    "match": [
+      "Stealth BioTherapeutics",
+      "elamipretide",
+      "Elamipretide"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA",
+      "mechanism": "Mitochondria-targeted peptide, stabilises cardiolipin",
+      "pipeline": "Elamipretide | Friedreich's ataxia: small investigator-initiated study (IIS) completed, uncontrolled",
+      "insight": "A small open-label study led by Children's Hospital of Philadelphia using Stealth-supplied drug (NCT05168774, n=20) has completed; CT.gov posts descriptive data by dose group, but with no placebo control it is insufficient to judge efficacy. No Stealth-led pivotal FA programme could be found."
+    },
+    "cat": "sca"
   }
 ]

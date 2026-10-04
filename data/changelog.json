@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-04",
+    "dateDisplay": "2026/10/04",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>上次真正發布為2026-10-03，缺口1天（即今日），屬正常每日掃描、無需補跑。</b>CT.gov五組適應症查詢＋主動發現廣掃（含SCA1/2/3/6/7、Machado-Joseph、ATXN1/2/3/7亞型查詢）比對既有43筆試驗鍵值，<b>新增3筆試驗</b>：① PTC Therapeutics MOVE-FA（NCT04577352，vatiquinone樞紐試驗，已完成、主要指標未達顯著，詳見results.json）、② Astellas Gene Therapies ASP2016（NCT06483802，FRDA心肌病變AAV基因療法Ph1b，2025/11撤回、實收0人，新增競品）、③ Elamipretide（NCT05168774，費城兒童醫院主導小型開放標籤試驗，已完成，無對照組）。<b>新增2則results.json讀出</b>（MOVE-FA未達顯著、ASP2016撤回，均屬level:win）；<b>新增1則news.json</b>彙整上述兩項受挫事實；<b>新增2家公司</b>（astellas-gene、stealth-elamipretide）、<b>新增1筆competitors.json</b>（astellas-gene，ring:ataxia）。以上三筆試驗均非近7天內新試驗，為廣掃比對平台既有資料時發現之歷史缺漏補收（§1b候選新競品規則，不受§2「7天」門檻限制）。PubMed近7天（reldate=7）命中2篇（42825921、42799858），皆已於先前掃描（2026-09-28／2026-10-03）評估並排除（機轉綜述、與追蹤資產無直接關聯），本次核對結論一致、無新增文獻。公司新聞WebSearch查核Stemchymal／REPROCELL日本申請、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2：<b>窗內均無新事實</b>，現況與平台既有記錄一致。§1b-2已知資產點名查核已於2026-10-03執行，本次未重複（週期性任務，下次約2026-10-10）。events.json／patents.json／exclusivity.json本次未查得新事實，維持不動。weekNewCount本次新增1則新聞，自3累計為4。",
+    "link": {
+      "label": "詳見 競品試驗結果 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>The last genuine publish was 2026-10-03, a 1-day gap (i.e. today) — a normal daily run, no backfill needed.</b> The five CT.gov indication queries plus a broad discovery scan (including SCA1/2/3/6/7, Machado-Joseph, and ATXN1/2/3/7 subtype queries) were compared against the existing 43 trial keys, surfacing <b>3 new trials</b>: (1) PTC Therapeutics' MOVE-FA (NCT04577352, vatiquinone pivotal trial, completed, primary endpoint not statistically significant — see results.json); (2) Astellas Gene Therapies' ASP2016 (NCT06483802, an AAV gene therapy Ph1b for FA cardiomyopathy, withdrawn 2025/11 with 0 patients enrolled — a new competitor); (3) Elamipretide (NCT05168774, a small open-label investigator-initiated study at Children's Hospital of Philadelphia, completed, uncontrolled). <b>2 new results.json readouts added</b> (MOVE-FA's non-significant result and ASP2016's withdrawal, both level:win); <b>1 news.json item added</b> summarising the two setbacks; <b>2 new companies added</b> (astellas-gene, stealth-elamipretide); <b>1 new competitors.json entry added</b> (astellas-gene, ring:ataxia). None of these three trials were updated within the past 7 days — all were historical gaps surfaced by comparing the broad scan against the platform's existing data (per the §1b new-competitor-discovery rule, which is not subject to §2's 7-day freshness test). PubMed's past-7-day window (reldate=7) returned 2 hits (42825921, 42799858), both already evaluated and excluded by prior scans (2026-09-28 / 2026-10-03) as mechanistic reviews unrelated to tracked assets; today's recheck reached the same conclusion, so no new papers were added. WebSearch checks on company news for Stemchymal/REPROCELL's Japan filing, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 found <b>no new facts within the window</b>; current status matches existing records. The §1b-2 known-asset roll call was run on 2026-10-03 and was not repeated today (a weekly task, next due around 2026-10-10). events.json, patents.json and exclusivity.json were checked and found nothing new, so they remain unchanged. weekNewCount adds 1 news item this run, bringing the running total from 3 to 4.",
+      "linkLabel": "See Trial Results ↗"
+    }
+  },
+  {
     "date": "2026-10-03",
     "dateDisplay": "2026/10/03",
     "tag": "每日掃描",

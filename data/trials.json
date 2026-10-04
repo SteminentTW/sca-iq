@@ -701,5 +701,50 @@
       "status": "<b>Found by the formal known-asset roll call re-run via the CT.gov API once network access recovered</b> (<b>not previously registered on this platform</b> — its last registry update was 2025-08-22, so a date-sorted disease-condition sweep can never reach it in the top 40; only a drug-name query retrieves it). A <b>paediatric PK/safety study</b> sponsored by PTC Therapeutics, with only <b>5 patients actually enrolled</b>, in <b>Friedreich's ataxia patients under age 7</b>; started 2022/10/12 with primary completion 2024/08/29, status <b>completed</b>. <b>Its purpose was to assess vatiquinone's pharmacokinetics and safety in this younger age group</b>, not to demonstrate efficacy. ⚠️ <b>n=5 is a PK-bridging study and does not constitute efficacy evidence</b>; <b>no results are posted on CT.gov</b>, and no corresponding company announcement or publication could be found. This entry complements the company's other two trials (NCT05515536, long-term safety; NCT07681713, the PROVE-FA efficacy study), together indicating PTC's plan to extend vatiquinone dosing down to a younger patient population",
       "sponsor": "PTC Therapeutics (USA)"
     }
+  },
+  {
+    "nct": "NCT04577352",
+    "drug": "Vatiquinone（PTC743，口服）",
+    "mechanism": "小分子<br>15-LO 抑制／氧化壓力",
+    "phase": "Ph2/3（MOVE-FA，樞紐）",
+    "status": "<b>已完成（n=146，隨機雙盲安慰劑對照＋開放標籤延伸）</b>。主要指標（Week72 mFARS變化，mITT／ITT兩分析集）<b>均未達統計顯著</b>（詳見 results.json）；公司稍後公告之完成者子集（n=96）與144週延伸數據則呈正面訊號。<b>補收說明</b>：本筆為2026-10-04主動發現廣掃比對既有競品資料時，發現本試驗已有正式結果公開但平台尚未收錄而補建檔，非近7天內新試驗。",
+    "sponsor": "PTC Therapeutics",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT04577352",
+    "en": {
+      "mechanism": "Small molecule<br>15-LO inhibition / oxidative stress",
+      "phase": "Ph2/3 (MOVE-FA, pivotal)",
+      "status": "<b>Completed (n=146, randomised double-blind placebo-controlled with open-label extension)</b>. The primary endpoint (change in mFARS at Week 72, both mITT and ITT analysis sets) <b>did not reach statistical significance</b> (see results.json); the company's later-announced completers subset (n=96) and 144-week extension data showed positive signals. <b>Backfill note</b>: added 2026-10-04 after the broad discovery scan found this trial already had posted results not yet on the platform; not a trial newly updated within the past 7 days."
+    }
+  },
+  {
+    "nct": "NCT06483802",
+    "drug": "ASP2016（AAV基因療法）",
+    "mechanism": "AAV基因療法<br>遞送FXN基因，標的FA相關心肌病變",
+    "phase": "Ph1b",
+    "status": "<b>已撤回（Withdrawn）</b>。登錄狀態於2025/11/28更新為撤回，原因欄位僅載明「企業決策」（corporate decision），<b>實際收案0人</b>，無安全性或療效數據公開。2024/11/08登錄起始、原預估2025/10完成。",
+    "sponsor": "Astellas Gene Therapies",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT06483802",
+    "en": {
+      "mechanism": "AAV gene therapy<br>delivers the FXN gene, targeting FA-associated cardiomyopathy",
+      "phase": "Ph1b",
+      "status": "<b>Withdrawn</b>. The registry status was updated to withdrawn on 2025/11/28, with the reason field citing only a \"corporate decision\"; <b>actual enrolment was 0</b>, with no safety or efficacy data disclosed. Registered as starting 2024/11/08, with an original estimated completion of 2025/10."
+    }
+  },
+  {
+    "nct": "NCT05168774",
+    "drug": "Elamipretide",
+    "mechanism": "線粒體靶向肽（心磷脂穩定劑）",
+    "phase": "Ph1/2（小型探索性，開放標籤）",
+    "status": "<b>已完成</b>（n=20、無安慰劑對照，分低/高兩劑量組）。由費城兒童醫院主導之研究者發起試驗（IIS），主要指標為高對比視力變化，次要指標含心臟纖維化、心搏量等。<b>CT.gov已公告各劑量組之描述性數據，但無對照組比較、不足以判斷療效</b>。",
+    "sponsor": "Children's Hospital of Philadelphia（藥物由Stealth BioTherapeutics提供）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT05168774",
+    "en": {
+      "mechanism": "Mitochondria-targeted peptide (cardiolipin stabiliser)",
+      "phase": "Ph1/2 (small exploratory, open-label)",
+      "status": "<b>Completed</b> (n=20, no placebo control, low- and high-dose groups). An investigator-initiated study (IIS) led by Children's Hospital of Philadelphia; the primary endpoint was change in high-contrast visual acuity, with secondary endpoints including cardiac fibrosis and stroke volume. <b>CT.gov has posted descriptive data by dose group, but with no control-group comparison it is insufficient to judge efficacy</b>."
+    }
   }
 ]
