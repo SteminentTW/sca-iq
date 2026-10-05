@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10/05",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>正常單日掃描（距上次發布2026-10-04僅隔1天，無需補跑）。</b>CT.gov五組適應症查詢＋主動發現廣掃（含SCA1/2/3/6/7、Machado-Joseph、ATXN1/2/3/7亞型查詢）比對既有47筆試驗鍵值：<b>新增1筆試驗</b>——IntraBio的levacetylleucine（IB1001／AQNEURSA®）用於A-T之<b>擴大使用計畫（EAP，NCT07380165）</b>，登錄狀態已轉為「已獲上市核准」，與FDA 2026/09/19正式核准時序一致；此筆先前未收錄，為廣掃比對時發現之歷史缺漏補收（§1b規則，不受7天門檻限制）。PubMed近7天命中4篇，其中1篇（pubmed:42825921，創始者突變綜述）已於2026-10-04之前的掃描評估並排除，本次維持原判斷不重複收錄；<b>新增2篇文獻</b>：①pubmed:42634970（劍橋大學成人A-T最大世代之SARA年進展率研究，Brain）、②pubmed:42310491（SCA1小鼠模型運動神經保護機轉研究，Annals of Neurology）。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、IntraBio levacetylleucine：窗內均無平台未收錄之新事實（IntraBio A-T核准、Biohaven CRL、Larimar BLA、PTC/Astellas受挫等均已在案）。§1b-2已知資產點名查核已於2026-10-03執行，本次未重複（下次約2026-10-10）。patents.json／exclusivity.json上次實質更新分別為2026-09-20、2026-09-19，未達月度頻率門檻，本次維持不動。<b>events.json本次執行逾期的每週維護</b>（上次實質更新為2026-08-24，已逾一週）：向官網核實並更新2筆會議日程——NAF Annual Ataxia Conference次屆日期確認為2027/04/01–03（美國拉斯維加斯Planet Hollywood）、ISSCR Annual Meeting 2027確認為2027/06/15–18（美國舊金山Moscone West）；MDS Congress 2026（本週首爾COEX舉行中）程序頁僅查得一場未具體命名競品之「New Advances in Ataxia」場次（2026/10/08），資訊不足未予收錄。news.json本次無新增（今日所得內容份量未達置頂門檻，維持現有6筆）。meta.json依今日為一週首日（星期一）重新計數weekNewCount，計入本次新增之1筆試驗＋2篇文獻＝3。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>A normal single-day scan (only a 1-day gap since the last publish on 2026-10-04; no backfill needed).</b> The five CT.gov indication queries plus a broad discovery scan (including SCA1/2/3/6/7, Machado-Joseph and ATXN1/2/3/7 subtype queries) were compared against the existing 47 trial keys: <b>1 new trial added</b> — IntraBio's <b>Expanded Access Program (EAP, NCT07380165)</b> for levacetylleucine (IB1001/AQNEURSA®) in A-T, whose registered status has moved to \"Approved for Marketing\", consistent with the FDA's formal approval on 2026/09/19; this record was not previously tracked and was surfaced as a historical gap during the broad scan (per the §1b rule, not subject to the 7-day freshness test). PubMed's past-7-day window returned 4 hits, of which 1 (pubmed:42825921, a founder-mutation review) had already been evaluated and excluded by a scan before 2026-10-04; today's recheck kept that same judgment and did not re-add it. <b>2 papers added</b>: (1) pubmed:42634970 (the largest published adult A-T cohort's SARA annual-progression-rate study, University of Cambridge, Brain); (2) pubmed:42310491 (an SCA1 mouse-model study on exercise-driven neuroprotection via splicing rescue, Annals of Neurology). WebSearch checks on company news for Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2 and IntraBio levacetylleucine found no facts within the window that are not already on the platform (IntraBio's A-T approval, Biohaven's CRL, Larimar's BLA filing and the PTC/Astellas setbacks are all already recorded). The §1b-2 known-asset roll call was run on 2026-10-03 and was not repeated today (next due around 2026-10-10). patents.json and exclusivity.json were last substantively updated on 2026-09-20 and 2026-09-19 respectively, short of the monthly cadence threshold, so they remain unchanged. <b>events.json received its overdue weekly maintenance pass</b> (last substantive update was 2026-08-24, over a week ago): 2 conference dates were verified against official sites and updated — the NAF Annual Ataxia Conference's next edition is confirmed for 2027/04/01–03 (Planet Hollywood, Las Vegas, USA), and the ISSCR Annual Meeting 2027 is confirmed for 2027/06/15–18 (Moscone West, San Francisco, USA); the MDS Congress 2026 programme page (underway this week in Seoul) listed only a generically titled \"New Advances in Ataxia\" session (2026/10/08) with no named competitor disclosed, so it was not added for lack of specificity. No news.json item was added today, as today's findings did not clear the bar for the front-page digest (it remains at its usual 6 entries). Since today is the first day of a new week (Monday), meta.json's weekNewCount was reset and set to the 3 items added today (1 trial + 2 papers).",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-04",
     "dateDisplay": "2026/10/04",
     "tag": "每日掃描",

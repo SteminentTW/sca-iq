@@ -1,5 +1,43 @@
 [
   {
+    "id": "pubmed:42634970",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10/05",
+    "title": "Neurological disease progression in adults with ataxia-telangiectasia: a longitudinal study",
+    "journal": "Brain 149(10):3387–3394（2026/10/05）· Hensiek A、Bottolo L、Tiet MY 等 · 劍橋大學／Papworth Hospital 成人 A-T 全國門診（英國）· doi:10.1093/brain/awag285",
+    "tag": "A-T · 自然史 · SARA 進展率",
+    "note": "→ <b>目前已發表最大的成人 A-T 世代</b>（n=82、16 歲以上）：以線性混合效應模型估計 SARA 年進展率，整體<b>平均每年增加 0.38 分</b>；典型型（classic）基線 SARA 較變異型（variant）高約 8–9 分，但<b>成年後兩亞型的年進展速率相近</b>（典型型 0.33 分／年 vs. 變異型 0.41 分／年），其中變異型包含 15 名帶有<b>可用反義寡核苷酸（ASO）標的之 c.5763-1050A&gt;G 變異</b>之病人。作者指出 SARA 於晚期疾病與非小腦功能面可能低估惡化程度。→ <b>收錄理由</b>：為 IntraBio levacetylleucine（IB1001／AQNEURSA®）A-T 適應症（已於 2026/09/19 獲 FDA 核准）之樞紐試驗採用 SARA 為主要指標，本篇提供該指標在成人 A-T 自然病程下的年化基準進展率，可作為日後解讀各家 A-T 介入性試驗療效量級之外部參考；與本公司 Stemchymal® 無直接重疊。",
+    "company": "intrabio",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634970/",
+    "urlLabel": "論文 ↗ PubMed 42634970",
+    "en": {
+      "tag": "A-T · natural history · SARA progression rate",
+      "journal": "Brain 149(10):3387–3394 (2026/10/05) · Hensiek A, Bottolo L, Tiet MY, et al. · University of Cambridge / Papworth Hospital national adult A-T clinic, UK · doi:10.1093/brain/awag285",
+      "note": "→ <b>The largest published adult A-T cohort to date</b> (n=82, age 16+): linear mixed-effects modelling estimated an overall mean SARA increase of <b>0.38 points/year</b>. Classic A-T had a baseline SARA roughly 8–9 points higher than variant A-T, but <b>annual progression rates converged in adulthood</b> (classic 0.33 points/year vs. variant 0.41 points/year), the latter including 15 patients carrying the <b>antisense-oligonucleotide-targetable c.5763-1050A&gt;G variant</b>. The authors note SARA may underestimate decline in advanced disease and in non-cerebellar domains. → <b>Why included</b>: IntraBio's pivotal trial for levacetylleucine (IB1001/AQNEURSA®) in A-T (FDA-approved 2026/09/19) used SARA as its primary endpoint; this paper supplies an external benchmark for the natural annualised progression rate on that same scale, useful when later interpreting the effect size of A-T interventional trials. No direct overlap with Steminent's Stemchymal®.",
+      "urlLabel": "Paper ↗ PubMed 42634970"
+    }
+  },
+  {
+    "id": "pubmed:42310491",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10/05",
+    "title": "Cardiovascular Exercise Drives Neuroprotection in a Mouse Model of Spinocerebellar Ataxia 1 Via Rescue of Aberrant Splicing",
+    "journal": "Annals of Neurology 100(4):850–866（線上 2026/06/17，印刷 2026/10）· Soto I、Bonomo M、Nelthrope BS 等 · 密西根大學／紐約州立大學奧爾巴尼分校（美國）· doi:10.1002/ana.78282",
+    "tag": "SCA1 · 動物模型 · 運動機轉 · RNA splicing",
+    "note": "→ <b>Atxn1154Q/2Q 基因剔入小鼠模型</b>，4–16 週齡持續自由跑輪運動：<b>運動可挽救運動性共濟失調（motor ataxia），但未挽救本研究年齡範圍內之神經退化</b>；小腦組織轉錄體分析顯示，野生型小鼠運動後主要為基因表現量改變，<b>SCA1 小鼠則主要表現為 RNA splicing 異常（尤其離子通道相關基因模組）之顯著挽救</b>，運動後 SCA1 與野生型小鼠的 splicing 樣貌趨於相近。作者將<b>異常 splicing</b>定位為 SCA1 病理核心機轉之一，提出 splicing 調控網路為潛在藥物標的。→ <b>收錄理由</b>：純屬小鼠機轉研究，無人體試驗數據亦未提出候選藥物名稱；運動介入目前仍是<b>唯一</b>已知對 SCA 病人有臨床助益之措施，本篇為其分子機轉提供新證據，供 SCA1 機轉知識庫參考，與本公司現有資產無直接關聯。",
+    "company": "",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42310491/",
+    "urlLabel": "論文 ↗ PubMed 42310491",
+    "en": {
+      "tag": "SCA1 · mouse model · exercise mechanism · RNA splicing",
+      "journal": "Annals of Neurology 100(4):850–866 (online 2026/06/17, print 2026/10) · Soto I, Bonomo M, Nelthrope BS, et al. · University of Michigan / University at Albany, SUNY, USA · doi:10.1002/ana.78282",
+      "note": "→ <b>Atxn1154Q/2Q knock-in mice</b> given sustained voluntary wheel-running from 4–16 weeks of age: <b>exercise rescued motor ataxia but not degeneration</b> at the ages studied; cerebellar transcriptomics showed that in wild-type mice, exercise mainly altered gene expression, whereas in <b>SCA1 mice the dominant change was a significant rescue of aberrant RNA splicing (particularly in ion-channel gene modules)</b>, bringing exercised SCA1 mice's splicing patterns closer to wild type. The authors identify <b>aberrant splicing</b> as a central driver of SCA1 pathophysiology and propose splicing-regulated networks as a druggable target. → <b>Why included</b>: a mouse mechanistic study with no human trial data or named drug candidate; exercise remains the <b>only</b> intervention with demonstrated clinical benefit in SCA patients, and this paper offers new molecular evidence for that effect, useful as SCA1 mechanistic background. No direct link to Steminent's current assets.",
+      "urlLabel": "Paper ↗ PubMed 42310491"
+    }
+  },
+  {
     "id": "pubmed:42799858",
     "date": "2026-09-26",
     "dateDisplay": "2026/09/26",

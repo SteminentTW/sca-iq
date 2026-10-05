@@ -64,33 +64,33 @@
   {
     "id": "naf-aac",
     "name": "NAF Annual Ataxia Conference (美國共濟失調基金會年會)",
-    "date": null,
-    "dateDisplay": "",
-    "location": "美國",
-    "relevance": "SCA 病友、研究者與藥廠齊聚；競品常於此揭露臨床進度。下屆日期待官網公布。",
+    "date": "2027-04-01",
+    "dateDisplay": "2027/04/01–03",
+    "location": "美國拉斯維加斯 Planet Hollywood",
+    "relevance": "SCA 病友、研究者與藥廠齊聚；競品常於此揭露臨床進度。下屆會議日期與地點已由官網公布。",
     "highlight": false,
     "url": "https://www.ataxia.org/aac/",
     "competitors": [],
     "en": {
       "name": "NAF Annual Ataxia Conference",
-      "location": "United States",
-      "relevance": "Brings together SCA patients, researchers and companies; competitors often disclose clinical progress here. Next date to be announced."
+      "location": "Planet Hollywood, Las Vegas, NV, USA",
+      "relevance": "Brings together SCA patients, researchers and companies; competitors often disclose clinical progress here. The next meeting's date and venue have been posted on the organiser's site."
     }
   },
   {
-    "id": "isscr-2026",
+    "id": "isscr-2027",
     "name": "ISSCR Annual Meeting (國際幹細胞研究學會年會)",
-    "date": "2026-07-08",
-    "dateDisplay": "2026/07/08–11",
-    "location": "蒙特婁",
-    "relevance": "幹細胞與再生醫學旗艦會議（本公司 MSC 領域）。下屆（2027）日期官網未公布。",
+    "date": "2027-06-15",
+    "dateDisplay": "2027/06/15–18",
+    "location": "美國舊金山 Moscone West Convention Center",
+    "relevance": "幹細胞與再生醫學旗艦會議（本公司 MSC 領域）。下屆（2027）日期與地點已由官網公布。",
     "highlight": false,
-    "url": "https://www.isscr.org/",
+    "url": "https://www.isscr.org/upcoming-events/isscr-2027",
     "competitors": [],
     "en": {
       "name": "ISSCR Annual Meeting",
-      "location": "Montreal",
-      "relevance": "Flagship stem-cell and regenerative-medicine meeting (our MSC field). The 2027 date has not been posted."
+      "location": "Moscone West Convention Center, San Francisco, CA, USA",
+      "relevance": "Flagship stem-cell and regenerative-medicine meeting (our MSC field). The 2027 date and venue have been posted on the organiser's site."
     }
   }
 ]

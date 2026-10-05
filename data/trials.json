@@ -1,5 +1,21 @@
 [
   {
+    "nct": "NCT07380165",
+    "drug": "Levacetylleucine（IB1001／AQNEURSA®，口服）",
+    "mechanism": "<b>擴大使用計畫（Expanded Access Program, EAP）</b>，非效能試驗；藥物與機制同 IB1001-303（NCT06673056）",
+    "phase": "不適用（EAP）",
+    "status": "<b>登錄狀態為「已獲上市核准」（Approved for Marketing）</b>：本計畫原供<b>美國境內</b>、不符合試驗收案條件、且無其他適用治療之毛細血管擴張性共濟失調（A-T）病人於藥物正式核准前取得 levacetylleucine；登錄首次張貼於 <b>2026/02/02</b>，<b>2026/09/28</b> 再次更新為「已獲上市核准」狀態，與 FDA <b>2026/09/19</b> 正式核准 AQNEURSA® 用於 A-T 之時序一致（即本擴大使用計畫已由正式核准取代）。本筆先前未列入平台雷達，屬主動發現廣掃補收。",
+    "sponsor": "IntraBio",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07380165",
+    "en": {
+      "mechanism": "<b>Expanded Access Program (EAP)</b>, not an efficacy trial; same drug and mechanism as IB1001-303 (NCT06673056)",
+      "phase": "Not applicable (EAP)",
+      "status": "<b>Registered status is \"Approved for Marketing\"</b>: this programme originally provided <b>levacetylleucine</b> to <b>US-based</b> ataxia-telangiectasia (A-T) patients who did not meet trial eligibility and had no other suitable treatment, ahead of formal approval; first posted <b>2026/02/02</b>, updated to \"Approved for Marketing\" on <b>2026/09/28</b>, consistent with the FDA's formal approval of AQNEURSA® for A-T on <b>2026/09/19</b> (i.e. this expanded access programme has been superseded by the formal approval). This record was not previously tracked on the platform and was picked up in today's active-discovery scan.",
+      "sponsor": "IntraBio"
+    }
+  },
+  {
     "nct": "NCT02255435",
     "drug": "Omaveloxolone（RTA 408／BIIB141／SKYCLARYS®，口服）",
     "mechanism": "口服小分子<br>Nrf2 活化劑（抑制 Keap1）<br>對抗氧化壓力與粒線體功能失調",
