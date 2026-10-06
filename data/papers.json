@@ -1,5 +1,59 @@
 [
   {
+    "id": "pubmed:42634970",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10/05",
+    "title": "Neurological disease progression in adults with ataxia-telangiectasia: a longitudinal study.",
+    "journal": "Brain 第149卷第10期:3387-3394 · Hensiek A、Bottolo L、Tiet MY 等（英國劍橋大學臨床神經科學系／Papworth醫院成人A-T全國門診）· doi:10.1093/brain/awag285",
+    "tag": "共濟失調微血管擴張症（A-T）· 成人自然史長期追蹤",
+    "note": "→ <b>目前已發表最大規模的成人A-T世代（n=82，年齡>16歲）長期追蹤</b>：以線性混合效應模型估算SARA量表基線嚴重度與年進展率。<b>整體神經功能平均每年惡化0.38分</b>；典型型A-T基線SARA比變異型高約8–9分，但<b>成人期之後兩型年進展率相近</b>（典型0.33分／年 vs 變異型0.41分／年，含15名帶可被ASO標的之c.5763-1050A>G變異者）——即<b>兒童／青少年期兩亞型差異大，成人期趨同</b>。作者結論SARA仍為有用指標，但<b>可能低估晚期疾病與非小腦功能域的惡化程度</b>。→ 與本平台的關聯：A-T屬<b>鄰近共濟失調圈層（ring: ataxia）</b>，本平台已追蹤之<b>Timothy Yu突變特異性ASO（NCT07215416）</b>收案對象即涵蓋本文所指可標的變異族群；本文對SARA量表（<b>與本公司Stemchymal主要療效指標同一量表家族</b>）在晚期疾病的侷限性之提示，對試驗設計與終點選擇具參考價值。⚠️ <b>限制</b>：單一英國中心之觀察性世代、非隨機介入研究，不含任何療效或藥物數據；A-T與仲恩Stemchymal所針對之polyQ型SCA為不同疾病機轉，不可直接外推。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634970/",
+    "urlLabel": "論文 ↗ PubMed 42634970",
+    "en": {
+      "tag": "Ataxia-telangiectasia (A-T) · adult natural-history follow-up",
+      "journal": "Brain, vol. 149 no. 10, pp. 3387-3394 · Hensiek A, Bottolo L, Tiet MY, et al. (Department of Clinical Neurosciences, University of Cambridge / National Clinic for Adults with Ataxia Telangiectasia, Papworth Hospital, UK) · doi:10.1093/brain/awag285",
+      "note": "→ <b>The largest published adult A-T cohort to date (n=82, age >16) followed longitudinally</b>, using linear mixed-effects models to estimate baseline SARA severity and annual progression rates. <b>Overall neurological impairment worsened by a mean 0.38 points/year.</b> Classic A-T had a baseline SARA roughly 8-9 points higher than variant A-T, but <b>adult-phase progression rates converged</b> (0.33 pts/year for classic vs 0.41 for variant, including 15 individuals carrying the ASO-targetable c.5763-1050A>G variant) — i.e. <b>the two subtypes differ substantially in childhood/adolescence but converge in adulthood</b>. The authors conclude SARA remains a useful outcome measure but <b>may underestimate progression in advanced disease and non-cerebellar domains</b>. → Relevance to this platform: A-T sits in the <b>adjacent ataxia ring</b>; the enrollment population for the already-tracked <b>Timothy Yu mutation-specific ASO (NCT07215416)</b> overlaps with the targetable-variant subgroup described here, and the paper's caution about SARA's limits in advanced disease (<b>the same scale family used as Steminent's Stemchymal primary endpoint</b>) is relevant to trial design and endpoint selection. ⚠️ <b>Limitations</b>: a single-UK-centre observational cohort, not a randomised interventional study, and contains no efficacy or drug data; A-T is a distinct disease mechanism from the polyQ SCAs Stemchymal targets and nothing here extrapolates directly to them.",
+      "urlLabel": "Paper ↗ PubMed 42634970"
+    }
+  },
+  {
+    "id": "pubmed:42310491",
+    "date": "2026-10-01",
+    "dateDisplay": "2026/10",
+    "title": "Cardiovascular Exercise Drives Neuroprotection in a Mouse Model of Spinocerebellar Ataxia 1 Via Rescue of Aberrant Splicing.",
+    "journal": "Ann Neurol 第100卷第4期:850-866 · Soto I、Bonomo M 等（美國密西根大學神經科）· doi:10.1002/ana.78282",
+    "tag": "SCA1 基礎研究 · 運動介入與RNA剪接機轉",
+    "note": "→ <b>小鼠模型基礎研究</b>：以Atxn1154Q/2Q剉入小鼠、4–16週齡進行長期自主滾輪運動。<b>運動挽回運動性共濟失調，但未挽回小腦神經退化本身</b>；小腦組織轉錄體分析顯示，SCA1小鼠中最顯著的運動相關變化發生在<b>RNA剪接層級</b>（尤以離子通道相關基因模組為著），運動可<b>顯著挽回剪接異常</b>，對基因表現量本身影響較小。作者結論：異常剪接為SCA致病核心機轉之一，剪接調控網路可作為跨SCA亞型的治療靶點。→ 與本平台的關聯：運動目前是<b>唯一經臨床顯示對SCA患者有效的介入</b>，但分子機轉過去不明；本文首次以轉錄體學將運動效益連結至RNA剪接校正，為<b>仲恩Stemchymal所涵蓋之多聚麩醯胺酸型SCA</b>提供新的機轉研究方向。⚠️ <b>限制</b>：純小鼠模型基礎研究，<b>不含任何人體資料、藥物或試驗數據</b>，尚未轉譯至臨床開發。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42310491/",
+    "urlLabel": "論文 ↗ PubMed 42310491",
+    "en": {
+      "tag": "SCA1 basic research · exercise intervention and RNA-splicing mechanism",
+      "journal": "Ann Neurol, vol. 100 no. 4, pp. 850-866 · Soto I, Bonomo M, et al. (Department of Neurology, University of Michigan, USA) · doi:10.1002/ana.78282",
+      "note": "→ <b>A mouse-model basic-research study</b>: Atxn1154Q/2Q knock-in mice underwent prolonged voluntary wheel-running from 4 to 16 weeks of age. <b>Exercise rescued motor ataxia but not cerebellar degeneration itself</b>; transcriptomic profiling of cerebellar tissue found the most pronounced exercise-related changes occurred at the level of <b>RNA splicing</b> (particularly in ion-channel-related gene modules), with exercise producing a <b>significant rescue of splicing abnormalities</b> while having comparatively little effect on gene-expression levels per se. The authors conclude aberrant splicing is a core driver of SCA pathophysiology and that splicing-regulated networks are a candidate therapeutic target across SCA subtypes. → Relevance to this platform: exercise is currently <b>the only intervention clinically shown to benefit SCA patients</b>, but its molecular mechanism was previously unclear; this is the first transcriptomic study linking exercise's benefit to splicing correction, opening a new mechanistic research direction relevant to <b>the polyQ SCAs Steminent's Stemchymal targets</b>. ⚠️ <b>Limitations</b>: a pure mouse-model basic-research study containing <b>no human, drug, or trial data</b>, not yet translated to clinical development.",
+      "urlLabel": "Paper ↗ PubMed 42310491"
+    }
+  },
+  {
+    "id": "pubmed:41672538",
+    "date": "2026-10-01",
+    "dateDisplay": "2026/10/01",
+    "title": "SCA3 Can Manifest Phenotypically with ALS-like Characteristics.",
+    "journal": "Intern Med 第65卷第19期:2648 · Zarrouk S（突尼西亞巴斯德研究院）、Finsterer J（奧地利）· doi:10.2169/internalmedicine.6851-25",
+    "tag": "SCA3 鑑別診斷 · 病例短訊",
+    "note": "→ 本站可查得之公開索引僅載標題、作者與書目資訊，<b>未提供摘要全文</b>（屬 Intern Med 單頁病例短訊常見格式）。標題指出<b>SCA3可表現出類似ALS（肌萎縮性側索硬化症）之臨床特徵</b>，提示SCA3與運動神經元疾病間之鑑別診斷議題。→ 與本平台的關聯：SCA3為<b>Vico VO659（SCA1/SCA3/HD共用ASO）</b>與<b>Biogen已終止之BIIB132（ATXN3 ASO）</b>所針對之亞型；若SCA3臨床表現與ALS重疊，將提高基因確診在收案鑑別上的重要性。⚠️ <b>限制</b>：本站僅取得標題與基本書目資訊，無法核實臨床細節或病例數，待後續取得全文再補充。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41672538/",
+    "urlLabel": "論文 ↗ PubMed 41672538",
+    "en": {
+      "tag": "SCA3 differential diagnosis · brief case report",
+      "journal": "Intern Med, vol. 65 no. 19, p. 2648 · Zarrouk S (Institut Pasteur de Tunis, Tunisia), Finsterer J (Austria) · doi:10.2169/internalmedicine.6851-25",
+      "note": "→ The public index entry this site could retrieve gives only the title, authors and bibliographic data, with <b>no abstract text available</b> (consistent with Intern Med's single-page brief-case-report format). The title states that <b>SCA3 can present with ALS (amyotrophic lateral sclerosis)-like clinical features</b>, flagging a differential-diagnosis issue between SCA3 and motor neuron disease. → Relevance to this platform: SCA3 is the subtype targeted by <b>Vico's VO659 (a shared ASO for SCA1/SCA3/HD)</b> and by Biogen's now-discontinued <b>BIIB132 (an ATXN3 ASO)</b>; clinical overlap between SCA3 and ALS would raise the importance of genetic confirmation in enrollment and differential diagnosis. ⚠️ <b>Limitations</b>: this site could only obtain the title and basic bibliographic data, cannot verify clinical details or case count, and will supplement this entry once the full text is available.",
+      "urlLabel": "Paper ↗ PubMed 41672538"
+    }
+  },
+  {
     "id": "pubmed:42799858",
     "date": "2026-09-26",
     "dateDisplay": "2026/09/26",
