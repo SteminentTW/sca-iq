@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42840744",
+    "date": "2026-10-06",
+    "dateDisplay": "2026/10/06",
+    "title": "The role of neurofilament light chain and other fluid biomarkers in cerebellar ataxias.",
+    "journal": "Brain Commun 第8卷第5期:fcag313 · Mouraux C、Santana MM、Rosenthal LS、Cortese A、Santorelli FM、Opal P、Coarelli G 等（法國索邦大學／巴黎腦與脊髓研究院；比利時列日大學；美國約翰霍普金斯大學；英國UCL Queen Square神經學研究所；美國西北大學）· doi:10.1093/braincomms/fcag313",
+    "tag": "共濟失調生物標記 · 文獻綜述",
+    "note": "→ <b>跨多種遺傳性共濟失調（含多聚麩醯胺酸型SCA、Friedreich's ataxia、MSA、RFC1／SPG7相關共濟失調）之體液生物標記綜述</b>：<b>神經絲輕鏈（NfL）</b>於血液／腦脊髓液中濃度與疾病嚴重度、進展速度及影像發現相關，且<b>於SCA無症狀帶因期即可能上升</b>，作者認為可用於試驗收案分層與療效追蹤，治療後NfL下降可作為<b>標的接觸（target engagement）替代指標</b>（類比ALS領域已驗證之用法）。另回顧GFAP、總tau／磷酸化tau等互補標記，並特別聚焦<b>標的接觸型生物標記</b>——SCA的突變多聚麩醯胺酸ataxin蛋白定量、Friedreich's ataxia的frataxin濃度——可作為基因沉默／蛋白降解與frataxin回復型療法早期試驗之機轉性讀出；文末討論<b>CAG重複體細胞不穩定性（somatic instability）</b>做為新興治療標的。→ 與本平台的關聯：本文整理之NfL／標的接觸生物標記框架，<b>與本公司Stemchymal等細胞治療之療效追蹤及終點選擇具參考價值</b>，亦呼應平台已追蹤之ASO／基因沉默型競品（如Arrowhead ARO-ATXN2、Vico VO659）之機轉性讀出需求。⚠️ <b>限制</b>：為文獻綜述性質，<b>不含原創臨床數據</b>；部分共同作者對Biohaven、Biogen、Reata、Merck等公司有顧問或研究資金關係，已於原文揭露。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840744/",
+    "urlLabel": "論文 ↗ PubMed 42840744",
+    "en": {
+      "tag": "Ataxia biomarkers · literature review",
+      "journal": "Brain Communications, vol. 8 no. 5, fcag313 · Mouraux C, Santana MM, Rosenthal LS, Cortese A, Santorelli FM, Opal P, Coarelli G, et al. (Sorbonne Université / Paris Brain Institute, France; University of Liège, Belgium; Johns Hopkins University, USA; UCL Queen Square Institute of Neurology, UK; Northwestern University, USA) · doi:10.1093/braincomms/fcag313",
+      "note": "→ <b>A review of fluid biomarkers across multiple hereditary ataxias</b> (including the polyglutamine SCAs, Friedreich's ataxia, MSA, and RFC1/SPG7-related ataxias): <b>neurofilament light chain (NfL)</b> in blood and CSF correlates with disease severity, progression rate and imaging findings, and <b>may rise as early as the presymptomatic stage in SCA</b>, which the authors argue supports its use for trial-enrolment stratification and tracking therapeutic effect, with a treatment-induced NfL reduction proposed as a <b>target-engagement surrogate</b> (by analogy with its validated use in ALS). The review also covers complementary markers (GFAP, total and phosphorylated tau) and focuses specifically on <b>target-engagement biomarkers</b> — quantification of mutant polyglutamine-expanded ataxin proteins in SCA and frataxin levels in Friedreich's ataxia — as mechanistic readouts for emerging gene-silencing, protein-lowering and frataxin-restoring therapies, closing with a discussion of <b>somatic CAG-repeat instability</b> as an emerging therapeutic target. → Relevance to this platform: the NfL/target-engagement biomarker framework summarised here <b>is relevant to endpoint selection and efficacy tracking for Steminent's Stemchymal and other cell therapies</b>, and also speaks to the mechanistic-readout needs of the ASO/gene-silencing competitors already tracked on this platform (e.g. Arrowhead's ARO-ATXN2, Vico's VO659). ⚠️ <b>Limitations</b>: this is a literature review and <b>contains no original clinical data</b>; several co-authors disclose advisory or research-funding relationships with Biohaven, Biogen, Reata and Merck, as stated in the original article.",
+      "urlLabel": "Paper ↗ PubMed 42840744"
+    }
+  },
+  {
+    "id": "pubmed:42825921",
+    "date": "2026-10-02",
+    "dateDisplay": "2026/10/02",
+    "title": "Founder mutations in movement disorders: global distribution, molecular mechanisms, and clinical consequences-a scoping review.",
+    "journal": "Neurogenetics 第27卷第1期:78 · Gowda N、Harish S（印度國家心理衛生與神經科學研究院NIMHANS神經內科）· doi:10.1007/s10048-026-00946-8",
+    "tag": "遺傳性動作障礙創始者突變 · 範疇性文獻回顧",
+    "note": "→ <b>系統性回顧71篇文獻，整理53個創始者突變（founder mutation）條目，橫跨40種動作障礙表現型與48個基因／重複序列擴增位點</b>，以SCA、肌張力不全症與NBIA症候群最常見；舉例包括<b>SCA2 於古巴、SCA3 於亞速爾群島與巴西</b>均有明確創始者起源證據（共享單倍型、突變年代估算、系譜學證據）。作者指出創始者突變可支援<b>以血統為基礎的篩檢流程、近親通婚族群之遺傳諮詢與帶因篩檢</b>，並有助於辨識<b>基因同質性世代</b>，供自然史研究與精準治療試驗（含反義寡核苷酸、基因沉默療法）收案使用。→ 與本平台的關聯：<b>SCA2、SCA3 等創始者族群之地理分布資訊，對評估競品（如Arrowhead ARO-ATXN2／SCA2、各類ATXN3標的療法）之收案可行性與目標族群選址具參考價值</b>。⚠️ <b>限制</b>：<b>範疇性文獻回顧（scoping review），非原創流行病學或臨床數據</b>，各創始者突變之盛行率估計沿用原始文獻、未經本站查證。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42825921/",
+    "urlLabel": "論文 ↗ PubMed 42825921",
+    "en": {
+      "tag": "Founder mutations in hereditary movement disorders · scoping review",
+      "journal": "Neurogenetics, vol. 27 no. 1, p. 78 · Gowda N, Harish S (Department of Neurology, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, India) · doi:10.1007/s10048-026-00946-8",
+      "note": "→ <b>A systematic review of 71 studies cataloguing 53 founder-mutation entries across 40 movement-disorder phenotypes and 48 genes or repeat-expansion loci</b>, most frequently spinocerebellar ataxias, dystonia and NBIA syndromes; examples include well-documented founder origins for <b>SCA2 in Cuba and SCA3 in the Azores and Brazil</b> (supported by shared haplotypes, mutation-age estimation and genealogical evidence). The authors note that founder mutations support <b>ancestry-based testing algorithms and carrier screening/genetic counselling in endogamous populations</b>, and help identify <b>genetically homogeneous cohorts</b> for natural-history studies and precision-therapy trials, including antisense and gene-silencing approaches. → Relevance to this platform: <b>the geographic distribution data for SCA2/SCA3 founder populations is relevant to assessing enrolment feasibility and site selection for competitors targeting these subtypes (e.g. Arrowhead's ARO-ATXN2 for SCA2, and various ATXN3-targeted programmes)</b>. ⚠️ <b>Limitations</b>: this is a <b>scoping review, not original epidemiological or clinical data</b>; prevalence estimates for individual founder mutations follow the cited primary literature and have not been independently verified by this site.",
+      "urlLabel": "Paper ↗ PubMed 42825921"
+    }
+  },
+  {
     "id": "pubmed:42634970",
     "date": "2026-10-05",
     "dateDisplay": "2026/10/05",
