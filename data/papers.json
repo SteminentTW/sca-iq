@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42842081",
+    "date": "2026-10-07",
+    "dateDisplay": "2026/10/07",
+    "title": "Parkinsonism with Reduced Striatal Uptake on DAT-SPECT in a Patient Harboring a Novel KCND3 Variant.",
+    "journal": "Cerebellum 第25卷第5期:153 · Katanazaka K、Takata M、Kanai C、Matsumoto S、Matoba K、Otani M、Koto S、Sekiguchi K、Takahashi Y、Mizusawa H、Chihara N（日本神戶大學醫學院附設醫院神經內科；日本國立精神・神經醫療研究中心NCNP）· doi:10.1007/s12311-026-02092-1",
+    "tag": "SCA19/22 · KCND3 · 帕金森症共病 · 單一病例報告（無療法資料）",
+    "note": "→ <b>單一日本病例報告，描述一名帶有新發現KCND3錯義變異（意義未明變異VUS）之患者，臨床表現符合SCA19/22（兒童期起病、緩慢進展之小腦性共濟失調），合併不對稱性帕金森症</b>。<b>多巴胺轉運體單光子斷層造影（DAT-SPECT）顯示患側紋狀體攝取下降</b>，作者稱<b>此為SCA19/22相關表現型中首次報告之DAT影像異常</b>。帕金森症狀對多巴胺促效劑有部分反應，但作者明確指出<b>改善主要基於臨床觀察、缺乏客觀證據支持療效</b>，且<b>無法確認帕金森症係KCND3變異所致或合併路易體病變所致</b>。→ 與本平台的關聯：本文為<b>純症狀性治療之個案描述，不含任何疾病修飾療法或藥物試驗資料</b>；SCA19/22為KCND3基因變異所致，<b>非本公司Stemchymal®所涵蓋之polyQ型SCA、亦不在任何已登錄競品試驗收案範圍內</b>（本站2026/09/09已收錄台灣團隊之另一篇KCND3通道功能研究，本文可視為該亞型表現型光譜之延伸案例）。⚠️ <b>限制</b>：<b>n=1病例報告</b>，變異本身為VUS（意義未明），帕金森症與KCND3變異之因果關係未能確立；不得據以推論任何療法或療效。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842081/",
+    "urlLabel": "論文 ↗ PubMed 42842081",
+    "en": {
+      "tag": "SCA19/22 · KCND3 · comorbid parkinsonism · single case report (no therapy data)",
+      "journal": "Cerebellum, vol. 25 no. 5, p. 153 · Katanazaka K, Takata M, Kanai C, Matsumoto S, Matoba K, Otani M, Koto S, Sekiguchi K, Takahashi Y, Mizusawa H, Chihara N (Division of Neurology, Kobe University Graduate School of Medicine; National Center Hospital, National Center of Neurology and Psychiatry (NCNP), Japan) · doi:10.1007/s12311-026-02092-1",
+      "note": "→ <b>A single Japanese case report describing a patient with a novel KCND3 missense variant (classified as a variant of uncertain significance, VUS) and a clinical phenotype compatible with SCA19/22 (childhood-onset, slowly progressive cerebellar ataxia), with comorbid asymmetric parkinsonism</b>. <b>Dopamine transporter SPECT (DAT-SPECT) showed reduced striatal uptake on the affected side</b>, which the authors state is <b>the first reported instance of abnormal DAT imaging in an SCA19/22-related phenotype</b>. The parkinsonian symptoms showed a partial response to dopaminergic therapy, but the authors explicitly note that <b>the improvement was based mainly on clinical observation with limited objective evidence of efficacy</b>, and that <b>whether the parkinsonism was attributable to the KCND3 variant or to coexisting Lewy body disease could not be determined</b>. → Relevance to this platform: this is a <b>case description of purely symptomatic treatment and contains no disease-modifying therapy or trial data</b>; SCA19/22 is caused by KCND3 variants and is <b>not among the polyQ SCA subtypes covered by Steminent's Stemchymal®, nor does it fall within the eligibility of any registered competitor trial</b> (this site already recorded a separate KCND3 channel-function study from a Taiwanese group on 2026/09/09; this case can be read as an extension of that subtype's phenotypic spectrum). ⚠️ <b>Limitations</b>: an <b>n=1 case report</b>, the variant itself is a VUS, and causality between the KCND3 variant and the parkinsonian presentation could not be established; this does not support any inference about therapy or efficacy.",
+      "urlLabel": "Paper ↗ PubMed 42842081"
+    }
+  },
+  {
     "id": "pubmed:42840744",
     "date": "2026-10-06",
     "dateDisplay": "2026/10/06",
