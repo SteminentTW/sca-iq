@@ -1131,5 +1131,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "adjuvia",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Adjuvia Therapeutics（美國，私有）",
+    "asset": "ATI-105",
+    "mechanism": "血腦屏障穿透型脂質奈米粒包覆之新型蝦紅素分子<br>設計目標為將抗氧化活性直接遞送至中樞與周邊器官之線粒體，降低活性氧與慢性炎症",
+    "indication": "Friedreich's Ataxia（計畫中）",
+    "phase": "Ph1 健康受試者（尚未招募）",
+    "status": "2026/10/09 主動掃描新發現之清單外業者，此前未被本平台收錄。健康受試者單次／多次遞增劑量試驗 <b>NCT07869654</b> 尚未招募，預估 2026/10/26 起始，單一站點（美國 Miami）。公司 2026/07 完成 800 萬美元種子輪，<b style=\"color:#ffce7a\">宣稱計畫 2027 年初另啟動 Friedreich's Ataxia 病人之 Ph1/2 試驗</b>，惟該病人試驗尚未登錄、屬公司計畫非已核實事實。前臨床抗氧化／抗炎數據為公司宣稱，未見同儕審查文獻。目前僅規劃 FA 適應症，未見延伸 SCA。",
+    "threatLabel": "低(早期)",
+    "links": [
+      {
+        "label": "試驗 ↗ NCT07869654",
+        "url": "https://clinicaltrials.gov/study/NCT07869654"
+      }
+    ],
+    "en": {
+      "company": "Adjuvia Therapeutics (USA, private)",
+      "asset": "ATI-105",
+      "mechanism": "A blood-brain-barrier-penetrant lipid nanoparticle formulation of a novel astaxanthin molecule<br>designed to deliver antioxidant activity directly to mitochondria in central and peripheral organs, reducing reactive oxygen species and chronic inflammation",
+      "indication": "Friedreich's ataxia (planned)",
+      "phase": "Ph1 healthy volunteers (not yet recruiting)",
+      "status": "An off-list player newly found by the 2026/10/09 active-discovery sweep, not previously recorded on this platform. The healthy-volunteer single/multiple ascending-dose trial <b>NCT07869654</b> is not yet recruiting, with an estimated start of 2026/10/26 at a single site (Miami, USA). The company closed an $8M seed round in 2026/07 and <b style=\"color:#ffce7a\">states it plans a separate Ph1/2 trial in Friedreich's ataxia patients in early 2027</b>, but that patient trial is not yet registered and remains a company plan, not a verified fact. The reported preclinical antioxidant/anti-inflammatory data are company claims with no peer-reviewed literature found. The programme is currently planned for FA only, with no announced SCA extension.",
+      "threatLabel": "Low (early-stage)",
+      "links": [
+        {
+          "label": "Trial ↗ NCT07869654",
+          "url": "https://clinicaltrials.gov/study/NCT07869654"
+        }
+      ]
+    }
   }
 ]

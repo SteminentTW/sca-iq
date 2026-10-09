@@ -2933,5 +2933,30 @@
       "insight": "A small open-label study led by Children's Hospital of Philadelphia using Stealth-supplied drug (NCT05168774, n=20) has completed; CT.gov posts descriptive data by dose group, but with no placebo control it is insufficient to judge efficacy. No Stealth-led pivotal FA programme could be found."
     },
     "cat": "sca"
+  },
+  {
+    "id": "adjuvia",
+    "name": "Adjuvia Therapeutics",
+    "nameEn": "Adjuvia Therapeutics, Inc.",
+    "short": "Adjuvia",
+    "country": "美國 USA（私有）",
+    "ticker": "私有，尚未上市",
+    "mechanism": "血腦屏障穿透型脂質奈米粒包覆之新型蝦紅素分子，設計目標為將抗氧化活性直接遞送至中樞與周邊器官之線粒體",
+    "pipeline": "ATI-105｜Friedreich's Ataxia（計畫中）：Ph1健康受試者單次/多次遞增劑量試驗尚未招募（NCT07869654）",
+    "insight": "2026/10/09主動掃描發現的清單外業者，此前完全未被本平台收錄。2026/07完成800萬美元種子輪，宣稱計畫2027年初另啟動FA病人之Ph1/2試驗，惟該病人試驗尚未登錄、屬公司計畫非已核實事實。前臨床抗氧化數據為公司宣稱，未見同儕審查文獻佐證。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT07869654",
+    "match": [
+      "Adjuvia Therapeutics",
+      "ATI-105"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA (private)",
+      "mechanism": "A blood-brain-barrier-penetrant lipid nanoparticle formulation of a novel astaxanthin molecule, designed to deliver antioxidant activity directly to mitochondria in central and peripheral organs",
+      "pipeline": "ATI-105 | Friedreich's ataxia (planned): a Ph1 healthy-volunteer single/multiple ascending-dose trial is not yet recruiting (NCT07869654)",
+      "insight": "An off-list player picked up by the 2026/10/09 sweep, never previously captured on this platform. It closed an $8M seed round in 2026/07 and states it plans a separate Ph1/2 trial in FA patients in early 2027, but that patient trial is not yet registered and remains a company plan, not a verified fact. The reported preclinical antioxidant data are company claims with no supporting peer-reviewed literature found."
+    },
+    "cat": "sca"
   }
 ]
