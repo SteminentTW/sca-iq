@@ -82,7 +82,7 @@
     "nameEn": "IntraBio Inc",
     "short": "IntraBio",
     "country": "英國／美國 UK/USA",
-    "ticker": "未上市 Private",
+    "ticker": "未上市 Private（2026/10/05 宣布將由塩野義製藥收購，預計2026 Q4完成）",
     "mechanism": "小分子 Levacetylleucine（N-acetyl-L-leucine，口服）",
     "pipeline": "IB1001｜<b>A-T（毛細血管擴張性共濟失調）：2026/09/19 獲 FDA 核准，全球第一個 A-T 核准療法</b>｜CACNA1A 相關疾病（含 SCA6、EA2、FHM1）：Ph3 IB1001-304，2026/08/17 起始、收案中｜同成分 Aqneursa 已於 Niemann-Pick C 上市",
     "insight": "以已上市成分（Aqneursa／levacetylleucine）向多個共濟失調適應症平行延伸，兩個樞紐試驗<b>主要指標都是 SARA</b>、n≈60、12 週交叉設計——開發成本與時程風險低於全新分子。<b>A-T 案已於 2026/09/19 PDUFA 行動日獲 FDA 核准</b>：這是共濟失調領域第一個以 SARA 為註冊主要指標走完 FDA 審查並獲准的申請案，等於替「SARA 可作註冊終點」建立監管先例，<b>對本公司同樣以 SARA 為主要指標的開發路徑屬有利背書</b>；但反面是，該分子已在 A-T 先行核准，其在共濟失調醫師社群的熟悉度、安全性資料庫與給付路徑都已領先本公司，而 <b>IB1001-304 明列 SCA6、與本公司日本申請適應症正面重疊</b>。惟其屬症狀改善型口服小分子、非疾病修飾細胞療法，定位仍可區隔。",
@@ -119,11 +119,15 @@
       {
         "date": "2026/09",
         "text": "A-T 適應症於 PDUFA 行動日 2026/09/19 獲 FDA 核准，為全球第一個 A-T 核准療法"
+      },
+      {
+        "date": "2026/10",
+        "text": "2026/10/05 宣布將由日本塩野義製藥以 20 億美元現金全股收購，預計 2026 Q4 完成，尚待監管許可與股東同意"
       }
     ],
     "en": {
       "country": "UK / USA",
-      "ticker": "Private",
+      "ticker": "Private (on 2026/10/05 agreed to be acquired by Shionogi & Co.; close expected Q4 2026)",
       "mechanism": "Small molecule levacetylleucine (N-acetyl-L-leucine, oral)",
       "pipeline": "IB1001 | <b>A-T (ataxia-telangiectasia): approved by the FDA on 2026/09/19, the first approved therapy for A-T anywhere</b> | CACNA1A-related disorders (incl. SCA6, EA2, FHM1): Ph3 IB1001-304, started 2026/08/17 and recruiting | the same molecule is marketed as Aqneursa in Niemann-Pick C",
       "insight": "Extends an already-marketed molecule (Aqneursa / levacetylleucine) into several ataxia indications in parallel, with <b>SARA as the primary endpoint in both pivotal trials</b>, n≈60 and a 12-week crossover design — lower cost and timeline risk than a novel molecule. <b>The A-T filing was approved by the FDA on its PDUFA action date of 2026/09/19</b>: it is the first filing in the ataxia field to complete FDA review and be approved with SARA as its registrational primary endpoint, establishing the precedent that SARA can serve as a registrational endpoint — <b>favourable external validation for our own SARA-based development path</b>. The other side is that, having secured the A-T approval first, the same molecule now leads us in physician familiarity, safety database and reimbursement pathway across the ataxia community, and <b>IB1001-304 explicitly lists SCA6, overlapping the indication in our Japan filing directly</b>. It nonetheless remains a symptomatic oral small molecule rather than a disease-modifying cell therapy, so positioning can still be differentiated.",
@@ -151,6 +155,10 @@
         {
           "date": "2026/09",
           "text": "A-T indication approved by the FDA on its 2026/09/19 PDUFA action date, the first approved therapy for A-T anywhere"
+        },
+        {
+          "date": "2026/10",
+          "text": "On 2026/10/05, agreed to be acquired outright by Japan's Shionogi & Co. for USD 2.0 billion in cash, expected to close Q4 2026 pending regulatory clearance and shareholder consent"
         }
       ]
     },

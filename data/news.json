@@ -1,5 +1,32 @@
 [
   {
+    "id": "shionogi-intrabio-acquisition-2026-10",
+    "date": "2026-10-05",
+    "dateDisplay": "2026/10",
+    "level": "info",
+    "tag": "併購 · 競品公司動態",
+    "body": "<b>IntraBio 同意由日本塩野義製藥（Shionogi）以 20 億美元現金全股收購</b>。塩野義董事會於 <b>2026/10/05</b> 核准該交易並同日簽約，交易預計 <b>2026 年第四季</b>完成，尚待反壟斷等監管許可與 IntraBio 股東同意。IntraBio 主力資產為 levacetylleucine（Aqneursa®），已於 Niemann-Pick C 型上市，<b>2026/09/19 另獲核准用於 A-T（毛細血管擴張性共濟失調）</b>；IntraBio 另有 Pompe 氏症、Fragile X 症候群等臨床管線。公司稱 2025 年度淨銷售額約 6,790 萬美元。此次為塩野義繼 2026/04 以 25 億美元收購 Radicava（ALS 用藥）後、在罕病領域的又一樁收購。",
+    "note": "→ 本公司於日本申請之 SCA6 適應症與 IntraBio 的 IB1001-304（CACNA1A 相關疾病，含 SCA6）樞紐試驗正面重疊（詳見 competitors.json intrabio 條目）。<b>交易公告未提及 CACNA1A／SCA6 適應症後續規劃</b>，本站不臆測收購後該資產開發節奏是否改變；僅記錄為公司層級背景動態。⚠️ 收購仍待完成，交易條件（尤其反壟斷與股東同意）存在不確定性。",
+    "links": [
+      {
+        "label": "收購公告 ↗ BioSpace 2026/10/05",
+        "url": "https://www.biospace.com/press-releases/shionogi-continues-rare-disease-expansion-with-planned-acquisition-of-intrabio-inc"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/10",
+      "tag": "M&A · competitor company news",
+      "body": "<b>IntraBio has agreed to be acquired outright by Japan's Shionogi & Co. for USD 2.0 billion in cash</b>. Shionogi's board approved the deal and the parties signed on <b>2026/10/05</b>; closing is expected in <b>Q4 2026</b>, pending antitrust and other regulatory clearances and IntraBio shareholder consent. IntraBio's lead asset is levacetylleucine (Aqneursa®), already marketed for Niemann-Pick disease type C and <b>approved on 2026/09/19 for ataxia-telangiectasia (A-T)</b>; its clinical pipeline also includes Pompe disease and Fragile X syndrome programmes. The company reported roughly USD 67.9 million in net sales for 2025. This follows Shionogi's USD 2.5 billion acquisition of the ALS drug Radicava in 2026/04, part of a broader rare-disease push.",
+      "note": "→ Our own SCA6 filing in Japan overlaps directly with IntraBio's IB1001-304 pivotal trial in CACNA1A-related disorders, which includes SCA6 (see the intrabio entry in competitors.json). <b>The deal announcement says nothing about plans for the CACNA1A/SCA6 indication</b>, and this site does not speculate on whether development pace would change post-acquisition; it is recorded only as corporate-level background. ⚠️ The deal has not yet closed, and terms — particularly antitrust clearance and shareholder consent — remain subject to uncertainty.",
+      "links": [
+        {
+          "label": "Acquisition announcement ↗ BioSpace 2026/10/05",
+          "url": "https://www.biospace.com/press-releases/shionogi-continues-rare-disease-expansion-with-planned-acquisition-of-intrabio-inc"
+        }
+      ]
+    }
+  },
+  {
     "id": "ptc-astellas-setbacks-2026-10-04",
     "date": "2026-10-04",
     "dateDisplay": "2026/10",
@@ -161,41 +188,6 @@
         {
           "label": "Pivotal trial registration ↗ NCT06673056",
           "url": "https://clinicaltrials.gov/study/NCT06673056"
-        }
-      ]
-    }
-  },
-  {
-    "id": "larimar-nomlabofusp-ph3-2026-08",
-    "date": "2026-08-21",
-    "dateDisplay": "2026/08",
-    "level": "info",
-    "tag": "鄰近圈層進度",
-    "body": "<b>Larimar 的 nomlabofusp 全球確認性三期已開始收案</b>（NCT07778836）。登錄於 <b>2026/08/21</b> 首次上線，<b>實際起始日 2026/08/05</b>，狀態為<b>收案中</b>；隨機、雙盲、安慰劑對照、多中心，預計收案 <b>150 人</b>，納入成人與兒童之基因確診（GAA 同型合子）Friedreich's ataxia、mFARS 總分 ≥20 且 &lt;60。<b>雙主要終點皆在第 72 週</b>：mFARS 的 Upright Stability Score（subscale E）與 mFARS 總分之基線變化，<b>主要完成日預估 2029/07</b>。目前僅登錄 <b>3 站、全在美國</b>（Northwestern、Clinilabs、UT Southwestern）。",
-    "note": "→ 這是<b>鄰近共濟失調圈層</b>（Friedreich's）而非 SCA 的直接競品，但結構上值得記錄：該藥的<b>加速核准滾動式 BLA（2026/06 送出第一模組）走的是 frataxin 濃度替代終點</b>，本三期則是<b>臨床療效的確認性試驗</b>，兩者並行。⚠️ <b>本試驗尚無任何療效數據</b>；公司先前公開的商業化目標時點（2027 年年中上市）屬公司自述，非監管承諾。",
-    "links": [
-      {
-        "label": "試驗登錄 ↗ NCT07778836",
-        "url": "https://clinicaltrials.gov/study/NCT07778836"
-      },
-      {
-        "label": "滾動式 BLA 首模組 ↗ 2026/06",
-        "url": "https://www.globenewswire.com/news-release/2026/06/29/3318791/0/en/Larimar-Therapeutics-Reports-Positive-Open-Label-Data-and-Submission-of-First-Module-of-Rolling-BLA-for-Accelerated-Approval-of-Nomlabofusp-for-Friedreich-s-Ataxia.html"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/08",
-      "tag": "Adjacent-ring progress",
-      "body": "<b>Larimar's global confirmatory Phase 3 of nomlabofusp has begun enrolling</b> (NCT07778836). The registration was first posted on <b>2026/08/21</b> with an <b>actual start date of 2026/08/05</b> and a status of <b>recruiting</b>; it is randomised, double-blind, placebo-controlled and multicentre, targeting <b>150 subjects</b>, enrolling adults and children with genetically confirmed (homozygous GAA) Friedreich's ataxia and a total mFARS score ≥20 and &lt;60. <b>Both primary endpoints fall at Week 72</b>: change from baseline in the mFARS Upright Stability Score (subscale E) and in total mFARS, with <b>estimated primary completion in July 2029</b>. Only <b>3 sites, all in the United States</b>, are registered so far (Northwestern, Clinilabs and UT Southwestern).",
-      "note": "→ This sits in the <b>adjacent ataxia ring</b> (Friedreich's) rather than being a direct SCA competitor, but the structure is worth recording: the drug's <b>rolling BLA for accelerated approval (first module submitted 2026/06) rests on a frataxin-concentration surrogate endpoint</b>, while this Phase 3 is the <b>confirmatory trial of clinical benefit</b>, the two running in parallel. ⚠️ <b>No efficacy data from this trial exist yet</b>, and the commercial timing the company has stated publicly (a mid-2027 launch) is its own guidance, not a regulatory commitment.",
-      "links": [
-        {
-          "label": "Registration ↗ NCT07778836",
-          "url": "https://clinicaltrials.gov/study/NCT07778836"
-        },
-        {
-          "label": "First rolling-BLA module ↗ 2026/06",
-          "url": "https://www.globenewswire.com/news-release/2026/06/29/3318791/0/en/Larimar-Therapeutics-Reports-Positive-Open-Label-Data-and-Submission-of-First-Module-of-Rolling-BLA-for-Accelerated-Approval-of-Nomlabofusp-for-Friedreich-s-Ataxia.html"
         }
       ]
     }

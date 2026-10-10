@@ -762,5 +762,73 @@
       "phase": "Ph1 (healthy volunteers, not yet recruiting)",
       "status": "<b>Newly found via the active-discovery sweep; not previously recorded on this platform</b>. Registry status is <b>not yet recruiting</b>, first posted 2026/10/09 (submitted 2026/10/06). A randomised, quadruple-blind, placebo-controlled single/multiple ascending-dose study in <b>healthy volunteers</b>, estimated n=60, estimated start 2026/10/26, primary completion 2027/05/27, single site (Miami, USA — Quotient Sciences). <b>Primary endpoint is adverse-event incidence</b>; secondary endpoints are pharmacokinetic parameters. ⚠️ <b>This trial itself enrols healthy volunteers, not patients</b>; the sponsor (Adjuvia Therapeutics, which closed an $8M seed round in 2026/07) states it <b>plans a separate Ph1/2 trial in Friedreich's ataxia patients in early 2027</b>, but that patient trial <b>is not yet registered on CT.gov</b> and remains a company plan, not a verified fact. <b>No efficacy or safety data are currently public</b>; the reported preclinical findings (reduced ROS and chronic inflammation) are company claims, not yet confirmed in peer-reviewed literature."
     }
+  },
+  {
+    "nct": "NCT01970098",
+    "drug": "KPS-0373（Rovatirelin）",
+    "mechanism": "口服小分子 TRH 類似物",
+    "phase": "Ph3",
+    "status": "<b>§1b-2 已知資產點名查核新補收</b>：藥名查詢「Rovatirelin」未命中登錄用名「KPS-0373」，疾病條件查詢亦因登記條件為日文慣用「Spinocerebellar Degeneration（脊髓小腦退化，SCD）」而非「spinocerebellar ataxia」致系統性漏檢。<b>已完成</b>，日本單一站點，隨機雙盲安慰劑對照（高劑量／低劑量／安慰劑三臂），<b>實收 374 人</b>，適應症為 SCD（日本適應症涵蓋 SCA6／SCA31／皮質小腦萎縮），<b>主要指標為 SARA</b>，起始 2013/10/09、主要完成 2015/01。<b>目前 CT.gov 未登錄本試驗之數值結果</b>；本試驗為 competitors.json／results.json 既有敘述所稱「兩項 Ph3」之第一項，相關讀出（2021/12 遞交日本藥證、2023/07/19 撤回）已見本站既有條目。",
+    "sponsor": "Kissei Pharmaceutical（日本）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT01970098",
+    "en": {
+      "drug": "KPS-0373 (rovatirelin)",
+      "mechanism": "Oral small-molecule TRH analogue",
+      "phase": "Ph3",
+      "status": "<b>Newly added via the §1b-2 weekly named-asset check</b>: a drug-name search for \"rovatirelin\" missed the registered name \"KPS-0373\", and the disease-condition queries missed it too because it is registered under the Japanese-convention term \"Spinocerebellar Degeneration (SCD)\" rather than \"spinocerebellar ataxia\". <b>Completed</b>, single site in Japan, randomised double-blind placebo-controlled (high-dose / low-dose / placebo arms), <b>374 participants actually enrolled</b>, indication SCD (the Japanese label covers SCA6, SCA31 and cortical cerebellar atrophy), <b>primary endpoint SARA</b>, started 2013/10/09 with primary completion 2015/01. <b>No numerical results are posted on CT.gov for this study</b>; it is the first of the \"two Ph3 trials\" already referenced in this site's competitors.json/results.json narrative (filed in Japan 2021/12, withdrawn 2023/07/19 — already covered elsewhere on this site).",
+      "sponsor": "Kissei Pharmaceutical (Japan)"
+    }
+  },
+  {
+    "nct": "NCT02889302",
+    "drug": "KPS-0373（Rovatirelin）",
+    "mechanism": "口服小分子 TRH 類似物",
+    "phase": "Ph3",
+    "status": "<b>§1b-2 已知資產點名查核新補收</b>：本試驗 NCT 編號先前已被既有 results.json 條目以文字引用（「兩項 Ph3」之一），但<b>trials.json 從未建立對應筆目</b>，今次點名查核後補齊。<b>已完成</b>，日本單一站點，隨機雙盲安慰劑對照，<b>實收 203 人</b>，適應症為 SCD，<b>主要指標為 SARA</b>，起始 2016/11/15、主要完成 2018/03。<b>CT.gov 未登錄數值結果</b>；公司於 JNNP（2020）發表之合併分析結果（SARA 改善優於安慰劑，公司公告數字）、2021/12 遞交日本藥證後 PMDA 認為難核准、2023/07/19 撤回，已見本站既有條目（results.json kissei-rovatirelin-2023-07）。",
+    "sponsor": "Kissei Pharmaceutical（日本）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT02889302",
+    "en": {
+      "drug": "KPS-0373 (rovatirelin)",
+      "mechanism": "Oral small-molecule TRH analogue",
+      "phase": "Ph3",
+      "status": "<b>Newly added via the §1b-2 weekly named-asset check</b>: this NCT number was already cited by name in an existing results.json entry (one of the \"two Ph3 trials\"), but <b>no corresponding trials.json row had ever been created</b>; this gap is now filled. <b>Completed</b>, single site in Japan, randomised double-blind placebo-controlled, <b>203 participants actually enrolled</b>, indication SCD, <b>primary endpoint SARA</b>, started 2016/11/15 with primary completion 2018/03. <b>No numerical results are posted on CT.gov</b>; the pooled-analysis readout published in JNNP (2020) (SARA improvement favouring drug over placebo, company-reported figures), the December 2021 Japan filing that the PMDA viewed as unlikely to be approvable, and the 2023/07/19 withdrawal are already covered in this site's results.json (kissei-rovatirelin-2023-07).",
+      "sponsor": "Kissei Pharmaceutical (Japan)"
+    }
+  },
+  {
+    "nct": "NCT03759678",
+    "drug": "Levacetylleucine（IB1001，N-acetyl-L-leucine）",
+    "mechanism": "小分子（口服胺基酸衍生物）",
+    "phase": "Ph2",
+    "status": "<b>§1b-2 已知資產點名查核新補收</b>：登記條件為「Ataxia Telangiectasia」而非 SCA，屬已知資產之鄰近適應症早期試驗，疾病條件查詢未納入。<b>已終止</b>（終止原因：<b>公司決定優先將資源投入樞紐三期 NCT07221292 之直接收案</b>），多國多中心、開放標籤、評估者設盲，<b>實收 17 人</b>（原設計之前趨研究），4 歲以上基因確診 A-T 病人，站點：美國、德國、西班牙、英國，起始 2020/01/08、主要完成 2025/02/11、試驗完成 2025/10/27。主要指標為臨床嚴重度變化之獨立神經科醫師評估（CI-CS）。<b>為已核准之樞紐三期 IB1001-303（NCT06673056，已收錄）的前驅開放標籤試驗</b>，本身無安慰劑對照、不足以單獨證明療效。",
+    "sponsor": "IntraBio",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT03759678",
+    "en": {
+      "drug": "Levacetylleucine (IB1001, N-acetyl-L-leucine)",
+      "mechanism": "Small molecule (oral amino-acid derivative)",
+      "phase": "Ph2",
+      "status": "<b>Newly added via the §1b-2 weekly named-asset check</b>: registered under the condition \"Ataxia-Telangiectasia\" rather than SCA — an early-stage trial in a known asset's adjacent indication that the disease-condition queries do not cover. <b>Terminated</b> (reason given: <b>the company decided to prioritise resources toward direct enrolment in the pivotal Phase 3, NCT07221292</b>), multinational, multicentre, open-label with rater-blinded assessment, <b>17 participants actually enrolled</b> (an earlier-stage study), A-T patients aged 6 and over with genetic confirmation, sites in the US, Germany, Spain and the UK, started 2020/01/08 with primary completion 2025/02/11 and study completion 2025/10/27. The primary endpoint was an independent neurologist rating of change in clinical severity (CI-CS). <b>This is the open-label precursor study to the now-approved pivotal Phase 3, IB1001-303 (NCT06673056, already covered here)</b>; it had no placebo control and cannot on its own establish efficacy.",
+      "sponsor": "IntraBio"
+    }
+  },
+  {
+    "nct": "NCT07380165",
+    "drug": "Levacetylleucine（AQNEURSA®）",
+    "mechanism": "小分子（口服胺基酸衍生物）",
+    "phase": "擴大取得（EAP）",
+    "status": "<b>§1b-2 已知資產點名查核新補收</b>：為擴大取得計畫登錄，非傳統試驗，疾病條件查詢未納入。登錄狀態為<b>已核准上市（APPROVED_FOR_MARKETING）</b>，最後更新 2026-09-28，與本站已收錄之 A-T 適應症於 2026/09/19 獲 FDA 核准（results.json：intrabio-at-approval-2026-09）為同一事實之登錄端呈現，<b>非額外新資訊</b>；登錄未附站點、收案人數等欄位。",
+    "sponsor": "IntraBio",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07380165",
+    "en": {
+      "drug": "Levacetylleucine (AQNEURSA®)",
+      "mechanism": "Small molecule (oral amino-acid derivative)",
+      "phase": "Expanded access",
+      "status": "<b>Newly added via the §1b-2 weekly named-asset check</b>: an expanded-access programme registration rather than a conventional trial, so it falls outside the disease-condition queries. Registry status is <b>approved for marketing</b>, last updated 2026-09-28 — the registry-side reflection of the same A-T approval already covered here (results.json: intrabio-at-approval-2026-09) rather than additional news; the record carries no site or enrolment fields.",
+      "sponsor": "IntraBio"
+    }
   }
 ]
