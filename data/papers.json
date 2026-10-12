@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42845343",
+    "date": "2026-08-10",
+    "dateDisplay": "2026/08/10",
+    "title": "Ficd loss rescues motor impairments and reverses oligodendrocyte maturation deficits in a mouse model of spinocerebellar ataxia type 3.",
+    "journal": "bioRxiv 預印本（尚未經同儕審查）doi:10.64898/2026.08.07.743629 · Van Pelt KM、Deng Y、Nesvizhskii AI、Paulson HL、Costa MDC、Truttmann MC（美國密西根大學）",
+    "tag": "SCA3 · ATXN3 · 機轉／臨床前（小鼠模型）· 新標的發現",
+    "note": "→ <b>密西根大學團隊於 SCA3 轉殖小鼠模型中發現，剔除 FICD 基因（調控內質網分子伴護蛋白 BiP 之 AMP化修飾酶）可改善運動功能缺損</b>：Ficd 剔除之 SCA3 小鼠於易感腦區<b>核內 ATXN3 蓄積減少</b>，而 Ficd 正常之同窩對照則於脊髓呈現 AMP 化 BiP 蓄積增加，提示<b>異常 AMP 化修飾為 SCA3 病理之新機轉</b>。蛋白質體學分析顯示 Ficd 剔除可<b>緩解髓鞘結構蛋白與寡突膠細胞成熟因子之病理性下降，回復成熟髓鞘化寡突膠細胞之比例</b>，並透過活化 SREBP2 路徑之膽固醇合成支持髓鞘形成；本篇<b>延續 SCA3 近年「寡突膠細胞成熟障礙／白質完整性受損」之致病機轉研究路線</b>，將 FICD 定位為針對 SCA3 非神經元毒性之<b>候選新標的</b>。→ 與本平台的關聯：本篇為<b>臨床前機轉研究，不涉及任何已登錄競品藥物或臨床試驗</b>，FICD 標的目前<b>無任何已知藥物或臨床開發計畫</b>；收錄用意為追蹤 SCA3（本公司 Stemchymal® 所涵蓋 polyQ 型 SCA 之最大宗亞型）致病機轉的最新學術進展。⚠️ <b>限制</b>：<b>bioRxiv 預印本，尚未經同儕審查</b>；僅為小鼠模型數據，<b>無人體證據</b>，FICD 作為藥物標的之可成藥性與安全性均屬未知。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42845343/",
+    "urlLabel": "論文 ↗ PubMed 42845343",
+    "en": {
+      "tag": "SCA3 · ATXN3 · mechanism/preclinical (mouse model) · novel target",
+      "journal": "bioRxiv preprint (not yet peer-reviewed) doi:10.64898/2026.08.07.743629 · Van Pelt KM, Deng Y, Nesvizhskii AI, Paulson HL, Costa MDC, Truttmann MC (University of Michigan, USA)",
+      "note": "→ <b>A University of Michigan team found that deleting Ficd (which regulates AMPylation of the ER chaperone BiP) rescues motor impairments in a transgenic SCA3 mouse model</b>: Ficd-knockout SCA3 mice showed <b>reduced nuclear ATXN3 accumulation</b> in vulnerable brain regions, while Ficd-intact littermates showed increased AMPylated BiP in the spinal cord, pointing to <b>aberrant AMPylation as a novel contributor to SCA3 pathology</b>. Proteomic analysis showed that Ficd deletion <b>mitigates the pathological loss of myelin structural proteins and oligodendrocyte maturation factors, restoring the proportion of mature, myelinating oligodendrocytes</b>, partly via SREBP2-driven cholesterol biosynthesis supporting myelination; this extends the recent line of research into <b>oligodendrocyte maturation failure and white-matter integrity loss as an SCA3 disease mechanism</b>, and identifies FICD as a <b>candidate novel target</b> for the non-neuronal toxicity of SCA3. → Relevance to this platform: this is a <b>preclinical mechanistic study with no bearing on any tracked competitor drug or clinical trial</b>, and the FICD target currently has <b>no known drug or clinical development programme</b>; it is recorded here to track the latest academic understanding of SCA3 pathogenesis — SCA3 being the largest polyQ SCA subtype within the scope of Steminent's Stemchymal®. ⚠️ <b>Limitations</b>: a <b>bioRxiv preprint, not yet peer-reviewed</b>; mouse-model data only, with <b>no human evidence</b>, and FICD's druggability and safety as a target are both unknown.",
+      "urlLabel": "Paper ↗ PubMed 42845343"
+    }
+  },
+  {
     "id": "pubmed:42842081",
     "date": "2026-10-07",
     "dateDisplay": "2026/10/07",

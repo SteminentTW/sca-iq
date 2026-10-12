@@ -105,7 +105,7 @@
     "drug": "Nomlabofusp（皮下注射）",
     "mechanism": "<b>蛋白替代療法</b>：外源性 frataxin 融合蛋白經皮下給藥，補足 FXN 基因擴增所導致的 frataxin 缺乏<br>設計目的為直接回補致病蛋白，而非下游抗氧化",
     "phase": "Ph3",
-    "status": "<b>收案中（2026/08/21 新登錄上線，實際起始日 2026/08/05）</b>。這是 Larimar 的<b>全球確認性三期</b>，隨機、雙盲、安慰劑對照、多中心，預計收案 <b>150 人</b>，納入<b>成人與兒童</b>之基因確診（GAA 同型合子）Friedreich's ataxia 病人，合格條件含 mFARS 總分 ≥20 且 <60。<b>雙主要終點皆在第 72 週</b>：mFARS 之 <b>Upright Stability Score（USS，subscale E）</b>自基線變化，以及 <b>mFARS 總分</b>自基線變化。<b>主要完成日預估 2029/07</b>。目前登錄站點僅 <b>3 站、全在美國</b>（Northwestern、Clinilabs、UT Southwestern），依公司說法為全球試驗、站點應會續增。⚠️ 本試驗與該公司<b>已在進行中的加速核准滾動式 BLA 並行</b>——BLA 採用的是 frataxin 濃度替代終點，本三期則是核准後仍須完成的<b>臨床療效確認</b>；<b>目前尚無任何本試驗的療效數據</b>。",
+    "status": "<b>收案中（2026/08/21 新登錄上線，實際起始日 2026/08/05）</b>。這是 Larimar 的<b>全球確認性三期</b>，隨機、雙盲、安慰劑對照、多中心，預計收案 <b>150 人</b>，納入<b>成人與兒童</b>之基因確診（GAA 同型合子）Friedreich's ataxia 病人，合格條件含 mFARS 總分 ≥20 且 <60。<b>雙主要終點皆在第 72 週</b>：mFARS 之 <b>Upright Stability Score（USS，subscale E）</b>自基線變化，以及 <b>mFARS 總分</b>自基線變化。<b>主要完成日預估 2029/07</b>。目前登錄站點僅 <b>3 站、全在美國</b>（Northwestern、Clinilabs、UT Southwestern），依公司說法為全球試驗、站點應會續增。<b>【2026/10/09 更新】新增第 4 站</b>：南佛羅里達大學（Tampa, FL，Morsani Center for Advanced Health Care），狀態為<b>尚未收案</b>；其餘 3 站維持收案中。預計收案人數（150 人）與主要完成日（2029/07）均未變動。⚠️ 本試驗與該公司<b>已在進行中的加速核准滾動式 BLA 並行</b>——BLA 採用的是 frataxin 濃度替代終點，本三期則是核准後仍須完成的<b>臨床療效確認</b>；<b>目前尚無任何本試驗的療效數據</b>。",
     "sponsor": "Larimar Therapeutics",
     "us": false,
     "url": "https://clinicaltrials.gov/study/NCT07778836",
@@ -113,7 +113,7 @@
       "drug": "Nomlabofusp (subcutaneous)",
       "mechanism": "<b>Protein replacement</b>: an exogenous frataxin fusion protein given subcutaneously to restore the frataxin deficiency caused by GAA repeat expansion in FXN<br>designed to replace the causative protein directly rather than act downstream as an antioxidant",
       "phase": "Ph3",
-      "status": "<b>Recruiting (registration first posted 2026/08/21; actual start date 2026/08/05)</b>. This is Larimar's <b>global confirmatory Phase 3</b> — randomised, double-blind, placebo-controlled and multicentre — with a target enrolment of <b>150 subjects</b>, enrolling <b>adults and children</b> with genetically confirmed (homozygous GAA) Friedreich's ataxia, with eligibility requiring a total mFARS score ≥20 and &lt;60. <b>Both primary endpoints are measured at Week 72</b>: change from baseline in the <b>Upright Stability Score (USS, mFARS subscale E)</b> and change from baseline in <b>total mFARS</b>. <b>Estimated primary completion is July 2029</b>. Only <b>3 sites, all in the United States</b>, are registered so far (Northwestern, Clinilabs and UT Southwestern); the company describes the study as global, so further sites would be expected. ⚠️ The trial <b>runs in parallel with the company's ongoing rolling BLA for accelerated approval</b> — the BLA rests on a frataxin-concentration surrogate endpoint, whereas this Phase 3 is the <b>clinical confirmation</b> that would still be required post-approval; <b>no efficacy data from this trial exist yet</b>.",
+      "status": "<b>Recruiting (registration first posted 2026/08/21; actual start date 2026/08/05)</b>. This is Larimar's <b>global confirmatory Phase 3</b> — randomised, double-blind, placebo-controlled and multicentre — with a target enrolment of <b>150 subjects</b>, enrolling <b>adults and children</b> with genetically confirmed (homozygous GAA) Friedreich's ataxia, with eligibility requiring a total mFARS score ≥20 and &lt;60. <b>Both primary endpoints are measured at Week 72</b>: change from baseline in the <b>Upright Stability Score (USS, mFARS subscale E)</b> and change from baseline in <b>total mFARS</b>. <b>Estimated primary completion is July 2029</b>. Only <b>3 sites, all in the United States</b>, are registered so far (Northwestern, Clinilabs and UT Southwestern); the company describes the study as global, so further sites would be expected. <b>[Update 2026/10/09] A 4th site was added</b>: the University of South Florida (Tampa, FL — Morsani Center for Advanced Health Care), listed as <b>not yet recruiting</b>; the other 3 sites remain recruiting. Target enrolment (150) and primary completion date (2029/07) are unchanged. ⚠️ The trial <b>runs in parallel with the company's ongoing rolling BLA for accelerated approval</b> — the BLA rests on a frataxin-concentration surrogate endpoint, whereas this Phase 3 is the <b>clinical confirmation</b> that would still be required post-approval; <b>no efficacy data from this trial exist yet</b>.",
       "sponsor": "Larimar Therapeutics"
     }
   },
@@ -829,6 +829,23 @@
       "phase": "Expanded access",
       "status": "<b>Newly added via the §1b-2 weekly named-asset check</b>: an expanded-access programme registration rather than a conventional trial, so it falls outside the disease-condition queries. Registry status is <b>approved for marketing</b>, last updated 2026-09-28 — the registry-side reflection of the same A-T approval already covered here (results.json: intrabio-at-approval-2026-09) rather than additional news; the record carries no site or enrolment fields.",
       "sponsor": "IntraBio"
+    }
+  },
+  {
+    "nct": "NCT01728064",
+    "drug": "EPI-743（vatiquinone／PTC743 早期代號）",
+    "mechanism": "小分子（口服）<br>15-脂氧合酶抑制／抗氧化壓力（與現行 vatiquinone 同一分子之早期開發代號）",
+    "phase": "Ph2",
+    "status": "<b>本次掃描補收（平台先前缺漏）</b>：為 2012–2016 年執行之早期 EPI-743 試驗，疾病條件查詢因登錄最後更新日為 2020-08-31（逾 5 年未更新）而排不進排序前 40 名，致先前未收錄；上週（2026-10-10）之 §1b-2 已知資產點名查核雖已以藥名查得本筆，但因 vatiquinone 命中之多筆非共濟失調試驗（Parkinson's、Leigh 氏症、自閉症等）被歸為同類排除，本筆<b>於彼次查核中遭一併誤判排除</b>，本次逐筆重新核對條件欄位後確認其適應症實為 Friedreich's Ataxia、應予收錄。隨機、雙盲、安慰劑對照，登錄預估收案 60 人、基因確診之 Friedreich's Ataxia 病人，實際起始 2012/12/31、主要完成 2015/10/31、試驗完成 2016/02/29，<b>主要指標為視覺功能（低對比視力）</b>，為 vatiquinone 鎖定之氧化壓力機轉中、<b>以眼科終點切入神經退化評估的早期嘗試</b>，與現行 Ph3 試驗（NCT05515536、NCT07681713）採用之 mFARS 神經功能量表不同。⚠️ <b>CT.gov 未登錄任何本試驗之結果數據</b>（hasResults 為否），無法核實其療效讀出；本筆僅作為資產開發歷程之補充紀錄，不得據以推論現行 vatiquinone Ph3 之療效前景。",
+    "sponsor": "PTC Therapeutics",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT01728064",
+    "en": {
+      "drug": "EPI-743 (early development code for vatiquinone / PTC743)",
+      "mechanism": "Small molecule (oral)<br>15-lipoxygenase inhibition / antioxidant-stress pathway (the same molecule as current vatiquinone, under its earlier development code)",
+      "phase": "Ph2",
+      "status": "<b>Backfilled in this scan (a previous gap in coverage)</b>: an early EPI-743 trial run from 2012–2016 that the disease-condition queries missed because its registry entry, last updated 2020-08-31 (over five years stale), does not rank within the top 40 by recency. Last week's §1b-2 named-asset check (2026-10-10) did retrieve this record under the vatiquinone drug-name query, but <b>it was swept up and excluded along with the several non-ataxia vatiquinone hits (Parkinson's disease, Leigh syndrome, autism, etc.) from that same search</b>; re-checking each hit's condition field individually this time confirmed this one is in fact Friedreich's ataxia and belongs in the radar. Randomised, double-blind, placebo-controlled, with a registered estimated enrolment of 60 genetically confirmed Friedreich's ataxia patients; actual start 2012/12/31, primary completion 2015/10/31, study completion 2016/02/29. <b>The primary endpoint was visual function (low-contrast visual acuity)</b> — an early attempt to assess neurodegeneration through an ophthalmologic endpoint within the oxidative-stress mechanism vatiquinone targets, distinct from the mFARS neurological rating scale used in the current Phase 3 trials (NCT05515536, NCT07681713). ⚠️ <b>No results have been posted to CT.gov for this trial</b> (hasResults is false), so its efficacy readout cannot be verified; this record is included only to document the asset's development history and should not be read as any indication of the current vatiquinone Phase 3 programmes' prospects.",
+      "sponsor": "PTC Therapeutics"
     }
   }
 ]
