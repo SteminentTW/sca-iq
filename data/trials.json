@@ -847,5 +847,22 @@
       "status": "<b>Backfilled in this scan (a previous gap in coverage)</b>: an early EPI-743 trial run from 2012–2016 that the disease-condition queries missed because its registry entry, last updated 2020-08-31 (over five years stale), does not rank within the top 40 by recency. Last week's §1b-2 named-asset check (2026-10-10) did retrieve this record under the vatiquinone drug-name query, but <b>it was swept up and excluded along with the several non-ataxia vatiquinone hits (Parkinson's disease, Leigh syndrome, autism, etc.) from that same search</b>; re-checking each hit's condition field individually this time confirmed this one is in fact Friedreich's ataxia and belongs in the radar. Randomised, double-blind, placebo-controlled, with a registered estimated enrolment of 60 genetically confirmed Friedreich's ataxia patients; actual start 2012/12/31, primary completion 2015/10/31, study completion 2016/02/29. <b>The primary endpoint was visual function (low-contrast visual acuity)</b> — an early attempt to assess neurodegeneration through an ophthalmologic endpoint within the oxidative-stress mechanism vatiquinone targets, distinct from the mFARS neurological rating scale used in the current Phase 3 trials (NCT05515536, NCT07681713). ⚠️ <b>No results have been posted to CT.gov for this trial</b> (hasResults is false), so its efficacy readout cannot be verified; this record is included only to document the asset's development history and should not be read as any indication of the current vatiquinone Phase 3 programmes' prospects.",
       "sponsor": "PTC Therapeutics"
     }
+  },
+  {
+    "nct": "NCT07870590",
+    "drug": "GV101（口服）",
+    "mechanism": "選擇性口服 ROCK2 抑制劑<br>公司稱抑制 ROCK1／ROCK2 可提升 FA 細胞模型中 FXN mRNA 與 frataxin 蛋白表現",
+    "phase": "Ph2a（劑量探索，含開放標籤延伸）",
+    "status": "尚未招募（2026/10/13 新登錄上線）。隨機、雙盲、安慰劑對照，3:1 序列隨機分派至低／中／高三劑量組（200／300／400 mg/日，各組前段設負荷劑量），預估收案 <b>48 人</b>，納入 <b>16–40 歲</b>基因確診（同型合子 GAA 重複擴增）之 Friedreich's Ataxia 病人，合格條件另含 mFARS 20–80 分、hs-cTnI 高於實驗室界定 99 百分位。<b>主要指標為第 12 週血中 frataxin-M 蛋白自基線變化百分比（與安慰劑比較）</b>，關鍵次要指標含 hs-cTnI 與 mFARS。完成 12 週者可轉入 52 週開放標籤延伸。預估起始 2026/11、主要完成 2027/07。目前登錄僅 <b>1 站</b>（美國 Eatontown, NJ，CLINiLABS）。⚠️ 公司 2026/08 公告已獲 FDA IND 核准（新膠囊劑型）；frataxin 提升證據目前僅見於公司自述之另一項肥胖症試驗 PBMC 數據與前臨床細胞模型，<b>未見同儕審查人體數據</b>，可成藥性與療效均屬未知。",
+    "sponsor": "Graviton Bioscience",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07870590",
+    "en": {
+      "drug": "GV101 (oral)",
+      "mechanism": "A selective oral ROCK2 inhibitor<br>the company states that inhibiting ROCK1/ROCK2 raises FXN mRNA and frataxin protein levels in FA cell models",
+      "phase": "Ph2a (dose-ranging, with open-label extension)",
+      "status": "Not yet recruiting (registration first posted 2026/10/13). Randomised, double-blind, placebo-controlled, with 3:1 sequential randomisation across low/mid/high dose groups (200/300/400 mg/day, each with an initial loading-dose period), targeting <b>48 participants</b> aged <b>16–40</b> with genetically confirmed (homozygous GAA repeat expansion) Friedreich's ataxia; eligibility also requires an mFARS score of 20–80 and hs-cTnI above the laboratory-defined 99th percentile. <b>The primary endpoint is percent change from baseline in blood frataxin-M protein at week 12 versus placebo</b>, with hs-cTnI and mFARS among the key secondary endpoints. Participants completing the 12-week trial may roll into a 52-week open-label extension. Estimated start 2026/11, primary completion 2027/07. Only <b>1 site</b> is registered so far (Eatontown, NJ, USA — CLINiLABS). ⚠️ The company announced FDA IND clearance (a new capsule formulation) in 2026/08; the frataxin-elevation evidence cited so far comes only from company-reported PBMC data in a separate obesity trial and preclinical cell models, with <b>no peer-reviewed human data</b> yet, leaving druggability and efficacy unknown.",
+      "sponsor": "Graviton Bioscience"
+    }
   }
 ]

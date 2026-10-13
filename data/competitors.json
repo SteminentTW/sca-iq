@@ -1172,5 +1172,46 @@
         }
       ]
     }
+  },
+  {
+    "id": "graviton",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Graviton Bioscience Corporation（美國，私有）",
+    "asset": "GV101",
+    "mechanism": "選擇性口服 ROCK2 抑制劑<br>公司稱抑制 ROCK1／ROCK2 可提升 FA 細胞模型中 FXN mRNA 與 frataxin 蛋白表現",
+    "indication": "Friedreich's Ataxia",
+    "phase": "Ph2a 劑量探索（尚未招募）",
+    "status": "2026/10/13 主動掃描新發現之清單外業者，此前未被本平台收錄。隨機雙盲安慰劑對照劑量探索試驗 <b>NCT07870590</b> 尚未招募，預估收案 48 人、16–40 歲基因確診 FA 病人，預估 2026/11 起始，目前僅 1 站（美國 Eatontown, NJ）。公司 2026/08 公告已獲 FDA IND 核准（新膠囊劑型），<b style=\"color:#ffce7a\">宣稱於另一項肥胖症試驗中觀察到病人 PBMC frataxin 上升</b>，為公司自述之臨床證據、未見同儕審查文獻佐證。目前僅規劃 FA 適應症，未見延伸 SCA 之公開資訊。",
+    "threatLabel": "低(早期)",
+    "links": [
+      {
+        "label": "試驗 ↗ NCT07870590",
+        "url": "https://clinicaltrials.gov/study/NCT07870590"
+      },
+      {
+        "label": "IND 公告 ↗ Graviton 2026/08",
+        "url": "https://www.drugdiscoveryonline.com/doc/graviton-bioscience-announces-clearance-of-investigational-new-drug-ind-for-gv-for-the-treatment-of-friedreich-s-ataxia-0001"
+      }
+    ],
+    "en": {
+      "company": "Graviton Bioscience Corporation (USA, private)",
+      "asset": "GV101",
+      "mechanism": "A selective oral ROCK2 inhibitor<br>the company states that inhibiting ROCK1/ROCK2 raises FXN mRNA and frataxin protein levels in FA cell models",
+      "indication": "Friedreich's ataxia",
+      "phase": "Ph2a dose-ranging (not yet recruiting)",
+      "status": "An off-list player newly found by the 2026/10/13 active-discovery sweep, not previously recorded on this platform. The randomised, double-blind, placebo-controlled dose-ranging trial <b>NCT07870590</b> is not yet recruiting, targeting 48 genetically confirmed FA patients aged 16–40, with an estimated start of 2026/11 at a single site (Eatontown, NJ, USA) so far. The company announced FDA IND clearance (a new capsule formulation) in 2026/08 and <b style=\"color:#ffce7a\">states it observed a frataxin increase in patient PBMCs in a separate obesity trial</b>, a company-reported clinical claim with no supporting peer-reviewed literature found. The programme is currently planned for FA only, with no announced SCA extension.",
+      "threatLabel": "Low (early-stage)",
+      "links": [
+        {
+          "label": "Trial ↗ NCT07870590",
+          "url": "https://clinicaltrials.gov/study/NCT07870590"
+        },
+        {
+          "label": "IND clearance announcement ↗ Graviton 2026/08",
+          "url": "https://www.drugdiscoveryonline.com/doc/graviton-bioscience-announces-clearance-of-investigational-new-drug-ind-for-gv-for-the-treatment-of-friedreich-s-ataxia-0001"
+        }
+      ]
+    }
   }
 ]

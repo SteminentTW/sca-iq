@@ -2966,5 +2966,31 @@
       "insight": "An off-list player picked up by the 2026/10/09 sweep, never previously captured on this platform. It closed an $8M seed round in 2026/07 and states it plans a separate Ph1/2 trial in FA patients in early 2027, but that patient trial is not yet registered and remains a company plan, not a verified fact. The reported preclinical antioxidant data are company claims with no supporting peer-reviewed literature found."
     },
     "cat": "sca"
+  },
+  {
+    "id": "graviton",
+    "name": "Graviton Bioscience",
+    "nameEn": "Graviton Bioscience Corporation",
+    "short": "Graviton",
+    "country": "美國 USA（私有）",
+    "ticker": "私有，尚未上市",
+    "mechanism": "選擇性口服 ROCK2 抑制劑，設計目標為提升 FXN 基因轉錄與 frataxin 蛋白表現",
+    "pipeline": "GV101｜Friedreich's Ataxia：Ph2a 劑量探索隨機雙盲安慰劑對照試驗尚未招募（NCT07870590）",
+    "insight": "2026/10/13主動掃描發現的清單外業者，此前完全未被本平台收錄。2026/08公告獲FDA IND核准（新膠囊劑型），宣稱於另一項肥胖症試驗中觀察到病人frataxin提升訊號，惟屬公司自述、未見同儕審查文獻佐證。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT07870590",
+    "match": [
+      "Graviton Bioscience",
+      "Graviton",
+      "GV101"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA (private)",
+      "mechanism": "A selective oral ROCK2 inhibitor, designed to raise FXN gene transcription and frataxin protein levels",
+      "pipeline": "GV101 | Friedreich's ataxia: a Ph2a dose-ranging randomised, double-blind, placebo-controlled trial is not yet recruiting (NCT07870590)",
+      "insight": "An off-list player picked up by the 2026/10/13 sweep, never previously captured on this platform. It announced FDA IND clearance (a new capsule formulation) in 2026/08 and states it observed a frataxin-elevation signal in patient PBMCs in a separate obesity trial, a company claim with no supporting peer-reviewed literature found."
+    },
+    "cat": "sca"
   }
 ]

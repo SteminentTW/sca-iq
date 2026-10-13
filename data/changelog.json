@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-13",
+    "dateDisplay": "2026/10/13",
+    "tag": "每日掃描 · 新競品",
+    "level": "info",
+    "body": "<b>上次真正發布為2026-10-12，缺口1天，屬正常每日掃描、無需補跑。</b>CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia等子查詢）共逾100筆不重複命中，逐筆比對既有試驗鍵值與更新日後，<b>新增1筆清單外新競品</b>：<b>Graviton Bioscience（美國私有）口服選擇性ROCK2抑制劑GV101</b>，Friedreich's Ataxia適應症Ph2a劑量探索隨機雙盲安慰劑對照試驗<b>NCT07870590</b>（2026/10/13新登錄上線，尚未招募，預估收案48人），已同步建檔於competitors.json（graviton，ring:ataxia）、trials.json、companies.json。其餘近期更新命中（NCT07861126為創傷性腦損傷試驗之無關誤觸；NCT02497534、NCT07105371、NCT07723248為此前已反覆核實排除之觀察研究/同義詞誤觸）均不符合新競品門檻。PubMed近7天（reldate=7）命中3篇（42842081／42840744／42836902），均為先前掃描已收錄或複核排除之條目，<b>本次無新增文獻</b>。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2：<b>窗內查得內容均為平台已收錄之既有事實，無新增</b>。§1b-2已知資產點名查核已於2026-10-10執行（下次約2026-10-17到期），本次未重複執行完整週期。events.json／patents.json／exclusivity.json均未滿各自維護週期，維持不動。<b>本週（自2026-10-12起算）新增1項獨立發現，計數2→3</b>。",
+    "link": {
+      "label": "詳見 競品全景 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan · new competitor",
+      "body": "<b>The last genuine publish was 2026-10-12, a 1-day gap — a normal daily run, no backfill needed.</b> The five CT.gov indication queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the broad active-discovery scan (status-filtered to RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50, plus SCA1/2/3/6/7 subtype, Machado-Joseph, ATXN1/2/3/7 and polyglutamine-ataxia sub-queries) returned over 100 unique hits; checking each against existing trial keys and update dates surfaced <b>one new off-list competitor</b>: <b>Graviton Bioscience (USA, private)</b>'s oral selective ROCK2 inhibitor <b>GV101</b>, in a Phase 2a dose-ranging, randomised, double-blind, placebo-controlled trial in Friedreich's ataxia, <b>NCT07870590</b> (registration first posted 2026/10/13, not yet recruiting, targeting 48 participants) — now recorded in competitors.json (graviton, ring: ataxia), trials.json and companies.json. Other recently updated hits (NCT07861126, an unrelated traumatic-brain-injury trial caught by keyword overlap; NCT02497534, NCT07105371 and NCT07723248, previously reviewed and repeatedly excluded observational studies / synonym false positives) did not meet the new-competitor bar. PubMed's past-7-days window (reldate=7) returned 3 hits (42842081/42840744/42836902), all already on record or previously reviewed and excluded — <b>no new papers this run</b>. Company-news WebSearch checks on Stemchymal/REPROCELL, Biohaven's troriluzole, Vico's VO659 and Arrowhead's ARO-ATXN2 <b>all returned facts already on record on the platform</b>, no additions. The §1b-2 named-asset roll call ran on 2026-10-10 (next due around 2026-10-17) and was not repeated in full today. events.json, patents.json and exclusivity.json have not reached their respective maintenance cycles and remain unchanged. <b>This week's count (from 2026-10-12) gains one independent finding, moving from 2 to 3</b>.",
+      "link": {
+        "label": "See Competitor Landscape ↗",
+        "tab": "ov"
+      }
+    }
+  },
+  {
     "date": "2026-10-12",
     "dateDisplay": "2026/10/12",
     "tag": "每日掃描",
