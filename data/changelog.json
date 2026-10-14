@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-14",
+    "dateDisplay": "2026/10/14",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含Machado-Joseph、ATXN1/2/3/7子查詢）共逾120筆不重複命中，逐筆比對既有53筆試驗鍵值與最後更新日：候選新筆中最近者（NCT02497534、NCT07105371、NCT07723248、NCT07851376等）之最後更新日均落在近7天窗口邊緣或之外，且均屬先前已反覆核實排除之觀察研究／診斷監測型試驗／同義詞誤觸，<b>本次無新增競品試驗</b>。PubMed近7天（reldate=7）命中2篇，其中1篇（42842081）已於先前掃描收錄，<b>新增1篇</b>：中國福建醫科大學團隊發表於Ann Clin Transl Neurol之SCA3生物標記分期研究（n=229患者對104健康對照，MRI體積分析＋TSPO-PET神經發炎造影，提出臨床前「生物標記期」分期模型），屬自然史／生物標記特徵研究、不含藥物試驗資料，詳見文獻雷達。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2：<b>窗內查得內容均為平台已收錄之既有事實或早於7天窗口，無新增</b>。§1b-2已知資產點名查核已於2026-10-10執行（下次約2026-10-17到期），本次未重複執行完整週期。events.json／patents.json／exclusivity.json均未滿各自維護週期，維持不動。<b>本週（自2026-10-12起算）新增1篇文獻，計數3→4</b>。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad scan (filter.overallStatus=RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50, plus Machado-Joseph and ATXN1/2/3/7 sub-queries) together returned over 120 unique hits. Checking each against the 53 existing trial keys and last-update dates: the most recently updated candidates (NCT02497534, NCT07105371, NCT07723248, NCT07851376, etc.) all fall at or beyond the edge of the 7-day window and are observational/digital-monitoring studies or synonym-expansion false hits already repeatedly reviewed and excluded in prior scans; <b>no new competitor trial was added this run</b>. PubMed's 7-day window (reldate=7) returned 2 hits, one of which (42842081) was already recorded in a prior scan; <b>1 new paper was added</b>: a biomarker-staging study of SCA3 from a Fujian Medical University (China) group, published in the Annals of Clinical and Translational Neurology (n=229 patients vs. 104 matched healthy controls; MRI volumetric analysis plus TSPO-PET neuroinflammation imaging; proposes a pre-ataxia \"biomarker stage\" in a new SCA3 staging model) — a natural-history/biomarker-characterisation study containing no drug-trial data; see the literature radar for detail. WebSearch checks of company/industry news for Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 returned only facts already recorded on this platform or items predating the 7-day window; <b>no news items were added</b>. The §1b-2 known-asset name-by-name check was last run on 2026-10-10 (next due around 2026-10-17); the full cycle was not repeated this run. events.json/patents.json/exclusivity.json have not reached their respective maintenance cycles and were left unchanged. <b>This week (counting from 2026-10-12), 1 new paper was added, bringing the count from 3 to 4.</b>",
+      "link": {
+        "label": "See Literature Radar ↗",
+        "tab": "si",
+        "anchor": "litradar"
+      }
+    }
+  },
+  {
     "date": "2026-10-13",
     "dateDisplay": "2026/10/13",
     "tag": "每日掃描 · 新競品",

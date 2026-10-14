@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42867110",
+    "date": "2026-10-13",
+    "dateDisplay": "2026/10/13",
+    "title": "Stage-Specific Patterns of Imaging and Non-Motor Biomarkers in Spinocerebellar Ataxia Type 3.",
+    "journal": "Ann Clin Transl Neurol 線上預印本（online ahead of print）doi:10.1002/acn3.70555 · Li C、Ye ZX、Chen XY、Qiu LL 等（中國福建醫科大學附屬第一醫院神經內科暨神經科學研究所；福建省分子神經學重點實驗室）",
+    "tag": "SCA3 · 生物標記分期 · 影像與非運動症狀世代研究",
+    "note": "→ <b>橫斷性觀察研究，收錄229名SCA3患者與104名年齡／性別配對之健康對照</b>（來自「中國東南共濟失調研究聯盟」世代），以神經心理測驗組評估非運動症狀，<b>3.0T MRI做腦區體積分析</b>，並以<b>TSPO-PET（18F-DPA-714示蹤劑）活體量化神經發炎</b>，再以加法回歸模型分析生物標記與疾病分期之橫斷關聯。<b>結果</b>：認知功能、焦慮、疲勞、憂鬱與睡眠品質等非運動症狀於共濟失調發作後明顯惡化；<b>腦幹體積較對照組提前0.7年出現差異、腹側間腦提前0.2年</b>，對應之<b>TSPO訊號於腦幹與腹側間腦自發病前即升高、並於病程中持續偏離正常</b>。作者提出<b>SCA3分期模型，於臨床前共濟失調（pre-ataxia）至發作期之間另立「生物標記期」</b>，以多維度神經退化／神經發炎客觀指標界定。試驗登錄號：NCT04010214。→ 與本平台的關聯：本篇為<b>SCA3（本公司Stemchymal®所涵蓋polyQ型SCA最大宗亞型）之自然史／生物標記分期研究，不含任何藥物或介入性治療資料</b>；其臨床前期即可偵測之影像與神經發炎標記，<b>對未來SCA3介入性試驗（含細胞治療）之收案分層與臨床前期族群界定具參考價值</b>。⚠️ <b>限制</b>：<b>橫斷性設計、非縱向追蹤</b>，世代來自單一地區（中國東南）族群，<b>不含任何療效或藥物試驗數據</b>；TSPO-PET需特殊示蹤劑與造影設備，臨床可近用性與量產性有限，相關發現尚未經縱向世代驗證。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867110/",
+    "urlLabel": "論文 ↗ PubMed 42867110",
+    "en": {
+      "tag": "SCA3 · biomarker staging · imaging and non-motor-symptom cohort study",
+      "journal": "Annals of Clinical and Translational Neurology, online ahead of print, doi:10.1002/acn3.70555 · Li C, Ye ZX, Chen XY, Qiu LL, et al. (Department of Neurology and Institute of Neurology, First Affiliated Hospital, Institute of Neuroscience, and Fujian Key Laboratory of Molecular Neurology, Fujian Medical University, China)",
+      "note": "→ <b>A cross-sectional observational study of 229 SCA3 patients and 104 age- and sex-matched healthy controls</b> (from a Southeast China cerebellar-ataxia research cohort), assessing non-motor symptoms with a neuropsychological test battery, <b>region-of-interest brain-volume analysis on 3.0T MRI</b>, and <b>in-vivo quantification of neuroinflammation by TSPO-PET using the 18F-DPA-714 radioligand</b>, with additive regression models relating biomarkers to disease stage. <b>Results</b>: non-motor symptoms — cognition, anxiety, fatigue, depression and sleep quality — worsened after ataxia onset; <b>brainstem volume diverged from controls 0.7 years before ataxia onset, and ventral diencephalon volume 0.2 years before onset</b>, with <b>corresponding TSPO signal in the brainstem and ventral diencephalon rising before onset and remaining abnormal throughout the disease course</b>. The authors propose a <b>staging model for SCA3 that inserts a \"biomarker stage,\" defined by multidimensional neurodegeneration/neuroinflammation markers, between the pre-ataxia and ataxia-onset periods</b>. Trial registration: NCT04010214. → Relevance to this platform: this is a <b>natural-history/biomarker-staging study of SCA3 (the largest polyQ SCA subtype within the scope of Steminent's Stemchymal®), with no drug or interventional-therapy data</b>; its pre-ataxia-detectable imaging and neuroinflammation markers <b>are relevant to enrolment stratification and pre-ataxia population definition for future SCA3 interventional trials, including cell therapy</b>. ⚠️ <b>Limitations</b>: a <b>cross-sectional design, not a longitudinal follow-up</b>, drawn from a single regional (Southeast China) cohort, and <b>containing no efficacy or drug-trial data</b>; TSPO-PET requires a specialised radioligand and imaging infrastructure that limits clinical accessibility and scalability, and the findings await longitudinal cohort validation.",
+      "urlLabel": "Paper ↗ PubMed 42867110"
+    }
+  },
+  {
     "id": "pubmed:42845343",
     "date": "2026-08-10",
     "dateDisplay": "2026/08/10",
