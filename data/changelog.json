@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-15",
+    "dateDisplay": "2026/10/15",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則科學文獻（Mol Cells：polyQ 疾病脂質代謝失調回顧，Yale）。CT.gov 近期更新者（Graviton GV101 NCT07870590 等）均已收錄，無新增試驗。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": { "tag": "Daily scan", "body": "Added 1 paper (Mol Cells review on lipid dysregulation in polyQ diseases, Yale). Recently updated CT.gov records (e.g. Graviton GV101 NCT07870590) were already tracked; no new trials.", "linkLabel": "See Literature Radar ↗" }
+  },
+  {
     "date": "2026-10-14",
     "dateDisplay": "2026/10/14",
     "tag": "每日掃描",

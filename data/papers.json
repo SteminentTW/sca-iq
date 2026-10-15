@@ -1900,5 +1900,23 @@
       "note": "→ A family case of SCA17 presenting dementia-first (TBP alleles 37/51, with an asymptomatic daughter also carrying the 51-repeat allele) plus a review of 25 studies: age at onset and TBP repeat size vary widely, and presentations span cognition-dominant, behavioural, Huntington-like, parkinsonian and seizure-associated forms. A reminder that <b>eligibility criteria anchored on motor symptoms can systematically miss part of the subtype population</b>.",
       "urlLabel": "Paper ↗ PubMed 42516548"
     }
+  },
+  {
+    "id": "pubmed:42874745",
+    "date": "2026-10-14",
+    "dateDisplay": "2026/10/14",
+    "title": "Lipid dysregulation in polyglutamine diseases.",
+    "journal": "Mol Cells 線上預印本 doi:10.1016/j.mocell.2026.100406 · Ni L、Veeranki V、Huang B、Lim J（美國耶魯大學醫學院遺傳學系）",
+    "tag": "polyQ 疾病 · 脂質代謝 · 回顧",
+    "note": "→ 回顧性文章：整理中樞神經脂質功能與 polyQ 疾病（含 SCA、SBMA、亨丁頓舞蹈症）的脂質異常報告，並評估以脂質代謝為標的的治療潛力；作者指出除亨丁頓舞蹈症外，其他 polyQ 疾病的脂質角色仍不明確。屬機轉綜論，無臨床數據。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874745/",
+    "urlLabel": "論文 ↗ PubMed 42874745",
+    "en": {
+      "tag": "polyQ diseases · lipid metabolism · review",
+      "journal": "Mol Cells online ahead of print doi:10.1016/j.mocell.2026.100406 · Ni L, Veeranki V, Huang B, Lim J (Yale School of Medicine, Dept. of Genetics)",
+      "note": "→ A review synthesising reported lipid alterations across polyQ diseases (including SCAs, SBMA and Huntington's disease) and assessing the therapeutic potential of targeting lipid metabolism; the authors note that outside Huntington's disease the role of lipids in other polyQ disorders remains poorly defined. Mechanistic review, no clinical data.",
+      "urlLabel": "Paper ↗ PubMed 42874745"
+    }
   }
 ]
