@@ -1,12 +1,11 @@
 [
   {
-    "date": "2026-10-15",
-    "dateDisplay": "2026/10/15",
+    "date": "2026-10-16",
+    "dateDisplay": "2026/10/16",
     "tag": "每日掃描",
     "level": "info",
-    "body": "新增 1 則科學文獻（Mol Cells：polyQ 疾病脂質代謝失調回顧，Yale）。CT.gov 近期更新者（Graviton GV101 NCT07870590 等）均已收錄，無新增試驗。",
-    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
-    "en": { "tag": "Daily scan", "body": "Added 1 paper (Mol Cells review on lipid dysregulation in polyQ diseases, Yale). Recently updated CT.gov records (e.g. Graviton GV101 NCT07870590) were already tracked; no new trials.", "linkLabel": "See Literature Radar ↗" }
+    "body": "CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING 篩選 pageSize=50，另含 Machado-Joseph、ATXN2 子查詢）共逾150筆不重複命中，逐筆比對既有53筆試驗鍵值與最後更新日：近7天內更新且不在清單內者僅3筆（NCT00018889 NINDS動作障礙登記研究、NCT02497534 Friedreich's Ataxia無介入生物標記觀察研究、NCT07851376 BioSensics穿戴式SCA監測裝置研究），均屬先前已反覆核實排除之觀察研究／診斷監測型試驗，<b>本次無新增競品試驗</b>。PubMed近7天（reldate=7）命中2篇（42867110、42716230），均已於先前掃描收錄，<b>本次無新增文獻</b>。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2：窗內查得內容均為平台已收錄之既有事實或早於7天窗口，無新增。§1b-2已知資產點名查核上次執行於2026-10-10，依週期本次未到期（約2026-10-17到期），未重複執行。events.json／patents.json／exclusivity.json均未滿各自維護週期，維持不動。<b>本次無新增內容，weekNewCount維持4</b>。",
+    "en": { "tag": "Daily scan", "body": "The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, plus Machado-Joseph and ATXN2 sub-queries) returned over 150 unique hits. Checked against the 53 existing trial keys and last-update dates, only 3 records updated within the 7-day window were not yet tracked (NCT00018889, an NINDS movement-disorder registry; NCT02497534, a non-interventional Friedreich's ataxia biomarker observational study; NCT07851376, a BioSensics wearable SCA-monitoring device study) — all previously reviewed and excluded observational/diagnostic-monitoring studies; <b>no new competitor trial this run</b>. PubMed's 7-day window (reldate=7) returned 2 hits (42867110, 42716230), both already recorded; <b>no new paper this run</b>. Company-news WebSearch checks on Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 found only facts already on the platform or outside the 7-day window; nothing new. The §1b-2 known-asset name check last ran on 2026-10-10 and is not yet due (next ~2026-10-17), so it was not repeated. events.json, patents.json and exclusivity.json have not reached their respective maintenance cycles and remain unchanged. <b>No new content today; weekNewCount stays at 4.</b>" }
   },
   {
     "date": "2026-10-14",
