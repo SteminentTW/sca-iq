@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-10-19",
+    "dateDisplay": "2026/10/19",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則科學文獻（SCA3 CAG重複長度與功能連結體之多模態MRI研究）。CT.gov 五組適應症查詢無新增競品試驗。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper (multimodal MRI study of CAG repeat length and functional connectome in SCA3). The five CT.gov condition queries surfaced no new competitor trials.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-18",
     "dateDisplay": "2026/10/18",
     "tag": "每日掃描",

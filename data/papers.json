@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42893779",
+    "date": "2026-10-18",
+    "dateDisplay": "2026/10/18",
+    "title": "CAG repeat length shapes bidirectional functional connectome alterations in spinocerebellar ataxia type 3: a multimodal MRI study.",
+    "journal": "Neuroscience · 多模態MRI研究（作者與單位以 PubMed 頁面為準）",
+    "tag": "SCA3 · CAG重複長度 · 功能連結體MRI",
+    "note": "→ SCA3 多模態MRI研究，探討CAG重複長度與功能連結體改變之關聯；屬影像／自然史類研究，不含藥物或介入性治療資料，僅供SCA3生物標記背景參考。細節請見原文。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893779/",
+    "urlLabel": "論文 ↗ PubMed 42893779",
+    "en": {
+      "tag": "SCA3 · CAG repeat length · functional connectome MRI",
+      "journal": "Neuroscience · multimodal MRI study (authors and affiliations per the PubMed record)",
+      "note": "→ A multimodal MRI study of SCA3 examining how CAG repeat length relates to functional connectome alterations; imaging/natural-history work with no drug or interventional data, useful only as SCA3 biomarker background. See the original paper for details.",
+      "urlLabel": "Paper ↗ PubMed 42893779"
+    }
+  },
+  {
     "id": "pubmed:42867110",
     "date": "2026-10-13",
     "dateDisplay": "2026/10/13",
