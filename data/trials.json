@@ -1,5 +1,21 @@
 [
   {
+    "nct": "NCT06865482",
+    "drug": "CLARITY-FA（觀察性登記，非介入性）",
+    "mechanism": "<b>自然史／登記研究</b>：描述 Friedreich's Ataxia 相關心肌病變（FA-CM）患者之疾病病程特徵，非藥物試驗<br>由 LX2006 開發商 Lexeo 自行發起，疑為支持其 AAV 基因療法樞紐試驗（NCT07721025）之心臟終點與自然史對照資料佈局",
+    "phase": "觀察性（非介入性）",
+    "status": "2026/10/19 新登錄上線，尚未招募狀態資訊未於欄位列出。設計為前瞻性登記，追蹤 FA-CM 患者臨床病程。",
+    "sponsor": "Lexeo Therapeutics",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT06865482",
+    "en": {
+      "mechanism": "<b>Natural-history / registry study</b>: characterises the clinical course of disease in patients with Friedreich's ataxia-associated cardiomyopathy (FA-CM); not a drug trial<br>sponsored by Lexeo, developer of LX2006, likely to build natural-history/comparator data supporting the cardiac endpoints of its registrational trial (NCT07721025)",
+      "phase": "Observational (non-interventional)",
+      "status": "Newly posted 2026/10/19; recruitment status not yet listed in the record. Designed as a prospective registry following the clinical course of FA-CM patients.",
+      "sponsor": "Lexeo Therapeutics"
+    }
+  },
+  {
     "nct": "NCT02255435",
     "drug": "Omaveloxolone（RTA 408／BIIB141／SKYCLARYS®，口服）",
     "mechanism": "口服小分子<br>Nrf2 活化劑（抑制 Keap1）<br>對抗氧化壓力與粒線體功能失調",

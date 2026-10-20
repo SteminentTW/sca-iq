@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42873286",
+    "date": "2026-08-27",
+    "dateDisplay": "2026/08/27",
+    "title": "The isolated HEPN domain of SACSIN exhibits RNA-binding activity.",
+    "journal": "Cell Mol Life Sci · Longo L、Mariani I、Cusimano A 等（義大利國家研究委員會 CNR Palermo／IRCCS-ISMETT）",
+    "tag": "ARSACS · SACSIN · 機轉（RNA結合功能）",
+    "note": "→ <b>義大利團隊研究顯示 SACSIN 蛋白之 HEPN 結構域具RNA結合活性</b>，此結合會調控該結構域之細胞內分佈與形成蛋白凝聚體之傾向；<b>ARSACS 致病變異（F4574C）版本之 HEPN 結構域則出現RNA結合能力受損、核內定位錯置、且更傾向形成蛋白凝聚體</b>，提示 SACSIN 可能具未知之RNA結合蛋白功能，相關發現若於全長SACSIN蛋白獲證實，或可為ARSACS開啟新治療策略方向。ARSACS（Charlevoix-Saguenay型體染色體隱性共濟失調）屬鄰近共濟失調，因SACSIN蛋白體積龐大（~520 kDa）、傳統基因治療與分子遞送方法均難以施行，現無有效療法。→ 與本平台的關聯：本篇<b>為共濟失調鄰近疾病（ARSACS）之基礎分子機轉研究，非SCA／FA本身，亦不含任何藥物或臨床試驗資料</b>，收錄用意為追蹤共濟失調廣義領域之學術進展。⚠️ <b>限制</b>：僅為<b>蛋白結構域層級之過表現系統實驗</b>，未驗證於全長SACSIN蛋白或動物模型，<b>無任何藥物開發計畫</b>，可成藥性未知。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873286/",
+    "urlLabel": "論文 ↗ PubMed 42873286",
+    "en": {
+      "tag": "ARSACS · SACSIN · mechanism (RNA-binding function)",
+      "journal": "Cell Mol Life Sci · Longo L, Mariani I, Cusimano A, et al. (CNR Palermo / IRCCS-ISMETT, Italy)",
+      "note": "→ <b>An Italian team shows that the HEPN domain of the SACSIN protein has RNA-binding activity</b>, which regulates the domain's subcellular localisation and its propensity to form protein condensates; <b>an ARSACS-mutant version of the HEPN domain (F4574C) showed impaired RNA binding, nuclear mislocalisation, and a greater tendency to form condensates</b>, suggesting SACSIN may have a previously unknown RNA-binding function — a finding that, if confirmed in the full-length protein, could open new therapeutic directions for ARSACS. ARSACS (autosomal recessive spastic ataxia of Charlevoix-Saguenay) is a neighbouring ataxia; SACSIN's very large size (~520 kDa) precludes conventional gene therapy and molecular delivery, and no effective treatment exists today. → Relevance to this platform: this is a <b>basic molecular-mechanism study of a neighbouring ataxia (ARSACS), not SCA/FA itself, with no drug or clinical-trial data</b>; it is recorded to track academic progress across the broader ataxia field. ⚠️ <b>Limitations</b>: an <b>overexpression, domain-level experiment only</b>, not yet validated in the full-length protein or an animal model, with <b>no drug development programme</b> and unknown druggability.",
+      "urlLabel": "Paper ↗ PubMed 42873286"
+    }
+  },
+  {
     "id": "pubmed:42893779",
     "date": "2026-10-18",
     "dateDisplay": "2026/10/18",
