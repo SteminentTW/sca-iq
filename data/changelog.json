@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-22",
+    "dateDisplay": "2026/10/22",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含Machado-Joseph、ATXN1/2/3/7子查詢）逐筆比對既有54筆試驗鍵值：近7天內更新且不在清單內者共5筆——NCT07752095（賓州大學SCA1/SCA3小腦深部腦刺激DBS研究）、NCT07887828（Biogen於海灣合作理事會GCC地區之FA疾病認知純觀察性研究，尚未收案）、NCT00018889（NINDS動作障礙表現型/基因型登記觀察研究）、NCT04708431（NICHD雄性素受體相關疾病自然史觀察研究）、NCT07105371（ALS暨其他動作障礙外泌體療法，條件標記涉及Kennedy disease/SBMA但屬泛動作障礙、非特異性收案）——均屬手冊排除類別（復健刺激/DBS、純自然史觀察、非特異收案）或先前已反覆核實排除之觀察研究，<b>本次無新增競品試驗</b>。PubMed近7天（reldate=7）命中2篇（42893779、42716230），均已於先前掃描收錄，<b>本次無新增文獻</b>。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、IntraBio／Shionogi收購進度：窗內查得內容均為平台已收錄之既有事實，無新增。§1b-2已知資產點名查核上次執行於2026-10-18（約2026-10-25到期），本次未到期未重複執行。events.json／patents.json／exclusivity.json均未滿各自維護週期，維持不動。<b>本次無新增內容，weekNewCount維持7</b>。本次執行環境為審查用分支（claude/eloquent-galileo-i5w86x），commit已push至該分支待合併回main；因此次無新增實質內容，暫不受分支狀態影響。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, plus Machado-Joseph and ATXN1/2/3/7 sub-queries) were checked against the 54 existing trial keys: 5 records updated within the 7-day window were not yet tracked — NCT07752095 (a University of Pennsylvania cerebellar DBS study in SCA1/SCA3), NCT07887828 (a Biogen purely observational disease-awareness study of FA in the Gulf Cooperation Council region, not yet recruiting), NCT00018889 (an NINDS movement-disorder phenotype/genotype registry), NCT04708431 (an NICHD natural-history observational study of androgen-receptor-related conditions), and NCT07105371 (an exosome-therapy study for ALS and other motor disorders whose condition tags touch Kennedy disease/SBMA but which enrolls non-specifically) — all falling into the manual's excluded categories (rehabilitation/stimulation devices such as DBS, pure natural-history observational studies, or non-specific enrollment) or previously reviewed and excluded observational studies; <b>no new competitor trial this run</b>. PubMed's 7-day window (reldate=7) returned 2 hits (42893779, 42716230), both already recorded; <b>no new paper this run</b>. Company-news WebSearch checks on Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2 and the IntraBio/Shionogi acquisition found only facts already on the platform; nothing new. The §1b-2 known-asset check last ran 2026-10-18 (next due ~2026-10-25) and was not yet due. events.json/patents.json/exclusivity.json have not reached their maintenance cycles and remain unchanged. <b>No new content today; weekNewCount stays at 7.</b> This run executed on a review branch (claude/eloquent-galileo-i5w86x), with the commit pushed to that branch pending merge into main; since no substantive content was added today, this is unaffected by the branch state."
+    }
+  },
+  {
     "date": "2026-10-20",
     "dateDisplay": "2026/10/20",
     "tag": "每日掃描",
