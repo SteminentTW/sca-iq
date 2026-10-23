@@ -1,5 +1,35 @@
 [
   {
+    "id": "biohaven-resubmission-2026-10",
+    "date": "2026-10-22",
+    "dateDisplay": "2026/10",
+    "competitor": "Biohaven",
+    "drug": "Troriluzole",
+    "trial": "NDA（重新送件）",
+    "sourceType": "新聞稿",
+    "level": "hot",
+    "readout": "FDA於<b>2026/10/22</b>通知Biohaven，其troriluzole（Vyglxia®）用於SCA之NDA<b>重新送件已受理審查</b>；<b>FDA認定本次重新送件為針對2025/11/04 Complete Response Letter之完整回覆</b>，並核予<b>PDUFA目標日為2027年第一季</b>。FDA另計劃召開<b>周邊與中樞神經系統藥物諮詢委員會（PCNS Advisory Committee）會議</b>徵詢外部意見，確切會議日期尚未公布。<b>公司宣稱</b>重新送件納入新增之支持性正面分析，具體數據未見於本次揭露文件（8-K）。",
+    "implication": "→ 最接近核准之口服競品重啟法規審查節奏，PDUFA落於2027 Q1；若獲核准將成為繼omaveloxolone後另一個取證之pan-SCA/SCA3口服療法，對本公司之差異化定位構成壓力。惟諮詢委員會會議結果與審查期間仍可能延長，尚待觀察，不預判最終核准與否。",
+    "links": [
+      {
+        "label": "Form 8-K ↗ SEC 2026/10/22",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000083/bhvn-20261022.htm"
+      }
+    ],
+    "en": {
+      "trial": "NDA (resubmission)",
+      "sourceType": "Press release",
+      "readout": "On <b>2026/10/22</b> the FDA notified Biohaven that its troriluzole (Vyglxia®) NDA resubmission for SCA <b>has been accepted for review</b>; <b>the FDA considers the resubmission a complete response to the November 4, 2025 Complete Response Letter</b> and assigned a <b>PDUFA goal date in Q1 2027</b>. The FDA also plans to convene a <b>Peripheral and Central Nervous System Drugs Advisory Committee (PCNS AdCom) meeting</b> for external input; no meeting date has been announced. <b>The company states</b> the resubmission includes new supportive positive analyses, with no specific data disclosed in this filing (Form 8-K).",
+      "implication": "→ The oral rival closest to approval has restarted its regulatory review clock, with a PDUFA date in Q1 2027; if approved it would become another approved pan-SCA/SCA3 oral therapy after omaveloxolone, pressuring Steminent's differentiation. The AdCom outcome and review timeline could still extend further, so the eventual approval decision remains open.",
+      "links": [
+        {
+          "label": "Form 8-K ↗ SEC 2026/10/22",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000083/bhvn-20261022.htm"
+        }
+      ]
+    }
+  },
+  {
     "id": "astellas-asp2016-withdrawn-2025-11",
     "date": "2025-11-28",
     "dateDisplay": "2025/11",

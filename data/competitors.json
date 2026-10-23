@@ -209,9 +209,9 @@
     "asset": "Troriluzole",
     "mechanism": "小分子<br>麩胺酸調節",
     "indication": "pan-SCA",
-    "phase": "NDA 受挫",
-    "status": "<b style=\"color:#ff8a7a\">FDA CRL (2025/11)</b>；R&D 削減 60%、爭取與 FDA 再協商 (2026/02)",
-    "threatLabel": "中↓",
+    "phase": "NDA 重新送件審查中",
+    "status": "<b style=\"color:#ffb27a\">FDA已受理重新送件 (2026/10/22)</b>；PDUFA目標日 2027 Q1；FDA另計劃召開PCNS諮詢委員會會議",
+    "threatLabel": "中↑",
     "links": [
       {
         "label": "CRL ↗ 2025/11",
@@ -220,14 +220,18 @@
       {
         "label": "R&D↓60% ↗",
         "url": "https://www.biospace.com/business/biohaven-cuts-r-d-spending-by-60-after-fda-rejection-of-drug-for-rare-neurodegenerative-disease"
+      },
+      {
+        "label": "重新送件受理 ↗ SEC 2026/10",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000083/bhvn-20261022.htm"
       }
     ],
     "en": {
       "mechanism": "Small molecule<br>glutamate modulation",
       "indication": "pan-SCA",
-      "phase": "NDA rejected",
-      "status": "<b style=\"color:#ff8a7a\">FDA CRL (2025/11)</b>; R&D spend cut 60%, seeking further discussions with FDA (2026/02)",
-      "threatLabel": "Mid↓",
+      "phase": "NDA resubmission under review",
+      "status": "<b style=\"color:#ffb27a\">FDA accepted resubmission (2026/10/22)</b>; PDUFA goal date Q1 2027; FDA also plans to convene a PCNS AdCom meeting",
+      "threatLabel": "Mid↑",
       "links": [
         {
           "label": "CRL ↗ 2025/11",
@@ -236,6 +240,10 @@
         {
           "label": "R&D↓60% ↗",
           "url": "https://www.biospace.com/business/biohaven-cuts-r-d-spending-by-60-after-fda-rejection-of-drug-for-rare-neurodegenerative-disease"
+        },
+        {
+          "label": "Resubmission accepted ↗ SEC 2026/10",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001935979/000193597926000083/bhvn-20261022.htm"
         }
       ]
     },

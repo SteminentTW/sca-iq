@@ -1,11 +1,48 @@
 [
   {
+    "date": "2026-10-23",
+    "dateDisplay": "2026/10/23",
+    "tag": "每日掃描 · 週檢／月檢補齊",
+    "level": "info",
+    "body": "延續昨日補跑，本次補齊逾期之低頻維護項目。<b>events.json週檢</b>（上次實質更新2026-10-07，已逾週期）：查核ICAR 2026（2026/11/10–13，亞特蘭大）之摘要/議程公告現況——官方尚未發布完整議程或摘要集，早鳥註冊期已於9/1截止，現有記錄維持不變；查核NAF Annual Ataxia Conference 2027場次，官網尚未公布2027屆日期/地點，維持「尚未公布」現況；WODC Europe 2026（10/26–28，阿姆斯特丹）行程未變。<b>本次events.json無新增，僅完成查核</b>。<b>patents.json／exclusivity.json月檢</b>（分別上次實質更新2026-10-02／2026-10-01，已逾週期）：除昨日新增之troriluzole-us重新送件狀態更新外，本次另查核先前未逐頁核對之資產IP狀態，<b>新增2筆</b>——① Larimar Nomlabofusp核心組成/方法專利US 11,459,363B2（已於Google Patents逐頁核對，權利人為印第安納大學、Larimar獨家授權，核准日2022/10/04、估計到期2040/07）；② Lexeo LX2006之FDA孤兒藥／罕見兒科疾病資格（2021/06/30公告，另揭露Fast Track／RMAT）暨歐盟孤兒藥資格——均為資格階段，臨床中、尚未核准，市場獨占均未啟動。其餘既有7項專利／10項獨占權本次未逐一重新核對，留待下次月檢。<b>本次新增2個獨立項目（1筆專利、1筆獨占權記錄）。</b>",
+    "link": {
+      "label": "詳見 專利雷達 ↗",
+      "tab": "ip"
+    },
+    "en": {
+      "tag": "Daily scan · weekly/monthly maintenance catch-up",
+      "body": "Continuing yesterday's catch-up, this run completed the overdue low-frequency maintenance items. <b>events.json weekly review</b> (last substantive update 2026-10-07, past cycle): checked ICAR 2026 (2026/11/10–13, Atlanta) for a published agenda/abstract book — none is out yet, early-bird registration closed 9/1, existing record unchanged; checked the NAF Annual Ataxia Conference for 2027 dates/location — not yet announced on the official site, \"not yet announced\" status retained; WODC Europe 2026 (10/26–28, Amsterdam) schedule unchanged. <b>No additions to events.json this round, review only.</b> <b>patents.json / exclusivity.json monthly review</b> (last substantive updates 2026-10-02 / 2026-10-01 respectively, past cycle): beyond yesterday's troriluzole-us resubmission status update, this round verified IP status for two previously unchecked assets — <b>2 new entries added</b>: (1) Larimar's core Nomlabofusp composition/method patent US 11,459,363B2 (verified directly on Google Patents; assignee is Indiana University, exclusively licensed to Larimar; granted 2022/10/04, estimated expiry 2040/07); (2) Lexeo LX2006's FDA orphan drug / rare pediatric disease designations (announced 2021/06/30, with Fast Track/RMAT also disclosed) and EU orphan designation — both designation-stage only, still clinical and unapproved, exclusivity not started for either. The remaining 7 existing patents / 10 existing exclusivity records were not individually re-verified this round and are left for the next monthly review. <b>2 independent items added today (1 patent, 1 exclusivity record).</b>",
+      "linkLabel": "See Patent Radar ↗"
+    }
+  },
+  {
+    "date": "2026-10-22",
+    "dateDisplay": "2026/10/22",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>上次真正發布為2026-10-21，本次為2026-10-22／2026-10-23兩日合併補跑（間隔在手冊§0三日補跑上限內，全數回補，窗口內無未覆蓋缺口）。</b>CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia等子查詢）共167筆不重複命中，逐筆比對既有54筆trials.json鍵值後，篩出LastUpdatePostDate落於2026/10/22–23窗內者僅2筆（NCT00018889「Phenotype/Genotype Correlations in Movement Disorders」、NCT07838883「Rare Disease Registry Database... Southern Anhui」），兩者均為純觀察性登記／自然史研究、非藥物試驗，依手冊§1b排除準則不予收錄，<b>本次CT.gov無新增競品試驗</b>。PubMed改以明確日期區間（mindate=2026/10/21, maxdate=2026/10/23）查詢以涵蓋補跑窗口，命中1篇：<b>新增1篇文獻</b>——德國DZNE／Tübingen大學團隊發表於Science Translational Medicine之SCA3等位基因特異性ASO前臨床研究（SNP連鎖定位＋iPSC神經元驗證，達90%突變等位基因優先抑制），詳見文獻雷達。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、Biogen BIIB132均無新增，惟另行搜尋Biohaven法規動態時查得重大更新：<b>Biohaven troriluzole（Vyglxia®）NDA重新送件已於2026/10/22獲FDA受理</b>（SEC Form 8-K），FDA認定為對2025/11 CRL之完整回覆、核予PDUFA目標日2027Q1，並計劃召開PCNS諮詢委員會會議；已新增至results.json（level:hot）／news.json／並更新competitors.json（biohaven，狀態與threatLabel）／exclusivity.json（troriluzole-us）相應欄位。§1b-2已知資產點名查核上次執行於2026-10-18、下次約2026-10-25到期，本次未達週期不重複執行（判斷記錄於此）。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>The last real publish was 2026-10-21; this run is a combined catch-up covering 2026-10-22 and 2026-10-23 (within the manual's 3-day catch-up cap, fully covered, no remaining gap).</b> The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, plus SCA1/2/3/6/7 subtype, Machado-Joseph, ATXN1/2/3/7 and polyglutamine-ataxia sub-queries) returned 167 unique hits; checked against the 54 existing trials.json keys, only 2 had a LastUpdatePostDate within the 2026/10/22–23 window (NCT00018889 \"Phenotype/Genotype Correlations in Movement Disorders\" and NCT07838883 \"Rare Disease Registry Database... Southern Anhui\"), both pure observational registry/natural-history studies with no therapeutic intervention — excluded per the manual §1b criteria; <b>no new competitor trial from CT.gov this run</b>. PubMed was queried with an explicit date range (mindate=2026/10/21, maxdate=2026/10/23) to cover the catch-up window, returning 1 hit: <b>1 new paper added</b> — a preclinical SCA3 allele-specific ASO study from DZNE/University of Tübingen in Science Translational Medicine (SNP-linkage mapping plus iPSC-neuron validation, achieving up to 90% allele-preferential knockdown); see Literature Radar. Company-news WebSearch checks on Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2 and Biogen BIIB132 found nothing new, but a further regulatory-focused search turned up a major development: <b>Biohaven's troriluzole (Vyglxia®) NDA resubmission was accepted by the FDA on 2026/10/22</b> (per SEC Form 8-K), treated as a complete response to the 2025/11 CRL with a PDUFA goal date of Q1 2027 and a planned PCNS AdCom meeting; added to results.json (level: hot) and news.json, with corresponding updates to competitors.json (biohaven status/threatLabel) and exclusivity.json (troriluzole-us). The §1b-2 named-asset check last ran 2026-10-18 and is next due ~2026-10-25; not yet due, so not repeated this run (judgment call recorded here).",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-20",
     "dateDisplay": "2026/10/20",
     "tag": "每日掃描",
     "level": "info",
     "body": "CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia等子查詢）共165筆不重複命中，126筆不在既有53筆trials.json內；逐筆核對近7天內更新者，除已反覆核實排除之同義詞/類別誤觸外，<b>新增1筆試驗</b>：<b>Lexeo Therapeutics（既有追蹤競品LX2006開發商）新登錄之觀察性登記研究NCT06865482「CLARITY-FA」</b>（2026/10/19上線），描述Friedreich's Ataxia相關心肌病變（FA-CM）患者之疾病病程，非藥物試驗，疑為支持其樞紐試驗NCT07721025心臟終點之自然史對照資料佈局，已納入trials.json。既有試驗中僅Graviton GV101（NCT07870590）近7天有更新，核對後站點數、收案目標、招募狀態均無變化，不需修改。PubMed近7天（reldate=7）命中3篇，其中2篇（42893779、42867110）已於先前掃描收錄；<b>新增1篇</b>：義大利團隊發表於Cell Mol Life Sci之SACSIN蛋白HEPN結構域RNA結合功能研究（ARSACS致病機轉，鄰近共濟失調之基礎分子機轉研究，非SCA/FA本身），詳見文獻雷達。公司新聞WebSearch查核Stemchymal／REPROCELL、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、Biogen BIIB132：<b>窗內查得內容均為平台已收錄之既有事實，無新增</b>。§1b-2已知資產點名查核已於2026-10-18執行（下次約2026-10-25到期），本次未重複執行。events.json（上次實質更新2026-10-18）／patents.json／exclusivity.json（分別上次實質抽查2026-10-18，完整月檢仍待補齊）均未滿各自維護週期，維持不動。<b>本次新增2個獨立項目（1篇文獻、1筆試驗），weekNewCount 5→7</b>。",
-    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
     "en": {
       "tag": "Daily scan",
       "body": "The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, including SCA1/2/3/6/7 subtype, Machado-Joseph, ATXN1/2/3/7 and polyglutamine ataxia sub-queries) returned 165 unique hits, 126 not already in the 53-trial trials.json; after checking those updated within the last 7 days, aside from previously-confirmed synonym/category false positives, <b>1 new trial was added</b>: <b>Lexeo Therapeutics (developer of the already-tracked LX2006) posted a new observational registry, NCT06865482 \"CLARITY-FA\"</b> (posted 2026/10/19), characterising the clinical course of Friedreich's ataxia-associated cardiomyopathy (FA-CM) — not a drug trial, likely building natural-history/comparator data to support the cardiac endpoints of its registrational trial NCT07721025; added to trials.json. Among existing trials, only Graviton's GV101 (NCT07870590) had a recent update; checking it showed no change in site count, enrolment target or recruitment status, so no edit was needed. The PubMed 7-day window (reldate=7) returned 3 hits, 2 already on file (42893779, 42867110); <b>1 new paper added</b>: an Italian-team study in Cell Mol Life Sci on the RNA-binding function of the SACSIN HEPN domain (ARSACS pathogenic mechanism — a basic molecular study of a neighbouring ataxia, not SCA/FA itself); see Literature Radar. Company-news WebSearch checks on Stemchymal/REPROCELL, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2 and Biogen BIIB132 <b>surfaced only facts already on file — no additions</b>. The §1b-2 named-asset check last ran 2026-10-18 (next due ~2026-10-25) and was not repeated today. events.json (last substantively updated 2026-10-18) and patents.json/exclusivity.json (last spot-checked 2026-10-18, full monthly review still pending) are all within their maintenance cycles and unchanged. <b>2 independent items added today (1 paper, 1 trial); weekNewCount 5→7.</b>",
@@ -18,7 +55,11 @@
     "tag": "每日掃描",
     "level": "info",
     "body": "新增 1 則科學文獻（SCA3 CAG重複長度與功能連結體之多模態MRI研究）。CT.gov 五組適應症查詢無新增競品試驗。",
-    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
     "en": {
       "tag": "Daily scan",
       "body": "Added 1 paper (multimodal MRI study of CAG repeat length and functional connectome in SCA3). The five CT.gov condition queries surfaced no new competitor trials.",

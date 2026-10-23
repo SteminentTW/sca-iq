@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42905853",
+    "date": "2026-10-21",
+    "dateDisplay": "2026/10/21",
+    "title": "Single-nucleotide polymorphism-directed design of allele-specific antisense oligonucleotides for spinocerebellar ataxia type 3",
+    "journal": "Science Translational Medicine · Helm J 等（DZNE／Tübingen大學）",
+    "tag": "ASO前臨床 · SCA3機轉研究",
+    "note": "→ 德國/葡萄牙/英國跨機構團隊以79名SCA3患者之奈米孔定序鑑定近200個與致病CAG擴增連鎖之SNP，篩選出可達90%突變等位基因優先抑制之ASO候選（iPSC神經元模型）。屬學術前臨床階段之等位基因特異性策略，呼應Biogen/Ionis已放棄之BIIB132及Wave Life Sciences同類平台之技術路線，非特定上市公司資產。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905853/",
+    "urlLabel": "論文 ↗ PubMed 42905853",
+    "en": {
+      "tag": "ASO preclinical · SCA3 mechanism research",
+      "journal": "Science Translational Medicine · Helm J et al. (DZNE / University of Tübingen)",
+      "note": "→ A German/Portuguese/UK multi-site team used allele-specific nanopore sequencing in 79 SCA3 patients to identify nearly 200 SNPs linked to the pathogenic CAG expansion, selecting ASO candidates achieving up to 90% allele-preferential knockdown of mutant ATXN3 in iPSC-derived neurons. This is an academic preclinical allele-specific strategy, echoing the technical approach of Biogen/Ionis's since-abandoned BIIB132 and Wave Life Sciences' similar platform — not a specific listed company's asset.",
+      "urlLabel": "Paper ↗ PubMed 42905853"
+    }
+  },
+  {
     "id": "pubmed:42873286",
     "date": "2026-08-27",
     "dateDisplay": "2026/08/27",

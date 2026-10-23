@@ -41,14 +41,14 @@
     "asset": "Troriluzole",
     "region": "美國 FDA",
     "type": "孤兒藥資格 · 快速通道 · 優先審查",
-    "status": "資格已取得；市場獨占未啟動",
-    "note": "→ 孤兒藥資格（designation）是研發階段身分；核准後才有 7 年市場獨占。Troriluzole 已於 2025/11 收 CRL、尚未核准，故獨占權目前不存在。",
+    "status": "資格已取得；重新送件已受理 (2026/10/22)，PDUFA目標日2027 Q1；核准前市場獨占尚未啟動",
+    "note": "→ 孤兒藥資格（designation）是研發階段身分；核准後才有7年市場獨占。Troriluzole於2025/11收CRL，2026/10/22重新送件獲FDA受理、PDUFA目標日2027 Q1，FDA另計劃召開PCNS諮詢委員會會議；惟尚未核准，獨占權現仍不存在。",
     "url": "https://www.prnewswire.com/news-releases/fda-issues-complete-response-letter-for-biohavens-vyglxia-troriluzole-new-drug-application-for-spinocerebellar-ataxia-302604884.html",
     "en": {
       "region": "US FDA",
       "type": "Orphan designation · Fast Track · Priority Review",
-      "status": "Designations granted; market exclusivity not started",
-      "note": "→ An orphan designation is a development-stage status; the 7-year market exclusivity only begins at approval. Troriluzole received a CRL in 2025/11 and is not approved, so no exclusivity exists today."
+      "status": "Designation granted; resubmission accepted (2026/10/22), PDUFA goal date Q1 2027; market exclusivity not started pending approval",
+      "note": "→ An orphan designation is a development-stage status; the 7-year market exclusivity only begins at approval. Troriluzole received a CRL in 2025/11; its 2026/10/22 resubmission was accepted by the FDA with a PDUFA goal date of Q1 2027, and the FDA plans to convene a PCNS AdCom meeting. It remains unapproved, so no exclusivity exists today."
     }
   },
   {
@@ -162,6 +162,24 @@
       "type": "—",
       "status": "Programme discontinued (2023); exclusivity moot",
       "note": "→ Development ended in 2023; with no path to market, any designation that may have existed no longer translates into exclusivity."
+    }
+  },
+  {
+    "id": "lexeo-lx2006-us",
+    "competitor": "Lexeo Therapeutics",
+    "asset": "LX2006 (AAVrh.10hFXN)",
+    "region": "美國 FDA／歐盟 EC",
+    "type": "孤兒藥 · 罕見兒科疾病 · Fast Track · RMAT（FDA）；孤兒藥（EC）",
+    "status": "資格已取得（FDA孤兒藥 2021/06/30公告）；臨床階段（Ph1/2樞紐SUNRISE-FA 2進行中），市場獨占未啟動",
+    "note": "→ FDA於2021/06/30公告授予LX2006孤兒藥資格與罕見兒科疾病資格，其後公司揭露另取得Fast Track及RMAT資格；歐盟執委會另授予孤兒藥資格（確切公告日未見於本次查核來源）。目前仍為Ph1/2階段（含樞紐試驗NCT07721025），尚未核准，7年（美）／10年（歐）市場獨占須待核准後啟動；若獲BLA核准另可能取得可轉讓之優先審查券。",
+    "url": "https://www.lexeotx.com/post/lexeo-therapeutics-receives-rare-pediatric-disease-orphan-drug-designation-for-lx2006/",
+    "en": {
+      "competitor": "Lexeo Therapeutics",
+      "asset": "LX2006 (AAVrh.10hFXN)",
+      "region": "US FDA / EU EC",
+      "type": "Orphan Drug · Rare Pediatric Disease · Fast Track · RMAT (FDA); Orphan designation (EC)",
+      "status": "Designation granted (FDA orphan drug designation announced 2021/06/30); clinical-stage (Ph1/2 pivotal SUNRISE-FA 2 ongoing), exclusivity not started",
+      "note": "→ The FDA announced orphan drug and rare pediatric disease designations for LX2006 on 2021/06/30; the company has since disclosed Fast Track and RMAT designations as well. The European Commission separately granted an orphan designation (exact announcement date not found in this review). The programme remains Ph1/2 (including the pivotal trial NCT07721025) and is unapproved, so the 7-year (US) / 10-year (EU) market exclusivity awaits approval; a BLA approval could also carry a transferable priority review voucher."
     }
   }
 ]

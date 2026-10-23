@@ -159,5 +159,30 @@
       "expiry": "~2037-04-19 (estimate, filing date + 20 years, excluding any term extension/adjustment)",
       "note": "→ Overdue monthly maintenance item: AQNEURSA® was just approved by the FDA for the A-T indication on 2026/09/19 (see results.json/exclusivity.json). This is its core composition/use patent; the assignee (Intrabio Ltd.) was confirmed by checking the Google Patents page directly. The company holds other family members (national-phase filings covering the EP/CN/JP/KR/AU/CA etc.) that were not individually verified this round — not guessed at."
     }
+  },
+  {
+    "id": "us11459363",
+    "competitor": "Larimar Therapeutics",
+    "asset": "Nomlabofusp（CTI-1601）",
+    "number": "US 11,459,363 B2",
+    "title": "Materials and methods for treating Friedreich's Ataxia（治療Friedreich's Ataxia之組成與方法）",
+    "ptype": "組成／方法專利（獨家授權）",
+    "assignee": "Indiana University（印第安納大學；Larimar獨家授權）",
+    "filed": "2020-07-29（優先權 2019-07-29）",
+    "status": "已核准（2022-10-04）",
+    "expiry": "約 2040-07-29（估計，申請日＋20年，未計任何專利期延長）",
+    "note": "→ 已於 Google Patents 逐頁核對：權利人為印第安納大學，Larimar以獨家授權方式取得商業化權利，非自有專利。公司另揭露同家族專利 US 12,180,253 及遞送平台相關專利（US 11,891,420／US 12,091,437／US 12,351,611），本次僅核對此件核心案，其餘未逐一查證，不臆測。公司稱核准後另可望取得與專利無關之12年（美）／10年以上（歐）法定市場獨占。",
+    "url": "https://patents.google.com/patent/US11459363B2/en",
+    "en": {
+      "competitor": "Larimar Therapeutics",
+      "asset": "Nomlabofusp (CTI-1601)",
+      "title": "Materials and methods for treating Friedreich's Ataxia",
+      "ptype": "Composition / method patent (exclusive license)",
+      "assignee": "Indiana University (exclusively licensed to Larimar)",
+      "filed": "2020-07-29 (priority 2019-07-29)",
+      "status": "Granted (2022-10-04)",
+      "expiry": "~2040-07-29 (estimate, filing date + 20 years, excluding any term extension)",
+      "note": "→ Verified directly on Google Patents: the assignee is Indiana University, with Larimar holding an exclusive license for commercialisation rather than owning the patent itself. The company separately discloses a same-family patent (US 12,180,253) and delivery-platform patents (US 11,891,420 / US 12,091,437 / US 12,351,611); only this core patent was individually verified this round, the rest were not checked and are not assumed. The company states approval would separately carry an estimated 12 years (US) / 10+ years (EU) of statutory market exclusivity, independent of patent term."
+    }
   }
 ]
