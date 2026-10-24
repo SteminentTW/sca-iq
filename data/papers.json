@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42913342",
+    "date": "2026-10-16",
+    "dateDisplay": "2026/10/16",
+    "title": "Generation of Spinocerebellar Ataxia 27B iPSC Lines and Isogenic Controls",
+    "journal": "Stem Cell Research · Chng VSL 等（Murdoch Children's Research Institute／墨爾本大學）",
+    "tag": "疾病模型 · iPSC資源",
+    "note": "→ 澄清SCA27B（FGF14基因1號內含子GAA·TTC重複擴增所致）之四組iPSC細胞株及其CRISPR-Cas9基因矯正同源對照，核型／多能性／三胚層分化皆正常，作為篩選潛在治療藥物之平台工具。屬學術資源生成論文，非藥物療效數據，與平台追蹤資產無直接關聯。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913342/",
+    "urlLabel": "論文 ↗ PubMed 42913342",
+    "en": {
+      "tag": "Disease model · iPSC resource",
+      "journal": "Stem Cell Research · Chng VSL et al. (Murdoch Children's Research Institute / University of Melbourne)",
+      "note": "→ Reports four induced pluripotent stem cell (iPSC) lines for SCA27B (caused by a GAA·TTC repeat expansion in intron 1 of FGF14) and their CRISPR-Cas9 gene-corrected isogenic controls; all lines show normal karyotype, pluripotency and trilineage differentiation, intended as a platform for screening candidate treatments. An academic resource-generation paper, not efficacy data, with no direct link to any asset tracked on this platform.",
+      "urlLabel": "Paper ↗ PubMed 42913342"
+    }
+  },
+  {
     "id": "pubmed:42905853",
     "date": "2026-10-21",
     "dateDisplay": "2026/10/21",

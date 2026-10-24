@@ -880,5 +880,107 @@
       "status": "Not yet recruiting (registration first posted 2026/10/13). Randomised, double-blind, placebo-controlled, with 3:1 sequential randomisation across low/mid/high dose groups (200/300/400 mg/day, each with an initial loading-dose period), targeting <b>48 participants</b> aged <b>16–40</b> with genetically confirmed (homozygous GAA repeat expansion) Friedreich's ataxia; eligibility also requires an mFARS score of 20–80 and hs-cTnI above the laboratory-defined 99th percentile. <b>The primary endpoint is percent change from baseline in blood frataxin-M protein at week 12 versus placebo</b>, with hs-cTnI and mFARS among the key secondary endpoints. Participants completing the 12-week trial may roll into a 52-week open-label extension. Estimated start 2026/11, primary completion 2027/07. Only <b>1 site</b> is registered so far (Eatontown, NJ, USA — CLINiLABS). ⚠️ The company announced FDA IND clearance (a new capsule formulation) in 2026/08; the frataxin-elevation evidence cited so far comes only from company-reported PBMC data in a separate obesity trial and preclinical cell models, with <b>no peer-reviewed human data</b> yet, leaving druggability and efficacy unknown.",
       "sponsor": "Graviton Bioscience"
     }
+  },
+  {
+    "nct": "NCT07752095",
+    "drug": "齒狀核 DBS（UG3NS140720）",
+    "mechanism": "<b>植入式裝置療法</b>：深腦刺激（DBS）靶向深部小腦核（齒狀核），<b>非藥物／生物製劑／細胞／基因途徑</b>",
+    "phase": "早期可行性研究（NA）",
+    "status": "尚未招募（2026/10/21 新登錄上線，預估 2026/12 啟動）。單中心（賓州大學），開放標籤、預估收案 <b>12 人</b>，SCA1 與 SCA3 基因確診病人。主要指標為治療相關不良事件發生率（含腦出血、感染、嚴重／非預期裝置相關不良事件）；次要指標含 SARA、PROM-Ataxia 量表與電生理訊號分析。⚠️ 為裝置介入（非藥物/生物製劑/細胞/基因療法），列入雷達供參，與本公司 Stemchymal 細胞治療屬不同技術途徑，非直接競品。",
+    "sponsor": "Gordon H. Baltuch（賓州大學，PI 主導）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07752095",
+    "en": {
+      "drug": "Dentate Nucleus DBS (UG3NS140720)",
+      "mechanism": "<b>Implantable device therapy</b>: deep brain stimulation (DBS) targeting the deep cerebellar nuclei (dentate nucleus) — <b>not a drug / biologic / cell / gene modality</b>",
+      "phase": "Early feasibility study (NA)",
+      "status": "Not yet recruiting (registered 2026/10/21; estimated start 2026/12). Single-site (University of Pennsylvania), open-label, estimated enrolment of <b>12</b> genetically confirmed SCA1 and SCA3 patients. Primary endpoint is the incidence of treatment-related adverse events (including intracerebral hemorrhage, infection, and serious/unanticipated device-related adverse events); secondary endpoints include SARA, PROM-Ataxia, and electrophysiological signal analysis. ⚠️ A device-based intervention (not drug/biologic/cell/gene), included for radar completeness; a different technical modality from the company's Stemchymal cell therapy, not a direct competitor.",
+      "sponsor": "Gordon H. Baltuch (University of Pennsylvania, PI-led)"
+    }
+  },
+  {
+    "nct": "NCT01384435",
+    "drug": "Rovatirelin（KPS-0373）",
+    "mechanism": "小分子（TRH 類似物，口服）",
+    "phase": "Ph2（雙盲對照，劑量探索）",
+    "status": "<b>§1b-2 已知資產點名查核補收（開發歷程）</b>：2012 年完成之 Ph2 雙盲對照劑量探索試驗，<b>實收 200 人</b>、4 個 KPS-0373 劑量組對安慰劑，為現行樞紐試驗前之早期關鍵證據。登錄最後更新 2012-12-03，疾病條件查詢排序排不進前 40 名，僅藥名查詢可檢索。同期另有兩項規模較小之早期 Ph2 試驗（NCT00863538，實收 40 人；NCT01004016，實收 20 人，含安慰劑對照）。",
+    "sponsor": "Kissei Pharmaceutical（日本）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT01384435",
+    "en": {
+      "drug": "Rovatirelin (KPS-0373)",
+      "mechanism": "Small molecule (TRH analogue, oral)",
+      "phase": "Ph2 (double-blind, dose-finding)",
+      "status": "<b>Backfilled via the §1b-2 named-asset check (development history)</b>: a double-blind, dose-finding Phase 2 trial completed in 2012 with <b>200 enrolled</b> across four KPS-0373 dose arms versus placebo — key early evidence preceding the current pivotal programme. Registry last updated 2012-12-03, so it falls outside the top-40 disease-condition sort and is retrievable only via drug-name search. Two smaller early Phase 2 trials from the same period also exist (NCT00863538, 40 enrolled; NCT01004016, 20 enrolled, placebo-controlled).",
+      "sponsor": "Kissei Pharmaceutical (Japan)"
+    }
+  },
+  {
+    "nct": "NCT01970124",
+    "drug": "Rovatirelin（KPS-0373）",
+    "mechanism": "小分子（TRH 類似物，口服）",
+    "phase": "Ph3（長期延伸）",
+    "status": "<b>§1b-2 已知資產點名查核補收（開發歷程）</b>：2015/05 完成之長期延伸研究（高／低劑量組），為日本原始藥證申請之長期安全性資料來源之一。同批另有兩項並行之 Ph3 延伸試驗——開放標籤 24 週研究（NCT01970137，2014/10 完成）與一般延伸研究（NCT01970111，2015/07 完成），三者皆已於登錄完成逾 10 年，疾病條件查詢排序排不進前 40 名。與現行 2026 年重啟樞紐試驗（NCT01970098／NCT02889302，見 results.json）屬同一資產不同世代之試驗。",
+    "sponsor": "Kissei Pharmaceutical（日本）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT01970124",
+    "en": {
+      "drug": "Rovatirelin (KPS-0373)",
+      "mechanism": "Small molecule (TRH analogue, oral)",
+      "phase": "Ph3 (long-term extension)",
+      "status": "<b>Backfilled via the §1b-2 named-asset check (development history)</b>: a long-term extension study (high/low dose arms) completed 2015/05, one of the long-term safety data sources behind the original Japanese marketing application. Two parallel Phase 3 extension studies from the same cohort also exist — a 24-week open-label study (NCT01970137, completed 2014/10) and a general extension study (NCT01970111, completed 2015/07); all three completed over a decade ago and fall outside the top-40 disease-condition sort. These are an earlier generation of the same asset's trials relative to the current restarted pivotal programme (NCT01970098 / NCT02889302, see results.json).",
+      "sponsor": "Kissei Pharmaceutical (Japan)"
+    }
+  },
+  {
+    "nct": "NCT04176991",
+    "drug": "Nomlabofusp（CTI-1601）",
+    "mechanism": "融合蛋白（TAT-frataxin，皮下注射）",
+    "phase": "Ph1（單次遞增劑量，SAD）",
+    "status": "<b>§1b-2 已知資產點名查核補收（開發歷程）</b>：2020/10 完成之首次人體單次遞增劑量試驗，實收 <b>28 人</b>，Friedreich's Ataxia 病人對安慰劑。為現行全球確認性三期（NCT07778836）前之最早期人體證據，疾病條件查詢因登錄逾 5 年未更新而排不進前 40 名。",
+    "sponsor": "Larimar Therapeutics（原 Chondrial Therapeutics／Capricor 授權）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT04176991",
+    "en": {
+      "drug": "Nomlabofusp (CTI-1601)",
+      "mechanism": "Fusion protein (TAT-frataxin, subcutaneous)",
+      "phase": "Ph1 (single ascending dose, SAD)",
+      "status": "<b>Backfilled via the §1b-2 named-asset check (development history)</b>: the first-in-human single-ascending-dose trial, completed 2020/10 with <b>28 enrolled</b> Friedreich's ataxia patients versus placebo — the earliest human evidence preceding the current global confirmatory Phase 3 (NCT07778836). Falls outside the top-40 disease-condition sort as the registry has not been updated in over five years.",
+      "sponsor": "Larimar Therapeutics (originally licensed via Chondrial Therapeutics)"
+    }
+  },
+  {
+    "nct": "NCT04519567",
+    "drug": "Nomlabofusp（CTI-1601）",
+    "mechanism": "融合蛋白（TAT-frataxin，皮下注射）",
+    "phase": "Ph1（多次遞增劑量，MAD）",
+    "status": "<b>§1b-2 已知資產點名查核補收（開發歷程）</b>：2021/03 完成之多次遞增劑量試驗，實收 <b>27 人</b>，Friedreich's Ataxia 病人對安慰劑，緊接 SAD（NCT04176991）之後續人體劑量探索。疾病條件查詢因登錄逾 4 年未更新而排不進前 40 名。",
+    "sponsor": "Larimar Therapeutics",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT04519567",
+    "en": {
+      "drug": "Nomlabofusp (CTI-1601)",
+      "mechanism": "Fusion protein (TAT-frataxin, subcutaneous)",
+      "phase": "Ph1 (multiple ascending dose, MAD)",
+      "status": "<b>Backfilled via the §1b-2 named-asset check (development history)</b>: a multiple-ascending-dose trial completed 2021/03 with <b>27 enrolled</b> Friedreich's ataxia patients versus placebo, the dose-exploration step following the SAD study (NCT04176991). Falls outside the top-40 disease-condition sort as the registry has not been updated in over four years.",
+      "sponsor": "Larimar Therapeutics"
+    }
+  },
+  {
+    "nct": "NCT05579691",
+    "drug": "Nomlabofusp（CTI-1601）",
+    "mechanism": "融合蛋白（TAT-frataxin，皮下注射）",
+    "phase": "Ph2（劑量探索）",
+    "status": "<b>§1b-2 已知資產點名查核補收（開發歷程）</b>：2023/12 完成之雙盲安慰劑對照劑量探索試驗，實收 <b>28 人</b>，為 SAD／MAD 之後、現行三期前之關鍵劑量確立試驗。疾病條件查詢因登錄逾 1 年未更新而排不進前 40 名。",
+    "sponsor": "Larimar Therapeutics",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT05579691",
+    "en": {
+      "drug": "Nomlabofusp (CTI-1601)",
+      "mechanism": "Fusion protein (TAT-frataxin, subcutaneous)",
+      "phase": "Ph2 (dose exploration)",
+      "status": "<b>Backfilled via the §1b-2 named-asset check (development history)</b>: a double-blind, placebo-controlled dose-exploration trial completed 2023/12 with <b>28 enrolled</b>, the key dose-finding step following the SAD/MAD studies and preceding the current Phase 3. Falls outside the top-40 disease-condition sort as the registry has not been updated in over a year.",
+      "sponsor": "Larimar Therapeutics"
+    }
   }
 ]
