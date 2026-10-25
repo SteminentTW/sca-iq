@@ -880,5 +880,39 @@
       "status": "Not yet recruiting (registration first posted 2026/10/13). Randomised, double-blind, placebo-controlled, with 3:1 sequential randomisation across low/mid/high dose groups (200/300/400 mg/day, each with an initial loading-dose period), targeting <b>48 participants</b> aged <b>16–40</b> with genetically confirmed (homozygous GAA repeat expansion) Friedreich's ataxia; eligibility also requires an mFARS score of 20–80 and hs-cTnI above the laboratory-defined 99th percentile. <b>The primary endpoint is percent change from baseline in blood frataxin-M protein at week 12 versus placebo</b>, with hs-cTnI and mFARS among the key secondary endpoints. Participants completing the 12-week trial may roll into a 52-week open-label extension. Estimated start 2026/11, primary completion 2027/07. Only <b>1 site</b> is registered so far (Eatontown, NJ, USA — CLINiLABS). ⚠️ The company announced FDA IND clearance (a new capsule formulation) in 2026/08; the frataxin-elevation evidence cited so far comes only from company-reported PBMC data in a separate obesity trial and preclinical cell models, with <b>no peer-reviewed human data</b> yet, leaving druggability and efficacy unknown.",
       "sponsor": "Graviton Bioscience"
     }
+  },
+  {
+    "nct": "NCT07752095",
+    "drug": "深部腦刺激（DBS，非藥物）",
+    "mechanism": "<b>器械療法</b>：於小腦深部核（齒狀核）植入 DBS 系統（UG3NS140720），非藥物／非基因治療，與本公司細胞治療路徑機制完全不同",
+    "phase": "安全性／可行性（非介入分期，NA）",
+    "status": "尚未招募（2026/10/21 新登錄上線）。學術研究者發起之單中心安全性與可行性研究，評估齒狀核 DBS 於 SCA1、SCA3 病人之治療相關不良事件發生率，次要指標含 SARA、PROM-Ataxia 與動作學參數。無公司背景、非藥物開發案，收錄作為共濟失調領域替代治療模式之雷達參考。",
+    "sponsor": "Gordon H. Baltuch（賓州大學，學術發起）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07752095",
+    "en": {
+      "drug": "Deep brain stimulation (DBS, non-pharmacological)",
+      "mechanism": "<b>Device-based therapy</b>: implants a DBS system (UG3NS140720) in the deep cerebellar (dentate) nuclei; not a drug or gene therapy, and mechanistically unrelated to our own cell-therapy approach",
+      "phase": "Safety/feasibility (non-phased, NA)",
+      "status": "Not yet recruiting (registration first posted 2026/10/21). Investigator-initiated, single-centre safety and feasibility study evaluating the incidence of treatment-related adverse events from dentate-nucleus DBS in patients with SCA1 and SCA3; secondary endpoints include SARA, PROM-Ataxia and kinematic measures. No corporate sponsor and not a drug-development programme; tracked here as a radar reference for alternative treatment modalities in the ataxia field.",
+      "sponsor": "Gordon H. Baltuch (University of Pennsylvania, investigator-initiated)"
+    }
+  },
+  {
+    "nct": "NCT07221292",
+    "drug": "Levacetylleucine（N-acetyl-L-leucine，IB1001／Aqneursa 同成分）",
+    "mechanism": "小分子口服、胺基酸衍生物<br>與 IntraBio 既有 Aqneursa（Niemann-Pick C 適應症已上市）、A-T 核准適應症同一分子，向 CACNA1A 相關疾病群（含 SCA6）平行延伸",
+    "phase": "Ph3（樞紐，IB1001-304）",
+    "status": "收案中（登錄最後更新2026/09/08；2026/08/17 實際起始）。隨機、安慰劑對照、雙盲、交叉設計，預估收案 60 人，涵蓋 CACNA1A 相關疾病（<b>SCA6</b>、Episodic Ataxia Type 2、Familial Hemiplegic Migraine-1），美／奧／德／希／義／瑞／英共 11 站點。本筆為§1b-2已知資產點名查核回補——IntraBio公司卡既有「updates」已提及本案登錄動態，惟trials.json先前未單獨建檔，今日補齊。",
+    "sponsor": "IntraBio Inc",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07221292",
+    "en": {
+      "drug": "Levacetylleucine (N-acetyl-L-leucine; same molecule as IB1001/Aqneursa)",
+      "mechanism": "Small-molecule oral amino-acid derivative<br>the same molecule already marketed by IntraBio as Aqneursa (Niemann-Pick C) and approved for A-T, extended in parallel into CACNA1A-related disorders (including SCA6)",
+      "phase": "Ph3 (pivotal, IB1001-304)",
+      "status": "Recruiting (record last updated 2026/09/08; actual start 2026/08/17). Randomised, placebo-controlled, double-blind, crossover design targeting 60 participants across CACNA1A-related disorders (<b>SCA6</b>, episodic ataxia type 2, familial hemiplegic migraine-1), with 11 sites across the US, Austria, Germany, Greece, Italy, Switzerland and the UK. Added today as a §1b-2 named-asset backfill — IntraBio's company card already referenced this registration in its update log, but it had not previously been recorded as its own trials.json entry.",
+      "sponsor": "IntraBio Inc"
+    }
   }
 ]

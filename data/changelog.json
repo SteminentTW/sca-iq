@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-25",
+    "dateDisplay": "2026/10/25",
+    "tag": "每日掃描 ＋ §1b-2 週期查核",
+    "level": "info",
+    "body": "上次真正發布為2026-10-24，缺口1天，屬正常每日掃描、無需補跑。CT.gov 五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia等子查詢）逐筆比對既有54筆試驗鍵值與最後更新日：近7天內更新且不在清單內者僅1筆療法型試驢<b>NCT07752095（賓州大學Gordon H. Baltuch發起，小腦齒狀核DBS於SCA1／SCA3之安全性／可行性研究，尚未招募）</b>——器械療法、非藥物／非細胞治療，收錄作為替代治療模式雷達參考，未建立companies.json頁（發起人為個人學術研究者、非公司）。其餘同期候選（NCT00018889、NCT07838883、NCT04708431等）均屬純觀察性登記/自然史研究，依手冊排除。PubMed近7天窗口查詢命中2篇（pubmed:42905853、pubmed:42893779）均為平台既有記錄，無新文獻。公司新聞面查核Steminent／Biohaven troriluzole／Vico VO659／Arrowhead ARO-ATXN2，均未見近7天內新公告。<b>本次另完成逾期之§1b-2已知資產點名查核（上次執行2026-10-10，已逾週）：對20項資產藥名逐一查詢，發現IntraBio IB1001-304（<b>NCT07221292</b>，CACNA1A相關疾病含SCA6，Ph3樞紐、收案中）此前僅見於companies.json公司卡之updates文字敘述，trials.json未曾單獨建檔，今日補齊。其餘資產（KPS-0373之歷史已完成日本研究等）經逐筆核對均屬既有收錄或非SCA/ataxia相關適應症，不予新增。</b>events.json（上次查核2026-10-23，未逾週）、patents.json／exclusivity.json（上次更新2026-10-23，未逾月）本次未到期，未查核。<b>本次新增2筆競品試驗（NCT07752095、NCT07221292），其餘資料檔無新增。</b>",
+    "link": {
+      "label": "詳見 臨床試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan + §1b-2 periodic named-asset check",
+      "body": "Last genuine publish was 2026-10-24, a 1-day gap — normal daily cadence, no backfill needed. Ran the CT.gov five-condition query (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery broad sweep (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, including SCA1/2/3/6/7, Machado-Joseph, ATXN1/2/3/7 and polyglutamine-ataxia sub-queries), checked against the existing 54 trial keys and last-update dates: the only therapeutic trial updated within 7 days and not already on file was <b>NCT07752095 (investigator-initiated by Gordon H. Baltuch, University of Pennsylvania — a safety/feasibility study of deep cerebellar-nucleus DBS in SCA1/SCA3, not yet recruiting)</b> — a device therapy, not a drug or cell therapy; added as a radar reference for alternative treatment modalities, with no companies.json entry created since the sponsor is an individual academic investigator, not a company. Other same-window candidates (NCT00018889, NCT07838883, NCT04708431, etc.) were purely observational registries/natural-history studies and excluded per the manual. The PubMed 7-day query returned 2 hits (pubmed:42905853, pubmed:42893779), both already on file — no new literature. Checked company/industry news for Steminent, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 — no announcements within the past 7 days. <b>Also completed the overdue §1b-2 named-asset check (last run 2026-10-10, past its weekly cycle): ran each of the 20 tracked asset names individually and found that IntraBio's IB1001-304 (<b>NCT07221292</b>, CACNA1A-related disorders including SCA6, Ph3 pivotal, recruiting) had only ever been mentioned in prose in the IntraBio company card's update log — it had never been recorded as its own trials.json entry, which is now corrected. The remaining tracked assets (e.g. KPS-0373's historical completed Japanese studies) were checked individually and found either already on file or outside the SCA/ataxia scope, so none were added.</b> events.json (last reviewed 2026-10-23, not yet due) and patents.json/exclusivity.json (last updated 2026-10-23, not yet due monthly) were not due for review today. <b>2 new competitor trial records added (NCT07752095, NCT07221292); no additions to other data files.</b>",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-23",
     "dateDisplay": "2026/10/23",
     "tag": "每日掃描 · 週檢／月檢補齊",
