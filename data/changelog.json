@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-27",
+    "dateDisplay": "2026/10/27",
+    "tag": "每日掃描 · §1b-2 週檢",
+    "level": "info",
+    "body": "CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph子查詢）逐筆比對既有54筆試驗鍵值：近7天內更新且不在清單內者為NCT00018889／NCT07838883（純登記觀察，無介入）、NCT07752095（SCA1/3腦深部刺激，屬神經刺激裝置非藥物/生物/細胞/基因療法）、NCT07887828（FA純觀察無介入）、NCT04708431（SBMA藥名同義詞擴展誤觸之雄性素不敏感症自然史研究），逐筆核對後均不符合收錄準則，<b>本次CT.gov無新增競品試驗</b>。PubMed近7天查得2篇，1篇（pubmed:42905853，SCA3 ASO設計，Sci Transl Med）已於10/21收錄；另1篇（PMID 42933610，PMPCA突變體之MPP酶結構生化特徵研究）經查其所述「SCA」為SCAR2（PMPCA體染色體隱性，與本站追蹤之體染色體顯性polyQ型SCA2/ATXN2機制不同），且屬基礎酵素結構研究、與追蹤資產無關，<b>不收錄</b>。<b>本次補做§1b-2已知資產點名查核</b>（上次實質執行為2026-10-10，已逾一週週期）：對19項追蹤資產藥名逐一查詢CT.gov，查得多筆既有清單外之登錄，逐筆核對後均屬同藥物用於非追蹤適應症（如19#iSCLife®不同代號分別用於子宮內膜/股骨頭壞死/MDS/肝硬化等非SCA適應症；Vatiquinone/EPI-743用於Pearson氏症/Rett氏症/聽力受損等非FA適應症；IB1001/Levacetylleucine之Factor IX同名舊產品與Niemann-Pick/GM2 Gangliosidosis等非CACNA1A/A-T適應症；CRD-002／NLX-112／SLS-005等查得筆目為同代號/同藥名之不同藥物或不同疾病）或為既有試驗之較舊歷史記錄，<b>無缺漏需補</b>。公司/產業新聞WebSearch（Stemchymal、Troriluzole、VO659、ARO-ATXN2、BIIB132）查得內容均為本站已收錄之既有事實（troriluzole NDA重新送件已於10/22–23收錄；VO659、ARO-ATXN2近期進展為9月前舊聞），<b>無新增可查證進展</b>。events.json（上次2026-10-23）／patents.json／exclusivity.json（月檢上次2026-10-23）均未逾週期，本次不查核。<b>本次全站無新增資料筆目，僅完成每日掃描與補齊之週檢</b>。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan · §1b-2 weekly roll call",
+      "body": "CT.gov five-condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50, including SCA1/2/3/6/7 subtype and Machado-Joseph sub-queries) were checked against the existing 54 trial keys: hits updated within 7 days and not already listed were NCT00018889 / NCT07838883 (pure registries, no intervention), NCT07752095 (deep brain stimulation for SCA1/3, a neurostimulation device, not a drug/biologic/cell/gene therapy), NCT07887828 (pure observational FA study, no intervention), and NCT04708431 (an androgen insensitivity syndrome natural-history study mistakenly caught by the SBMA synonym expansion) — none met the inclusion criteria, so <b>no new competitor trials were added this round</b>. PubMed returned 2 hits in the last 7 days: one (pubmed:42905853, an SCA3 ASO design paper, Sci Transl Med) was already logged on 10/21; the other (PMID 42933610, a structural/biochemical study of PMPCA mutant MPP enzymes) describes SCAR2 (an autosomal-recessive PMPCA-linked ataxia distinct from the autosomal-dominant polyQ SCA2/ATXN2 mechanism this site tracks) and is basic enzyme-structure research unrelated to any tracked asset, so it was <b>not added</b>. <b>This round also completed the overdue §1b-2 known-asset roll call</b> (last substantively run 2026-10-10, past its weekly cycle): each of the 19 tracked drug names was queried individually against CT.gov; the extra registrations found were, on inspection, all either the same drug/platform code used for untracked, non-SCA indications (e.g. 19#iSCLife® sub-codes for endometrial infertility, femoral head osteonecrosis, MDS, or hepatitis B cirrhosis; Vatiquinone/EPI-743 for Pearson syndrome, Rett syndrome, or hearing loss; IB1001/Levacetylleucine's older same-named Factor IX product or Niemann-Pick/GM2 gangliosidosis indications unrelated to the tracked CACNA1A/A-T indications; CRD-002/NLX-112/SLS-005 hits that were different drugs or diseases sharing the same code/name) or older historical records of trials already logged — <b>no gaps needed backfilling</b>. Company/industry news WebSearches (Stemchymal, Troriluzole, VO659, ARO-ATXN2, BIIB132) returned only facts already recorded on this site (the troriluzole NDA resubmission was already logged 10/22–23; VO659 and ARO-ATXN2 updates found predate September and are already stale news), so <b>no new verifiable developments</b>. events.json (last 2026-10-23) and the monthly patents.json/exclusivity.json review (last 2026-10-23) are not yet due and were not checked this round. <b>No new entries were added to the site today; this run completed the daily scan plus the overdue weekly roll-call check.</b>",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-23",
     "dateDisplay": "2026/10/23",
     "tag": "每日掃描 · 週檢／月檢補齊",
