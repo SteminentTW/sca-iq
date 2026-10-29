@@ -639,14 +639,14 @@
     "drug": "Troriluzole（BHV-4157）",
     "mechanism": "麩胺酸調節<br>riluzole 前驅藥",
     "phase": "觀察性（真實世界對照）",
-    "status": "<b>已停止收案</b>（n=909，主要完成日 2024-09-06）。這是把接受 troriluzole 治療的 SCA 病人與<b>配對的自然史世代外部對照</b>比較的真實世界研究，即 Biohaven NDA 主張「延緩病程 50–70%」的證據來源；該 NDA 已於 2025-11 收到 FDA 完整回覆函（CRL）。⚠️ 觀察性設計、非隨機對照，療效推論受外部對照的可比性限制",
+    "status": "<b>已完成</b>（n=909，主要完成日 2024-09-06，試驗完成日 2026-08-03，登錄於2026-10-29更新）。這是把接受 troriluzole 治療的 SCA 病人與<b>配對的自然史世代外部對照</b>比較的真實世界研究，即 Biohaven NDA 主張「延緩病程 50–70%」的證據來源；該 NDA 已於 2025-11 收到 FDA 完整回覆函（CRL），並於 2026-10-22 重新送件受理審查（見試驗結果雷達）。⚠️ 觀察性設計、非隨機對照，療效推論受外部對照的可比性限制",
     "sponsor": "Biohaven Therapeutics",
     "us": false,
     "url": "https://clinicaltrials.gov/study/NCT06529146",
     "en": {
       "mechanism": "Glutamate modulation<br>riluzole prodrug",
       "phase": "Observational (real-world comparison)",
-      "status": "<b>Active, not recruiting</b> (n=909, primary completion 2024-09-06). A real-world study comparing troriluzole-treated SCA patients against a <b>matched external control drawn from natural-history cohort data</b> — the evidence source behind Biohaven's NDA claim of 50–70% slowing of progression; that NDA received an FDA Complete Response Letter in November 2025. ⚠️ Observational, non-randomised: efficacy inference is limited by how comparable the external control really is",
+      "status": "<b>Completed</b> (n=909, primary completion 2024-09-06, study completion 2026-08-03; registry updated 2026-10-29). A real-world study comparing troriluzole-treated SCA patients against a <b>matched external control drawn from natural-history cohort data</b> — the evidence source behind Biohaven's NDA claim of 50–70% slowing of progression; that NDA received an FDA Complete Response Letter in November 2025 and the resubmission was accepted for review on 2026-10-22 (see Results Radar). ⚠️ Observational, non-randomised: efficacy inference is limited by how comparable the external control really is",
       "sponsor": "Biohaven Therapeutics"
     }
   },

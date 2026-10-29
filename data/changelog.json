@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-29",
+    "dateDisplay": "2026/10/29",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "CT.gov五組適應症查詢＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7基因子查詢）逐筆比對既有54筆試驗鍵值：近7天內更新且不在清單內者僅NCT07752095（SCA1/3腦深部刺激，屬神經刺激裝置非藥物/生物/細胞/基因療法）、NCT02741440／NCT01793168／NCT00018889／NCT07838883（均為純登記或自然史觀察，無介入），逐筆核對均不符合收錄準則，<b>本次CT.gov無新增競品試驗</b>。既有試驗中<b>NCT06529146（Biohaven troriluzole真實世界對照研究）登錄狀態於今日更新為「已完成」</b>（試驗完成日2026-08-03，收案數維持909人不變），已更新該筆trials.json狀態欄。PubMed近7天查得1篇（PMID 42933610，PMPCA突變體之線粒體加工蛋白酶結構生化研究），經查其所述「SCA」為SCAR2（體染色體隱性，與本站追蹤之體染色體顯性polyQ型SCA機制不同），屬基礎酵素結構研究、與追蹤資產無關，<b>不收錄</b>。公司/產業新聞WebSearch（Stemchymal、Troriluzole、VO659、ARO-ATXN2、Nomlabofusp、BIIB132、Vatiquinone）查得內容均為本站已收錄之既有事實或逾7天舊聞，<b>無新增可查證進展</b>。§1b-2已知資產點名查核上次執行為2026-10-27，未逾週期，本次不重複執行；events.json／patents.json／exclusivity.json均未逾各自週/月檢週期，本次不查核。<b>本次僅1筆既有試驗狀態更新，無全新資料筆目</b>。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "CT.gov five-condition queries plus the active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50, including SCA1/2/3/6/7 subtype, Machado-Joseph and ATXN1/2/3/7 gene sub-queries) were checked against the existing 54 trial keys: the only hits updated within 7 days and not already listed were NCT07752095 (deep brain stimulation for SCA1/3, a neurostimulation device, not a drug/biologic/cell/gene therapy) and NCT02741440 / NCT01793168 / NCT00018889 / NCT07838883 (pure registries or natural-history observational studies, no intervention) — none met the inclusion criteria, so <b>no new competitor trials were added this round</b>. Among existing trials, <b>NCT06529146 (Biohaven's troriluzole real-world comparison study) was updated today to \"Completed\"</b> status (study completion date 2026-08-03, enrolment unchanged at 909); the trials.json status field for this entry was updated accordingly. PubMed returned 1 hit in the last 7 days (PMID 42933610, a structural/biochemical study of mutant mitochondrial processing peptidase), which describes SCAR2 (an autosomal-recessive condition, mechanistically distinct from the autosomal-dominant polyQ SCAs this site tracks) and is basic enzyme-structure research unrelated to any tracked asset, so it was <b>not added</b>. Company/industry news WebSearches (Stemchymal, Troriluzole, VO659, ARO-ATXN2, Nomlabofusp, BIIB132, Vatiquinone) returned only facts already recorded on this site or news older than 7 days, so <b>no new verifiable developments</b>. The §1b-2 known-asset roll call was last run 2026-10-27 and is not yet due again, so it was skipped this round; events.json/patents.json/exclusivity.json are also not yet due for their weekly/monthly review. <b>This round updated one existing trial's status; no brand-new entries were added.</b>",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-10-27",
     "dateDisplay": "2026/10/27",
     "tag": "每日掃描 · §1b-2 週檢",
