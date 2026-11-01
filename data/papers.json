@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42965751",
+    "date": "2026-10-31",
+    "dateDisplay": "2026/10/31",
+    "title": "Pharmacological Interventions for Neurological Manifestations of Ataxia-Telangiectasia: An Updated Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "journal": "Cerebellum · Iqbal MJ、Azhar M、Hassan A、Menotta M 等（Urbino大學／旁遮普大學）",
+    "tag": "綜述 · 共濟失調微血管擴張症（A-T）療法整合分析",
+    "note": "→ 更新版系統性回顧與統合分析，納入6個RCT（口服betamethasone、levacetylleucine、紅血球包封dexamethasone磷酸鈉eDSP、triheptanoin）。SARA量表統合效應未達統計顯著（MD −0.90，95% CI −3.20至1.40，p=0.443）；兩項eDSP試驗之次要指標full-ICARS統合結果雖傾向有利（MD −4.03），但<b>兩項eDSP試驗均未達其預設主要神經學終點</b>。<b>levacetylleucine雖已獲FDA核准用於A-T之共濟失調適應症，但統合後SARA效應仍不一致</b>。屬A-T療效證據之客觀彙整，非SCA本身，收錄供共濟失調鄰近領域比較參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965751/",
+    "urlLabel": "論文 ↗ PubMed 42965751",
+    "en": {
+      "tag": "Review · Ataxia-telangiectasia (A-T) therapy meta-analysis",
+      "journal": "Cerebellum · Iqbal MJ, Azhar M, Hassan A, Menotta M, et al. (University of Urbino / University of the Punjab)",
+      "note": "→ Updated systematic review and meta-analysis pooling 6 RCTs (oral betamethasone, levacetylleucine, erythrocyte-encapsulated dexamethasone sodium phosphate/eDSP, triheptanoin). Pooled SARA effect was not statistically significant (MD −0.90, 95% CI −3.20 to 1.40, p=0.443); the secondary full-ICARS endpoint from two eDSP trials favoured treatment (MD −4.03), but <b>neither eDSP trial met its prespecified primary neurological endpoint</b>. <b>Levacetylleucine is FDA-approved for ataxia in A-T, yet pooled SARA effects remain inconsistent</b>. An objective evidence synthesis for A-T (not SCA itself), recorded for comparison within the neighbouring-ataxia field.",
+      "urlLabel": "Paper ↗ PubMed 42965751"
+    }
+  },
+  {
+    "id": "pubmed:42165520",
+    "date": "2026-05-21",
+    "dateDisplay": "2026/05/21",
+    "title": "Visual stimulation therapy in spinocerebellar ataxia type 29: Case report.",
+    "journal": "Eur J Ophthalmol · Cardoso-Teixeira P、Cortez L、Valério P 等（葡萄牙Coimbra/Entre Douro e Vouga地方醫療機構）",
+    "tag": "SCA29（ITPR1）· 個案報告 · 非藥物復健",
+    "note": "→ 葡萄牙團隊報告一名4月齡SCA29男嬰（ITPR1基因c.805C>T異體變異）合併腦性視覺障礙（CVI）個案，接受每週視覺刺激療法（高對比／亮色刺激）20次後，以VAS CVI-PIMD量表追蹤，功能性視力由重度CVI改善至正常分級。屬單一個案之非藥物復健介入報告，近期始獲PubMed收錄，非競品藥物相關，收錄供SCA29亞型文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42165520/",
+    "urlLabel": "論文 ↗ PubMed 42165520",
+    "en": {
+      "tag": "SCA29 (ITPR1) · case report · non-pharmacological rehabilitation",
+      "journal": "Eur J Ophthalmol · Cardoso-Teixeira P, Cortez L, Valério P, et al. (Portuguese regional health units, Coimbra / Entre Douro e Vouga)",
+      "note": "→ A Portuguese team reports a 4-month-old male infant with SCA29 (ITPR1 c.805C>T variant) presenting with cerebral visual impairment (CVI), who after 20 weekly sessions of visual stimulation therapy (high-contrast, brightly coloured stimuli) progressed from severe CVI to normal functional vision on the VAS CVI-PIMD scale. A single-case, non-pharmacological rehabilitation report, only recently indexed on PubMed; unrelated to any competitor drug programme, recorded to track SCA29-subtype literature.",
+      "urlLabel": "Paper ↗ PubMed 42165520"
+    }
+  },
+  {
     "id": "pubmed:42905853",
     "date": "2026-10-21",
     "dateDisplay": "2026/10/21",
