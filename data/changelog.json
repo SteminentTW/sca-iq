@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-03",
+    "dateDisplay": "2026/11/03",
+    "tag": "每日掃描 · 試驗狀態變更",
+    "level": "info",
+    "body": "更新 IntraBio levacetylleucine（IB1001-304）CACNA1A 樞紐 Ph3 試驗（NCT07221292）：登錄於 2026/11/03 由收案中轉為<b>停止收案、試驗進行中</b>，收案數仍登錄為預估 60 人；現行登錄主要完成日為 2028/05/01，與本站先前記載的 2027/05/01 不一致，已並列標示。",
+    "link": { "label": "詳見 試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan · trial status change",
+      "body": "Updated IntraBio's levacetylleucine (IB1001-304) pivotal Ph3 trial in CACNA1A disorders (NCT07221292): on 2026/11/03 the registry moved from recruiting to <b>active, not recruiting</b>, with enrolment still registered as an estimated 60; the current registry primary completion date of 2028/05/01 differs from the 2027/05/01 this site recorded earlier, and both are flagged.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-02",
     "dateDisplay": "2026/11/02",
     "tag": "每日掃描 · 已知資產點名查核",
