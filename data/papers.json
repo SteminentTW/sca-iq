@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42969471",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11/02",
+    "title": "A Large Multicenter Cohort of Ataxia-Telangiectasia: Clinical, Immunologic, Genetic, and Survival Outcomes.",
+    "journal": "European Journal of Neurology · Fekrvand S、Firouzabadi A、Vakilipour P 等（Tehran大學醫學科學院／伊朗全國轉介網絡）",
+    "tag": "共濟失調微血管擴張症（A-T）· 全國自然史登記佇列",
+    "note": "→ 伊朗全國轉介網絡回溯性佇列，納入305名確診A-T患者（2002–2025），描述臨床、免疫與基因特徵及存活結果。首發症狀43.9%為非神經學表現；基因檢測者中83.8%檢出PVS1級嚴重變異；84.7%有免疫球蛋白異常。中位死亡年齡12.8歲（95% CI 11.0–15.0），5年與10年整體存活率分別為81.6%與60.2%，惡性腫瘤（28.9%）與呼吸道感染（20.0%）為主要死因。屬A-T自然史證據之客觀彙整，非SCA本身，收錄供共濟失調鄰近領域比較參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969471/",
+    "urlLabel": "論文 ↗ PubMed 42969471",
+    "en": {
+      "tag": "Ataxia-telangiectasia (A-T) · national natural-history cohort",
+      "journal": "European Journal of Neurology · Fekrvand S, Firouzabadi A, Vakilipour P, et al. (Tehran University of Medical Sciences / Iran national referral network)",
+      "note": "→ Retrospective cohort via a national Iranian referral network, enrolling 305 confirmed A-T patients (2002–2025), characterising clinical, immunologic and genetic features and survival outcomes. 43.9% first presented with non-neurological manifestations; among those genetically tested, 83.8% carried PVS1-classified severe variants; 84.7% had immunoglobulin abnormalities. Median age at death was 12.8 years (95% CI 11.0–15.0); estimated 5- and 10-year overall survival were 81.6% and 60.2% respectively, with malignancy (28.9%) and respiratory infection (20.0%) the leading causes of death. An objective A-T natural-history evidence synthesis (not SCA itself), recorded for comparison within the neighbouring-ataxia field.",
+      "urlLabel": "Paper ↗ PubMed 42969471"
+    }
+  },
+  {
     "id": "pubmed:42965751",
     "date": "2026-10-31",
     "dateDisplay": "2026/10/31",
