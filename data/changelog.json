@@ -1,11 +1,39 @@
 [
   {
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-03，缺口0天，屬正常每日掃描、無需補跑。CT.gov五組適應症查詢＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING）＋Machado-Joseph子類查詢：逐筆比對既有54筆試驗鍵值，近7天內更新且不在清單內者（NCT05874388、NCT02741440、NCT07752095、NCT01793168、NCT07723248等）經逐筆核對後均非符合收錄標準之新療法試驗——分別為純自然史/觀察登記（非介入性）、深腦刺激（DBS，裝置介入非藥物/生物製劑/細胞/基因/RNA）、多疾病通用罕病登記，以及polyglutamine關鍵字誤中之前列腺癌試驗（雄性素受體AR相關），故本次CT.gov掃描無新增競品試驗。PubMed近7天查詢新增2則科學文獻（COQ8A共濟失調CoQ10個案報告；共濟失調微血管擴張症A-T大型世代自然史研究），均屬鄰近共濟失調領域背景參考、非SCA本身亦非藥物介入資料；另3則候選（ATXN3周邊神經病變機轉、SCA語言韻律基礎研究、SCA29視覺刺激個案）經比對已於前次掃描收錄。WebSearch近7天查核仲恩Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2未見新公開進展，現有搜尋結果均為既有已收錄資訊。events.json上次週檢為2026-10-31（4天前），本次未逾週期，略過；patents.json／exclusivity.json上次更新2026-10-23（12天前），未逾月檢週期，略過。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "date": "2026-11-04",
+      "dateDisplay": "2026/11/04",
+      "tag": "Daily scan",
+      "level": "info",
+      "body": "Last real publish was 2026-11-03, a 0-day gap, so this is a normal daily scan with no backfill needed. CT.gov five-condition queries + active-discovery broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING) + Machado-Joseph subtype query: checked every recently-updated record (within 7 days) not already in the existing 54-trial key index (NCT05874388, NCT02741440, NCT07752095, NCT01793168, NCT07723248, etc.) — each failed the inclusion bar on review, being either a pure natural-history/observational registry (non-interventional), a deep brain stimulation (DBS) device intervention (not a drug/biologic/cell/gene/RNA therapy), a multi-disease generic rare-disease registry, or a prostate-cancer trial that matched the \"polyglutamine\" keyword via the androgen receptor (AR) false positive; so no new competitor trial was added from this scan. PubMed's 7-day query added 2 new literature entries (a COQ8A ataxia/CoQ10 case report; a large ataxia-telangiectasia (A-T) natural-history cohort), both recorded as neighbouring-ataxia background, not SCA itself or interventional drug data; 3 further candidates (ATXN3 peripheral-neuropathy mechanism, SCA speech-rhythm basic research, SCA29 visual-stimulation case report) were found already recorded from a prior scan. WebSearch checks on Steminent Stemchymal, Biohaven troriluzole, Vico VO659 and Arrowhead ARO-ATXN2 found no new public developments in the past 7 days; all results matched information already on the platform. events.json's last weekly check was 2026-10-31 (4 days ago) — not yet due, skipped; patents.json/exclusivity.json's last update was 2026-10-23 (12 days ago) — not yet due for the monthly cycle, skipped.",
+      "link": {
+        "label": "See Literature Radar ↗",
+        "tab": "si",
+        "anchor": "litradar"
+      }
+    }
+  },
+  {
     "date": "2026-11-03",
     "dateDisplay": "2026/11/03",
     "tag": "每日掃描 · 試驗狀態變更",
     "level": "info",
     "body": "更新 IntraBio levacetylleucine（IB1001-304）CACNA1A 樞紐 Ph3 試驗（NCT07221292）：登錄於 2026/11/03 由收案中轉為<b>停止收案、試驗進行中</b>，收案數仍登錄為預估 60 人；現行登錄主要完成日為 2028/05/01，與本站先前記載的 2027/05/01 不一致，已並列標示。",
-    "link": { "label": "詳見 試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
     "en": {
       "tag": "Daily scan · trial status change",
       "body": "Updated IntraBio's levacetylleucine (IB1001-304) pivotal Ph3 trial in CACNA1A disorders (NCT07221292): on 2026/11/03 the registry moved from recruiting to <b>active, not recruiting</b>, with enrolment still registered as an estimated 60; the current registry primary completion date of 2028/05/01 differs from the 2027/05/01 this site recorded earlier, and both are flagged.",

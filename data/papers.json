@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42969471",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11/02",
+    "title": "A Large Multicenter Cohort of Ataxia-Telangiectasia: Clinical, Immunologic, Genetic, and Survival Outcomes.",
+    "journal": "European Journal of Neurology · Fekrvand S、Firouzabadi A、Vakilipour P 等（多國多中心）",
+    "tag": "自然史 · 共濟失調微血管擴張症（A-T）大型世代",
+    "note": "→ 多中心大型世代研究，彙整共濟失調微血管擴張症（A-T）患者之臨床、免疫、基因與存活結果。屬A-T自然史證據、非SCA本身，收錄供共濟失調鄰近領域比較參考，不含任何藥物介入資料。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969471/",
+    "urlLabel": "論文 ↗ PubMed 42969471",
+    "en": {
+      "tag": "Natural history · Ataxia-telangiectasia (A-T) large cohort",
+      "journal": "European Journal of Neurology · Fekrvand S, Firouzabadi A, Vakilipour P, et al. (multinational, multicentre)",
+      "note": "→ A large multicentre cohort study pooling clinical, immunologic, genetic and survival outcomes in ataxia-telangiectasia (A-T) patients. Natural-history evidence for A-T, not SCA itself; recorded for comparison within the neighbouring-ataxia field, with no interventional drug data.",
+      "urlLabel": "Paper ↗ PubMed 42969471"
+    }
+  },
+  {
+    "id": "pubmed:42965743",
+    "date": "2026-10-31",
+    "dateDisplay": "2026/10/31",
+    "title": "COQ8A-Associated Ataxia in a Colombian Patient Presenting with Bilateral Ptosis and Response to CoQ10 Supplementation.",
+    "journal": "Cerebellum (London) · Navarrete SB、Amariles FE、Peña VQ 等",
+    "tag": "個案報告 · COQ8A共濟失調／CoQ10補充",
+    "note": "→ 哥倫比亞單一病例報告，COQ8A基因相關之隱性遺傳共濟失調，補充CoQ10後症狀部分改善。⚠️ 病因基因（COQ8A）與致病機轉與SCA（體顯性多聚谷胺醯胺型）不同、亦非本公司或主要追蹤競品之資產，為鄰近共濟失調領域個案證據，僅供参考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965743/",
+    "urlLabel": "論文 ↗ PubMed 42965743",
+    "en": {
+      "tag": "Case report · COQ8A ataxia / CoQ10 supplementation",
+      "journal": "Cerebellum (London) · Navarrete SB, Amariles FE, Peña VQ, et al.",
+      "note": "→ A single-case report from Colombia describing COQ8A-related autosomal recessive ataxia with partial symptomatic improvement after CoQ10 supplementation. ⚠️ The causative gene (COQ8A) and mechanism differ from SCA's autosomal-dominant polyglutamine pathology, and this is not Steminent's or a tracked competitor's asset; recorded only as neighbouring-ataxia case evidence.",
+      "urlLabel": "Paper ↗ PubMed 42965743"
+    }
+  },
+  {
     "id": "pubmed:42965751",
     "date": "2026-10-31",
     "dateDisplay": "2026/10/31",
