@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "tag": "每日掃描 · 試驗登錄更新",
+    "level": "info",
+    "body": "更新 IntraBio levacetylleucine A-T 樞紐 Ph3（IB1001-303，NCT06673056）：登錄於 2026/11/04 更新，但狀態仍為停止收案、試驗進行中，主要完成日仍登錄為預估 2027/12/31，與 2026/09/19 已獲 FDA 核准之進度脫節；試驗卡已改寫原「登錄自 2025-07-03 起未再更新」的說明並補註核准。",
+    "link": { "label": "詳見 試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan · registry update",
+      "body": "Updated IntraBio's levacetylleucine A-T pivotal Ph3 (IB1001-303, NCT06673056): the registration was updated on 2026/11/04 but still shows active, not recruiting with an estimated primary completion of 2027/12/31, out of step with the FDA approval on 2026/09/19; the trial card's earlier note that the record had not been updated since 2025-07-03 has been rewritten and the approval noted.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-03",
     "dateDisplay": "2026/11/03",
     "tag": "每日掃描 · 試驗狀態變更",
