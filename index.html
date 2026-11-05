@@ -163,7 +163,8 @@
   .pat:last-child{border-bottom:none}
   .pat .ph{font-size:12.5px;font-weight:700;color:#cfe0f2}
   .pat .ptype{font-size:10px;font-weight:700;border-radius:20px;padding:1px 8px;margin-left:6px;background:#20303f;color:#9fb4cc}
-  .pat .pnum{font-size:11px;color:#7db6ff;margin-top:2px}
+  .pat .pno{font-size:11px;color:#7db6ff;margin-top:2px}
+  .pat .selfpill{font-size:10px;font-weight:700;color:#6ee7a0;background:#183a29;border-radius:20px;padding:1px 8px;margin-left:7px}
   .pat .ptitle{font-size:11.5px;color:#9fb4cc;margin-top:1px;line-height:1.45}
   .pat .pmeta{font-size:11px;color:#8b9bb0;margin-top:3px;line-height:1.5}
   .pat .pmeta b{color:#c9d6e3}
@@ -1253,7 +1254,7 @@ function renderPatents(){
     var stCls=(p.status||'').indexOf('核准')>=0?'granted':'pending';
     return '<div class="pat'+(p.self?' self':'')+'">'+
       '<div class="ph">'+esc(L(p,'competitor'))+' · '+esc(L(p,'asset'))+'<span class="ptype">'+esc(L(p,'ptype'))+'</span>'+(p.self?'<span class="selfpill">'+T('pSelf')+'</span>':'')+'</div>'+
-      '<div class="pnum">'+esc(L(p,'number'))+'</div>'+
+      '<div class="pno">'+esc(L(p,'number'))+'</div>'+
       '<div class="ptitle">'+esc(L(p,'title'))+'</div>'+
       '<div class="pmeta">'+T('pAssignee')+' '+esc(L(p,'assignee'))+'　·　'+T('pFiled')+' '+esc(L(p,'filed'))+'　·　'+T('pStatus')+' <b class="'+stCls+'">'+esc(L(p,'status'))+'</b>　·　'+T('pExpiry')+' <b>'+esc(L(p,'expiry'))+'</b></div>'+
       (L(p,'note')?'<div class="pnote">'+md(L(p,'note'))+'</div>':'')+
