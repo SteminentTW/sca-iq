@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42980994",
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "title": "Spinocerebellar Ataxia Type 6 Concurrent with Normal-Pressure Hydrocephalus: A Case Report.",
+    "journal": "Cerebellum · Yazaki R、Hosaka Y、Oji Y 等（順天堂大學）",
+    "tag": "SCA6 · 個案報告 · 合併常壓性水腦症",
+    "note": "→ 日本一例73歲男性SCA6（CACNA1A CAG 22/13重複）合併原發性常壓性水腦症（iNPH）：腰椎穿刺引流測試後3公尺計時起立行走測試由52秒降至37秒，腰腹腔分流術後ICARS姿態步態分項由21改善至15，惟肢體協調分項由15惡化至20，步態改善維持至6個月、小腦徵象持續。提示合併可治療性水腦症時應納入鑑別，非SCA6本身療法進展，收錄供臨床鑑別診斷參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980994/",
+    "urlLabel": "論文 ↗ PubMed 42980994",
+    "en": {
+      "tag": "SCA6 · Case report · Coexisting normal-pressure hydrocephalus",
+      "journal": "Cerebellum · Yazaki R, Hosaka Y, Oji Y, et al. (Juntendo University)",
+      "note": "→ A Japanese case of a 73-year-old man with SCA6 (CACNA1A CAG 22/13 repeats) and coexisting idiopathic normal-pressure hydrocephalus (iNPH): a CSF tap test reduced the 3-m Timed Up-and-Go time from 52 to 37 seconds, and after lumboperitoneal shunting the ICARS posture-and-gait subscore improved from 21 to 15 while the limb-coordination subscore worsened from 15 to 20; gait improvement held at 6 months while cerebellar signs persisted. Suggests a treatable hydrocephalic component should be considered on differential diagnosis — not a therapy advance for SCA6 itself — recorded for clinical differential-diagnosis reference.",
+      "urlLabel": "Paper ↗ PubMed 42980994"
+    }
+  },
+  {
+    "id": "pubmed:42969471",
+    "date": "2026-11-01",
+    "dateDisplay": "2026/11/01",
+    "title": "A Large Multicenter Cohort of Ataxia-Telangiectasia: Clinical, Immunologic, Genetic, and Survival Outcomes.",
+    "journal": "European Journal of Neurology · Fekrvand S、Firouzabadi A、Vakilipour P 等（Tehran大學醫學院）",
+    "tag": "A-T · 自然史世代 · 伊朗305例存活與預後",
+    "note": "→ 伊朗全國轉診網絡2002-2025年305名共濟失調微血管擴張症（A-T）病人回溯世代：平均診斷年齡72.0個月、發病年齡25.2個月；43.9%以非神經學表現為首發，肺炎為最常見感染併發症（30.2%）；基因檢測者中83.8%帶嚴重功能喪失變異；中位死亡年齡12.8歲（95% CI 11.0–15.0），5年／10年總存活率81.6%／60.2%，惡性腫瘤（28.9%）與呼吸道感染（20.0%）為最常見死因。屬A-T自然史與預後資料，非SCA本身療法進展，收錄供鄰近共濟失調領域比較參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969471/",
+    "urlLabel": "論文 ↗ PubMed 42969471",
+    "en": {
+      "tag": "A-T · Natural history cohort · 305 Iranian patients, survival & outcomes",
+      "journal": "European Journal of Neurology · Fekrvand S, Firouzabadi A, Vakilipour P, et al. (Tehran University of Medical Sciences)",
+      "note": "→ A retrospective cohort of 305 ataxia-telangiectasia (A-T) patients from a 2002–2025 national referral network in Iran: mean age at diagnosis 72.0 months, mean age at onset 25.2 months; 43.9% first presented with non-neurological features, with pneumonia the most common infectious complication (30.2%); 83.8% of genetically tested patients carried severe loss-of-function variants; median age at death was 12.8 years (95% CI 11.0–15.0), with 5-/10-year overall survival of 81.6%/60.2%; malignancy (28.9%) and respiratory infection (20.0%) were the leading causes of death. Natural-history and outcome data for A-T, not a therapy advance for SCA itself, recorded for comparison within the neighbouring-ataxia field.",
+      "urlLabel": "Paper ↗ PubMed 42969471"
+    }
+  },
+  {
     "id": "pubmed:42965751",
     "date": "2026-10-31",
     "dateDisplay": "2026/10/31",
