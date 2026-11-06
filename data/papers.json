@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42980994",
+    "date": "2026-11-04",
+    "dateDisplay": "2026/11/04",
+    "title": "Spinocerebellar Ataxia Type 6 Concurrent with Normal-Pressure Hydrocephalus: A Case Report.",
+    "journal": "Cerebellum · Yazaki R、Hosaka Y、Oji Y、Hatano T 等（日本順天堂大學）",
+    "tag": "SCA6（CACNA1A）· 個案報告 · 合併常壓性水腦症",
+    "note": "→ 一名73歲基因確診SCA6日本男性合併特發性常壓性水腦症（iNPH），腦脊髓液引流測試後3公尺起立行走時間由52秒降至37秒；腰腹腔分流術後ICARS姿勢／步態分項由21分改善至15分，但肢體協調分項由15分惡化至20分，步態改善維持至6個月。作者提示遺傳性共濟失調病人若有相符臨床與影像表現應考慮合併iNPH。屬單一個案之非藥物介入報告，非競品藥物相關，收錄供SCA6亞型文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980994/",
+    "urlLabel": "論文 ↗ PubMed 42980994",
+    "en": {
+      "tag": "SCA6 (CACNA1A) · case report · coexisting normal-pressure hydrocephalus",
+      "journal": "Cerebellum · Yazaki R, Hosaka Y, Oji Y, Hatano T, et al. (Juntendo University, Japan)",
+      "note": "→ A 73-year-old Japanese man with genetically confirmed SCA6 and coexisting idiopathic normal-pressure hydrocephalus (iNPH): after a CSF tap test, 3-m Timed Up-and-Go fell from 52 to 37 s; after lumboperitoneal shunting the ICARS posture/gait subscore improved from 21 to 15 while the limb-coordination subscore worsened from 15 to 20, with gait gains maintained at 6 months. The authors suggest considering coexisting iNPH in hereditary ataxia when clinical and imaging features fit. A single-case, non-pharmacological report unrelated to competitor drugs, recorded for SCA6 literature tracking.",
+      "urlLabel": "Paper ↗ PubMed 42980994"
+    }
+  },
+  {
+    "id": "pubmed:42990898",
+    "date": "2026-04-25",
+    "dateDisplay": "2026/04/25",
+    "title": "Patient-specific iPSCs-derived neuronal models of spinocerebellar ataxia type 1 as a platform for studying calcium mishandling.",
+    "journal": "Genes Dis · Grekhnev D、Volovikov E、Lebedeva O、Vigont V 等（俄羅斯科學院細胞學研究所／Lopukhin 聯邦研究中心／蘇州大學）",
+    "tag": "SCA1（ATXN1）· 病人來源 iPSC 神經元模型 · 鈣離子失調",
+    "note": "→ 以SCA1病人特異性誘導型多能幹細胞（iPSC）分化之神經元建立疾病模型，作為研究鈣離子處理異常的平台。屬臨床前疾病模型研究，非競品藥物相關；PubMed 僅收錄書目資訊、未載摘要，本站不代為描述具體結果。2026/04 線上刊出、近期始獲PubMed收錄，收錄供SCA1機轉文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42990898/",
+    "urlLabel": "論文 ↗ PubMed 42990898",
+    "en": {
+      "tag": "SCA1 (ATXN1) · patient-derived iPSC neuronal model · calcium mishandling",
+      "journal": "Genes Dis · Grekhnev D, Volovikov E, Lebedeva O, Vigont V, et al. (Institute of Cytology RAS / Lopukhin Federal Research and Clinical Center / Soochow University)",
+      "note": "→ Neurons differentiated from SCA1 patient-specific induced pluripotent stem cells (iPSCs) are established as a platform for studying calcium mishandling. A preclinical disease-model study unrelated to competitor drugs; PubMed carries only the bibliographic record with no abstract, so specific findings are not described here. Published online 2026/04 and only recently indexed in PubMed; recorded for SCA1 mechanism literature tracking.",
+      "urlLabel": "Paper ↗ PubMed 42990898"
+    }
+  },
+  {
     "id": "pubmed:42965751",
     "date": "2026-10-31",
     "dateDisplay": "2026/10/31",

@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-06",
+    "dateDisplay": "2026/11/06",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 2 則科學文獻（SCA6 合併常壓性水腦症個案報告，Cerebellum；SCA1 病人來源 iPSC 神經元鈣離子失調模型，Genes Dis）。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 2 papers (SCA6 with coexisting normal-pressure hydrocephalus case report, Cerebellum; SCA1 patient-derived iPSC neuronal model of calcium mishandling, Genes Dis).",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",
     "tag": "每日掃描 · 試驗登錄更新",
