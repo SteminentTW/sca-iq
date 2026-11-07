@@ -83,14 +83,30 @@
     "date": "2026-07-08",
     "dateDisplay": "2026/07/08–11",
     "location": "蒙特婁",
-    "relevance": "幹細胞與再生醫學旗艦會議（本公司 MSC 領域）。下屆（2027）日期官網未公布。",
+    "relevance": "幹細胞與再生醫學旗艦會議（本公司 MSC 領域）。下屆（2027）已公布於美國舊金山舉行，見 isscr-2027。",
     "highlight": false,
     "url": "https://www.isscr.org/",
     "competitors": [],
     "en": {
       "name": "ISSCR Annual Meeting",
       "location": "Montreal",
-      "relevance": "Flagship stem-cell and regenerative-medicine meeting (our MSC field). The 2027 date has not been posted."
+      "relevance": "Flagship stem-cell and regenerative-medicine meeting (our MSC field). The 2027 edition has been announced for San Francisco, USA; see isscr-2027."
+    }
+  },
+  {
+    "id": "isscr-2027",
+    "name": "ISSCR Annual Meeting (國際幹細胞研究學會年會)",
+    "date": "2027-06-15",
+    "dateDisplay": "2027/06/15–18",
+    "location": "美國舊金山 Moscone West 會議中心",
+    "relevance": "幹細胞與再生醫學旗艦會議（本公司 MSC 領域）；官方已公布2027屆場地與日期。",
+    "highlight": false,
+    "url": "https://www.isscr.org/isscr-news/the-worlds-most-groundbreaking-stem-cell-advances-are-coming-to-san-francisco-for-isscr-2027",
+    "competitors": [],
+    "en": {
+      "name": "ISSCR Annual Meeting",
+      "location": "Moscone West Convention Center, San Francisco, USA",
+      "relevance": "Flagship stem-cell and regenerative-medicine meeting (our MSC field); the 2027 venue and dates have been officially announced."
     }
   }
 ]

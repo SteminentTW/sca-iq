@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42969471",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11/02",
+    "title": "A Large Multicenter Cohort of Ataxia-Telangiectasia: Clinical, Immunologic, Genetic, and Survival Outcomes.",
+    "journal": "Eur J Neurol 第33卷第11期:e70810 · Fekrvand S、Firouzabadi A、Vakilipour P 等（伊朗德黑蘭大學醫學科學院兒童醫學中心原發性免疫缺陷研究中心）· doi:10.1111/ene.70810",
+    "tag": "共濟失調微血管擴張症（A-T）· 大型世代流行病學／存活率",
+    "note": "→ 伊朗全國轉診網路回溯性世代（n=305，2002–2025收案），依ESID標準診斷。<b>診斷時平均年齡72.0個月、發病平均年齡25.2個月</b>；43.9%患者以非神經學症狀為首發表現，感染（以肺炎為主，佔感染併發症30.2%）常見。<b>基因檢測者中83.8%帶有PVS1級嚴重變異</b>，84.7%有免疫球蛋白異常。<b>中位死亡年齡12.8歲（95% CI 11.0–15.0），5年與10年整體存活率分別為81.6%與60.2%</b>，惡性腫瘤（28.9%）與呼吸道感染（20.0%）為主要死因。→ 與本平台的關聯：A-T屬<b>鄰近共濟失調圈層（ring: ataxia）</b>，本文之存活率與死因分布可作為評估該疾病未滿足醫療需求與試驗收案可行性之背景參考。⚠️ <b>限制</b>：單一國家（伊朗）回溯性登記世代，基因篩檢完整度與醫療資源可能與歐美/日本族群不同，不含任何藥物介入或療效數據；A-T與仲恩Stemchymal所針對之polyQ型SCA為不同疾病機轉，不可直接外推。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969471/",
+    "urlLabel": "論文 ↗ PubMed 42969471",
+    "en": {
+      "tag": "Ataxia-telangiectasia (A-T) · large cohort epidemiology / survival",
+      "journal": "Eur J Neurol, vol. 33 no. 11, e70810 · Fekrvand S, Firouzabadi A, Vakilipour P, et al. (Research Center for Immunodeficiencies, Children's Medical Center, Tehran University of Medical Sciences, Iran) · doi:10.1111/ene.70810",
+      "note": "→ A retrospective cohort from an Iranian national referral network (n=305, enrolled 2002-2025), diagnosed per ESID criteria. <b>Mean age at diagnosis was 72.0 months and mean age at onset 25.2 months</b>; 43.9% of patients first presented with non-neurological features, and infection (chiefly pneumonia, 30.2% of infectious complications) was common. <b>Among those genetically tested, 83.8% carried a PVS1-class severe variant</b>, and 84.7% had immunoglobulin abnormalities. <b>Median age at death was 12.8 years (95% CI 11.0-15.0), with 5- and 10-year overall survival of 81.6% and 60.2%</b>; malignancy (28.9%) and respiratory infection (20.0%) were the leading causes of death. → Relevance to this platform: A-T sits in the <b>adjacent ataxia ring</b>; the survival and cause-of-death data here provide background for assessing unmet need and trial-enrollment feasibility in this disease. ⚠️ <b>Limitations</b>: a single-country (Iran) retrospective registry cohort, where genetic-testing completeness and care resources may differ from European/US/Japanese populations; it contains no drug intervention or efficacy data, and A-T is a distinct disease mechanism from the polyQ SCAs Stemchymal targets, so nothing here extrapolates directly to them.",
+      "urlLabel": "Paper ↗ PubMed 42969471"
+    }
+  },
+  {
     "id": "pubmed:42980994",
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",
