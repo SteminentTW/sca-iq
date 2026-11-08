@@ -816,7 +816,7 @@
     "mechanism": "AAV 基因療法<br>提升心肌 frataxin",
     "indication": "Friedreich's Ataxia<br>相關心肌病變",
     "phase": "註冊型試驗 收案中",
-    "status": "<b>SUNRISE-FA 2 樞紐試驗（NCT07721025）已於 2026/06/25 啟動、2026/07 起收案</b>（n=26，主要指標＝心臟 MRI 左心室質量指數變化）；目標循加速核准途徑於 2028 遞交 BLA，次要終點含 mFARS、KCCQ、高敏感肌鈣蛋白 I 與心室壁厚度。已獲突破性療法、RMAT、孤兒藥與快速通道四項資格。期中數據顯示心臟生物標記與心／神經功能改善，接受心肌切片者皆見 frataxin 上升。",
+    "status": "<b>SUNRISE-FA 2 樞紐試驗（NCT07721025）已於 2026/06/25 啟動、2026/07 起收案</b>（n=26，主要指標＝心臟 MRI 左心室質量指數變化）；目標循加速核准途徑於 2028 遞交 BLA，次要終點含 mFARS、KCCQ、高敏感肌鈣蛋白 I 與心室壁厚度。已獲突破性療法、RMAT、孤兒藥與快速通道四項資格。期中數據顯示心臟生物標記與心／神經功能改善，接受心肌切片者皆見 frataxin 上升。 <b>【2026/11/02 更新】</b>公司宣布將於 ICAR 2026（2026/11/11）發表 LX2006 早期臨床（Ph1/2）最新數據：24 個月世代（n=11）mFARS 較 UNIFAI 自然史傾向配對對照組呈統計顯著改善（<b>每年改善 2.13 分，兩年累計 4.26 分</b>）；36 個月子群（n=7）<b>較基線進一步改善逾 4 分</b>（未設同期對照）。心臟指標（LVMI、troponin）亦呈持續改善，惟新聞稿未揭露具體數值。",
     "threatLabel": "低(FA)",
     "links": [
       {
@@ -837,7 +837,7 @@
       "mechanism": "AAV gene therapy<br>raises cardiac frataxin",
       "indication": "Friedreich's ataxia<br>cardiomyopathy",
       "phase": "Registrational trial recruiting",
-      "status": "The <b>SUNRISE-FA 2 pivotal trial (NCT07721025) started on 2026/06/25 and began recruiting in 2026/07</b> (n=26, primary endpoint = change in LV mass index by cardiac MRI); Lexeo is targeting a BLA under the accelerated approval pathway in 2028, with key secondary endpoints including mFARS, KCCQ, high-sensitivity troponin-I and lateral wall thickness. It holds Breakthrough, RMAT, Orphan Drug and Fast Track designations. Interim data showed improvements in cardiac biomarkers and cardiac/neurologic function, with increased frataxin in all participants who had cardiac biopsies.",
+      "status": "The <b>SUNRISE-FA 2 pivotal trial (NCT07721025) started on 2026/06/25 and began recruiting in 2026/07</b> (n=26, primary endpoint = change in LV mass index by cardiac MRI); Lexeo is targeting a BLA under the accelerated approval pathway in 2028, with key secondary endpoints including mFARS, KCCQ, high-sensitivity troponin-I and lateral wall thickness. It holds Breakthrough, RMAT, Orphan Drug and Fast Track designations. Interim data showed improvements in cardiac biomarkers and cardiac/neurologic function, with increased frataxin in all participants who had cardiac biopsies. <b>[Update 2026/11/02]</b> Lexeo announced it will present updated early (Ph1/2) LX2006 data at ICAR 2026 (2026/11/11): the 24-month cohort (n=11) showed a statistically significant mFARS improvement versus a propensity-matched UNIFAI natural-history control (<b>2.13 points/year, 4.26 points cumulative over two years</b>); a 36-month subset (n=7) showed <b>a further improvement of over 4 points versus baseline</b> (no concurrent control). Cardiac measures (LVMI, troponin) also showed continued improvement, though the press release disclosed no specific values.",
       "threatLabel": "Low (FA)",
       "links": [
         {

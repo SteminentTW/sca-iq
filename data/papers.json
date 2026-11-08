@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42998126",
+    "date": "2026-11-07",
+    "dateDisplay": "2026/11/07",
+    "title": "Spinocerebellar ataxia type 2 in a North Indian endogamous community: clinical and genetic insights from multigenerational families.",
+    "journal": "Neurogenetics · Sonakar AK、Faruq M、Garg D、Srivastava AK（印度）",
+    "tag": "SCA2（ATXN2）· 族群遺傳流行病學",
+    "note": "→ 對北印度Banjara族群23個多世代家族共141人進行臨床與基因評估，55名患病或高風險親屬接受ATXN2 CAG重複序列檢測，39人（70.9%）帶有致病性擴增（32人已發病、7人為無症狀帶因者），擴增長度33–48個重複（平均41.6±3.3）；步態共濟失調為最常見起始症狀；CAG重複長度與發病年齡呈負相關（R²=0.71，p<0.0001）。作者呼籲對高風險家族進行早期分子診斷與遺傳諮詢。屬族群遺傳流行病學研究，非競品藥物相關，收錄供SCA2遺傳學文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998126/",
+    "urlLabel": "論文 ↗ PubMed 42998126",
+    "en": {
+      "tag": "SCA2 (ATXN2) · population genetic epidemiology",
+      "journal": "Neurogenetics · Sonakar AK, Faruq M, Garg D, Srivastava AK (India)",
+      "note": "→ Clinical and genetic evaluation of 141 people across 23 multigenerational Banjara families in North India; 55 affected or at-risk relatives were tested for ATXN2 CAG repeat expansions, with 39 (70.9%) carrying pathogenic expansions (32 symptomatic, 7 asymptomatic carriers), expansion length 33–48 repeats (mean 41.6±3.3); gait ataxia was the most common presenting symptom; longer CAG repeats correlated with earlier onset (R²=0.71, p<0.0001). The authors call for early molecular diagnosis and genetic counselling in high-risk families. A population genetic-epidemiology study unrelated to competitor drugs, recorded for SCA2 genetics literature tracking.",
+      "urlLabel": "Paper ↗ PubMed 42998126"
+    }
+  },
+  {
+    "id": "pubmed:42969471",
+    "date": "2026-11-01",
+    "dateDisplay": "2026/11",
+    "title": "A Large Multicenter Cohort of Ataxia-Telangiectasia: Clinical, Immunologic, Genetic, and Survival Outcomes.",
+    "journal": "Eur J Neurol · Fekrvand S、Firouzabadi A、Abolhassani H、Yazdani R 等（伊朗多中心轉介網路）",
+    "tag": "綜述 · 共濟失調微血管擴張症（A-T）大型世代存活分析",
+    "note": "→ 伊朗全國轉介網路2002–2025年登錄之305名A-T患者回溯性世代分析（ESID診斷標準）：平均診斷年齡72.0±46.0個月、平均發病年齡25.2±35.57個月；43.9%首發表現為非神經學症狀，肺炎為第二常見首發表現（13%）且為最常見感染併發症（30.2%）；接受基因檢測者中83.8%（104人）帶有嚴重預測功能喪失變異；84.7%有免疫球蛋白異常，45.6%有類別轉換重組缺陷且與較高臨床併發率相關；<b>中位死亡年齡12.8歲（95% CI 11.0–15.0），5年整體存活率81.6%、10年存活率60.2%</b>，主要死因為惡性腫瘤（28.9%）與呼吸道感染（20.0%）。屬A-T自然史存活數據之客觀彙整，非SCA本身、亦非療效試驗，收錄供共濟失調鄰近領域疾病負擔參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969471/",
+    "urlLabel": "論文 ↗ PubMed 42969471",
+    "en": {
+      "tag": "Review · Ataxia-telangiectasia (A-T) large-cohort survival analysis",
+      "journal": "Eur J Neurol · Fekrvand S, Firouzabadi A, Abolhassani H, Yazdani R, et al. (Iranian multicentre referral network)",
+      "note": "→ Retrospective cohort of 305 A-T patients registered 2002–2025 across Iran's national referral network (ESID diagnostic criteria): mean age at diagnosis 72.0±46.0 months, mean age at onset 25.2±35.57 months; 43.9% first presented with non-neurological features, with pneumonia the second most common presenting feature (13%) and the most frequent infectious complication (30.2%); among those genetically tested, 83.8% (104 patients) carried severe predicted loss-of-function variants; 84.7% had immunoglobulin abnormalities and 45.6% had class-switch recombination defects associated with greater clinical morbidity; <b>median age at death was 12.8 years (95% CI 11.0–15.0), with overall survival of 81.6% at 5 years and 60.2% at 10 years</b>, malignancy (28.9%) and respiratory infection (20.0%) the leading causes of death. An objective synthesis of A-T natural-history survival data — not SCA itself and not a treatment trial — recorded for disease-burden context in the neighbouring-ataxia field.",
+      "urlLabel": "Paper ↗ PubMed 42969471"
+    }
+  },
+  {
     "id": "pubmed:42980994",
     "date": "2026-11-04",
     "dateDisplay": "2026/11/04",

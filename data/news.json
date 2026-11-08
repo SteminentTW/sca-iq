@@ -1,5 +1,31 @@
 [
   {
+    "id": "lexeo-lx2006-icar-2026-11",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11",
+    "level": "hot",
+    "tag": "ICAR 2026 前瞻 · 競品試驗讀出",
+    "body": "<b>Lexeo Therapeutics 宣布將於 ICAR 2026（2026/11/11，Atlanta）口頭發表 LX2006 基因療法治療 Friedreich's Ataxia 之 24/36 個月數據</b>：24 個月世代（n=11）mFARS 較自然史傾向配對對照呈統計顯著改善（每年2.13分，兩年累計4.26分）；36個月子群（n=7）較基線進一步改善逾4分（無同期對照）。",
+    "note": "→ Friedreich's Ataxia屬共濟失調鄰近疾病、非SCA，與Stemchymal®不直接競爭，收錄作同屬再生醫學/基因治療陣營之長期數據參考，詳見 results.json 新增筆目。",
+    "links": [
+      {
+        "label": "新聞稿 ↗ GlobeNewswire 2026/11/02",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3393014/0/en/lexeo-therapeutics-to-present-multiple-oral-and-poster-presentations-at-key-scientific-conferences-in-november.html"
+      }
+    ],
+    "en": {
+      "tag": "ICAR 2026 preview · competitor trial readout",
+      "body": "<b>Lexeo Therapeutics announced it will give an oral presentation at ICAR 2026 (2026/11/11, Atlanta)</b> of 24/36-month data for its LX2006 gene therapy in Friedreich's ataxia: the 24-month cohort (n=11) showed a statistically significant mFARS improvement versus a propensity-matched natural-history control (2.13 points/year, 4.26 points over two years); a 36-month subset (n=7) showed a further improvement of over 4 points versus baseline (no concurrent control).",
+      "note": "→ Friedreich's ataxia is a neighbouring ataxia, not SCA, so it does not directly compete with Stemchymal®; recorded as long-term reference data within the broader regenerative/gene-therapy camp — see the new entry in results.json.",
+      "links": [
+        {
+          "label": "Press release ↗ GlobeNewswire 2026/11/02",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393014/0/en/lexeo-therapeutics-to-present-multiple-oral-and-poster-presentations-at-key-scientific-conferences-in-november.html"
+        }
+      ]
+    }
+  },
+  {
     "id": "biohaven-resubmission-2026-10",
     "date": "2026-10-22",
     "dateDisplay": "2026/10",
@@ -144,49 +170,6 @@
         {
           "label": "Media report ↗ BioSpace",
           "url": "https://www.biospace.com/fda/biohaven-takes-another-hit-as-fda-pauses-enrollment-in-pivotal-trials-for-embattled-epilepsy-drug"
-        }
-      ]
-    }
-  },
-  {
-    "id": "intrabio-at-approval-2026-09",
-    "date": "2026-09-19",
-    "dateDisplay": "2026/09",
-    "level": "hot",
-    "tag": "監管里程碑 · 已核准",
-    "body": "<b>共濟失調圈層出現第一個以 SARA 為註冊主要指標獲 FDA 核准的案例</b>：IntraBio 的 levacetylleucine（AQNEURSA®）於 <b>2026/09/19</b>（PDUFA 行動日當天）獲 FDA 核准，用於治療<b>毛細血管擴張性共濟失調（A-T，體重≥15公斤之成人與兒童）</b>的共濟失調症狀——為<b>全球第一個 A-T 核准療法</b>。核准依據為樞紐三期 <b>IB1001-303（NCT06673056）</b>，公司與 FDA 均稱其<b>主要指標與全部關鍵次要指標達統計顯著</b>。同成分已以 Aqneursa 於 Niemann-Pick C 上市。",
-    "note": "→ <b>對本公司有兩層意義，方向相反</b>。（一）<b>有利</b>：這是共濟失調領域<b>第一個以 SARA 為註冊主要指標走完 FDA 審查並獲准</b>的案例，等於替「SARA 可作為註冊終點」建立監管先例，對本公司以 SARA 為主要指標的開發路徑是外部背書。（二）<b>警訊</b>：同一分子的 IB1001-304 明列 <b>SCA6</b>、與本公司日本申請適應症正面重疊；此次 A-T 率先核准後，該分子在共濟失調醫師社群的熟悉度、安全性資料庫與給付路徑都已領先本公司一步。⚠️ <b>FDA 與公司公告均未附具體數值、p 值或效果量</b>（IB1001-303 於 2026/05 首度揭露時亦同）。",
-    "links": [
-      {
-        "label": "FDA 核准公告 ↗ 2026/09/19",
-        "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder"
-      },
-      {
-        "label": "報導 ↗ NeurologyLive",
-        "url": "https://www.neurologylive.com/view/fda-approves-aqneursa-ataxia-telangiectasia"
-      },
-      {
-        "label": "樞紐試驗登錄 ↗ NCT06673056",
-        "url": "https://clinicaltrials.gov/study/NCT06673056"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/09",
-      "tag": "Regulatory milestone · approved",
-      "body": "<b>The ataxia ring now has its first FDA approval of a filing whose registrational primary endpoint was SARA</b>: IntraBio's levacetylleucine (AQNEURSA®) was approved by the FDA on <b>2026/09/19</b> (its PDUFA action date) to treat ataxia symptoms in <b>ataxia-telangiectasia (A-T, adults and children ≥15 kg)</b> — the <b>first approved therapy for A-T anywhere</b>. The approval rests on the pivotal Phase 3 <b>IB1001-303 (NCT06673056)</b>, which the company and the FDA both describe as meeting its primary endpoint and all key secondary endpoints with statistical significance. The same molecule is already marketed as Aqneursa in Niemann-Pick disease type C.",
-      "note": "→ <b>Two implications for us, pointing in opposite directions.</b> (1) <b>In our favour</b>: this is <b>the first filing in the ataxia field to complete FDA review and be approved with SARA as its registrational primary endpoint</b>, establishing the precedent that SARA can serve as a registrational endpoint — external validation of our own SARA-based development path. (2) <b>A warning</b>: the same molecule's IB1001-304 explicitly lists <b>SCA6</b>, overlapping the indication in our Japan filing directly, and having secured the A-T approval first, it now leads us in physician familiarity, safety database and reimbursement pathway across the ataxia community. ⚠️ <b>Neither the FDA announcement nor the company has released specific figures, p-values or effect sizes</b> (also true of IB1001-303's initial disclosure in 2026/05).",
-      "links": [
-        {
-          "label": "FDA approval announcement ↗ 2026/09/19",
-          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-therapy-treat-ataxia-patients-ataxia-telangiectasia-rare-genetic-disorder"
-        },
-        {
-          "label": "Coverage ↗ NeurologyLive",
-          "url": "https://www.neurologylive.com/view/fda-approves-aqneursa-ataxia-telangiectasia"
-        },
-        {
-          "label": "Pivotal trial registration ↗ NCT06673056",
-          "url": "https://clinicaltrials.gov/study/NCT06673056"
         }
       ]
     }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "lexeo-lx2006-icar-2026-11",
+    "date": "2026-11-02",
+    "dateDisplay": "2026/11",
+    "competitor": "Lexeo Therapeutics",
+    "drug": "LX2006（AAVrh.10hFXN）",
+    "trial": "Ph1/2（NCT05445323）24/36個月世代",
+    "sourceType": "新聞稿",
+    "level": "hot",
+    "readout": "Lexeo於<b>2026/11/02</b>宣布將於ICAR 2026（2026/11/11，Atlanta）口頭發表LX2006（AAV基因療法，提升心肌frataxin）治療Friedreich's Ataxia之Ph1/2最新數據：<b>24個月世代（n=11）mFARS較UNIFAI自然史傾向配對對照組呈統計顯著改善（每年改善2.13分，兩年累計4.26分）</b>；<b>36個月子群（n=7）較基線進一步改善逾4分</b>（此為對基線、非對同期對照之比較）。公司另稱心臟指標（左心室質量指數LVMI、troponin）亦呈持續改善，<b>但新聞稿未揭露具體數值</b>。安全性方面新聞稿未揭露SAE資訊。",
+    "implication": "→ Friedreich's Ataxia屬共濟失調鄰近疾病而非SCA本身，LX2006與Stemchymal®不直接競爭；惟作為另一款以基因療法／細胞生物標記驅動之再生醫學型療法，其mFARS長期數據（尤其36個月子群缺乏同期對照、樣本量僅7人，證據強度有限）可作為同屬再生醫學／細胞基因治療陣營之參考基準，不預判對本公司之直接影響。",
+    "links": [
+      {
+        "label": "新聞稿 ↗ GlobeNewswire 2026/11/02",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3393014/0/en/lexeo-therapeutics-to-present-multiple-oral-and-poster-presentations-at-key-scientific-conferences-in-november.html"
+      }
+    ],
+    "en": {
+      "trial": "Ph1/2 (NCT05445323) 24/36-month cohorts",
+      "sourceType": "Press release",
+      "readout": "On <b>2026/11/02</b> Lexeo announced it will give an oral presentation at ICAR 2026 (2026/11/11, Atlanta) of updated Ph1/2 data for LX2006 (an AAV gene therapy that raises cardiac frataxin) in Friedreich's ataxia: the <b>24-month cohort (n=11) showed a statistically significant mFARS improvement versus a propensity-matched UNIFAI natural-history control (2.13 points/year, 4.26 points cumulative over two years)</b>; a <b>36-month subset (n=7) showed a further improvement of over 4 points versus baseline</b> (a baseline, not a concurrent-control, comparison). The company also states cardiac measures (LVMI, troponin) show continued improvement, <b>but the release disclosed no specific values</b>. The release disclosed no SAE/safety data.",
+      "implication": "→ Friedreich's ataxia is a neighbouring ataxia, not SCA itself, so LX2006 does not directly compete with Stemchymal®; as another regenerative-medicine-style therapy (gene therapy with a cellular/biomarker mechanism), though, its long-term mFARS data — particularly the 36-month subset, which lacks a concurrent control and has only 7 participants, limiting its evidentiary strength — can serve as a reference benchmark within the broader regenerative/cell-and-gene-therapy camp; no direct implication for Steminent is asserted.",
+      "links": [
+        {
+          "label": "Press release ↗ GlobeNewswire 2026/11/02",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393014/0/en/lexeo-therapeutics-to-present-multiple-oral-and-poster-presentations-at-key-scientific-conferences-in-november.html"
+        }
+      ]
+    }
+  },
+  {
     "id": "biohaven-resubmission-2026-10",
     "date": "2026-10-22",
     "dateDisplay": "2026/10",

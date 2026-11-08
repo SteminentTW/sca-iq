@@ -1,11 +1,32 @@
 [
   {
+    "date": "2026-11-08",
+    "dateDisplay": "2026/11/08",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 2 則科學文獻（SCA2 北印度族群基因流行病學研究，Neurogenetics；A-T 大型多中心世代存活分析，Eur J Neurol）。CT.gov 五組適應症查詢與主動發現廣掃均無新競品試驗；已掃各既有競品試驗之最新登錄狀態，無需更新之實質變更。 另新增 Lexeo LX2006（Friedreich's Ataxia 基因療法）將於 ICAR 2026 發表之24/36個月期中數據讀出（results.json／news.json），並於competitors.json lexeo條目補記。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 2 papers (SCA2 genetic epidemiology in a North Indian community, Neurogenetics; large multicentre A-T cohort survival analysis, Eur J Neurol). The 5-condition-group CT.gov queries and the broad new-competitor scan found no new competitor trials; existing tracked trials' latest registry updates were checked and none required a substantive status change. Also added Lexeo's upcoming ICAR 2026 24/36-month LX2006 (Friedreich's ataxia gene therapy) interim data readout (results.json / news.json), with a corresponding note added to the lexeo entry in competitors.json.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-06",
     "dateDisplay": "2026/11/06",
     "tag": "每日掃描",
     "level": "info",
     "body": "新增 2 則科學文獻（SCA6 合併常壓性水腦症個案報告，Cerebellum；SCA1 病人來源 iPSC 神經元鈣離子失調模型，Genes Dis）。",
-    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
     "en": {
       "tag": "Daily scan",
       "body": "Added 2 papers (SCA6 with coexisting normal-pressure hydrocephalus case report, Cerebellum; SCA1 patient-derived iPSC neuronal model of calcium mishandling, Genes Dis).",
@@ -18,7 +39,11 @@
     "tag": "每日掃描 · 試驗登錄更新",
     "level": "info",
     "body": "更新 IntraBio levacetylleucine A-T 樞紐 Ph3（IB1001-303，NCT06673056）：登錄於 2026/11/04 更新，但狀態仍為停止收案、試驗進行中，主要完成日仍登錄為預估 2027/12/31，與 2026/09/19 已獲 FDA 核准之進度脫節；試驗卡已改寫原「登錄自 2025-07-03 起未再更新」的說明並補註核准。",
-    "link": { "label": "詳見 試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
     "en": {
       "tag": "Daily scan · registry update",
       "body": "Updated IntraBio's levacetylleucine A-T pivotal Ph3 (IB1001-303, NCT06673056): the registration was updated on 2026/11/04 but still shows active, not recruiting with an estimated primary completion of 2027/12/31, out of step with the FDA approval on 2026/09/19; the trial card's earlier note that the record had not been updated since 2025-07-03 has been rewritten and the approval noted.",
@@ -31,7 +56,11 @@
     "tag": "每日掃描 · 試驗狀態變更",
     "level": "info",
     "body": "更新 IntraBio levacetylleucine（IB1001-304）CACNA1A 樞紐 Ph3 試驗（NCT07221292）：登錄於 2026/11/03 由收案中轉為<b>停止收案、試驗進行中</b>，收案數仍登錄為預估 60 人；現行登錄主要完成日為 2028/05/01，與本站先前記載的 2027/05/01 不一致，已並列標示。",
-    "link": { "label": "詳見 試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
     "en": {
       "tag": "Daily scan · trial status change",
       "body": "Updated IntraBio's levacetylleucine (IB1001-304) pivotal Ph3 trial in CACNA1A disorders (NCT07221292): on 2026/11/03 the registry moved from recruiting to <b>active, not recruiting</b>, with enrolment still registered as an estimated 60; the current registry primary completion date of 2028/05/01 differs from the 2027/05/01 this site recorded earlier, and both are flagged.",
