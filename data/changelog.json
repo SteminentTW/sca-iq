@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-10",
+    "dateDisplay": "2026/11/10",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-09，缺口0天，屬正常每日掃描。CT.gov五組適應症查詢＋主動發現廣掃（含亞型/基因標的查詢：SCA1/2/3/6/7、Machado-Joseph、polyglutamine ataxia）比對既有試驗清單：近7天內更新且不在清單內者均已逐筆核對為不符合收錄準則的既有已知排除項（自然史/登記研究、純觀察性生物標記或認知特徵化研究、復健平台、DBS/經顱刺激等裝置類介入、SBMA查詢混入之前列腺癌去雄性素藥物試驗），<b>本次CT.gov無新增競品試驗</b>。§1b-2已知資產點名查核與events.json會議雷達週檢均於昨日（2026-11-09）剛執行，未逾週，本次不重複；<b>ICAR 2026（國際共濟失調研究大會）今日於亞特蘭大開幕</b>，官網議程/摘要仍未公開張貼，留待後續掃描追蹤發表內容。patents.json／exclusivity.json月檢上次為2026-10-23，未逾月檢週期。PubMed近7天查詢命中1篇新文獻（PMID 43005023，A-T病人嚴重動脈粥狀硬化性血脂異常個案報告，Yale J Biol Med），經核對內容為脂質異常之內科處置（statin/ezetimibe/evolocumab），與SCA/共濟失調疾病修飾療法或追蹤資產無關，<b>依既有排除原則本次不收錄</b>。公司/產業新聞WebSearch（Steminent Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、Larimar nomlabofusp）均查無2026年11月之新進展，<b>本次無新增可查證內容</b>。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last genuine publish was 2026-11-09, a 0-day gap, so this is a normal daily scan. The five CT.gov condition queries plus the proactive broad scan (including subtype/gene-target queries for SCA1/2/3/6/7, Machado-Joseph and polyglutamine ataxia) were checked against the existing trial list: every hit updated within 7 days and not already listed was individually confirmed to fall under already-established exclusion categories (natural-history/registry studies, purely observational biomarker or cognitive-characterisation studies, rehab platforms, device-based interventions such as DBS or transcranial stimulation, and the androgen-receptor prostate-cancer drug trials that the SBMA query pulls in) — <b>no new competitor trial was added this round</b>. The §1b-2 known-asset roll call and the events.json weekly review were both just run yesterday (2026-11-09) and are not yet due, so neither was repeated today. <b>ICAR 2026 (the International Congress for Ataxia Research) opens today in Atlanta</b>; its program and abstracts are still not publicly posted, to be tracked in a future scan. The patents.json/exclusivity.json monthly review was last run 2026-10-23 and is not yet due. PubMed's 7-day window returned 1 new hit (PMID 43005023, a case report of severe atherogenic dyslipidemia in a patient with ataxia-telangiectasia, Yale J Biol Med); on review it concerns internal-medicine management of a lipid disorder (statins/ezetimibe/evolocumab) and has no bearing on any SCA/ataxia disease-modifying therapy or tracked asset, so <b>per the existing exclusion principle it was not added</b>. Company/industry news WebSearches (Steminent Stemchymal, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2, Larimar nomlabofusp) found no verifiable November 2026 developments; <b>no new entries were added to the site today</b>.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-09",
     "dateDisplay": "2026/11/09",
     "tag": "每日掃描 · 已知資產點名查核 · 會議雷達週檢",
