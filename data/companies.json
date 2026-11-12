@@ -2992,5 +2992,32 @@
       "insight": "An off-list player picked up by the 2026/10/13 sweep, never previously captured on this platform. It announced FDA IND clearance (a new capsule formulation) in 2026/08 and states it observed a frataxin-elevation signal in patient PBMCs in a separate obesity trial, a company claim with no supporting peer-reviewed literature found."
     },
     "cat": "sca"
+  },
+  {
+    "id": "neurocrine",
+    "name": "Neurocrine Biosciences",
+    "nameEn": "Neurocrine Biosciences, Inc.",
+    "short": "Neurocrine",
+    "country": "美國 USA",
+    "ticker": "NASDAQ: NBIX",
+    "mechanism": "AAV基因療法（Voyager Therapeutics TRACER改造型囊膜），靜脈輸注遞送frataxin（FXN）基因",
+    "pipeline": "NBIB-0000223｜Friedreich's Ataxia：Ph1/2首次人體試驗（FACET，NCT07934303）尚未招募",
+    "insight": "2026/11/12主動掃描新發現：首次臨床試驗登錄，此前僅見於產業追蹤清單（FARA管線頁），未曾登錄臨床試驗。源自Neurocrine與Voyager Therapeutics 2019年基因療法合作案（Voyager最高可獲12.9億美元里程金），候選分子2024/02選定，已獲FDA孤兒藥資格。目前僅規劃FA適應症，未見延伸SCA之公開資訊。",
+    "threat": "low",
+    "url": "https://clinicaltrials.gov/study/NCT07934303",
+    "match": [
+      "Neurocrine Biosciences",
+      "Neurocrine",
+      "NBIB-223",
+      "NBIB-0000223"
+    ],
+    "updates": [],
+    "en": {
+      "country": "USA",
+      "mechanism": "AAV gene therapy (Voyager Therapeutics' engineered TRACER capsid), IV infusion delivering the frataxin (FXN) gene",
+      "pipeline": "NBIB-0000223 | Friedreich's ataxia: Ph1/2 first-in-human trial (FACET, NCT07934303) not yet recruiting",
+      "insight": "An off-list player picked up by the 2026/11/12 sweep: its first clinical trial registration, having previously appeared only on industry tracking lists (FARA's pipeline page) with no registered trial until now. It originated from Neurocrine's 2019 gene-therapy collaboration with Voyager Therapeutics (up to $1.3B in potential milestones to Voyager); the candidate was selected in 2024/02 and holds FDA orphan drug designation. The programme is currently planned for FA only, with no announced SCA extension."
+    },
+    "cat": "sca"
   }
 ]

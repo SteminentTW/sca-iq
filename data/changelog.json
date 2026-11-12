@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-12",
+    "dateDisplay": "2026/11/12",
+    "tag": "每日掃描 · 新增競品",
+    "level": "info",
+    "body": "上次真正發布為2026-11-11，缺口0天，屬正常每日掃描、無需補跑（2026-11-11當日無新內容，僅更新meta.json掃描心跳）。CT.gov五組適應症查詢＋主動發現廣掃（含亞型/基因標的查詢：SCA1/2/3/6/7、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia）比對既有55筆試驗清單，發現<b>新增1筆競品試驗：Neurocrine Biosciences NBIB-0000223（NCT07934303，FACET）</b>——2026/11/12首次登錄上線之Ph1/2首次人體試驗，為AAV基因療法（採用Voyager Therapeutics TRACER改造型囊膜）靜脈輸注遞送frataxin基因治療Friedreich's Ataxia，尚未招募。該分子源自Neurocrine與Voyager 2019年合作案（Voyager最高可獲12.9億美元里程金），候選分子2024/02選定、已獲FDA孤兒藥資格，此前僅見於FARA產業管線追蹤頁、從未登錄臨床試驗，為清單外主動發現之新業者，已於trials.json／competitors.json（ring:ataxia）／companies.json三處補齊建檔。其餘候選皆核對為既有已知排除項：NCT02741440（SCA7自然史登記）、NCT07930481（脊髓刺激裝置）、NCT05252819（A-T MRI監測）、NCT06692296（平衡訓練復健裝置）、NCT07095062（EEG連結體觀察研究）均無介入性療法或已重複收錄；NCT07105371（Kennedy氏症／ALS等多病症外泌體療法）經查為私人診所發起之非特定病症開放式試驗、入選標準未限定基因確診SBMA，依既有排除原則不收錄。§1b-2已知資產點名查核與events.json會議雷達週檢均於2026-11-09執行，距今3天未逾週，本次不重複；patents.json／exclusivity.json月檢上次為2026-10-23，未逾月檢週期。PubMed近7天查詢僅命中PMID 42998126（已收錄），無新文獻。公司/產業新聞WebSearch（Steminent Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2）查得內容均為本站已收錄之既有事實，無新進展。weekNewCount本週累計更新為1。",
+    "link": {
+      "label": "詳見 競品全景表 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan · new competitor",
+      "body": "Last genuine publish was 2026-11-11, a 0-day gap, so this is a normal daily scan (2026-11-11 had no new content and only updated meta.json's scan heartbeat). The five CT.gov condition queries plus the proactive broad scan (including subtype/gene-target queries for SCA1/2/3/6/7, Machado-Joseph, ATXN1/2/3/7 and polyglutamine ataxia) were checked against the existing 55-trial list, turning up <b>one new competitor trial: Neurocrine Biosciences' NBIB-0000223 (NCT07934303, FACET)</b> — a Phase 1/2 first-in-human trial newly posted 2026/11/12, an AAV gene therapy (using Voyager Therapeutics' engineered TRACER capsid) delivering the frataxin gene by IV infusion for Friedreich's ataxia, not yet recruiting. The molecule originated from Neurocrine's 2019 collaboration with Voyager (up to $1.3B in potential milestones to Voyager); the candidate was selected in 2024/02 and holds FDA orphan drug designation, having previously appeared only on FARA's industry pipeline tracker with no registered trial until now — an off-list player caught by the proactive-discovery sweep, now recorded in trials.json, competitors.json (ring: ataxia) and companies.json. All other candidate hits were confirmed as already-established exclusions: NCT02741440 (SCA7 natural-history registry), NCT07930481 (spinal stimulation device), NCT05252819 (A-T MRI surveillance), NCT06692296 (balance-training rehab device) and NCT07095062 (EEG connectome observational study) all lack an interventional therapy or are already recorded; NCT07105371 (an exosome therapy trial spanning Kennedy disease/ALS and other conditions) was found, on review, to be a non-specific open trial run by a private clinic with no genetically-confirmed-SBMA eligibility requirement, so it was excluded per the existing exclusion principle. The §1b-2 known-asset roll call and the events.json weekly review were both run on 2026-11-09, only 3 days ago and not yet due for repetition; the patents.json/exclusivity.json monthly review was last run 2026-10-23 and is not yet due. PubMed's 7-day window returned only PMID 42998126 (already recorded), no new literature. Company/industry news WebSearches (Steminent Stemchymal, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2) found only developments already recorded on the site, nothing new. weekNewCount for this week is now 1.",
+      "linkLabel": "See Competitor Landscape ↗"
+    }
+  },
+  {
     "date": "2026-11-10",
     "dateDisplay": "2026/11/10",
     "tag": "每日掃描",

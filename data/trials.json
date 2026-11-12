@@ -1,5 +1,22 @@
 [
   {
+    "nct": "NCT07934303",
+    "drug": "NBIB-0000223（Voyager TRACER AAV 基因療法）",
+    "mechanism": "AAV 基因療法（Voyager TRACER 改造型囊膜，設計強化血腦屏障穿透與中樞遞送）<br>靜脈輸注遞送 frataxin（FXN）基因",
+    "phase": "Ph1/2（FACET，首次人體、劑量遞增）",
+    "status": "2026/11/12 新登錄上線，尚未招募。設計分三部分：成人劑量遞增（Part A）、兒童劑量擴展（Part B）、合併 FA 相關心肌病變之成人／兒童劑量擴展（Part C），預估收案24人，主要完成日估2028/11。NBIB-223 源自 Voyager Therapeutics 與 Neurocrine 2019 年合作（Voyager 最高可獲12.9億美元里程金），已獲FDA孤兒藥資格，候選分子2024/02選定，本次為首次臨床試驗登錄。",
+    "sponsor": "Neurocrine Biosciences（與 Voyager Therapeutics 合作開發）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT07934303",
+    "en": {
+      "drug": "NBIB-0000223 (Voyager TRACER AAV gene therapy)",
+      "mechanism": "AAV gene therapy (Voyager's engineered TRACER capsid, designed for enhanced blood-brain-barrier penetration and CNS delivery)<br>IV infusion delivering the frataxin (FXN) gene",
+      "phase": "Ph1/2 (FACET, first-in-human dose escalation)",
+      "status": "Newly posted 2026/11/12; not yet recruiting. Three-part design: adult dose escalation (Part A), paediatric dose expansion (Part B), and adult/paediatric dose expansion in participants with FA-related cardiomyopathy (Part C); estimated enrollment 24; estimated primary completion 2028/11. NBIB-223 originated from Voyager Therapeutics' 2019 collaboration with Neurocrine (up to $1.3B in potential milestones to Voyager), has FDA orphan drug designation, and the candidate was selected in 2024/02; this is its first clinical trial registration.",
+      "sponsor": "Neurocrine Biosciences (developed in collaboration with Voyager Therapeutics)"
+    }
+  },
+  {
     "nct": "NCT06865482",
     "drug": "CLARITY-FA（觀察性登記，非介入性）",
     "mechanism": "<b>自然史／登記研究</b>：描述 Friedreich's Ataxia 相關心肌病變（FA-CM）患者之疾病病程特徵，非藥物試驗<br>由 LX2006 開發商 Lexeo 自行發起，疑為支持其 AAV 基因療法樞紐試驗（NCT07721025）之心臟終點與自然史對照資料佈局",

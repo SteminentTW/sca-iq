@@ -1221,5 +1221,46 @@
         }
       ]
     }
+  },
+  {
+    "id": "neurocrine",
+    "ring": "ataxia",
+    "threat": "low",
+    "company": "Neurocrine Biosciences（美國，與 Voyager Therapeutics 合作）",
+    "asset": "NBIB-0000223",
+    "mechanism": "AAV 基因療法（Voyager TRACER 改造型囊膜，設計強化血腦屏障穿透）<br>靜脈輸注遞送 frataxin（FXN）基因",
+    "indication": "Friedreich's Ataxia",
+    "phase": "Ph1/2（FACET，尚未招募）",
+    "status": "2026/11/12 主動掃描新發現：首次臨床試驗登錄 <b>NCT07934303</b>（FACET），尚未招募，分成人劑量遞增、兒童劑量擴展、合併心肌病變族群劑量擴展三部分，估收案24人、主要完成日2028/11。NBIB-223 源自 Neurocrine 與 Voyager Therapeutics 2019 年基因療法合作案（Voyager 最高可獲12.9億美元里程金），候選分子2024/02選定，已獲FDA孤兒藥資格，此前僅見於產業追蹤清單（FARA 管線頁），未曾登錄臨床試驗。目前僅規劃 FA 適應症，未見延伸 SCA 之公開資訊。",
+    "threatLabel": "低(早期)",
+    "links": [
+      {
+        "label": "試驗 ↗ NCT07934303",
+        "url": "https://clinicaltrials.gov/study/NCT07934303"
+      },
+      {
+        "label": "FARA 藥物管線頁 ↗",
+        "url": "https://www.curefa.org/drug-development/neurocrine-biosciences-voyager-therapeutics-aav-gene-therapy/"
+      }
+    ],
+    "en": {
+      "company": "Neurocrine Biosciences (USA, in collaboration with Voyager Therapeutics)",
+      "asset": "NBIB-0000223",
+      "mechanism": "AAV gene therapy (Voyager's engineered TRACER capsid, designed for enhanced blood-brain-barrier penetration)<br>IV infusion delivering the frataxin (FXN) gene",
+      "indication": "Friedreich's ataxia",
+      "phase": "Ph1/2 (FACET, not yet recruiting)",
+      "status": "An off-list player newly found by the 2026/11/12 active-discovery sweep: its first clinical trial registration, <b>NCT07934303</b> (FACET), is not yet recruiting, with three parts — adult dose escalation, paediatric dose expansion, and dose expansion in participants with FA-related cardiomyopathy; estimated enrollment 24, estimated primary completion 2028/11. NBIB-223 originated from Neurocrine's 2019 gene-therapy collaboration with Voyager Therapeutics (up to $1.3B in potential milestones to Voyager); the candidate was selected in 2024/02 and holds FDA orphan drug designation. It had previously appeared only on industry tracking lists (FARA's pipeline page) with no registered clinical trial until now. The programme is currently planned for FA only, with no announced SCA extension.",
+      "threatLabel": "Low (early-stage)",
+      "links": [
+        {
+          "label": "Trial ↗ NCT07934303",
+          "url": "https://clinicaltrials.gov/study/NCT07934303"
+        },
+        {
+          "label": "FARA pipeline page ↗",
+          "url": "https://www.curefa.org/drug-development/neurocrine-biosciences-voyager-therapeutics-aav-gene-therapy/"
+        }
+      ]
+    }
   }
 ]
