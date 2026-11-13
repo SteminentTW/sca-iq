@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42839692",
+    "date": "2026-11-13",
+    "dateDisplay": "2026/11/13",
+    "title": "The Ataxias as an Example of Rare Diseases: Diagnosis, Genetics, and Treatment.",
+    "journal": "Dtsch Arztebl Int · Erdlenbruch F、Thieme A、Depienne C、Haack TB、Faber J、Timmann D（德國）",
+    "tag": "綜述 · 共濟失調診斷/遺傳學/治療總覽",
+    "note": "→ 德國神經學會指引為基礎之敘述性綜述：常見遺傳性共濟失調（Friedreich's ataxia、RFC1-CANVAS、SCA3、SCA27B等）可先憑病史、神經學檢查與腦部MRI初步判斷再以基因檢測確診；MSA-C為散發型；急性/亞急性病程提示免疫介導性共濟失調或維生素B1缺乏（Wernicke氏腦病）等後天型。文中提及<b>Omaveloxolone已核准用於治療Friedreich's ataxia</b>，二期試驗103名患者48週後mFARS平均改善1.55分（安慰劑組惡化0.85分）；Fampridine則為陣發性共濟失調、下跳性眼震與SCA27B之仿單外使用。結論指出基因與免疫學診斷技術持續進步，治療選項仍有限但包括基因治療之新療法持續開發中。屬疾病領域總覽型文獻，非單一競品專論，收錄供共濟失調診斷/治療現況參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839692/",
+    "urlLabel": "論文 ↗ PubMed 42839692",
+    "en": {
+      "tag": "Review · Ataxia diagnosis/genetics/treatment overview",
+      "journal": "Dtsch Arztebl Int · Erdlenbruch F, Thieme A, Depienne C, Haack TB, Faber J, Timmann D (Germany)",
+      "note": "→ A narrative review based on German Society for Neurology guidelines: common hereditary ataxias (Friedreich ataxia, RFC1-CANVAS, SCA3, SCA27B, etc.) can often receive a presumptive diagnosis from history, neurological exam and brain MRI before genetic confirmation; MSA-C arises sporadically; a subacute course suggests immune-mediated ataxia or vitamin B1 deficiency (Wernicke encephalopathy). The review notes <b>omaveloxolone is approved for Friedreich ataxia</b>, with a phase 2 trial of 103 patients showing a mean 1.55-point mFARS improvement at 48 weeks versus 0.85-point worsening with placebo; fampridine is used off-label for episodic ataxias, downbeat nystagmus and SCA27B. The authors conclude that genetic and immunological diagnostics keep improving while treatment options remain limited, with new therapies including gene therapy under development. A field-overview review rather than a single-competitor study, recorded for ataxia diagnosis/treatment landscape reference.",
+      "urlLabel": "Paper ↗ PubMed 42839692"
+    }
+  },
+  {
+    "id": "pubmed:43019767",
+    "date": "2026-11-09",
+    "dateDisplay": "2026/11/09",
+    "title": "Establishment of an induced pluripotent stem cell (iPSC) line (INNDSUi012-A) from a patient with Spinocerebellar ataxia type 2.",
+    "journal": "Stem Cell Res · Wang H、Li J、Wang Y、Liu F、Liu J（中國・山東大學齊魯醫院）",
+    "tag": "SCA2（ATXN2）· iPSC 細胞模型資源",
+    "note": "→ 以非整合型重編程技術自一名14歲SCA2男性患者（ATXN2外顯子1致病性CAG重複擴增）皮膚纖維母細胞建立人類iPSC細胞株INNDSUi012-A，具多能性標記表現與三胚層分化能力，並保留患者特異ATXN2突變與遺傳背景，可作為SCA2致病機轉研究與潛在治療策略開發之細胞模型。屬基礎研究資源型論文，非競品藥物試驗，收錄供SCA2細胞模型文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43019767/",
+    "urlLabel": "論文 ↗ PubMed 43019767",
+    "en": {
+      "tag": "SCA2 (ATXN2) · iPSC cellular-model resource",
+      "journal": "Stem Cell Res · Wang H, Li J, Wang Y, Liu F, Liu J (Qilu Hospital of Shandong University, China)",
+      "note": "→ Using a non-integrating reprogramming approach, the authors established a human iPSC line (INNDSUi012-A) from skin fibroblasts of a 14-year-old male SCA2 patient carrying a pathogenic CAG repeat expansion in ATXN2 exon 1; the line shows pluripotency markers and trilineage differentiation capacity while retaining the patient-specific ATXN2 mutation and genetic background, providing a cellular model for studying SCA2 pathogenesis and candidate therapeutic strategies. A basic-research resource paper, not a competitor drug trial, recorded for SCA2 cellular-model literature tracking.",
+      "urlLabel": "Paper ↗ PubMed 43019767"
+    }
+  },
+  {
     "id": "pubmed:42998126",
     "date": "2026-11-07",
     "dateDisplay": "2026/11/07",

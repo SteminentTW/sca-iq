@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-13",
+    "dateDisplay": "2026/11/13",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-12，缺口0天，屬正常每日掃描、無需補跑。CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（含亞型/基因標的查詢：Machado-Joseph、SCA1、SCA6）比對既有55筆試驗清單：近7天內更新且不在清單內者逐筆核對——NCT07930481（脊髓刺激裝置）、NCT02741440（SCA7自然史登記）、NCT07105371（Kennedy氏症／ALS等多病症外泌體療法，私人診所非特定病症開放式試驗）均為既有已知排除項；SBMA查詢另混入NCT07190300（Novartis Tulmimetostat併用Darolutamide／Abiraterone），經查適應症為轉移性去性激素敏感前列腺癌，為AR同義詞擴展灌入之無關試驗，不收錄。<b>本次CT.gov無新增競品試驗</b>。PubMed近7天查詢新增2則文獻：(1) SCA2患者來源iPSC細胞株INNDSUi012-A建立（Stem Cell Res，山東大學齊魯醫院）——基礎研究資源，供SCA2細胞模型文獻追蹤；(2) 共濟失調診斷/遺傳學/治療總覽綜述（Dtsch Arztebl Int，德國神經學會指引），文中提及Omaveloxolone核准現況與Fampridine仿單外使用，屬領域總覽非單一競品專論。兩則均已查證收錄papers.json。公司/產業新聞WebSearch（Steminent Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、Biogen BIIB132）查得內容均為本站已收錄之既有事實，無新進展。§1b-2已知資產點名查核與events.json會議雷達週檢上次執行於2026-11-09，距今4天未逾週，本次不重複；patents.json／exclusivity.json月檢上次為2026-10-23，未逾月檢週期（21天）。weekNewCount本週累計更新為2。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-12, a 0-day gap, so this is a normal daily scan with no backfill needed. The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the proactive broad scan (including subtype/gene-target queries for Machado-Joseph, SCA1, SCA6) were checked against the existing 55-trial list: hits updated within 7 days and not already on the list were reviewed one by one — NCT07930481 (spinal stimulation device), NCT02741440 (SCA7 natural-history registry) and NCT07105371 (an exosome-therapy trial spanning Kennedy disease/ALS and other conditions, a non-specific open trial run by a private clinic) are all already-established exclusions; the SBMA query also pulled in NCT07190300 (Novartis' tulmimetostat combined with darolutamide/abiraterone), which on review targets metastatic hormone-sensitive prostate cancer — an irrelevant trial swept in by the androgen-receptor synonym expansion, not recorded. <b>No new competitor trials from CT.gov this time.</b> PubMed's 7-day window turned up 2 new papers: (1) establishment of a patient-derived SCA2 iPSC line, INNDSUi012-A (Stem Cell Res, Qilu Hospital of Shandong University) — a basic-research resource recorded for SCA2 cellular-model literature tracking; (2) a review of ataxia diagnosis, genetics and treatment (Dtsch Arztebl Int, German Society for Neurology guidelines), which touches on omaveloxolone's approval status and fampridine's off-label use — a field-overview review rather than a single-competitor study. Both have been verified and recorded in papers.json. Company/industry news WebSearches (Steminent Stemchymal, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2, Biogen BIIB132) found only developments already recorded on the site, nothing new. The §1b-2 known-asset roll call and the events.json weekly review were both last run on 2026-11-09, 4 days ago and not yet due for repetition; the patents.json/exclusivity.json monthly review was last run 2026-10-23 and is not yet due (21 days). weekNewCount for this week is now 2.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-12",
     "dateDisplay": "2026/11/12",
     "tag": "每日掃描 · 新增競品",
