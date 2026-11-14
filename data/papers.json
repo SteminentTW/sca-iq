@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43027872",
+    "date": "2026-10-27",
+    "dateDisplay": "2026/10/27",
+    "title": "Natural Medicines Targeting Mitochondrial Dysfunction in Spinocerebellar Ataxia Type 3: A Narrative Review of Cellular and Molecular Events.",
+    "journal": "Int J Mol Sci · Kmail M、Suaidi NA、Chin JH、Lim LW、Wong KH（馬來西亞・馬來亞大學等）",
+    "tag": "SCA3 · 粒線體功能異常／天然藥物綜述",
+    "note": "→ 敘述性綜述：彙整以 SCA3 粒線體功能異常為標的之天然藥物與活性成分<b>臨床前</b>證據（甘草、黨參、銀杏、茯苓、葛根、地黃、薑黃、猴頭菇、黃耆、萱草、咖啡酸、白藜蘆醇等），報告可調節氧化壓力、膜電位、能量代謝、粒線體動態與品質控制、粒線體介導凋亡等路徑並改善實驗模型神經元存活。作者明言仍需機轉研究、設計良好的臨床試驗與藥動學最佳化才能轉譯，目前無臨床療效數據。屬機轉方向綜述、非競品藥物試驗，收錄供 SCA3 粒線體標的文獻追蹤。PubMed 2026/11/14 收錄。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027872/",
+    "urlLabel": "論文 ↗ PubMed 43027872",
+    "en": {
+      "tag": "SCA3 · Mitochondrial dysfunction / natural-medicine review",
+      "journal": "Int J Mol Sci · Kmail M, Suaidi NA, Chin JH, Lim LW, Wong KH (Universiti Malaya, Malaysia, et al.)",
+      "note": "→ A narrative review summarizing <b>preclinical</b> evidence for natural medicines and active compounds targeting mitochondrial dysfunction in SCA3 (Glycyrrhiza inflata, Codonopsis pilosula, Ginkgo biloba, Poria cocos, Pueraria lobata, Rehmannia glutinosa, Curcuma longa, Hericium erinaceus, Astragalus membranaceus, Hemerocallis citrina, caffeic acid, resveratrol), reported to modulate oxidative stress, membrane potential, bioenergetics, mitochondrial dynamics and quality control, and mitochondria-mediated apoptosis, improving neuronal survival in experimental models. The authors state that mechanistic work, well-designed clinical trials and pharmacokinetic optimization are still needed; no clinical efficacy data exist. A mechanism-direction review rather than a competitor drug trial, recorded for SCA3 mitochondrial-target literature tracking. Indexed in PubMed 2026/11/14.",
+      "urlLabel": "Paper ↗ PubMed 43027872"
+    }
+  },
+  {
     "id": "pubmed:42839692",
     "date": "2026-11-13",
     "dateDisplay": "2026/11/13",

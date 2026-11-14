@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-14",
+    "dateDisplay": "2026/11/14",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-14（當日稍早已推送一次僅更新meta.json的掃描心跳），缺口0天、無需補跑；本次為同日複掃。PubMed新增1則文獻：SCA3粒線體功能異常之天然藥物臨床前證據綜述（Int J Mol Sci，馬來亞大學等，PMID 43027872，PubMed 2026/11/14收錄）——屬機轉方向綜述、無臨床療效數據，已收錄papers.json。CT.gov近期更新比對既有清單，NCT07934303（Neurocrine NBIB-223）已於11/12收錄，其餘均為既有已知排除項，<b>無新增競品試驗</b>。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-14 (an earlier same-day push that only updated meta.json's scan heartbeat), a 0-day gap with no backfill needed; this is a same-day rescan. PubMed added 1 paper: a review of preclinical evidence for natural medicines targeting mitochondrial dysfunction in SCA3 (Int J Mol Sci, Universiti Malaya et al., PMID 43027872, indexed 2026/11/14) — a mechanism-direction review with no clinical efficacy data, recorded in papers.json. Recent CT.gov updates were checked against the existing list: NCT07934303 (Neurocrine NBIB-223) was already recorded on 11/12 and all other hits are established exclusions, so <b>no new competitor trials</b>.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-13",
     "dateDisplay": "2026/11/13",
     "tag": "每日掃描 · 新增文獻",
