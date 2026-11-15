@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-15",
+    "dateDisplay": "2026/11/15",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "上次真正發布為2026-11-14，缺口0天，屬正常每日掃描、無需補跑。CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING篩選pageSize=50，另含SCA1/2/3/6/7子型、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia子查詢）比對既有55筆試驗清單：近7天內更新且不在清單內者僅NCT02741440（SCA7自然史登記）、NCT07930481（脊髓刺激裝置）、NCT07105371（多病症外泌體療法，私人診所非特定病症開放式試驗），另SBMA查詢混入NCT07190300（前列腺癌AR同義詞擴展灌入），四者均為既有已知排除項，<b>本次CT.gov無新增競品試驗</b>。PubMed近7天查詢命中2筆（PMID 43019767、42839692），均已於11/13收錄papers.json，<b>無新文獻</b>。公司/產業新聞WebSearch（Steminent Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2、Biogen BIIB132）查得內容均為既有歷史事實，<b>無近7天內新進展</b>。§1b-2已知資產點名查核與events.json會議雷達週檢上次執行於2026-11-09，距今6天未逾週，本次不重複；patents.json／exclusivity.json月檢上次為2026-10-23，未逾月檢週期。<b>本次全站無新增資料筆目</b>，weekNewCount維持3。<b>發布說明</b>：本次執行環境之分支規範限制僅可推送至開發分支 <code>claude/eloquent-galileo-dgb8ps</code>，不可直接推送main，故本次commit暫留在該分支，尚未合併至main、公開網站未更新；待人工審核合併後才會上線，详见下方meta.json掃描心跳已正常更新。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Last genuine publish was 2026-11-14, a 0-day gap, so this is a normal daily scan with no backfill needed. The five CT.gov condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the proactive broad scan (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING filter, pageSize=50, plus SCA1/2/3/6/7 subtype, Machado-Joseph, ATXN1/2/3/7 and polyglutamine ataxia sub-queries) were checked against the existing 55-trial list: the only hits updated within 7 days and not already on the list were NCT02741440 (SCA7 natural-history registry), NCT07930481 (spinal stimulation device) and NCT07105371 (a multi-condition exosome-therapy trial run by a private clinic with no condition-specific enrollment), plus NCT07190300 (a prostate-cancer trial swept in by the SBMA androgen-receptor synonym expansion) — all four are already-established exclusions, so <b>no new competitor trials from CT.gov this time</b>. PubMed's 7-day window returned 2 hits (PMID 43019767, 42839692), both already recorded in papers.json on 11/13 — <b>no new literature</b>. Company/industry news WebSearches (Steminent Stemchymal, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2, Biogen BIIB132) returned only already-known historical facts, <b>no developments within the past 7 days</b>. The §1b-2 known-asset roll call and the events.json weekly review were both last run on 2026-11-09, 6 days ago and not yet due for repetition; the patents.json/exclusivity.json monthly review was last run 2026-10-23 and is not yet due. <b>No new entries were added site-wide this run</b>; weekNewCount remains 3. <b>Publishing note</b>: this run's execution environment restricts pushes to development branch <code>claude/eloquent-galileo-dgb8ps</code> only — direct pushes to main are not permitted here, so this commit stays on that branch for now and has not been merged to main; the public site has not been updated and will go live only after a human merges it. The scan heartbeat in meta.json below has been updated normally regardless.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
     "tag": "每日掃描 · 新增文獻",
