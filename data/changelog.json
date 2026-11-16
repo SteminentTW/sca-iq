@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-16",
+    "dateDisplay": "2026/11/16",
+    "tag": "每日掃描 · 定期查核",
+    "level": "info",
+    "body": "上次真正發布為2026-11-15，缺口1天，屬正常每日掃描、無需補跑。CT.gov五組適應症查詢＋主動發現廣掃（含SCA1/2/3/6/7、Machado-Joseph、ATXN1/2/3/7、polyglutamine ataxia子查詢）比對既有55筆試驗清單：近7天內更新且不在清單內者均為既有已知排除項（自然史/登記研究、純觀察性/認知特徵化研究、復健平台、脊髓刺激裝置、SBMA查詢混入之前列腺癌去雄性素藥物試驗），<b>本次CT.gov無新增競品試驗</b>。<b>本次補做§1b-2已知資產點名查核</b>（上次執行2026-11-09，已逾週）：對29個追蹤藥名逐一查詢，命中之非既有登錄項逐筆核對後均為同藥物之非SCA/FA適應症試驗（如Troriluzole用於OCD/焦慮症/膠質母細胞瘤、Vatiquinone/CTI-1601用於其他適應症之早期已完成試驗）或與既有Ph3樞紐記錄重複覆蓋之舊版Ph2歷史試驗（Kissei KPS-0373），<b>均非平台收錄範疇之缺漏，本次無新增</b>。<b>events.json會議雷達週檢同步執行</b>（上次執行2026-11-09）：查核ICAR 2026（2026/11/10–13，亞特蘭大，已閉幕）官方議程/摘要集公開情況，尚未見官網或MDS Abstracts等管道張貼完整摘要，<b>本次無新增可查證資訊</b>，維持現狀待後續追蹤。PubMed近7天查詢命中2筆（PMID 43019767、42839692）均已收錄，無新文獻。公司/產業新聞WebSearch（Steminent Stemchymal、Biohaven troriluzole、Vico VO659、Arrowhead ARO-ATXN2）查得內容均為既有事實或更早期新聞（如Biohaven troriluzole SCA3 NDA之FDA審查結果、Vico VO659法規會議結果等均查無2026年11月內更新），<b>本次無新增可查證進展</b>。今日為新一週起始，weekNewCount重置為0。<br>⚠️ <b>發布說明</b>：本次commit依雲端執行環境之git政策推送至開發分支（非main），正式發布需另由人工合併至main分支。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · periodic checks",
+      "body": "Last genuine publish was 2026-11-15, a 1-day gap, normal daily cadence with no backfill needed. CT.gov's five-condition queries plus active-discovery broad scan (including SCA1/2/3/6/7, Machado-Joseph, ATXN1/2/3/7 and polyglutamine ataxia sub-queries) were checked against the existing 55-trial list: all hits updated within 7 days and not already on the list were established exclusions (natural-history/registry studies, purely observational/cognitive-characterization studies, rehab platforms, spinal stimulation devices, and prostate-cancer anti-androgen trials pulled in by the SBMA query's synonym expansion), so <b>no new competitor trials this cycle</b>. <b>The §1b-2 known-asset-by-name check was also run</b> (last run 2026-11-09, a week prior): querying all 29 tracked drug names, every hit not already on file was verified to be either a non-SCA/FA indication of the same drug (e.g. Troriluzole for OCD/anxiety/glioblastoma, Vatiquinone/CTI-1601 early completed trials in other indications) or an older Phase 2 study already superseded by the tracked Phase 3 pivotal record (Kissei KPS-0373) — <b>none were genuine gaps, so nothing new was added</b>. <b>The events.json weekly conference-radar check ran in parallel</b> (last run 2026-11-09): ICAR 2026 (2026/11/10–13, Atlanta) has now concluded, but no full abstract set or program highlights have been posted on the official site or via channels such as MDS Abstracts, so <b>no verifiable new information this cycle</b>; tracking continues. PubMed's near-7-day query returned 2 hits (PMID 43019767, 42839692), both already recorded — no new literature. Company/industry news WebSearch (Steminent Stemchymal, Biohaven troriluzole, Vico VO659, Arrowhead ARO-ATXN2) surfaced only established facts or older news (e.g. no November-2026 update found on Biohaven's troriluzole SCA3 NDA review outcome or Vico's VO659 regulatory-meeting outcome), so <b>no new verifiable progress this cycle</b>. Today starts a new week, so weekNewCount resets to 0.<br>⚠️ <b>Publishing note</b>: per this cloud session's git policy, today's commit was pushed to the development branch rather than main; live publication requires a separate manual merge to main.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
     "tag": "每日掃描 · 新增文獻",
