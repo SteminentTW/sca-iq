@@ -1,5 +1,36 @@
 [
   {
+    "id": "graviton-gv101-fasttrack-2026-11",
+    "date": "2026-11-03",
+    "dateDisplay": "2026/11",
+    "competitor": "Graviton Bioscience",
+    "drug": "GV101（口服 ROCK2 抑制劑）",
+    "trial": "Ph2a（NCT07870590）",
+    "sourceType": "新聞稿",
+    "level": "hot",
+    "readout": "Graviton於<b>2026/11/03</b>宣布FDA授予GV101治療Friedreich's Ataxia之<b>快速通道資格（Fast Track Designation）</b>，該資格適用於尚未招募之Ph2a劑量探索試驗（NCT07870590）。公司表示美國收案預計<b>2026年第四季啟動</b>。新聞稿未揭露任何人體frataxin或療效數據；快速通道資格本身為FDA溝通機制加速措施，非療效核准。",
+    "implication": "→快速通道資格顯示FA領域監管關注度持續擴大，但GV101仍處Ph2a尚未招募階段，frataxin提升證據目前僅見公司自述之另一試驗PBMC數據，未見同儕審查人體數據，實際臨床效益仍待驗證。",
+    "links": [
+      {
+        "label": "新聞 ↗ NeurologyLive 2026/11/12",
+        "url": "https://www.neurologylive.com/view/gv101-gains-fda-fast-track-status-friedreich-ataxia-ahead-phase-2-trial"
+      }
+    ],
+    "en": {
+      "drug": "GV101 (oral ROCK2 inhibitor)",
+      "trial": "Ph2a (NCT07870590)",
+      "sourceType": "Press release",
+      "readout": "On <b>2026/11/03</b> Graviton announced the FDA granted <b>Fast Track designation</b> to GV101 for Friedreich's ataxia, applying to the not-yet-recruiting Ph2a dose-ranging trial (NCT07870590). The company states US enrollment is expected to begin in <b>Q4 2026</b>. The release disclosed no human frataxin or efficacy data; Fast Track designation itself is an FDA communication/review-pace mechanism, not an efficacy approval.",
+      "implication": "→ The Fast Track designation signals continued regulatory attention to the FA space, but GV101 remains at the not-yet-recruiting Ph2a stage; frataxin-elevation evidence to date is limited to company-reported PBMC data from a separate trial, with no peer-reviewed human data yet, leaving actual clinical benefit unverified.",
+      "links": [
+        {
+          "label": "News ↗ NeurologyLive 2026/11/12",
+          "url": "https://www.neurologylive.com/view/gv101-gains-fda-fast-track-status-friedreich-ataxia-ahead-phase-2-trial"
+        }
+      ]
+    }
+  },
+  {
     "id": "lexeo-lx2006-icar-2026-11",
     "date": "2026-11-02",
     "dateDisplay": "2026/11",

@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-17",
+    "dateDisplay": "2026/11/17",
+    "tag": "每日掃描 · 法規里程碑 · 已知資產點名查核 · 會議雷達週檢",
+    "level": "hot",
+    "body": "上次真正發布為2026-11-16，缺口0天、屬正常每日掃描，無需補跑。CT.gov五組適應症查詢＋主動發現廣掃＋亞型/基因標的查詢（SCA1/2/3/6/7、Machado-Joseph、polyQ ataxia）：<b>Graviton Bioscience 於2026/11/03公告FDA授予GV101（Ph2a，NCT07870590，Friedreich's Ataxia）快速通道資格</b>，公司稱美國收案預計2026年第四季啟動——已更新 competitors.json／trials.json 既有筆目並新增 results.json／news.json 各一筆。另查得<b>NCT06862596（Mexiletine，SBMA，Med-SBMA試驗）登錄狀態於2026/11/17由收案中更新為停止收案（ACTIVE_NOT_RECRUITING）</b>，結束逾一年未更新的陳舊狀態，已更新trials.json該筆status。PubMed近7天查無與追蹤資產相關之新文獻（唯一命中為一般性共濟失調綜述，已於2026-11-13收錄）。本週已知資產點名查核（§1b-2，上次2026-11-09）：21項資產逐一查核，僅新發現Minoryx Leriglitazone一筆試驗（NCT05819866），但適應症為cerebral adrenoleukodystrophy、非FA/SCA相關資產，判定不收錄；其餘均已在平台。會議雷達週檢（上次2026-11-09）：查核ICAR 2026（2026/11/10–13, Atlanta）會後報導，除既有Lexeo LX2006發表（已收錄）外未查得其他可查證競品發表，events.json本次無新增。專利／獨占權月檢（上次2026-10-23，距今25天）：本次判斷尚未達一月週期，順延至下次排程執行。公司／產業新聞搜尋（Stemchymal、Troriluzole、VO659、ARO-ATXN2）近7天除上述GV101外無其他新進展。",
+    "link": {
+      "label": "詳見 總覽 競品動態 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan · regulatory milestone · named-asset roll-call · events radar weekly check",
+      "body": "Last genuine publish was 2026-11-16, a 0-day gap and a normal daily scan, so no backfill was needed. CT.gov five-condition queries plus the active-discovery sweep and subtype/gene-target queries (SCA1/2/3/6/7, Machado-Joseph, polyQ ataxia): <b>on 2026/11/03 Graviton Bioscience announced FDA Fast Track designation for GV101</b> (Ph2a, NCT07870590, Friedreich's ataxia); the company states US enrollment is expected to begin in Q4 2026 — the existing competitors.json/trials.json entries were updated and one new entry each was added to results.json/news.json. Separately, <b>NCT06862596 (Mexiletine, SBMA, the Med-SBMA trial) had its registry status updated on 2026/11/17 from recruiting to ACTIVE_NOT_RECRUITING</b>, ending over a year of a stale, unupdated listing; the trials.json status field was updated accordingly. The 7-day PubMed query returned no new literature tied to tracked assets (the only hit was a general ataxia review already recorded on 2026-11-13). This week's named-asset roll-call (§1b-2, last run 2026-11-09): all 21 assets were checked individually; the only new hit was a Minoryx Leriglitazone trial (NCT05819866), but its indication is cerebral adrenoleukodystrophy, not FA/SCA, so it was judged out of scope; everything else was already on the platform. Events radar weekly check (last run 2026-11-09): post-event coverage of ICAR 2026 (2026/11/10–13, Atlanta) was checked; aside from the already-recorded Lexeo LX2006 presentation, no other verifiable competitor presentation was found, so events.json has no new addition this cycle. Monthly patents/exclusivity check (last run 2026-10-23, 25 days ago): judged not yet due for the ~monthly cadence and deferred to the next scheduled pass. Company/industry news searches (Stemchymal, Troriluzole, VO659, ARO-ATXN2) over the past 7 days turned up no other developments beyond GV101 above.",
+      "linkLabel": "See Overview · Competitor Moves ↗"
+    }
+  },
+  {
     "date": "2026-11-14",
     "dateDisplay": "2026/11/14",
     "tag": "每日掃描 · 新增文獻",
