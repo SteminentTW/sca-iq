@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-18",
+    "dateDisplay": "2026/11/18",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-17，缺口0天、屬正常每日掃描，無需補跑。CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=50）逐筆比對既有55筆試驗鍵值：近7天內更新且不在清單內者共4筆，逐一查核後均判定排除——NCT07190300為前列腺癌試驗（Bulbo-Spinal Atrophy X-Linked同義詞擴展誤入）；NCT02741440為SCA7純自然史觀察研究；NCT07930481為非藥物之經皮脊髓刺激裝置試驗；NCT07105371適應症為一般性Motor Disorders、非SCA特異，均不符合手冊收錄準則，<b>本次CT.gov掃描無新增競品試驗</b>。本週已知資產點名查核與會議雷達週檢已於2026-11-17執行過，本次不重複。PubMed近7天查得2則命中，其中PMID 42839692已於2026-11-13收錄；新增1則：跨多種重複序列擴增型共濟失調（SCA1/SCA2/SCA6/FRDA）死後腦組織轉錄體學研究，發現免疫／發炎路徑於各基因亞型間一致活化（Acta Neuropathol，UCL／劍橋大學等，PMID 43043476，2026/11/17發表）——屬機轉／轉錄體學研究、非臨床試驗數據，已收錄papers.json。公司／產業新聞搜尋（Stemchymal、Troriluzole、VO659、ARO-ATXN2、BIIB132）近7天查無可查證之新進展，均為既有已知資訊（Biohaven CRL、Vico 2024期中數據、Arrowhead收案中），不符合「近7天內」條件，未加入。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-17, a 0-day gap and a normal daily scan, so no backfill was needed. CT.gov five-condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery sweep (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50) were compared item-by-item against the existing 55 trial keys: 4 studies updated within the past 7 days were not yet on the list; each was checked individually and excluded — NCT07190300 is a prostate-cancer trial (a false match from the Bulbo-Spinal Atrophy X-Linked synonym expansion); NCT02741440 is a pure natural-history observational study of SCA7; NCT07930481 is a non-drug transcutaneous spinal-cord-stimulation device trial; NCT07105371's indication is general Motor Disorders, not SCA-specific; none met the manual's inclusion criteria, so <b>no new competitor trial was added from this CT.gov scan</b>. This week's named-asset roll-call and events-radar weekly check were already run on 2026-11-17 and were not repeated today. The 7-day PubMed query returned 2 hits; PMID 42839692 was already recorded on 2026-11-13. One new paper was added: a post-mortem brain transcriptomic study across repeat-expansion ataxias (SCA1/SCA2/SCA6/FRDA) finding consistently activated immune/inflammatory pathways across genetic subtypes (Acta Neuropathol, UCL/University of Cambridge et al., PMID 43043476, published 2026/11/17) — a mechanistic/transcriptomic study rather than clinical trial data, recorded in papers.json. Company/industry news searches (Stemchymal, Troriluzole, VO659, ARO-ATXN2, BIIB132) over the past 7 days found no verifiable new developments; all hits were already-known information (Biohaven's CRL, Vico's 2024 interim data, Arrowhead's ongoing enrollment) that did not meet the \"within 7 days\" criterion, so nothing was added.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-17",
     "dateDisplay": "2026/11/17",
     "tag": "每日掃描 · 法規里程碑 · 已知資產點名查核 · 會議雷達週檢",

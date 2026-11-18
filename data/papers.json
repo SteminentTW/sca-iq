@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43043476",
+    "date": "2026-11-17",
+    "dateDisplay": "2026/11/17",
+    "title": "Neuroimmune transcriptional signatures across repeat expansion ataxias in the human brain.",
+    "journal": "Acta Neuropathol · Chen Z、Hicks AR、Brenton J 等（英國・UCL、劍橋大學等）",
+    "tag": "跨亞型 · 重複序列擴增共濟失調神經免疫轉錄體分析",
+    "note": "→ 死後腦組織bulk及單核RNA定序（snRNAseq）分析：23名重複序列擴增型共濟失調患者（含SCA1、SCA2、SCA6、Friedreich氏共濟失調FRDA與分子診斷未明個案）與22名年齡/性別配對對照，涵蓋小腦與額葉皮質。發現免疫／發炎路徑在各基因亞型間一致活化，主要見於微膠細胞與星狀細胞等非神經元細胞群，伴隨小腦神經元流失與膠質細胞相對擴增；小腦突觸／神經元相關路徑則下降，分子診斷未明個案亦呈現相似訊號。作者提出發炎訊號可能為跨亞型潜在治療標的方向。屬機轉／轉錄體學研究、非臨床試驗數據，收錄供SCA跨亞型病理機轉文獻追蹤。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043476/",
+    "urlLabel": "論文 ↗ PubMed 43043476",
+    "en": {
+      "tag": "Cross-subtype · Neuroimmune transcriptomics across repeat-expansion ataxias",
+      "journal": "Acta Neuropathol · Chen Z, Hicks AR, Brenton J, et al. (UK · UCL, University of Cambridge, et al.)",
+      "note": "→ Bulk and single-nucleus RNA-sequencing (snRNAseq) analysis of post-mortem brain tissue from 23 donors with repeat-expansion ataxias (SCA1, SCA2, SCA6, Friedreich ataxia/FRDA, and molecularly undiagnosed cases) versus 22 age- and sex-matched controls, spanning cerebellum and frontal cortex. Immune/inflammatory pathways were consistently activated across genetic subtypes, most prominent in non-neuronal cell populations (microglia, astrocytes), alongside cerebellar neuronal loss and relative glial expansion; cerebellar synaptic/neuronal pathways were downregulated, with undiagnosed cases showing similar signatures. The authors suggest inflammatory signalling as a potential shared therapeutic target across subtypes. A mechanistic/transcriptomic study, not clinical trial data, recorded for cross-subtype SCA pathology literature tracking.",
+      "urlLabel": "Paper ↗ PubMed 43043476"
+    }
+  },
+  {
     "id": "pubmed:43027872",
     "date": "2026-10-27",
     "dateDisplay": "2026/10/27",
