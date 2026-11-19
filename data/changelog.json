@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-19",
+    "dateDisplay": "2026/11/19",
+    "tag": "每日掃描 · 試驗登錄更新 · 專利／獨占權月檢",
+    "level": "info",
+    "body": "上次真正發布為2026-11-18，缺口0天、屬正常每日掃描，無需補跑。CT.gov五組適應症查詢（sort=LastUpdatePostDate:desc，pageSize=40）＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING，pageSize=50）＋亞型/基因標的查詢（SCA1/2/3、Machado-Joseph）：發現既有收錄試驗 <b>NCT06862596（Mexiletine hydrochloride，Med-SBMA）登錄已於2026/11/17更新，狀態由「收案中」轉為「已停止收案（ACTIVE_NOT_RECRUITING）」</b>，已更新trials.json該筆狀態欄。其餘近7天內更新者（NCT07948772／A-T純自然史觀察、NCT02741440／SCA7純自然史觀察等）均為觀察性非療法研究，依手冊準則排除，無新增競品試驗。本週已知資產點名查核與會議雷達週檢已於2026-11-17執行過，本次不重複。PubMed近7天查得2則命中（PMID 43043476、42839692），均已於2026-11-18收錄，無新增文獻。公司／產業新聞搜尋（Stemchymal、Troriluzole/Vyglxia、VO659、ARO-ATXN2、BIIB132）近7天查無可查證之新進展，均為既有已知資訊（10/22 NDA重新送件受理、Vico 2026/02期中數據、Arrowhead收案中），未加入。<b>專利／獨占權月檢</b>（上次更新2026-10-23，已逾一月）：逐筆檢視patents.json（8筆）與exclusivity.json（11筆）現有權利人與狀態，查核Design Therapeutics DT-216P2是否已有可查證之對應專利——僅查得一件未確認是否涵蓋本化合物之歐洲申請案（EP4539839A1），無法核實具體請求項範圍，依「查不到就寫公開資訊有限，不臆測」原則不新增；另查核IntraBio／Shionogi併購案（2026/10/05簽約）是否已完成交割以評估專利權利人是否應更新——公開報導顯示交易<b>預計年底前交割，截至今日尚未確認完成</b>，故未變更patents.json內IntraBio權利人欄位。本次月檢結論：現有筆無需修改，無新增。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan · trial registry update · monthly patent/exclusivity check",
+      "body": "Last genuine publish was 2026-11-18, a 0-day gap and a normal daily scan, so no backfill was needed. CT.gov five-condition queries (sort=LastUpdatePostDate:desc, pageSize=40) plus the active-discovery sweep (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING, pageSize=50) plus subtype/gene-target queries (SCA1/2/3, Machado-Joseph) found that the already-tracked <b>NCT06862596 (Mexiletine hydrochloride, Med-SBMA) registry was updated on 2026/11/17, with status moving from \"recruiting\" to \"stopped recruiting (ACTIVE_NOT_RECRUITING)\"</b>; trials.json's status field for this record was updated accordingly. All other studies updated within the past 7 days (NCT07948772/A-T pure natural-history, NCT02741440/SCA7 pure natural-history, etc.) are observational, non-therapeutic studies excluded per the manual's criteria, so no new competitor trial was added. This week's named-asset roll-call and events-radar weekly check were already run on 2026-11-17 and were not repeated today. The 7-day PubMed query returned 2 hits (PMID 43043476, 42839692), both already recorded on 2026-11-18, so no new literature was added. Company/industry news searches (Stemchymal, Troriluzole/Vyglxia, VO659, ARO-ATXN2, BIIB132) over the past 7 days found no verifiable new developments; all hits were already-known information (the 10/22 NDA resubmission acceptance, Vico's 2026/02 interim data, Arrowhead's ongoing enrollment), so nothing was added. <b>Monthly patent/exclusivity check</b> (last updated 2026-10-23, over a month ago): reviewed existing patents.json (8 entries) and exclusivity.json (11 entries) assignees and statuses line by line; checked whether Design Therapeutics' DT-216P2 now has a verifiable corresponding patent — only one European application (EP4539839A1) was found with no confirmation it covers this specific compound, and the claim scope could not be verified, so per the \"limited public information, no speculation\" rule nothing was added; also checked whether the IntraBio/Shionogi acquisition (signed 2026/10/05) has closed, to assess whether the patent assignee field should change — public reporting indicates the deal is <b>expected to close by year-end but has not been confirmed closed as of today</b>, so the IntraBio assignee field in patents.json was left unchanged. Conclusion of this month's check: no existing entries required changes, and none were added.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-18",
     "dateDisplay": "2026/11/18",
     "tag": "每日掃描 · 新增文獻",
