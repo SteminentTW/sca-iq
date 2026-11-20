@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-20",
+    "dateDisplay": "2026/11/20",
+    "tag": "每日掃描 · 新增文獻",
+    "level": "info",
+    "body": "上次真正發布為2026-11-18，2026-11-19未執行，本次一併補掃11-19～11-20（缺口1天，在3天上限內）。新增2則文獻：①SCA6合併乙醯膽鹼受體陽性重症肌無力之首例個案報告（Cureus，PMID 43047322）；②多靶點rTMS改善SCA3病人SARA/ICARS與大腦－小腦功能連結之研究（Orphanet J Rare Dis，PMID 43040514，未見假刺激對照）。兩則均為非競品藥物研究。CT.gov五組適應症查詢近期更新中唯一不在清單者為NCT07948772（Insmed，共濟失調微血管擴張症自然史觀察研究），非SCA、非療法，排除。競品新聞近7天查無可查證之新進展。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan · new literature",
+      "body": "Last genuine publish was 2026-11-18; 2026-11-19 did not run, so this run backfilled 11-19 to 11-20 (a 1-day gap, within the 3-day limit). Added 2 papers: (1) the first reported case of SCA6 coexisting with acetylcholine receptor-positive myasthenia gravis (Cureus, PMID 43047322); (2) a study of multi-target rTMS improving SARA/ICARS and cerebrocerebellar functional connectivity in SCA3 patients (Orphanet J Rare Dis, PMID 43040514; no sham control reported). Neither concerns a competitor drug. In the five-condition CT.gov queries, the only recently updated study not already tracked was NCT07948772 (Insmed, a natural-history observational study of ataxia telangiectasia), which is neither SCA nor a therapy and was excluded. Competitor news searches found no verifiable new developments in the past 7 days.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-18",
     "dateDisplay": "2026/11/18",
     "tag": "每日掃描 · 新增文獻",

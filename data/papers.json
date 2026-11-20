@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:43047322",
+    "date": "2026-10-17",
+    "dateDisplay": "2026/10/17",
+    "title": "First Reported Coexistence of Acetylcholine Receptor-Positive Myasthenia Gravis and Genetically Confirmed Spinocerebellar Ataxia Type 6.",
+    "journal": "Cureus · Abou Zeid J、Shin K、Sleiman P 等（美國・伊利諾大學醫學院Peoria分校）",
+    "tag": "SCA6（CACNA1A）· 個案報告 · 合併重症肌無力",
+    "note": "→ 一名57歲男性，1983年確診乙醯膽鹼受體抗體陽性重症肌無力（MG），MG控制穩定下出現進行性平衡障礙；MRI示小腦半球與蚓部萎縮，副腫瘤／自體免疫抗體檢查皆陰性，父親與同卵雙胞胎兄弟有類似病史，最終基因檢測確認CACNA1A CAG擴增（22重複）之SCA6，距共濟失調起病逾十年才確診。作者稱為首例報告之MG合併SCA6，提示既有神經疾病病人出現非典型新症狀時應擴大鑑別診斷。屬單一個案之診斷報告（n=1），不含療法或療效資料，非競品藥物相關，收錄供SCA6亞型文獻追蹤。PubMed於2026/11/18收錄。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047322/",
+    "urlLabel": "論文 ↗ PubMed 43047322",
+    "en": {
+      "tag": "SCA6 (CACNA1A) · case report · coexisting myasthenia gravis",
+      "journal": "Cureus · Abou Zeid J, Shin K, Sleiman P, et al. (USA · University of Illinois College of Medicine Peoria)",
+      "note": "→ A 57-year-old man with acetylcholine receptor antibody-positive myasthenia gravis (MG) diagnosed in 1983 developed progressive imbalance while his MG remained stable; MRI showed atrophy of the cerebellar hemispheres and vermis, paraneoplastic/autoimmune antibody testing was negative, and his father and identical twin brother had similar histories. Genetic testing eventually confirmed SCA6 (CACNA1A CAG expansion of 22 repeats), more than a decade after ataxia onset. The authors describe it as the first reported coexistence of MG and SCA6 and urge a broad differential diagnosis when atypical new symptoms appear in patients with an established neurological disease. A single-patient diagnostic report (n=1) with no therapy or efficacy data, not related to any competitor drug; recorded for SCA6 subtype literature tracking. Indexed in PubMed on 2026/11/18.",
+      "urlLabel": "Paper ↗ PubMed 43047322"
+    }
+  },
+  {
+    "id": "pubmed:43040514",
+    "date": "2026-08-10",
+    "dateDisplay": "2026/08/10",
+    "title": "Repetitive transcranial magnetic stimulation normalizes cerebrocerebellar loop functional connectivity in spinocerebellar ataxia type 3.",
+    "journal": "Orphanet J Rare Dis · Huang Y、Feng L、Ou P 等（中國・陸軍軍醫大學西南醫院）",
+    "tag": "SCA3 · 非藥物神經調節（rTMS）· 功能性MRI",
+    "note": "→ 25名SCA3病人（另33名健康對照）接受以大腦－小腦迴路為標的之多靶點重複經顱磁刺激（rTMS），治療後SARA與ICARS分數下降（作者報告p&lt;0.001）、MoCA認知分數上升，旁中央小葉與小腦間功能連結強度趨近健康對照（試驗登錄ChiCTR2000039434）。⚠️ <b>限制</b>：摘要所述為治療前後比較，未見假刺激對照組，療效證據強度有限。屬非藥物神經調節研究、非競品藥物，收錄供SCA3症狀治療文獻追蹤。2026/08/10線上發表，PubMed於2026/11/16收錄。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040514/",
+    "urlLabel": "論文 ↗ PubMed 43040514",
+    "en": {
+      "tag": "SCA3 · non-drug neuromodulation (rTMS) · functional MRI",
+      "journal": "Orphanet J Rare Dis · Huang Y, Feng L, Ou P, et al. (China · Southwest Hospital, Army Medical University)",
+      "note": "→ 25 SCA3 patients (plus 33 healthy controls) received multi-target repetitive transcranial magnetic stimulation (rTMS) aimed at the cerebrocerebellar loop; after treatment, SARA and ICARS scores fell (authors report p&lt;0.001), MoCA cognitive scores rose, and paracentral lobule–cerebellum functional connectivity moved toward healthy-control levels (registered ChiCTR2000039434). ⚠️ <b>Limitations</b>: the abstract describes a pre/post comparison with no sham-stimulation arm reported, so the strength of efficacy evidence is limited. A non-drug neuromodulation study, not a competitor drug; recorded for SCA3 symptomatic-treatment literature tracking. Published online 2026/08/10; indexed in PubMed on 2026/11/16.",
+      "urlLabel": "Paper ↗ PubMed 43040514"
+    }
+  },
+  {
     "id": "pubmed:43043476",
     "date": "2026-11-17",
     "dateDisplay": "2026/11/17",
