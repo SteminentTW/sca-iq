@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43061443",
+    "date": "2026-10-28",
+    "dateDisplay": "2026/10/28",
+    "title": "DNA repair genes versus age at onset and expanded repeat instabilities in Machado-Joseph disease.",
+    "journal": "Brain Commun · Tuchtenhagen IPN、Saraiva-Pereira ML、Jardim LB 等（巴西・南大河州聯邦大學／阿雷格里港臨床醫院）",
+    "tag": "SCA3/MJD · 修飾基因 · DNA錯配修復",
+    "note": "→ 橫斷面遺傳關聯研究：於CAG<81之有症狀SCA3/MJD帶因者檢測7個錯配修復基因（MLH1、MLH3、MSH2、MSH3、MSH6、PMS1、PMS2）及FAN1功能變異與ATXN2較長正常CAG對偶基因。結果：MLH3、PMS1變異與CAG跨代不穩定性相關；MLH1、MSH3與ATXN2變異修飾起病年齡（MSH3異型合子起病較早、MLH1異型合子起病較晚），作者推論錯配修復可能經由體細胞不穩定性影響起病。屬修飾基因研究、非療法或臨床試驗資料，非競品藥物相關；對以「體細胞重複擴增」為標的之未來療法路線有背景參考價值。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061443/",
+    "urlLabel": "論文 ↗ PubMed 43061443",
+    "en": {
+      "tag": "SCA3/MJD · genetic modifiers · DNA mismatch repair",
+      "journal": "Brain Commun · Tuchtenhagen IPN, Saraiva-Pereira ML, Jardim LB, et al. (Brazil · Universidade Federal do Rio Grande do Sul / Hospital de Clínicas de Porto Alegre)",
+      "note": "→ Cross-sectional genetic association study in symptomatic SCA3/MJD carriers with <81 CAG repeats, genotyping functional variants in seven mismatch-repair genes (MLH1, MLH3, MSH2, MSH3, MSH6, PMS1, PMS2), FAN1, and the longer normal ATXN2 CAG allele. MLH3 and PMS1 variants were associated with intergenerational CAG instability; MLH1, MSH3 and ATXN2 variants modified age at onset (MSH3 heterozygotes earlier, MLH1 heterozygotes later onset). The authors suggest mismatch repair may affect onset via somatic instability. A genetic-modifier study, not therapy or clinical-trial data, and unrelated to any competitor drug; background relevance for future therapeutic approaches targeting somatic repeat expansion.",
+      "urlLabel": "Paper ↗ PubMed 43061443"
+    }
+  },
+  {
     "id": "pubmed:43047322",
     "date": "2026-10-17",
     "dateDisplay": "2026/10/17",
