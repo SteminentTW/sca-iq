@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-21",
+    "dateDisplay": "2026/11/21",
+    "tag": "每日掃描 · 新增試驗",
+    "level": "info",
+    "body": "上次真正發布為2026-11-20，缺口0天、屬正常每日掃描，無需補跑。CT.gov五組適應症查詢＋主動發現廣掃（RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING）＋亞型／基因標的查詢（Machado-Joseph、ATXN1/2/3/7、polyglutamine）逐筆比對既有試驗鍵值：新增1筆——NCT06862596，日本名古屋大學醫院學術主導之Mexiletine hydrochloride（美西律，既有抗心律不整學名藥重新定位）治療SBMA（脊髓與延髓性肌肉萎縮症）Ph2/3隨機雙盲安慰劑對照試驗，登錄於2026/11/17更新（轉為ACTIVE_NOT_RECRUITING），納入polyQ鄰近圈層追蹤範圍。近7天內更新但判定排除者：NCT07948772（Insmed，共濟失調微血管擴張症純自然史觀察研究，非療法）；Bulbo-Spinal Atrophy X-Linked查詢仍如預期混入4筆前列腺癌試驗（Novartis Tulmimetostat、ORIC Rinzimetostat等），逐筆確認適應症後排除。PubMed近7天僅1則命中（PMID 43043476，跨重複序列擴增型共濟失調腦組織轉錄體學研究），已於2026-11-18收錄，非新增。公司／產業新聞搜尋（Stemchymal、Troriluzole、VO659、ARO-ATXN2、BIIB132）查無近7天內可查證之新進展——10/22 FDA受理troriluzole NDA重新送件一案已於先前收錄，非新增。今日為週六，依手冊不執行週檢（events.json會議雷達）與月檢（patents.json/exclusivity.json）項目。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan · new trial",
+      "body": "Last genuine publish was 2026-11-20, a 0-day gap and a normal daily scan requiring no backfill. Cross-checking the five-condition CT.gov queries, the proactive broad sweep (RECRUITING/ACTIVE_NOT_RECRUITING/NOT_YET_RECRUITING) and subtype/gene-targeted searches (Machado-Joseph, ATXN1/2/3/7, polyglutamine) against existing trial keys found one new record: NCT06862596, an investigator-initiated Phase 2/3 randomised, double-blind, placebo-controlled trial of mexiletine hydrochloride (a repositioned antiarrhythmic generic) for SBMA (spinal and bulbar muscular atrophy), led by Nagoya University Hospital, Japan; the registry was updated 2026/11/17 (status changed to ACTIVE_NOT_RECRUITING). Included under the polyQ-adjacent tracking ring. Updated within the past 7 days but excluded on review: NCT07948772 (Insmed, a pure natural-history observational study of ataxia telangiectasia, not a therapy). The Bulbo-Spinal Atrophy X-Linked query again pulled in 4 unrelated prostate-cancer trials (Novartis's tulmimetostat, ORIC's rinzimetostat, etc.) as expected from the known synonym-expansion issue; each was checked and excluded. PubMed returned only 1 hit in the past 7 days (PMID 43043476, a transcriptomic study of post-mortem brain tissue across repeat-expansion ataxias), already captured on 2026-11-18, so not new. Company/industry news searches (Stemchymal, Troriluzole, VO659, ARO-ATXN2, BIIB132) found no verifiable new developments within 7 days — the 10/22 FDA acceptance of Biohaven's troriluzole NDA resubmission was already on file from an earlier scan. Today is a Saturday, so per the manual the weekly (events.json) and monthly (patents.json/exclusivity.json) checks were not run.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-11-20",
     "dateDisplay": "2026/11/20",
     "tag": "每日掃描 · 新增文獻",

@@ -1,5 +1,22 @@
 [
   {
+    "nct": "NCT06862596",
+    "drug": "Mexiletine hydrochloride（美西律）",
+    "mechanism": "口服<b>鈉離子通道阻斷劑</b>（原為抗心律不整用藥 Mexitil®，學名藥重新定位）<br>作用機轉未針對雄性素受體（AR）致病路徑，屬<b>症狀性、非疾病修飾</b>假說",
+    "phase": "Ph2/3",
+    "status": "<b>收案結束、追蹤中</b>（登錄於 <b>2026/11/17</b> 更新，整體狀態由收案中轉為 ACTIVE_NOT_RECRUITING）。<b>學術主導（investigator-initiated）</b>，隨機、雙盲、安慰劑對照，實際起始 2025/02/28，登錄預計收案 <b>68 人</b>、18–79 歲、基因確診（AR 基因 CAG ≥38）之<b>脊髓與延髓性肌肉萎縮症（SBMA）</b>男性病人，站點全在<b>日本</b>（東京、千葉、札幌、下野、吹田）。主要指標為<b>第 4 週 ALSFRS-R 評分</b>（0–48 分，數值越高功能越好）。⚠️ 本藥並非 AR 路徑標的藥物，為既有學名藥之適應症重新定位；<b>目前無任何本試驗之療效或安全性結果公開讀出</b>。<b>收錄理由</b>：SBMA 屬本公司 polyQ 鄰近圈層追蹤範圍。",
+    "sponsor": "Masahisa Katsuno（名古屋大學醫院，學術主導）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT06862596",
+    "en": {
+      "drug": "Mexiletine hydrochloride",
+      "mechanism": "Oral <b>sodium-channel blocker</b> (originally the antiarrhythmic Mexitil®, repositioned as a generic)<br>its mechanism does not target the androgen-receptor (AR) disease pathway and represents a <b>symptomatic, non-disease-modifying</b> hypothesis",
+      "phase": "Ph2/3",
+      "status": "<b>Enrolment closed, in follow-up</b> (registry updated <b>2026/11/17</b>; overall status changed from recruiting to ACTIVE_NOT_RECRUITING). <b>Investigator-initiated</b>, randomised, double-blind, placebo-controlled; actual start 2025/02/28, with a registered target of <b>68</b> male patients aged 18–79 with genetically confirmed (AR gene CAG ≥38) <b>spinal and bulbar muscular atrophy (SBMA)</b>, at sites entirely in <b>Japan</b> (Tokyo, Chiba, Sapporo, Shimotsuke, Suita). The primary endpoint is the <b>ALSFRS-R score at week 4</b> (0–48, higher scores indicating better function). ⚠️ This drug does not target the AR pathway and is a repositioned generic; <b>no efficacy or safety results from this trial have been read out publicly</b>. <b>Rationale for inclusion</b>: SBMA falls within the polyQ-adjacent ring this platform tracks.",
+      "sponsor": "Masahisa Katsuno (Nagoya University Hospital, investigator-initiated)"
+    }
+  },
+  {
     "nct": "NCT07934303",
     "drug": "NBIB-0000223（Voyager TRACER AAV 基因療法）",
     "mechanism": "AAV 基因療法（Voyager TRACER 改造型囊膜，設計強化血腦屏障穿透與中樞遞送）<br>靜脈輸注遞送 frataxin（FXN）基因",
