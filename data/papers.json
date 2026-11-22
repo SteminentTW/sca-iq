@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43058780",
+    "date": "2026-08-25",
+    "dateDisplay": "2026/08/25",
+    "title": "Identification of phenotypic abnormalities and effector function impairment in natural killer cells of patients with ataxia-telangiectasia.",
+    "journal": "J Transl Med · Nenci A、Desimio MG、Doria M 等（義大利・Bambino Gesù兒童醫院）",
+    "tag": "共濟失調微血管擴張症（A-T） · 免疫生物學",
+    "note": "→ 本文2026/08線上發表，2026/11/19才正式收錄進PubMed索引（本次近7天掃描依索引日期命中，非近期發表）。A-T病人之自然殺手（NK）細胞表現型異常與效應功能（去顆粒化／細胞毒殺）受損，與該病人群易感染、腫瘤風險升高之臨床表現相符。屬疾病免疫生物學基礎研究，非藥物或臨床試驗資料；與Levacetylleucine（IB1001/AQNEURSA）等A-T現有療法無直接關聯，列入作為A-T鄰近圈層病理機轉背景參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058780/",
+    "urlLabel": "論文 ↗ PubMed 43058780",
+    "en": {
+      "tag": "Ataxia-telangiectasia (A-T) · Immunobiology",
+      "journal": "J Transl Med · Nenci A, Desimio MG, Doria M, et al. (Italy · Bambino Gesù Children's Hospital)",
+      "note": "→ Published online 2026/08 but only indexed in PubMed on 2026/11/19 (this entry was caught by this scan's 7-day index-date window, not by recent publication). Describes phenotypic abnormalities and impaired effector function (degranulation/cytotoxicity) in natural killer cells of A-T patients, consistent with this population's clinical susceptibility to infection and elevated cancer risk. Basic disease-immunobiology research, not drug or clinical-trial data; no direct link to existing A-T therapies such as levacetylleucine (IB1001/AQNEURSA) — included as background on pathophysiology in this adjacent-ataxia ring.",
+      "urlLabel": "Paper ↗ PubMed 43058780"
+    }
+  },
+  {
     "id": "pubmed:43061443",
     "date": "2026-10-28",
     "dateDisplay": "2026/10/28",

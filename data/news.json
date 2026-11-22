@@ -1,5 +1,31 @@
 [
   {
+    "id": "larimar-nomlabofusp-bla-complete-2026-11",
+    "date": "2026-11-09",
+    "dateDisplay": "2026/11",
+    "level": "hot",
+    "tag": "法規里程碑 · 競品動態",
+    "body": "<b>Larimar Therapeutics 公告治療 Friedreich's Ataxia 之 nomlabofusp 加速核准滾動式 BLA 全部模組已完成遞交</b>（2026/11/09），FDA於pre-BLA會議紀要中表示現有資料包足以支持送件審查，並重申願考慮皮膚frataxin濃度作為新型替代終點。公司公告後續里程碑：BLA受理預估2027年初、美國核准預估2027年中。",
+    "note": "→公司先前揭露之開放標籤研究中43名受試者有10人發生過敏性反應（9人為先前已接觸過本藥物者），FDA將於審查時評估安全性資料庫是否充分；核准與否仍待FDA決定。詳見 results.json／competitors.json 新增與更新筆目。",
+    "links": [
+      {
+        "label": "公司新聞稿 ↗ SEC 8-K 2026/11/09",
+        "url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526453586/lrmr-ex99_1.htm"
+      }
+    ],
+    "en": {
+      "tag": "Regulatory milestone · competitor update",
+      "body": "<b>Larimar Therapeutics announced completion of the rolling BLA</b> seeking accelerated approval of nomlabofusp for Friedreich's ataxia (2026/11/09) — all modules now submitted. Per pre-BLA meeting minutes, FDA indicated the existing data package appears capable of supporting submission and review, and reaffirmed willingness to consider skin frataxin concentration as a novel surrogate endpoint. Company-stated milestones: BLA acceptance ~early 2027, US approval decision ~mid-2027.",
+      "note": "→ The company's previously disclosed open-label data show anaphylaxis in 10 of 43 participants (9 previously dosed with the drug), and FDA will assess safety-database adequacy at review; approval remains subject to FDA decision. See the new/updated entries in results.json and competitors.json.",
+      "links": [
+        {
+          "label": "Company press release ↗ SEC 8-K 2026/11/09",
+          "url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526453586/lrmr-ex99_1.htm"
+        }
+      ]
+    }
+  },
+  {
     "id": "graviton-gv101-fasttrack-2026-11",
     "date": "2026-11-03",
     "dateDisplay": "2026/11",
@@ -134,33 +160,6 @@
         {
           "label": "ASP2016 registry (withdrawn) ↗ CT.gov",
           "url": "https://clinicaltrials.gov/study/NCT06483802"
-        }
-      ]
-    }
-  },
-  {
-    "id": "xiangya-nbp-sca3-2026-09",
-    "date": "2026-09-15",
-    "dateDisplay": "2026/09",
-    "level": "hot",
-    "tag": "SCA3 試驗讀出 · 追蹤名單外新路線",
-    "body": "<b>SCA3 出現一個主要指標達標的口服小分子隨機對照試驗</b>：中南大學湘雅醫院團隊於 <b>Movement Disorders（2026/09/15 線上）</b>發表 <b>DL-3-n-丁苯酞（NBP）</b>治療 SCA3 的 12 個月隨機安慰劑對照試驗。mITT <b>116 人</b>，<b>SARA 12 個月變化組間差 −0.86（95% CI −1.56 至 −0.16；P=0.02）</b>、<b>SCAFI 差 0.16（P=0.03）</b>，雙主要指標皆有利於 NBP；兩組<b>無嚴重不良事件</b>，藥物相關不良事件 NBP 組數字上較多（21.4% vs 10.0%，P=0.09）。",
-    "note": "→ 與本公司<b>同一核心適應症（SCA3）、同一主要量表（SARA）</b>。⚠️ <b>效果量小</b>（一年差距未達 1 SARA 分）、<b>單一國家研究者發起、分析族群為 mITT</b>；摘要未載盲法、站點數與試驗登錄號，ClinicalTrials.gov 以藥名查無登錄，<b>本站不代為補寫</b>。作者自稱為「初步」證據，距任何監管申請仍遠。",
-    "links": [
-      {
-        "label": "論文 ↗ PubMed 42742595",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/09",
-      "tag": "SCA3 trial readout · new route outside the tracked list",
-      "body": "<b>A randomised controlled trial of an oral small molecule has met its primary endpoints in SCA3</b>: a Xiangya Hospital (Central South University) group published in <b>Movement Disorders (online 2026/09/15)</b> a 12-month randomised placebo-controlled trial of <b>DL-3-n-butylphthalide (NBP)</b> in SCA3. In an mITT population of <b>116</b>, the <b>between-group difference in 12-month SARA change was −0.86 (95% CI −1.56 to −0.16; P=0.02)</b> and <b>in SCAFI 0.16 (P=0.03)</b>, both primary endpoints favouring NBP; there were <b>no serious adverse events in either group</b>, and drug-related adverse events were numerically more frequent on NBP (21.4% vs 10.0%, P=0.09).",
-      "note": "→ <b>Same core indication (SCA3) and same primary scale (SARA)</b> as Steminent. ⚠️ <b>The effect size is small</b> (under one SARA point over a year), and the study is <b>single-country, investigator-initiated and analysed in an mITT population</b>; the abstract does not state the blinding, number of sites or registration number, a drug-name search of ClinicalTrials.gov finds no registration, and <b>nothing is filled in here</b>. The authors call the evidence 'preliminary', and any regulatory filing remains distant.",
-      "links": [
-        {
-          "label": "Paper ↗ PubMed 42742595",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42742595/"
         }
       ]
     }
