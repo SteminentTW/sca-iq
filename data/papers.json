@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43070066",
+    "date": "2026-11-23",
+    "dateDisplay": "2026/11",
+    "title": "White Matter Geometric Disorganization Links Subcortical Degeneration to Motor Impairment in Spinocerebellar Ataxia Type 3.",
+    "journal": "CNS Neurosci Ther · Ou P、Zhu H、Xu M 等（中國・中日友好醫院／北京協和醫學院）",
+    "tag": "SCA3 · 影像生物標記",
+    "note": "→ 多中心橫斷面影像研究（105名基因確診SCA3病人、133名健康對照）：以方向場分析（DFA）量化白質幾何結構（splay/bend/twist），發現SCA3病人小腦腳、投射纖維、聯合纖維等區域splay與bend增加、twist減少，異常範圍遠較傳統擴散指標廣泛；CAG重複長度愈長、運動相關路徑幾何異常愈顯著；外囊與小腦上腳之幾何異常部分中介基底核萎縮與SARA運動功能障礙之關聯。屬基礎影像生物標記研究，非藥物或臨床試驗資料，與本公司療法無直接關聯，列入作為SCA3疾病機轉／潛在影像終點背景參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070066/",
+    "urlLabel": "論文 ↗ PubMed 43070066",
+    "en": {
+      "tag": "SCA3 · Imaging biomarker",
+      "journal": "CNS Neurosci Ther · Ou P, Zhu H, Xu M, et al. (China · China-Japan Friendship Hospital / Peking Union Medical College)",
+      "note": "→ A multicentre cross-sectional imaging study (105 genetically confirmed SCA3 patients, 133 healthy controls) used director field analysis (DFA) to quantify white-matter geometric organisation (splay, bend, twist), finding increased splay/bend and reduced twist across the cerebellar peduncles, projection and commissural fibers — abnormalities far more extensive than those seen with conventional diffusion metrics; longer CAG repeats tracked with greater geometric disruption in motor pathways, and geometric abnormalities in the external capsule and superior cerebellar peduncle partially mediated the link between basal ganglia atrophy and SARA-measured motor impairment. Basic imaging-biomarker research, not drug or clinical-trial data, with no direct link to our own therapy — included as background on SCA3 disease mechanism and potential imaging endpoints.",
+      "urlLabel": "Paper ↗ PubMed 43070066"
+    }
+  },
+  {
     "id": "pubmed:43058780",
     "date": "2026-08-25",
     "dateDisplay": "2026/08/25",
