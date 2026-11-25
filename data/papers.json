@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43078589",
+    "date": "2026-11-24",
+    "dateDisplay": "2026/11/24",
+    "title": "THAP11 CAG Repeat Length as a Genetic Modifier in Spinocerebellar Ataxia Type 3.",
+    "journal": "Mov Disord · Wu Q、Wan N、Chen Z 等（中國・中南大學湘雅醫院）",
+    "tag": "SCA3 · 遺傳修飾因子",
+    "note": "→大型佇列（1265名基因確診SCA3帶因者，1038人已發病、227人無症狀）：THAP11 CAG重複長度本身與發病年齡無關，但與擴增ATXN3 CAG重複長度存在交互作用，可修飾基線共濟失調嚴重度（p=0.011）與疾病進展速度（p=0.026）——THAP11>29重複在較短ATXN3擴增長度病人中對應較輕嚴重度與較慢進展；細胞實驗顯示THAP11-38Q可選擇性降低短polyQ片段之ataxin-3、與eIF2α磷酸化增加相關，ISRIB可消除此效應。屬基礎遺傳修飾因子研究，非藥物或臨床試驗資料，與本公司療法無直接關聯，列入作為SCA3疾病機轉背景參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078589/",
+    "urlLabel": "論文 ↗ PubMed 43078589",
+    "en": {
+      "tag": "SCA3 · Genetic modifier",
+      "journal": "Mov Disord · Wu Q, Wan N, Chen Z, et al. (China · Xiangya Hospital, Central South University)",
+      "note": "→ In a large cohort (1265 genetically confirmed SCA3 carriers, 1038 affected and 227 presymptomatic), THAP11 CAG repeat length alone was not associated with age at onset, but interacted with expanded ATXN3 CAG repeat length to modify baseline ataxia severity (p=0.011) and disease progression (p=0.026) — THAP11 >29 repeats was associated with lower severity and slower progression at shorter ATXN3 expansion lengths; cellular assays showed THAP11-38Q selectively reduced ataxin-3 with shorter polyQ tracts, associated with increased eIF2α phosphorylation, an effect abolished by ISRIB. Basic genetic-modifier research, not drug or clinical-trial data, with no direct link to our own therapy — included as background on SCA3 disease mechanism.",
+      "urlLabel": "Paper ↗ PubMed 43078589"
+    }
+  },
+  {
     "id": "pubmed:43070066",
     "date": "2026-11-23",
     "dateDisplay": "2026/11",
