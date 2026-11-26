@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:43086542",
+    "date": "2026-11-26",
+    "dateDisplay": "2026/11/26",
+    "title": "Developing the Japanese Version of the Friedreich Ataxia Rating Scale-Activities of Daily Living (FARS-ADL) for Spinocerebellar Degeneration: Translation, Known-Groups Validity, and Internal Consistency.",
+    "journal": "Cerebellum · Oda S、Mizusawa H、Oba MS、Takahashi Y（日本・國立精神・神經醫療研究中心 NCNP）",
+    "tag": "量表驗證 · 日本",
+    "note": "→前瞻性單中心世代（44名脊髓小腦退化症SCD病人，認知功能保留）：將FARS-ADL（病人日常生活活動自評量表）翻譯為日文版，與神經科醫師施測之SARA（ρ=0.70）及FARS功能分期（ρ=0.89）均呈中度至高度收斂效度，四個嚴重度分組間分數呈漸進遞增（7.2分→29.4分，p<0.0001），內部一致性佳（Cronbach's α=0.90）。屬量表心理計量驗證研究，非藥物或臨床試驗資料，與本公司療法無直接關聯；因本公司於日本PMDA申請審查中、且SARA為其採用之共同療效指標，列入作為日本量表驗證背景參考。",
+    "highlight": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086542/",
+    "urlLabel": "論文 ↗ PubMed 43086542",
+    "en": {
+      "tag": "Scale validation · Japan",
+      "journal": "Cerebellum · Oda S, Mizusawa H, Oba MS, Takahashi Y (Japan · National Center of Neurology and Psychiatry, NCNP)",
+      "note": "→ A prospective single-centre cohort of 44 patients with spinocerebellar degeneration (SCD) and preserved cognition translated the FARS-ADL (a patient-reported activities-of-daily-living scale) into Japanese, finding moderate-to-strong convergent validity against neurologist-administered SARA (ρ=0.70) and FARS functional staging (ρ=0.89), a progressive score increase across four severity groups (7.2 to 29.4, p<0.0001), and excellent internal consistency (Cronbach's α=0.90). A psychometric scale-validation study, not drug or clinical-trial data, with no direct link to our own therapy; included as background on Japanese outcome-measure validation given our own PMDA review is in progress and SARA is a shared efficacy measure.",
+      "urlLabel": "Paper ↗ PubMed 43086542"
+    }
+  },
+  {
     "id": "pubmed:43078589",
     "date": "2026-11-24",
     "dateDisplay": "2026/11/24",
