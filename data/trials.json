@@ -897,5 +897,22 @@
       "status": "Not yet recruiting (registration first posted 2026/10/13). Randomised, double-blind, placebo-controlled, with 3:1 sequential randomisation across low/mid/high dose groups (200/300/400 mg/day, each with an initial loading-dose period), targeting <b>48 participants</b> aged <b>16–40</b> with genetically confirmed (homozygous GAA repeat expansion) Friedreich's ataxia; eligibility also requires an mFARS score of 20–80 and hs-cTnI above the laboratory-defined 99th percentile. <b>The primary endpoint is percent change from baseline in blood frataxin-M protein at week 12 versus placebo</b>, with hs-cTnI and mFARS among the key secondary endpoints. Participants completing the 12-week trial may roll into a 52-week open-label extension. Estimated start 2026/11, primary completion 2027/07. Only <b>1 site</b> is registered so far (Eatontown, NJ, USA — CLINiLABS). ⚠️ The company announced FDA IND clearance (a new capsule formulation) in 2026/08; the frataxin-elevation evidence cited so far comes only from company-reported PBMC data in a separate obesity trial and preclinical cell models, with <b>no peer-reviewed human data</b> yet, leaving druggability and efficacy unknown. <b>On 2026/11/03 the company announced FDA Fast Track designation for this trial</b>, with US enrollment stated to begin in Q4 2026.",
       "sponsor": "Graviton Bioscience"
     }
+  },
+  {
+    "nct": "NCT01360164",
+    "drug": "人類臍帶間質幹細胞（hUC-MSC）",
+    "mechanism": "異體臍帶間質幹細胞輸注",
+    "phase": "Ph1/2",
+    "status": "主動掃描新發現（此前未在本平台登錄）。<b>已撤回（WITHDRAWN，原因：資金問題）</b>，實收人數為 0。試驗登錄起始於 2010/01、2011/05 首次登錄上線，登錄狀態於 <b>2026/11/27</b> 更新確認撤回，為歷史性紀錄而非現行計畫。適應症登錄為「Hereditary Ataxia」，中國深圳單一站點。",
+    "sponsor": "Shenzhen Beike Bio-Technology Co., Ltd.（中國深圳）",
+    "us": false,
+    "url": "https://clinicaltrials.gov/study/NCT01360164",
+    "en": {
+      "drug": "Human umbilical cord mesenchymal stem cells (hUC-MSC)",
+      "mechanism": "Allogeneic umbilical-cord-derived mesenchymal stem cell infusion",
+      "phase": "Ph1/2",
+      "status": "Newly surfaced by active scanning (not previously logged on this platform). <b>Withdrawn (reason: funding issues)</b>, with 0 participants actually enrolled. Registration dates back to a 2010/01 start and was first posted 2011/05; the record was updated to confirm withdrawal on <b>2026/11/27</b>, so this is a historical entry rather than an active program. Registered indication is \"Hereditary Ataxia\"; single site in Shenzhen, China.",
+      "sponsor": "Shenzhen Beike Bio-Technology Co., Ltd. (Shenzhen, China)"
+    }
   }
 ]
