@@ -1,22 +1,5 @@
 [
   {
-    "nct": "NCT06862596",
-    "drug": "Mexiletine hydrochloride（美西律）",
-    "mechanism": "口服<b>鈉離子通道阻斷劑</b>（原為抗心律不整用藥 Mexitil®，學名藥重新定位）<br>作用機轉未針對雄性素受體（AR）致病路徑，屬<b>症狀性、非疾病修飾</b>假說",
-    "phase": "Ph2/3",
-    "status": "<b>收案結束、追蹤中</b>（登錄於 <b>2026/11/17</b> 更新，整體狀態由收案中轉為 ACTIVE_NOT_RECRUITING）。<b>學術主導（investigator-initiated）</b>，隨機、雙盲、安慰劑對照，實際起始 2025/02/28，登錄預計收案 <b>68 人</b>、18–79 歲、基因確診（AR 基因 CAG ≥38）之<b>脊髓與延髓性肌肉萎縮症（SBMA）</b>男性病人，站點全在<b>日本</b>（東京、千葉、札幌、下野、吹田）。主要指標為<b>第 4 週 ALSFRS-R 評分</b>（0–48 分，數值越高功能越好）。⚠️ 本藥並非 AR 路徑標的藥物，為既有學名藥之適應症重新定位；<b>目前無任何本試驗之療效或安全性結果公開讀出</b>。<b>收錄理由</b>：SBMA 屬本公司 polyQ 鄰近圈層追蹤範圍。",
-    "sponsor": "Masahisa Katsuno（名古屋大學醫院，學術主導）",
-    "us": false,
-    "url": "https://clinicaltrials.gov/study/NCT06862596",
-    "en": {
-      "drug": "Mexiletine hydrochloride",
-      "mechanism": "Oral <b>sodium-channel blocker</b> (originally the antiarrhythmic Mexitil®, repositioned as a generic)<br>its mechanism does not target the androgen-receptor (AR) disease pathway and represents a <b>symptomatic, non-disease-modifying</b> hypothesis",
-      "phase": "Ph2/3",
-      "status": "<b>Enrolment closed, in follow-up</b> (registry updated <b>2026/11/17</b>; overall status changed from recruiting to ACTIVE_NOT_RECRUITING). <b>Investigator-initiated</b>, randomised, double-blind, placebo-controlled; actual start 2025/02/28, with a registered target of <b>68</b> male patients aged 18–79 with genetically confirmed (AR gene CAG ≥38) <b>spinal and bulbar muscular atrophy (SBMA)</b>, at sites entirely in <b>Japan</b> (Tokyo, Chiba, Sapporo, Shimotsuke, Suita). The primary endpoint is the <b>ALSFRS-R score at week 4</b> (0–48, higher scores indicating better function). ⚠️ This drug does not target the AR pathway and is a repositioned generic; <b>no efficacy or safety results from this trial have been read out publicly</b>. <b>Rationale for inclusion</b>: SBMA falls within the polyQ-adjacent ring this platform tracks.",
-      "sponsor": "Masahisa Katsuno (Nagoya University Hospital, investigator-initiated)"
-    }
-  },
-  {
     "nct": "NCT07934303",
     "drug": "NBIB-0000223（Voyager TRACER AAV 基因療法）",
     "mechanism": "AAV 基因療法（Voyager TRACER 改造型囊膜，設計強化血腦屏障穿透與中樞遞送）<br>靜脈輸注遞送 frataxin（FXN）基因",
@@ -687,18 +670,18 @@
   {
     "nct": "NCT06862596",
     "drug": "Mexiletine hydrochloride（美西律）",
-    "mechanism": "小分子鈉離子通道阻斷劑<br>老藥新用（症狀改善／運動功能）",
+    "mechanism": "口服<b>鈉離子通道阻斷劑</b>（原為抗心律不整用藥 Mexitil®，學名藥重新定位）<br>作用機轉未針對雄性素受體（AR）致病路徑，屬<b>症狀性、非疾病修飾</b>假說",
     "phase": "Ph2/3",
-    "status": "主動掃描補收（<b>此前未在本平台登錄</b>）。<b>登錄狀態為收案中</b>——Med-SBMA 試驗，多中心隨機雙盲安慰劑對照，每次 300 mg 每日三次口服共 12 週、n=68，日本五家站點（東京、千葉、札幌、下野、吹田）；2025/02/28 起始、主要完成日估 2027/12/31。<b>主要指標＝第 4 週 ALSFRS-R 總分自基線變化</b>。主持人為<b>名古屋大學勝野雅央</b>（SBMA 領域的日本核心研究者，亦為 08/10 收錄之小腦運動學習指標多中心驗證論文共同作者）。⚠️ <b>登錄自 2025-04-16 起未再更新</b>，「收案中」為主辦方自行維護之陳舊登錄，非查證過的現況。⚠️ 適應症為<b>甘迺迪症／SBMA（polyQ 鄰近圈層）</b>、非 SCA，且屬<b>症狀改善型老藥再定位</b>，不改變病程",
-    "sponsor": "勝野雅央／名古屋大學（日本）",
+    "status": "<b>收案結束、追蹤中</b>（ACTIVE_NOT_RECRUITING；登錄於 <b>2026/11/17</b> 更新，整體狀態由收案中轉為收案結束）。Med-SBMA 試驗，<b>學術主導（investigator-initiated）</b>，多中心、隨機、雙盲、安慰劑對照；mexiletine <b>每日 300 mg、分三次餐後口服，共 12 週</b>。登錄預計收案 <b>68 人</b>，納入 18 歲以上未滿 80 歲、基因確診（AR 基因 CAG ≥38）之<b>脊髓與延髓性肌肉萎縮症（SBMA，甘迺迪症）</b>男性病人，站點全在<b>日本</b>（東京、千葉、札幌、下野、吹田）。2025/02/28 實際起始，主要完成日估 2027/12/31。<b>主要指標為第 4 週 ALSFRS-R 評分</b>（0–48 分，數值越高功能越好）。主持人<b>勝野雅央</b>亦為本平台 08/12 收錄之小腦運動學習指標多中心驗證論文共同作者。⚠️ 適應症為 polyQ 鄰近圈層、非 SCA；本藥非 AR 路徑標的藥物，為既有學名藥之適應症重新定位。<b>目前無任何本試驗之療效或安全性結果公開讀出</b>。",
+    "sponsor": "勝野雅央（Masahisa Katsuno）／名古屋大學（日本，學術主導）",
     "us": false,
     "url": "https://clinicaltrials.gov/study/NCT06862596",
     "en": {
       "drug": "Mexiletine hydrochloride",
-      "mechanism": "Small-molecule sodium-channel blocker<br>drug repurposing (symptomatic / motor function)",
+      "mechanism": "Oral <b>sodium-channel blocker</b> (originally the antiarrhythmic Mexitil®, repositioned as a generic)<br>its mechanism does not target the androgen-receptor (AR) disease pathway and represents a <b>symptomatic, non-disease-modifying</b> hypothesis",
       "phase": "Ph2/3",
-      "status": "Added by the proactive sweep (<b>not previously registered on this platform</b>). <b>The registry reads RECRUITING</b> — the Med-SBMA trial, multicentre, randomised, double-blind and placebo-controlled, dosed at 300 mg orally three times daily for 12 weeks, n=68 across five Japanese sites (Tokyo, Chiba, Sapporo, Shimotsuke and Suita); started 2025/02/28 with primary completion estimated 2027/12/31. <b>Primary endpoint = change from baseline in total ALSFRS-R at week 4</b>. The investigator is <b>Masahisa Katsuno of Nagoya University</b>, a central Japanese figure in SBMA and a co-author of the multicentre cerebellar motor-learning endpoint paper recorded on 10 August. ⚠️ <b>No registry update since 2025-04-16</b>, so \"recruiting\" is a stale sponsor-maintained entry rather than a verified current state. ⚠️ The indication is <b>Kennedy's disease / SBMA, the adjacent polyQ ring</b> rather than SCA, and this is a <b>symptomatic repurposing</b> that does not target disease course",
-      "sponsor": "Masahisa Katsuno / Nagoya University (Japan)"
+      "status": "<b>Enrolment closed, in follow-up</b> (ACTIVE_NOT_RECRUITING; registry updated <b>2026/11/17</b>, overall status changed from recruiting). The Med-SBMA trial: <b>investigator-initiated</b>, multicentre, randomised, double-blind and placebo-controlled; mexiletine <b>300 mg per day, taken orally in three divided doses after meals, for 12 weeks</b>. Registered target of <b>68</b> male patients, at least 18 and under 80 years old, with genetically confirmed (AR gene CAG ≥38) <b>spinal and bulbar muscular atrophy (SBMA, Kennedy's disease)</b>, at sites entirely in <b>Japan</b> (Tokyo, Chiba, Sapporo, Shimotsuke and Suita). Actual start 2025/02/28; primary completion estimated 2027/12/31. <b>The primary endpoint is the ALSFRS-R score at week 4</b> (0–48, higher scores indicating better function). The investigator, <b>Masahisa Katsuno</b>, is also a co-author of the multicentre cerebellar motor-learning endpoint validation paper recorded on this platform on 12 August. ⚠️ The indication is the adjacent polyQ ring rather than SCA; this is a repositioned generic that does not target the AR pathway. <b>No efficacy or safety results from this trial have been read out publicly</b>.",
+      "sponsor": "Masahisa Katsuno / Nagoya University (Japan, investigator-initiated)"
     }
   },
   {
